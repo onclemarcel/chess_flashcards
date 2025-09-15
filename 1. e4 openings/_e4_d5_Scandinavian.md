@@ -21,7 +21,7 @@ Black move directly brings White to take a decision: take or leave the d5 pawn:\
 >         *Lichess: Very Rare (0%) -- Stockfish -0.8*
 >
 >     - **2. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
->         *Lichess: Very Rare (0%) -- Stockfish -0.8*
+>         *Lichess: Very Rare (0%) -- Stockfish -0.6*
 >       
 
 
