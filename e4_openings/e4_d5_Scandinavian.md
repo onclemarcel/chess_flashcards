@@ -22,7 +22,8 @@ Black move directly brings White to take a decision: take or leave the d5 pawn:\
 >         *Lichess: Very Rare (0%)*<br>
 >         *Stockfish -0.8*
 >
->     - **2. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck<br>
+>     - **2. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
+>       
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
 >         *Lichess: Very Rare (0%)*<br>
