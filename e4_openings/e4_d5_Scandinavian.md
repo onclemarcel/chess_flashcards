@@ -5,10 +5,11 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <br>
         ![](../e4_openings/pics/e4_d5_stats.png)
 <br>
+- [**2. e5**](#_e5_)  (Stockfish 0.0) : Black already equals by attacking e5 pawn and d4 square
 - [**2. d3**](#_d3_)  (Stockfish -0.1) : no compensation for White following the Queens exchange
 - [**2. Nc3**](#_Nc3_) (Stockfish -0.6) : less space for White than Black in the opening
-- [**2. Nf3**](#_Nf3_) (Stockfish xx.x) : [Tennison Gambit](../traps/gambits/Tennison.md)
-- [**2. e5**](#_e5_)  (Stockfish 0.0) : Black already equals by attacking e5 pawn and d4 square
+- [**2. Nf3**](#_Nf3_) (Stockfish -0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
+- [**2. d4**](#_d4_)  (Stockfish -0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
 
 <br><br>
 
@@ -67,6 +68,21 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >     [*Back to TOP*](#_TOP_)
 >
 
+<a id="_d4_"></a>
+> [!NOTE]
+> - **2. d4** transposes into the "[Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)" (see [opening traps](../traps/opening_traps.md)), with the idea of bla bla bla
+> - *This trap backfires when avoided by Black, with a score of -0.5 estimated by Stockfish*
+>
+>   ![](../traps/gambits/pics/Gambit_Blackmar-Diemer.png)
+>   
+> - Black may: 
+>     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - Stockfish +0.3) or
+>     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    - Stockfish +0.3) or
+>     -  refuse with ... Nc6 ([Nimzovitch Defense](./e4_Nc6_Nimzovitch.md)  - Stockfish +0.4) or
+>     -  accept with ... dxe4 (Stockfish -0.5) : this is the most played move at 74% in masters games
+>
+>     [*Back to TOP*](#_TOP_)
+>
 
 
 
