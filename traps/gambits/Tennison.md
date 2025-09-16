@@ -16,8 +16,22 @@ The main idea is to capture the Black Queen through seemingly sensible moves\
 <br><br>
 - After **... dxe4**, White escape to **3. Ng5**.
 - The objective is to prepare an attack on f7, while preparing for pushing the light squares bishop on the d3-g6 diagonal along with an X-Ray attack of Qd1 on Qd8
-- Here White is ***hoping*** for Black normal moves - this is where the trap may backfire:
-
+- Here White is ***hoping*** for Black normal moves - this is where the trap may backfire - here is an example of the expected trap:
+  - **4. d3 exd3 5. Bxd3 h6??** - Black falls into the trap here, losing its Queen
+  <br><div align="center">
+     ![](./pics/Gambit_Tennison_Trap.png)<br>
+     The Tennison Gambit Trap <br>
+     *Lichess: Very Rare*<br>
+     *Stockfish +2.7*<br>
+  <br></div>
   
-    -  
+-  Black has many ways to avoid the trap, among which **3. ... e5**, threatening Ng5. Here White should not take e4 too quickly, since **4. ... f5** will chase the knight once again
+  - Following ... e5, White may protect Ng5 by **4. h4 Be7**, and then **5. Nxe4**
+  <br><div align="center">
+     ![](./pics/Gambit_Tennison_Escape_e5.png)<br>
+     The Tennison Gambit Escape by 3. ... e5 <br>
+     *Lichess: 42% after 3. Ng5*<br>
+     *Stockfish -0.7*<br>
+  <br></div>
+
 
