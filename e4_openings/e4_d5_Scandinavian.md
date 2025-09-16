@@ -7,7 +7,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <br>
 - [**2. d3**](#_d3_)  (Stockfish -0.1) : no compensation for White following the Queens exchange
 - [**2. Nc3**](#_Nc3_) (Stockfish -0.6) : less space for White than Black in the opening
-- [**2. Nf3**](#_Nf3_) (Stockfish xx.x) : Tennison Gambit
+- [**2. Nf3**](#_Nf3_) (Stockfish xx.x) : [Tennison Gambit](../traps/gambits/Tennison.md)
 
 <br><br>
 
