@@ -7,10 +7,10 @@ Black move directly brings White to take a decision: take or leave the d5 pawn:\
 > [!NOTE]
 > - If **1. d3**, then **... dxe4 2. dxe4** leaves the d-column open, Black may now exchange the Queens with White King exposed on d1
 >
->  ![](../e4_openings/pics/e4_d5_2_d3.png)<br>
->  Scandinavian 1. e4 d5 2. d3 <br>
->  *Lichess: Very Rare (0%)*<br>
->  *Stockfish -0.1*
+>    ![](../e4_openings/pics/e4_d5_2_d3.png)<br>
+>     Scandinavian 1. e4 d5 2. d3 <br>
+>     *Lichess: Very Rare (0%)*<br>
+>     *Stockfish -0.1*
 >
 
 > [!NOTE]
