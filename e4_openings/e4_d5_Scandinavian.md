@@ -8,8 +8,19 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 - [**2. d3**](#_d3_)  (Stockfish -0.1) : no compensation for White following the Queens exchange
 - [**2. Nc3**](#_Nc3_) (Stockfish -0.6) : less space for White than Black in the opening
 - [**2. Nf3**](#_Nf3_) (Stockfish xx.x) : [Tennison Gambit](../traps/gambits/Tennison.md)
+- [**2. e5**](#_e5_)  (Stockfish 0.0) : Black already equals by attacking e5 pawn and d4 square
 
 <br><br>
+
+<a id="_e5_"></a>
+> [!NOTE]
+> - If **2. e5**, then **... c5** to prevent 3. d4 to defend e5, then Black can pin Nf3 that may come to defend e5 or play Nc6 to attack e5.
+>
+>    ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
+>     ... 2. e5 <br>
+>     *Lichess: Very Rare*<br>
+>     *Stockfish -0.0*<br>
+>     [*Back to TOP*](#_TOP_)
 
 <a id="_d3_"></a>
 > [!NOTE]
