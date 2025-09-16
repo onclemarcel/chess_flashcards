@@ -54,7 +54,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 
 <a id="_Nf3_"></a>
 > [!NOTE]
-> - **2. Nf3** transposes into the "[Tennison Gambit](../traps/gambits/Tennison.md)" (see [openings traps](../traps/opening_traps.md)), with the idea of capturing the Black Queen through seemingly sensible moves
+> - **2. Nf3** transposes into the "[Tennison Gambit](../traps/gambits/Tennison.md)" (see [opening traps](../traps/opening_traps.md)), with the idea of capturing the Black Queen through seemingly sensible moves
 > - *This trap backfires when avoided by Black, with a score of -0.7 estimated by Stockfish*
 >
 >   ![](../traps/gambits/pics/Gambit_Tennison.png)
