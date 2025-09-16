@@ -49,8 +49,8 @@ Black move directly brings White to take a decision: take or leave the d5 pawn:<
 >        ![](../traps/gambits/pics/Gambit_Tennison.png)
 >   
 > - Black may: 
->     -  refuse with ... c6 (Caro-Kann Defense - Stockfish +0.3) or
->     -  refuse with ... e6 (French Defense    - Stockfish +0.1) or
+>     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - Stockfish +0.3) or
+>     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    - Stockfish +0.1) or
 >     -  accept with ... dxe4 (Stockfish -0.7) : this is the most played move at 52% in masters games
 >
 >     [*Back to TOP*](#_TOP_)
