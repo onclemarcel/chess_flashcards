@@ -3,5 +3,5 @@ A quick and dirty set of cheat sheets for chess openings based on various books 
 \
 Current openings covered in this repository:
 1. e4
-    - ... d5 : [The Scandinavian Defense](1.%20e4%20openings/_e4_d5_Scandinavian.md)
+    - ... d5 : [The Scandinavian Defense](../e4_openings/e4_d5_Scandinavian.md)
 
