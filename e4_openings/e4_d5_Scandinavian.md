@@ -46,7 +46,7 @@ Black move directly brings White to take a decision: take or leave the d5 pawn:<
 > - **2. Nf3** transposes into the "[Tennison Gambit](../traps/gambits/Tennison.md)" (see [openings traps](../traps/opening_traps.md)), with the idea of capturing the Black Queen through seemingly sensible moves
 > - *This trap backfires when avoided by Black, with a score of -0.7 estimated by Stockfish*
 >
->        ![](../traps/gambits/pics/Gambit_Tennison.png)
+>   ![](../traps/gambits/pics/Gambit_Tennison.png)
 >   
 > - Black may: 
 >     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - Stockfish +0.3) or
