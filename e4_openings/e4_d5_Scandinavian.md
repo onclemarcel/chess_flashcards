@@ -32,6 +32,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >     ... 2. d3 <br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>     <br>
 >     [*Back to TOP*](#_TOP_)
 
 <a id="_Nc3_"></a>
@@ -62,8 +63,8 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >   ![](../traps/gambits/pics/Gambit_Tennison.png)
 >   
 > - Black may: 
->     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - +0.3) or
->     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    - +0.1) or
+>     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) +0.3) or
+>     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    +0.1) or
 >     -  accept with ... dxe4 (-0.7) : this is the most played move at 52% in masters games
 >
 >     [*Back to TOP*](#_TOP_)
