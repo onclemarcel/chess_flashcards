@@ -19,7 +19,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
     -  refuse with **... e6** ([French Defense](../../e4_openings/e4_e6_French.md) +0.3) or
     -  refuse with **... Nc6** ([Nimzovitch Defense](../../e4_openings/e4_Nc6_Nimzovitch.md) +0.4) or
     -  refuse with [**... Nf6**](#_Nf6_) (+0.6) : which allows White to grab more space with **2. e5** (+0.6) or
-    -  **accept** with **... dxe4** (-0.7) : this is the most played move at ***74%*** in masters games
+    -  **accept** with [**... dxe4**](#_accepted_) (-0.7) : this is the most played move at ***74%*** in masters games
 <br><br>
 <a id="_Nf6_"></a>
 > [!TIP]
@@ -41,3 +41,12 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 > [*Back to TOP*](#_TOP_)
 >
 
+<a id="_accepted_"></a>
+As soon as the gambit is accepted, White should play **3. Nc3** (Diemer) instead of a direct **3. f3** (Blackmar) that is easily met with **... e5**, opening the critical daigonal h4-d8 for the Black Queen.
+<br>
+*Note that **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
+<br>
+
+<br><div align="center">
+        ![](./pics/Blackmar-Diemer_dxe4_Nc3_stats.png)
+<br></div>
