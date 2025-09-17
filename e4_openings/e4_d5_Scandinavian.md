@@ -70,9 +70,18 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 
 <a id="_d4_"></a>
 > [!NOTE]
-> - **2. d4** transposes into the "[Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)", with the idea for White to regain the initiative and opening column e, and later, column f.
+> - **2. d4** transposes into the "[Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)", with the idea for White to regain the initiative and open column e, and later, column f.
+> - This opening is not correct with respect to openings principles, but leads to a dynamic game with many tactical ideas for both players
 >
 >   ![](../traps/gambits/pics/Gambit_Blackmar-Diemer.png)
+>         Blackmar-Diemer Gambit <br>
+>         *Lichess: Very Rare*<br>
+>         *Stockfish -0.5*<br>
+>
+>   ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
+>         Typical Blackmar-Diemer White active setup <br>
+>         *Lichess: Very Rare*<br>
+>         *Stockfish +0.0*<br>
 >   
 > - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (Stockfish -0.5)
 > - That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games
