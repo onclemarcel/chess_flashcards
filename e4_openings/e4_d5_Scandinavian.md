@@ -1,6 +1,6 @@
 <a id="_TOP_"></a>
 # 1. e4 d5 : The Scandinavian Defense (B01) #
-This is a test
+
 Black move directly brings White on a quick decision: take or leave the d5 pawn:<br>
 <br>
         ![](../e4_openings/pics/e4_d5_stats.png)
@@ -19,8 +19,8 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 > <br><div align="center">
 >     ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
 >     ... 2. e5 <br>
->     ![](../pics/icon_lichess.png)*Very Rare* - 
->     ![](../pics/icon_stockfish.png)*0.0*<br>
+>     <table><tr><td valign="center">![](../pics/icon_lichess.png) *Very Rare* >*</td> 
+>     <td valign="center">![](../pics/icon_stockfish.png) *0.0* </td></tr></table>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
