@@ -47,7 +47,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >  <br></div>
 >         [*Back to TOP*](#_TOP_)
 >
->      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
+>       - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
 > <br><div align="center">
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
