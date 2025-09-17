@@ -21,8 +21,8 @@ The main idea is to capture the Black Queen through seemingly sensible moves\
   <br><div align="center">
      ![](./pics/Gambit_Tennison_Trap.png)<br>
      The Tennison Gambit Trap <br>
-     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
-     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>+2.7</td></tr></table>
+     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+2.7</td></tr></table>
   <br></div>
   
 -  Black has many ways to avoid the trap, among which **3. ... e5**, threatening Ng5. Here White should not take e4 too quickly, since **4. ... f5** will chase the knight once again
@@ -30,8 +30,8 @@ The main idea is to capture the Black Queen through seemingly sensible moves\
   <br><div align="center">
      ![](./pics/Gambit_Tennison_Escape_e5.png)<br>
      The Tennison Gambit Escape by 3. ... e5 <br>
-     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>42%</td> 
-     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
+     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>42%</td> 
+     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
   <br></div>
 
 
