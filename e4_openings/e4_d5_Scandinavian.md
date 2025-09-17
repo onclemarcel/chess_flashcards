@@ -1,6 +1,6 @@
 <a id="_TOP_"></a>
 # 1. e4 d5 : The Scandinavian Defense (B01) #
-
+This is a test
 Black move directly brings White on a quick decision: take or leave the d5 pawn:<br>
 <br>
         ![](../e4_openings/pics/e4_d5_stats.png)
