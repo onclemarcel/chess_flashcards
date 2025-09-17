@@ -36,8 +36,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_Nf6_e5_Nfd7_e6.png)<br>
 >     ... 2. ... Nf6 3. e5 Nfd7 4. e6 fxe6 5. Bd3 Nc6??<br>
->     Mate in 3 *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)* 
->     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>#3</td></tr></table>
+>     ***Mate in 3*** *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)* 
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
