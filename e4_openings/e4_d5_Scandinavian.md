@@ -38,7 +38,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <a id="_Nc3_"></a>
 > [!NOTE]
 > - If **2. Nc3**, then **... d4** gives more space to Black while attacking the knight.
->      - **3. Nd5** is met by **... e5**, which blocks the escape squares of the knight on d5, then c6 picks up the White Knight
+> - **3. Nd5** is met by **... e5**, which blocks the escape squares of the knight on d5, then c6 picks up the White Knight
 > <br><div align="center">
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_Nd5.png)<br>
 >         ... 2. Nc3 d4 3. Nd5 <br>
@@ -47,8 +47,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >  <br></div>
 >         [*Back to TOP*](#_TOP_)
 >
->      - **3. Nd5** is met by **... e5**, which blocks the escape squares of the knight on d5, then c6 picks up the White Knight
->      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
+> - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
 > <br><div align="center">
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
