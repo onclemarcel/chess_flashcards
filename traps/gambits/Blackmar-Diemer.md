@@ -11,7 +11,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
         ![](./pics/Gambit_Blackmar-Diemer_stats.png)
 <br></div>
 
-- This opening is not correct with respect to openings principles, but leads to a dynamic game with many tactical ideas for both players
+- This opening is not correct with respect to openings principles, but leads to a ***dynamic game with many tactical ideas*** for both players
 - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5). 
 - That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games.
 - Black may: 
