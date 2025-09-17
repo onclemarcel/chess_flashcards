@@ -19,7 +19,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 > <br><div align="center">
 >     ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
 >     ... 2. e5 <br>
->     ![](../pics/icon_lichess.png)*Very Rare*<br>
+>     ![](../pics/icon_lichess.png)*Very Rare* - 
 >     ![](../pics/icon_stockfish.png)*0.0*<br>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
