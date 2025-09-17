@@ -16,11 +16,12 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <a id="_e5_"></a>
 > [!NOTE]
 > - If **2. e5**, then **... c5** to prevent 3. d4 to defend e5, then Black can pin Nf3 that may come to defend e5 or play Nc6 to attack e5.
->
->    ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
+> <br><div align="center">
+>     ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
 >     ... 2. e5 <br>
->     *Lichess: Very Rare*<br>
->     *Stockfish -0.0*<br>
+>     ![](../pics/icon_lichess.png)*Very Rare*<br>
+>     ![](../pics/icon_stockfish.png)*0.0*<br>
+>  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
 <a id="_d3_"></a>
