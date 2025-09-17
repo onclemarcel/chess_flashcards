@@ -27,7 +27,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <a id="_d3_"></a>
 > [!NOTE]
 > - If **2. d3**, then **... dxe4 3. dxe4** leaves the d-column open, Black may now exchange the Queens with White King exposed on d1
->
+> <br><div align="center">
 >    ![](../e4_openings/pics/e4_d5_2_d3.png)<br>
 >     ... 2. d3 <br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
@@ -39,7 +39,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 > [!NOTE]
 > - If **2. Nc3**, then **... d4** gives more space to Black while attacking the knight.
 >      - **3. Nd5** is met by **... e5**, which blocks the escape squares of the knight on d5, then c6 picks up the White Knight
->
+> <br><div align="center">
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_Nd5.png)<br>
 >         ... 2. Nc3 d4 3. Nd5 <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
@@ -48,7 +48,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >         [*Back to TOP*](#_TOP_)
 >
 >      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
->       
+> <br><div align="center">
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
@@ -76,7 +76,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 > [!NOTE]
 > - **2. d4** transposes into the "[Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)", with the idea for White to regain the initiative and open column e, and later, column f.
 > - This opening is not correct with respect to openings principles, but leads to a dynamic game with many tactical ideas for both players
->
+> <br><div align="center">
 >   ![](../traps/gambits/pics/Gambit_Blackmar-Diemer.png)<br>
 >         Blackmar-Diemer Gambit <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
@@ -86,7 +86,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >         Typical Blackmar-Diemer White active setup <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
->   
+> <br></div>
 > - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5)
 > - That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games
 >
