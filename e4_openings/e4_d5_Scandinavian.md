@@ -44,7 +44,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >         ... 2. Nc3 d4 3. Nd5 <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.8</td></tr></table>
->         <br></div>
+>  <br></div>
 >         [*Back to TOP*](#_TOP_)
 >
 >      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
