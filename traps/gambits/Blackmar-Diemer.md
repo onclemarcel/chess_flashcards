@@ -46,7 +46,20 @@ As soon as the gambit is accepted, White should play **3. Nc3** (Diemer) instead
 <br>
 *Note that **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
 <br>
-
+The following table shows the typical Black moves after **3. Nc3**
 <br><div align="center">
         ![](./pics/Blackmar-Diemer_dxe4_Nc3_stats.png)
 <br></div>
+
+Black may choose unexpected answers such as **... c5** or **... Nc6**, where in both case White should play **4. d5**
+<br>
+> [!NOTE]
+> - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
+> - Then Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Nc6.png)<br>
+>     ... 3. Nc3 Nc6 4. d5 Ne5? 5. Qd4 Ng6 6. Bb5+ <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.0</td></tr></table>
+>  <br></div>
+> - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8 (very nice combination, indeed)
