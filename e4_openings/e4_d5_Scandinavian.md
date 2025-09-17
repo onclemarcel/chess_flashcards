@@ -12,7 +12,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
   - [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
   - [**2. d4**](#_d4_)  (-0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
 
-- The pawn ***capture is the best option for White*** with [**2. exd5**](#_exd5) (97% of masters games with score estimated at +0.5)
+- The pawn ***capture is the best option for White*** with [**2. exd5**](#_exd5_) (97% of masters games with score estimated at +0.5)
 
 <a id="_e5_"></a>
 > [!NOTE]
@@ -111,5 +111,5 @@ After **2. exd5**, Black usually chooses between taking the pawn back with the Q
 >   - The Blackburne Gambit is obtained with **... c6** (+0.7)
 >   - The Kloosterboer Gambit is reached after White taking **dxc6** and **... e5** (+1.5), leaving Black two pawns down, but opening diagonals for minor pieces
 >
->     [*Back to 2. exd5*](#_exd5_)
+>     [*Back to 2. exd5*](#_exd5_)<br>
 >     [*Back to TOP*](#_TOP_)
