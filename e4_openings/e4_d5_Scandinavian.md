@@ -5,11 +5,11 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <br>
         ![](../e4_openings/pics/e4_d5_stats.png)
 <br>
-- [**2. e5**](#_e5_)  (Stockfish 0.0) : Black already equals by attacking e5 pawn and d4 square
-- [**2. d3**](#_d3_)  (Stockfish -0.1) : no compensation for White following the Queens exchange
-- [**2. Nc3**](#_Nc3_) (Stockfish -0.6) : less space for White than Black in the opening
-- [**2. Nf3**](#_Nf3_) (Stockfish -0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
-- [**2. d4**](#_d4_)  (Stockfish -0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
+- [**2. e5**](#_e5_)  (0.0) : Black already equals by attacking e5 pawn and d4 square
+- [**2. d3**](#_d3_)  (-0.1) : no compensation for White following the Queens exchange
+- [**2. Nc3**](#_Nc3_) (-0.6) : less space for White than Black in the opening
+- [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
+- [**2. d4**](#_d4_)  (-0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
 
 <br><br>
 
@@ -19,7 +19,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 > <br><div align="center">
 >     ![](../e4_openings/pics/e4_d5_2_e5.png)<br>
 >     ... 2. e5 <br>
->     <table align="center" border="0"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
@@ -30,8 +30,8 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >
 >    ![](../e4_openings/pics/e4_d5_2_d3.png)<br>
 >     ... 2. d3 <br>
->     *Lichess: Very Rare*<br>
->     *Stockfish -0.1*<br>
+>     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >     [*Back to TOP*](#_TOP_)
 
 <a id="_Nc3_"></a>
@@ -41,16 +41,16 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_Nd5.png)<br>
 >         ... 2. Nc3 d4 3. Nd5 <br>
->         *Lichess: Very Rare*<br>
->         *Stockfish -0.8*<br>
+>         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.8</td></tr></table>
 >         [*Back to TOP*](#_TOP_)
 >
 >      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
 >       
 >        ![](../e4_openings/pics/e4_d5_2_Nc3_d4_3_Nce2_e5.png)<br> 
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
->         *Lichess: Very Rare*<br>
->         *Stockfish -0.6*<br>
+>         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
 >         [*Back to TOP*](#_TOP_)
 >        
 
@@ -62,9 +62,9 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >   ![](../traps/gambits/pics/Gambit_Tennison.png)
 >   
 > - Black may: 
->     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - Stockfish +0.3) or
->     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    - Stockfish +0.1) or
->     -  accept with ... dxe4 (Stockfish -0.7) : this is the most played move at 52% in masters games
+>     -  refuse with ... c6 ([Caro-Kann Defense](./e4_c6_Caro_Kann.md) - +0.3) or
+>     -  refuse with ... e6 ([French Defense](./e4_e6_French.md)    - +0.1) or
+>     -  accept with ... dxe4 (-0.7) : this is the most played move at 52% in masters games
 >
 >     [*Back to TOP*](#_TOP_)
 >
@@ -76,15 +76,15 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >
 >   ![](../traps/gambits/pics/Gambit_Blackmar-Diemer.png)<br>
 >         Blackmar-Diemer Gambit <br>
->         *Lichess: Very Rare*<br>
->         *Stockfish -0.5*<br>
+>         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.5</td></tr></table>
 >
 >   ![](../traps/gambits/pics/Gambit_Blackmar-Diemer_typical_White_setup.png)<br> 
 >         Typical Blackmar-Diemer White active setup <br>
->         *Lichess: Very Rare*<br>
->         *Stockfish +0.0*<br>
+>         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 >   
-> - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (Stockfish -0.5)
+> - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5)
 > - That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games
 >
 >     [*Back to TOP*](#_TOP_)
