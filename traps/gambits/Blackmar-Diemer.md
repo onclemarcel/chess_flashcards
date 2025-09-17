@@ -39,6 +39,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 >     ***Mate in 3*** *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)* 
 >  <br></div>
 > <br>
+>
 >     [*Back to TOP*](#_TOP_)
 
 
