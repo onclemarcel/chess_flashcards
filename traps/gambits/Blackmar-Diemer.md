@@ -1,7 +1,8 @@
 <a id="_TOP_"></a>
 # The Blackmar-Diemer Gambit (D00 - Queen Pawn Game) #
 
-This gambit may be reached by the Queen Pawn Game (D00) or the Scandinavian Defense (B01)\
+This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defense (B01) or even through an Indian Defense (A45) with **2. Nc3 Nf6 3. e4**
+<br><br>
 The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange
 
 <br><div align="center">
