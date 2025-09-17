@@ -32,7 +32,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >     ... 2. d3 <br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
->     <br>
+>  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
 <a id="_Nc3_"></a>
@@ -44,6 +44,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >         ... 2. Nc3 d4 3. Nd5 <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.8</td></tr></table>
+>         <br></div>
 >         [*Back to TOP*](#_TOP_)
 >
 >      - **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck
@@ -52,6 +53,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 >         ... 2. Nc3 d4 3. Nce2 e5 <br>
 >         <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >         <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
+>  <br></div>
 >         [*Back to TOP*](#_TOP_)
 >        
 
