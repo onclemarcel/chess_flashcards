@@ -5,13 +5,16 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <br>
         ![](../e4_openings/pics/e4_d5_stats.png)
 <br>
-- [**2. e5**](#_e5_)  (0.0) : Black already equals by attacking e5 pawn and d4 square
-- [**2. d3**](#_d3_)  (-0.1) : no compensation for White following the Queens exchange
-- [**2. Nc3**](#_Nc3_) (-0.6) : less space for White than Black in the opening
-- [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
-- [**2. d4**](#_d4_)  (-0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
+- Cases where White avoids taking the d5 pawn:
+  - [**2. e5**](#_e5_)  (0.0) : Black already equals by attacking e5 pawn and d4 square
+  - [**2. d3**](#_d3_)  (-0.1) : no compensation for White following the Queens exchange
+  - [**2. Nc3**](#_Nc3_) (-0.6) : less space for White than Black in the opening
+  - [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
+  - [**2. d4**](#_d4_)  (-0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
 
 <br><br>
+
+- The pawn ***capture is the best option for White*** with **2. exd5** (97% of masters games with score estimated at +0.5)
 
 <a id="_e5_"></a>
 > [!NOTE]
