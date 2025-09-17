@@ -1,0 +1,24 @@
+<a id="_TOP_"></a>
+# The Blackmar-Diemer Gambit (D00 - Queen Pawn Game) #
+
+This gambit may be reached by the Queen Pawn Game (D00) or the Scandinavian Defense (B01)\
+The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange
+
+<br><div align="center">
+        ![](./pics/Gambit_Blackmar-Diemer.png)
+<br>
+        ![](./pics/Gambit_Blackmar-Diemer_stats.png)
+<br></div>
+
+- This opening is not correct with respect to openings principles, but leads to a dynamic game with many tactical ideas for both players
+- When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5). 
+- That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games.
+- Black may: 
+    -  refuse with **... c6** ([Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md) +0.3) or
+    -  refuse with **... e6** ([French Defense](../../e4_openings/e4_e6_French.md) +0.3) or
+    -  refuse with **... Nc6** ([Nimzovitch Defense](../../e4_openings/e4_Nc6_Nimzovitch.md) +0.4) or
+    -  refuse with **... Nf6** (+0.6) : which allows White to grab more space with **2. e5** (+0.6) or
+    -  **accept** with **... dxe4** (-0.7) : this is the most played move at ***74%*** in masters games
+<br><br>
+
+
