@@ -27,10 +27,10 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 > - There are 2 typical case studies hidden in this variation
 > - **Case 1**: Black blocks its own knight with **3. ... Ne4**, since it gets no available square to escape, so **4. f3** just grabs it. 
 > <br><div align="center">
->     ![](../e4_openings/pics/Blackmar-Diemer_Nf6_e5_Ne4.png)<br>
+>     ![](./pics/Blackmar-Diemer_Nf6_e5_Ne4.png)<br>
 >     ... 2. e5 <br>
->     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
->     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+5.2</td></tr></table>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
