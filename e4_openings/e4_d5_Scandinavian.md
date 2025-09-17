@@ -12,8 +12,6 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
   - [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](../traps/gambits/Tennison.md)
   - [**2. d4**](#_d4_)  (-0.5) : [Blackmar-Diemer Gambit](../traps/gambits/Blackmar-Diemer.md)
 
-<br><br>
-
 - The pawn ***capture is the best option for White*** with **2. exd5** (97% of masters games with score estimated at +0.5)
 
 <a id="_e5_"></a>
