@@ -40,6 +40,5 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 > <br>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
-
-
+>
 
