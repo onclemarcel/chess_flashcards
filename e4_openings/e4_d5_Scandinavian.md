@@ -97,7 +97,7 @@ Black move directly brings White on a quick decision: take or leave the d5 pawn:
 <a id="_exd5_"></a>
 After **2. exd5**, Black usually chooses between taking the pawn back with the Queen, potentially losing a tempo, or attacking the pawn with **... Nf6** or **... c6**
 <br>
-        ![](../e4_openings/pics/e4_d5_stats.png)
+        ![](../e4_openings/pics/e4_d5_2_exd5_stats.png)
 <br>
 
 - Main Black moves lead to the following variations:
@@ -112,4 +112,4 @@ After **2. exd5**, Black usually chooses between taking the pawn back with the Q
 >   - The Kloosterboer Gambit is reached after White taking **dxc6** and **... e5** (+1.5), leaving Black two pawns down, but opening diagonals for minor pieces
 >
 >     [*Back to 2. exd5*](#_exd5_)
-
+>     [*Back to TOP*](#_TOP_)
