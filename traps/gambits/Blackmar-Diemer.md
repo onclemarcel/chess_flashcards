@@ -32,13 +32,12 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+5.2</td></tr></table>
 >  <br></div>
-> - **Case 2**: Chasing the knight by **4. e6 fxe6** opens the h5-e8 diagonal, a move like **5. Bd3** sets the trap and must be avoided by black. A typical move like **... g6** or **..Nf6** avoids this beautiful mate pattern:<br> 
+> - **Case 2**: Black retreats to **... Nfd7** close to the King : chasing the knight by **4. e6 fxe6** opens the h5-e8 diagonal, **5. Bd3** sets the trap. It must be avoided by black with a **... g6** or **... Nf6** or even **... Kf7**; a passive move like **... Nc6** triggers this beautiful mate pattern:<br> 
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_Nf6_e5_Nfd7_e6.png)<br>
->     ... 2. ... Nf6 3. e5 Nfd7 4. e6 fxe6 5. Bd3 Nc6<br>
->     !!This is a Mate in 3 *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)*
->     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
->     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+5.2</td></tr></table>
+>     ... 2. ... Nf6 3. e5 Nfd7 4. e6 fxe6 5. Bd3 Nc6??<br>
+>     Mate in 3 *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)* 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>#3</td></tr></table>
 >  <br></div>
 >     [*Back to TOP*](#_TOP_)
 
