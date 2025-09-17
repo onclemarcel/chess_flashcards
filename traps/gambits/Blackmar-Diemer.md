@@ -28,7 +28,15 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 > - **Case 1**: Black blocks its own knight with **3. ... Ne4**, since it gets no available square to escape, so **4. f3** just grabs it. 
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_Nf6_e5_Ne4.png)<br>
->     ... 2. e5 <br>
+>     ... 2. ... Nf6 3. e5 Ne4?? <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+5.2</td></tr></table>
+>  <br></div>
+> - **Case 2**: Chasing the knight by **4. e6 fxe6** opens the h5-e8 diagonal, a move like **5. Bd3** sets the trap and must be avoided by black. A typical move like **... g6** or **..Nf6** avoids this beautiful mate pattern:<br> 
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_Nf6_e5_Nfd7_e6.png)<br>
+>     ... 2. ... Nf6 3. e5 Nfd7 4. e6 fxe6 5. Bd3 Nc6<br>
+>     !!This is a Mate in 3 *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)*
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+5.2</td></tr></table>
 >  <br></div>
