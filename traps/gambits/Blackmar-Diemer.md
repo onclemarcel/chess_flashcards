@@ -55,11 +55,11 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 <br>
 > [!NOTE]
 > - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
-> - Then Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
+> - Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Nc6.png)<br>
 >     ... 3. Nc3 Nc6 4. d5 Ne5? 5. Qd4 Ng6 6. Bb5+ <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.0</td></tr></table>
 >  <br></div>
-> - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8 (very nice combination, indeed)
+> - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
