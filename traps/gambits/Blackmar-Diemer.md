@@ -63,3 +63,8 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.0</td></tr></table>
 >  <br></div>
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
+> - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
+> - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+
+
+
