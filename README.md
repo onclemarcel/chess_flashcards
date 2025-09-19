@@ -1,5 +1,5 @@
 # chess_flashcards
-A quick and dirty set of flash cards on chess theory based on players experience from various books, web resources and chess tools.\
+A quick and dirty set of flash cards on chess theory based on players experience and chess tools.\
 \
 Use the [template](./template.md) for creating new content or just look at it to understand how to read the flash cards\
 \
