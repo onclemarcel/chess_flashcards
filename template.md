@@ -13,7 +13,7 @@
     <table align="center"><tr> 
     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 <br>
-<img src="./pics/Start_Position_Stats.png">
+<img src="./pics/Start_Position_Stats.png"><br>
 *Example taken from the start position*
 <br></div>
 <br>
