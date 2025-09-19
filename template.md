@@ -12,8 +12,8 @@ Short description of the main characteristics of this opening<br>
 <br><div align="center">
     ![](./pics/start_position.png)<br>
     ... Start Position <br>
-    <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
-    <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>-0.0</td></tr></table>
+    <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>100%</td> 
+    <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 <br>
 <img src="./pics/Start_Position_Stats.png">
 <br></div>
@@ -43,7 +43,8 @@ Short description of the main characteristics of this opening<br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
->     [*Back to previous move*](#_initial move_)
+>     [*Back to previous move*](#_initial_move_)
+
 <br>
 
 <a id="_g4_"></a>
