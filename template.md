@@ -22,9 +22,13 @@ Short description of the main characteristics of this opening<br>
   - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes, with the help of an internal anchor link - *click on the move*\>*
 
 <br>
+<h3><span style="color:#ff0000"> 1. b4 Polish opening</span></h3>
+<span style="color:blue">some *blue* text</span>
+<br>
+
 <a id="_b4_"></a>
 > [!NOTE]
-> <h3> 1. b4 Polish opening</h3>
+> <h3><span style="color:#ff0000"> 1. b4 Polish opening</span></h3>
 > - The purpose of this move is to fight for a spatial advantage on the queenside instead of immediately taking control of the centre.
 > <br><div align="center">
 >     ![](./pics/b4.png)<br>
