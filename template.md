@@ -1,3 +1,7 @@
+<style>
+  b_style {color:#FF0000}
+</style>
+
 <a id="_TOP_"></a>
 # 1. \<w1\> \<b1\> 2. \<w2\> \<b2\> ... : \<Opening Name (ECO Code)\> #
 <br>
@@ -20,15 +24,11 @@ Short description of the main characteristics of this opening<br>
   - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
   - [**1. b4**](#_b4_)  (-0.1) : *\<for specific moves illustrated in books/videos, create notes to highlight the discussion, or tips when a Mate pattern or Trap Pattern should be highlighted\>*
   - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes, with the help of an internal anchor link - *click on the move*\>*
-
-<br>
-<h3><span style="color:#ff0000"> 1. b4 Polish opening</span></h3>
-<span style="color:blue">some *blue* text</span>
 <br>
 
 <a id="_b4_"></a>
 > [!NOTE]
-> <h3><span style="color:#ff0000"> 1. b4 Polish opening</span></h3>
+> ### 1. b4 Polish opening
 > - The purpose of this move is to fight for a spatial advantage on the queenside instead of immediately taking control of the centre.
 > <br><div align="center">
 >     ![](./pics/b4.png)<br>
