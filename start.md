@@ -26,30 +26,35 @@
 - From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
   - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
   - [**1. \<uncommon_move\>**](#_uncommon_note_)  (-0.x) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
-  - [**1. g4?**](#_g4_) (-1.0) : *\<create tips when a Mate pattern or Trap Pattern should be highlighted\>*
-  - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes, with the help of an internal anchor link - *click on the move*\>*
+  - [**1. \<Mate or Trap Pattern\>**](#_mate_or_trap_) (-0.x) : *\<create tips when a Mate pattern or Trap Pattern should be highlighted\>*
+  - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes or tips, they can be reached by clicking on an internal anchor link - *click on the move*\>*
 <br>
 
 <a id="_uncommon_note_"></a>
 > [!NOTE]
 > ### \<uncommon move worth a note\><br>
 > 
-> - \<Add here some notes from books/videos/web sites on a specific move or variation, worth to be mentionned, although not in the main line of this flashcard\><br>
+> - *\<Add here some notes from books/videos/web sites on a specific move or variation, worth to be mentionned, although not in the main line of this flashcard\>*<br>
+> - Example:
+>     - With **1. g4**, White enters the [Grob's Attack](./g4_opening/Grob.md), significantly compromising the kingside's pawn structure, and placing the g-pawn on an unusual square that is difficult to defend without giving Black the initiative<br>
 > <br><div align="center">
 >     ![](./g4_opening/pics/g4.png)<br>
 >     ... 1. g4 : the Grob's Attack <br>
 >     <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
->     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>-0.9</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_initial_move_)
 
 <br>
 
-<a id="_g4_"></a>
+<a id="_mate_or_trap_"></a>
 > [!TIP]
-> ### 1. g4 Grob opening
-> - Grob's Attack is generally considered to be one of the worst starting moves
-> - A typical scholar Mate Pattern is reached through this sequence : **1. g4? e5 2. f3 ??** <br>
+> ### \<Mate Pattern or Trap Pattern worth a tip\><br>
+>
+> - *\<Add here some notes when a Mate pattern appears with this move or can be created from this move. This also applies to some specific traps. The tip helps in detecting patterns in real games, in order to either anticipate for avoiding a trap or use it against the opponent \>*<br>
+> - Example:
+>     - **1. g4?** [Grob's Attack](./g4_opening/Grob.md) is generally considered to be one of the worst starting moves
+>     - A typical scholar Mate Pattern is reached through this sequence : **1. g4? e5 2. f3 ??** <br>
 > <br><div align="center">
 >     ![](./g4_opening/pics/g4_e5_f3.png)<br>
 >     ... Shortest Game - ***Mate in 1*** <br>
