@@ -21,9 +21,11 @@ Short description of the main characteristics of this opening<br>
 *Example taken from the start position*
 <br>
 
+<a id="_initial_move_"></a>
 - *\<list here possible moves, with short summary on the strategy related to this move\>*
 - *\<create a internal link to a paragraph on this page or an external link when the move is transposing to another opening \>*
 - *\< Mention the Stockfish rating of the move in parenthesis \>*
+
 - Example:
   - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
   - [**1. b4**](#_b4_)  (-0.1) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
@@ -65,4 +67,5 @@ Short description of the main characteristics of this opening<br>
 *\<Present subsequent moves with the same structure as the initial move\>*<br>
 *\<show LiChess stats, list of moves with summaries, add notes/tips when needed...\>*<br>
 
+ [*Back to previous move*](#_initial_move_)
  [*Back to TOP*](#_TOP_)
