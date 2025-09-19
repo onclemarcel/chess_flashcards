@@ -36,28 +36,28 @@ Short description of the main characteristics of this opening<br>
 <a id="_b4_"></a>
 > [!NOTE]
 > ### 1. b4 Polish opening
-> - The purpose of this move is to fight for a spatial advantage on the queenside instead of immediately taking control of the centre.
+> - The purpose of this move is to fight for a spatial advantage on the queenside instead of immediately taking control of the centre. <br>
 > <br><div align="center">
 >     ![](./pics/b4.png)<br>
 >     ... 1. b4 <br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
->     [*Back to TOP*](#_TOP_)
+>     [*Back to previous move*](#_initial move_)
 <br>
 
 <a id="_g4_"></a>
 > [!TIP]
 > ### 1. g4 Grob opening
 > - Grob's Attack is generally considered to be one of the worst starting moves
-> - A typical scholar Mate Pattern is reached through this sequence : **1. g4? e5 2. f3 ??**
+> - A typical scholar Mate Pattern is reached through this sequence : **1. g4? e5 2. f3 ??** <br>
 > <br><div align="center">
 >     ![](./pics/g4_e5_f3.png)<br>
 >     ... Shortest Game - ***Mate in 1*** <br>
 >     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>#-1</td></tr></table>
 >  <br></div>
->     [*Back to TOP*](#_TOP_)
+>     [*Back to previous move*](#_initial_move_)
 
 <a id="_move_"></a>
 <br><br>
@@ -67,5 +67,5 @@ Short description of the main characteristics of this opening<br>
 *\<Present subsequent moves with the same structure as the initial move\>*<br>
 *\<show LiChess stats, list of moves with summaries, add notes/tips when needed...\>*<br>
 
- [*Back to previous move*](#_initial_move_)
+ [*Back to previous move*](#_initial_move_) <br>
  [*Back to TOP*](#_TOP_)
