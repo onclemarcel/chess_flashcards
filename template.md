@@ -23,7 +23,7 @@
 - *\<create a internal link to a paragraph on this page or an external link when the move is transposing to another opening \>*
 - *\< Mention the Stockfish rating of the move in parenthesis \>*
 
-- Example:
+- From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
   - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
   - [**1. b4**](#_b4_)  (-0.1) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
   - [**1. g4?**](#_g4_) (-1.0) : *\<create tips when a Mate pattern or Trap Pattern should be highlighted\>*
