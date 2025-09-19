@@ -25,18 +25,19 @@
 
 - From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
   - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
-  - [**1. b4**](#_b4_)  (-0.1) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
+  - [**1. \<uncommon_move\>**](#_uncommon_note_)  (-0.x) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
   - [**1. g4?**](#_g4_) (-1.0) : *\<create tips when a Mate pattern or Trap Pattern should be highlighted\>*
   - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes, with the help of an internal anchor link - *click on the move*\>*
 <br>
 
-<a id="_b4_"></a>
+<a id="_uncommon_note_"></a>
 > [!NOTE]
-> ### 1. b4 Polish opening
-> - The purpose of this move is to fight for a spatial advantage on the queenside instead of immediately taking control of the centre. <br>
+> ### \<uncommon move worth a note\><br>
+> 
+> - \<Add here some notes from books/videos/web sites on a specific move or variation, worth to be mentionned, although not in the main line of this flashcard\><br>
 > <br><div align="center">
->     ![](./pics/b4.png)<br>
->     ... 1. b4 <br>
+>     ![](./g4_opening/pics/g4.png)<br>
+>     ... 1. g4 : the Grob's Attack <br>
 >     <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
@@ -50,7 +51,7 @@
 > - Grob's Attack is generally considered to be one of the worst starting moves
 > - A typical scholar Mate Pattern is reached through this sequence : **1. g4? e5 2. f3 ??** <br>
 > <br><div align="center">
->     ![](./pics/g4_e5_f3.png)<br>
+>     ![](./g4_opening/pics/g4_e5_f3.png)<br>
 >     ... Shortest Game - ***Mate in 1*** <br>
 >     <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
 >     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>#-1</td></tr></table>
