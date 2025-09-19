@@ -1,9 +1,9 @@
 <a id="_TOP_"></a>
 # Start Position (A00) #
-\<Set title of the page with \<Opening Name (ECO Code)\><br>1. \<w1\> \<b1\> <br>2. \<w2\> \<b2\> ... <br>
+\<Set title of the page with \<Opening Name (ECO Code)\><br>1. \<w1\> \<b1\> <br>2. \<w2\> \<b2\> ... \> <br>
 <br>
 
-\<Add here a short description of the main characteristics of this position (opening, trap, mate pattern, ...) - *Sources for description may be a Lichess description, a video introduction (e.g. David Naroditsky, Levy Rozman, Igor Smirnov, ...), an opening book description, ...* \><br>
+\<*Add here a short description of the main characteristics of this position (opening, trap, mate pattern, ...) - Sources for description may be a Lichess description, a video introduction (e.g. David Naroditsky, Levy Rozman, Igor Smirnov, ...), an opening book description, ...* \><br>
 <br>
 
 *\< Add here the diagram of the position and the LiChess statistics of possible moves from the position\>*
@@ -14,9 +14,8 @@
     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 <br>
 <img src="./pics/Start_Position_Stats.png">
-<br></div>
-
 *Example taken from the start position*
+<br></div>
 <br>
 
 <a id="_initial_move_"></a>
