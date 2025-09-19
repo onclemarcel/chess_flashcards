@@ -12,7 +12,7 @@ Short description of the main characteristics of this opening<br>
 <br><div align="center">
     ![](./pics/start_position.png)<br>
     ... Start Position <br>
-    <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>100%</td> 
+    <table align="center"><tr> 
     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>0.0</td></tr></table>
 <br>
 <img src="./pics/Start_Position_Stats.png">
@@ -40,8 +40,8 @@ Short description of the main characteristics of this opening<br>
 > <br><div align="center">
 >     ![](./pics/b4.png)<br>
 >     ... 1. b4 <br>
->     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
->     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>     <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_initial_move_)
 
@@ -55,8 +55,8 @@ Short description of the main characteristics of this opening<br>
 > <br><div align="center">
 >     ![](./pics/g4_e5_f3.png)<br>
 >     ... Shortest Game - ***Mate in 1*** <br>
->     <table align="center"><tr><td valign="center"><img src="../pics/icon_lichess.png"></td><td>Very Rare</td> 
->     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>#-1</td></tr></table>
+>     <table align="center"><tr><td valign="center"><img src="./pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>#-1</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_initial_move_)
 
