@@ -1,6 +1,6 @@
 <a id="_TOP_"></a>
 # Start Position (A00) #
-\<Set title of the page with \<Opening Name (ECO Code)\><br>1. \<w1\> \<b1\> <br>2. \<w2\> \<b2\> ... \> <br>
+\<*Set title of the page with* \<*Opening Name (ECO Code)*\><br>1. \<*w1*\> \<*b1*\> <br>2. \<*w2*\> \<*b2*\> ... \> <br>
 <br>
 
 \<*Add here a short description of the main characteristics of this position (opening, trap, mate pattern, ...) - Sources for description may be a Lichess description, a video introduction (e.g. David Naroditsky, Levy Rozman, Igor Smirnov, ...), an opening book description, ...* \><br>
