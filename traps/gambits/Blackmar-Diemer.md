@@ -147,6 +147,13 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
 > - Another played move in masters games is **4.Nxe4** allowing Black to take on d4: 
 >    - **4.Nxe4 Qxd4 5.Bd3 Nc6 6.Nf3 Qd5 7.O-O Nf6** Black keeps provoking White's pieces<br>
+> - A move seen in blitz/bullet club games is **4.Qe2**, also allowing Black to take on d4, but allows White to chase Black queen, leading to active and tactical position for white, although Stockfish rates it better for Black:
+>    - **4.Qe2 Qxd4 5.Be3 Qd6 6.Nc3 Qd6 7.Nb5 Qc6 8.O-O-O** Black keeps provoking White's pieces<br>
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_e5_Qe2.png)<br>
+>     ... after 8. O-O-O <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-1.9</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
@@ -155,6 +162,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 Follow-up
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
