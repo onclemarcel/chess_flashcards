@@ -73,9 +73,10 @@ The following table shows the typical Black moves after **3. Nc3**
     - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : Black move allows White attacking the bishop with g4 and keeping ths initiative
 <br>
 Black may choose unexpected answers such as **... c5** or **... Nc6**, where in both case White should play **4. d5**
-<br>
+<br><br>
 
 > [!NOTE]
+> ## Gambit Accepted : 3. Nc3 Nc6? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
 > - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
 > - Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
 > <br><div align="center">
@@ -87,7 +88,11 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
 > - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
 > - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+>  <br></div>
+>     [*Back to previous move*](#_3_Nc3_)
+<br>
 
+Follow-up
 
 
 
