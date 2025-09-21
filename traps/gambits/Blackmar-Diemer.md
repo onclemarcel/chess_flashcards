@@ -72,9 +72,12 @@ The following table shows the typical Black moves after **3. Nc3**
     - [**... f5**](#_3_Nc3_f5_) (+0.1) : another side move, but more dangerous for Black, since it weakens f7 square and exposes the King
     - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : Black move allows White attacking the bishop with g4 and keeping ths initiative
 <br>
-Black may choose unexpected answers such as **... c5** or **... Nc6**, where in both case White should play **4. d5**
-<br><br>
+Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_Nc6_), where in both case White should play **4. d5**
+<br>
+[*Back to previous move*](#_initial_move_)
+<br>
 
+<a id="_3_Nc3_Nc6_"></a>
 > [!NOTE]
 > ## Gambit Accepted : 3. Nc3 Nc6? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
 > - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
@@ -94,6 +97,7 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 
 Follow-up
 
+[*Back to TOP*](#_TOP_)
 
 
 
