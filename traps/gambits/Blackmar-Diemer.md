@@ -19,6 +19,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 <br></div>
 <br>
 
+<a id="_initial_move_"></a>
 - This opening is not correct with respect to openings principles, but leads to a ***dynamic game with many tactical ideas*** for both players
 - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5). 
 - That said, due to the need for preparation for Black, a good White player may still surprise his opponent in blitz/bullet games.
@@ -48,13 +49,14 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 >     ... 2. ... Nf6 3. e5 Nfd7 4. e6 fxe6 5. Bd3 Nc6??<br>
 >     ***Mate in 3*** *(6. Qh5+ g6 7. Qxg6+ hxg6 8.Bxg6#)* 
 >  <br></div>
-> [*Back to TOP*](#_TOP_)
->
+>     [*Back to previous move*](#_initial_move_)>
 
 <a id="_accepted_"></a>
 As soon as the gambit is accepted, White should play **3. Nc3** (Diemer) instead of a direct **3. f3** (Blackmar) that is easily met with **... e5**, opening the critical daigonal h4-d8 for the Black Queen.
 <br>
-*Note that **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
+> [!NOTE]
+> **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
+> 
 <br>
 The following table shows the typical Black moves after **3. Nc3**
 <br><div align="center">
@@ -75,6 +77,7 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
 > - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
 > - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+
 
 
 
