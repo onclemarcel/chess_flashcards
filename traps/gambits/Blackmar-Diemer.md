@@ -101,7 +101,8 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > - This is a side move usually not anticipated by White in this gambit, but the move **... f5** weakens the King and White may aim at the h5-e8 diagonal
 > - White, according to Stockfish should play **4.Bg5**, however a typical White move in the Blackmar-Diemer gambit spirit is to play **4.f3** to open the e-column:
 >     - if Black takes with **... exf3**, White are much better with **5.Nxf3** (+0.8)
->     - but Black should attack the center to break White's initiative (-0.5) : **... e5!**: if White takes **5.fxe4**, then Black breaks with **... exd4** chasing the Knight, followed by **6. ... Nc6** to protect d4
+>     - but Black should attack the center to break White's initiative (-0.5) : **... e5!**: if White takes **5.fxe4**, then Black breaks with **... exd4** chasing the Knight, followed by **6. ... Nc6** to protect d4<br>
+>
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_dxe4_Nc3_f5.png)<br>
 >     ... 3. Nc3 f5 4. f3 e5! <br>
