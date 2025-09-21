@@ -1,15 +1,23 @@
 <a id="_TOP_"></a>
 # The Blackmar-Diemer Gambit (D00 - Queen Pawn Game) #
+# 1. d4 d5 2. e4 #
 
 This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defense (B01) or even through an Indian Defense (A45) with **2. Nc3 d5 3. e4**
 <br><br>
+> [!NOTE]
+> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nf3 Nf6**
+>
+<br><br>
 The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange
-
 <br><div align="center">
-        ![](./pics/Gambit_Blackmar-Diemer.png)
+    ![](./pics/Gambit_Blackmar-Diemer.png)<br>
+    ... 1. d4 d5 2. e4 <br>
+    <table align="center"><tr> 
+    <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
 <br>
-        ![](./pics/Gambit_Blackmar-Diemer_stats.png)
+<img src="./pics/Gambit_Blackmar-Diemer_stats.png"><br>
 <br></div>
+<br>
 
 - This opening is not correct with respect to openings principles, but leads to a ***dynamic game with many tactical ideas*** for both players
 - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5). 
@@ -21,8 +29,10 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
     -  refuse with [**... Nf6**](#_Nf6_) (+0.6) : which allows White to grab more space with **2. e5** (+0.6) or
     -  **accept** with [**... dxe4**](#_accepted_) (-0.7) : this is the most played move at ***74%*** in masters games
 <br><br>
+
 <a id="_Nf6_"></a>
 > [!TIP]
+> ### 1. d4 d5 2. e4 Nf6? : gambit refused with Nf6 ## (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.6)
 > - This variation is never played in masters games, but when Black refuses the gambit with **... Nf6**, White takes space with **3. e5** while attacking the knight
 > - There are 2 typical case studies hidden in this variation
 > - **Case 1**: Black blocks its own knight with **3. ... Ne4**, since it gets no available square to escape, so **4. f3** just grabs it. 
@@ -65,6 +75,7 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
 > - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
 > - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+
 
 
 
