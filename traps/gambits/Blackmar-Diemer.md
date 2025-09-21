@@ -69,7 +69,7 @@ The following table shows the typical Black moves after **3. Nc3**
 - Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game: 
     - [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
     - [**... e5**](#_3_Nc3_e5_) (-0.1) : side move for Black, which may disrupt White initiative in this opening (played only 13%)
-    - [**... f5**](#_3_Nc3_f5_) (+0.1) : another side move, but more dangerous for Black, since it weakens f7 square and exposes the King
+    - [**... f5**](#_3_Nc3_f5_) (+0.1) : another interesting side move, but more dangerous for Black, since it weakens f7 square and exposes the King
     - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : Black move allows White attacking the bishop with g4 and keeping ths initiative<br>
 
 Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_Nc6_), where in both case White should play **4. d5**<br>
@@ -95,6 +95,27 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
 
+<a id="_3_Nc3_f5_"></a>
+> [!NOTE]
+> ## Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
+> - This is a side move usually not anticpated by White in this gambit, but the move **.. f5** weakens the King and White may aim at the h5-e8 diagonal
+> - White, according to Stockfish should play **4.Bg5**, however a typical White move in the Blackmar-Diemer gambit spirit is to play **4.f3** to open the e-column:
+>     - if Black takes with **... exf3**, White are much better with **5.Nxf3** (+0.8)
+>     - but Black should attack the center to break White's initiative : **... e5!**: if White takes **5.e4**, than Black takes **...d4** chasing the Knight, followed by **6. ... Nc6** to protect d4
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_f5.png)<br>
+>     ... 3. Nc3 f5 4. f3 e5! <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>  <br></div>
+> - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
+> - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
+> - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+>  <br></div>
+>     [*Back to previous move*](#_3_Nc3_)
+<br>
+
+<a id="_3_Nc3_Nf6_"></a>
 Follow-up
 
 [*Back to TOP*](#_TOP_)
