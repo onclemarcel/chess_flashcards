@@ -67,9 +67,11 @@ The following table shows the typical Black moves after **3. Nc3**
 
 <a id="_3_Nc3_"></a>
 - Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game: 
-    -  [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
-    
-<br><br>
+    - [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
+    - [**... e5**](#_3_Nc3_e5_) (-0.1) : side move for Black, which may disrupt White initiative in this opening (played only 13%)
+    - [**... f5**](#_3_Nc3_f5_) (+0.1) : another side move, but more dangerous for Black, since it weakens f7 square and exposes the King
+    - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : Black move allows White attacking the bishop with g4 and keeping ths initiative
+<br>
 Black may choose unexpected answers such as **... c5** or **... Nc6**, where in both case White should play **4. d5**
 <br>
 
