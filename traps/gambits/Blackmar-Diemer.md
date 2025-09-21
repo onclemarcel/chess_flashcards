@@ -13,7 +13,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
     ![](./pics/Gambit_Blackmar-Diemer.png)<br>
     ... 1. d4 d5 2. e4 <br>
     <table align="center"><tr> 
-    <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
+    <td valign="center"><img align="center" src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
 <br>
 <img src="./pics/Gambit_Blackmar-Diemer_stats.png"><br>
 <br></div>
@@ -32,7 +32,7 @@ The main idea for White is to gain the initiative by quickly opening the e-colum
 
 <a id="_Nf6_"></a>
 > [!TIP]
-> ### 1. d4 d5 2. e4 Nf6? : gambit refused with Nf6 ## (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.6)
+> ### 1. d4 d5 2. e4 Nf6? : gambit refused with Nf6 (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.6)
 > - This variation is never played in masters games, but when Black refuses the gambit with **... Nf6**, White takes space with **3. e5** while attacking the knight
 > - There are 2 typical case studies hidden in this variation
 > - **Case 1**: Black blocks its own knight with **3. ... Ne4**, since it gets no available square to escape, so **4. f3** just grabs it. 
@@ -75,6 +75,7 @@ Black may choose unexpected answers such as **... c5** or **... Nc6**, where in 
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
 > - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
 > - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
+
 
 
 
