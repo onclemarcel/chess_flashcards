@@ -59,13 +59,20 @@ As soon as the gambit is accepted, White should play **3. Nc3** (Diemer) instead
 > **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
 > 
 <br>
+
 The following table shows the typical Black moves after **3. Nc3**
 <br><div align="center">
         ![](./pics/Blackmar-Diemer_dxe4_Nc3_stats.png)
 <br></div>
 
+<a id="_3_Nc3_"></a>
+- Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game: 
+    -  [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
+    
+<br><br>
 Black may choose unexpected answers such as **... c5** or **... Nc6**, where in both case White should play **4. d5**
 <br>
+
 > [!NOTE]
 > - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
 > - Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
