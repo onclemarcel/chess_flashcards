@@ -8,7 +8,8 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 > The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nf3 Nf6**
 >
 <br><br>
-The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange
+The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange<br>
+When Black faces this gambit, the objective is to break White's initiative and strive for exchanges the pieces, to reach a better end game<br>
 <br><div align="center">
     ![](./pics/Gambit_Blackmar-Diemer.png)<br>
     ... 1. d4 d5 2. e4 <br>
@@ -110,6 +111,24 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
 > - The best move for White here is ... to exchange the Queens with **5. dxe5** in order to block the attack of the center
+>  <br></div>
+>     [*Back to previous move*](#_3_Nc3_)
+<br>
+
+<a id="_3_Nc3_Bf5_"></a>
+> [!NOTE]
+> ## Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> - A side move to the gambit, White may directly aim at chasing the bishop by **4. g4**, which is the Stockfish best move
+> - but, there is a chance that White continue with the **4. f3** spirit *(73% of the masters games)*:
+>     - Black should not take here and protect d4 with **... Nf6** : the idea is to try exchanging pieces with an advantage in the end game
+> <br>
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Bf5.png)<br>
+>     ... 3. Nc3 Bf5 4. g4 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>  <br></div>
+> - White moves should aim at developing the knight, chasing the bishop, pushing the kingside pawns
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
