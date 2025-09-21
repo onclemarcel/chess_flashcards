@@ -69,9 +69,9 @@ The following table shows the typical Black moves after **3. Nc3**
 <a id="_3_Nc3_"></a>
 - Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game: 
     - [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
-    - [**... e5**](#_3_Nc3_e5_) (-0.1) : side move for Black, which may disrupt White initiative in this opening (played only 13%)
-    - [**... f5**](#_3_Nc3_f5_) (+0.1) : another interesting side move, but more dangerous for Black, since it weakens f7 square and exposes the King
-    - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : Black move allows White attacking the bishop with g4 and keeping ths initiative<br>
+    - [**... e5**](#_3_Nc3_e5_) (-0.1) : [Lemberger Variation](#_3_Nc3_e5_): side move for Black, which may disrupt White initiative in this opening (played only 13%)
+    - [**... f5**](#_3_Nc3_f5_) (+0.1) : [Netherlands Variation](#_3_Nc3_f5_): another interesting side move, but more dangerous for Black, since it weakens f7 square and exposes the King
+    - [**... Bf5**](#_3_Nc3_Bf5_) (-0.1) : [Zeller Defense](#_3_Nc3_Bf5_): Black move allows White attacking the bishop with g4 and keeping ths initiative<br>
 
 Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_Nc6_), where in both case White should play **4. d5**<br>
 
@@ -117,7 +117,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_Bf5_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> ## Gambit Accepted : 3. Nc3 Bf5!? - Zeller Defense (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit, White may directly aim at chasing the bishop by **4. g4**, which is the Stockfish best move
 > - but, there is a chance that White continue with the **4. f3** spirit *(73% of the masters games)*:
 >     - Black should not take here and protect d4 with **... Nf6** (attacking the center with **... e5** leads to the drawback of exchanging the white bishop with the knight) : the idea is to try exchanging pieces with an advantage in the end game<br>
@@ -134,7 +134,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_e5_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 e5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> ## Gambit Accepted : 3. Nc3 e5 - Lemberger Variation (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit chosen at 13% by Black in masters game, to disrupt White's plans
 > - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, it blocks the bishop and the queen...
 > - Most played move is **4.Qh5** which directly aims at f7, followed by **5.Bc4** for the mate threat on f7 : a quite dangerous variation for Black although a correct order of moves allow Black to get a better game : 
@@ -145,6 +145,8 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 >     ... 3. Nc3 e5 4. Qh5 exd4 5. Bc4 <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Side Move</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
+> - Another played move in masters games is **4.Nxe4** allowing Black to take on d4: 
+>    - **4.Nxe4 Qxd4 5.Bd3 Nc6 6.Nf3 Qd5 7.O-O Nf6** Black keeps provoking White's pieces<br>
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
@@ -153,6 +155,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 Follow-up
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
