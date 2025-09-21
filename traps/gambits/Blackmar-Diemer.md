@@ -120,11 +120,28 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > ## Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit, White may directly aim at chasing the bishop by **4. g4**, which is the Stockfish best move
 > - but, there is a chance that White continue with the **4. f3** spirit *(73% of the masters games)*:
->     - Black should not take here and protect d4 with **... Nf6** : the idea is to try exchanging pieces with an advantage in the end game<br>
+>     - Black should not take here and protect d4 with **... Nf6** (attacking the center with **... e5** leads to the drawback of exchanging the white bishop with the knight) : the idea is to try exchanging pieces with an advantage in the end game<br>
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Bf5.png)<br>
 >     ... 3. Nc3 Bf5 4. g4 <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>  <br></div>
+> - White moves should aim at developing the knight, chasing the bishop, pushing the kingside pawns
+>  <br></div>
+>     [*Back to previous move*](#_3_Nc3_)
+<br>
+
+<a id="_3_Nc3_e5_"></a>
+> [!NOTE]
+> ## Gambit Accepted : 3. Nc3 e5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> - A side move to the gambit chosen at 13% by Black in masters game, to disrupt White's plans
+> - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, it blocks the bishop and the queen...
+> - Most played move is **4.Qh5** which directly aims at f7, followed by **5. Bc4** for the mate threat on f7 : a quite dangerous variation for Black although a correct order of moves allow Black to get a better game : **4.Qh5 exd4 5.Bc4 Qe7 6.Bg5 Nf6 7.Bxf6 Qxf6 8.Nxe4 Qe7 9.O-O-O Qxe4** - White is a piece down and Black can escape the mate, develop Nc6, ...
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Bf5.png)<br>
+>     ... 3. Nc3 Bf5 4. g4 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Side Move</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
 >  <br></div>
 > - White moves should aim at developing the knight, chasing the bishop, pushing the kingside pawns
