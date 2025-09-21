@@ -137,14 +137,20 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > ## Gambit Accepted : 3. Nc3 e5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit chosen at 13% by Black in masters game, to disrupt White's plans
 > - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, it blocks the bishop and the queen...
-> - Most played move is **4.Qh5** which directly aims at f7, followed by **5. Bc4** for the mate threat on f7 : a quite dangerous variation for Black although a correct order of moves allow Black to get a better game : **4.Qh5 exd4 5.Bc4 Qe7 6.Bg5 Nf6 7.Bxf6 Qxf6 8.Nxe4 Qe7 9.O-O-O Qxe4** - White is a piece down and Black can escape the mate, develop Nc6, ...
+> - Most played move is **4.Qh5** which directly aims at f7, followed by **5.Bc4** for the mate threat on f7 : a quite dangerous variation for Black although a correct order of moves allow Black to get a better game : 
+>    - **4.Qh5 exd4 5.Bc4 Qe7 6.Bg5 Nf6 7.Bxf6 Qxf6 8.Nxe4 Qe7 9.O-O-O Qxe4** - White is a piece down and Black can escape the mate, develop Nc6, ...<br>
 > <br><div align="center">
->     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Bf5.png)<br>
->     ... 3. Nc3 Bf5 4. g4 <br>
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_e5_Qh5_Bc4.png)<br>
+>     ... 3. Nc3 e5 4. Qh5 exd4 5. Bc4 <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Side Move</td> 
->     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.1</td></tr></table>
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
 >  <br></div>
-> - White moves should aim at developing the knight, chasing the bishop, pushing the kingside pawns
+>    - **4.Qh5 exd4 5.Qe5+ Ne7 6.Bb5+ Nc6 7.Nxe4 Be6 8.Nc5 Qd5 9.Nf3 O-O-O** - White should exchange the queens here, or the knight is taken by **... Qxc5**<br>
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_e5_Qh5_Qe5.png)<br>
+>     ... 3. Nc3 e5 4. Qh5 exd4 5. Bc4 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Side Move</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.6</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
