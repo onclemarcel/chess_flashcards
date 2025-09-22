@@ -230,27 +230,29 @@ This is the main line of the Blackmar-Diemer gambit, White has two main lines he
 
 
 <a id="_accepted_Qxf3_"></a>
-## Gambit accepted : 5.Qxf3<br>
-Although not really a serious line, this is a tactical line for White with many case studies for patterns:
-- **5.Qxf3** let another free pawn to Black with **... Qxd4** (hence the Stockfish score of -1.4)
-- **6.Be3** chases the Black queen while developing the dark square bishop, allowing for White's queenside castle
-- Whether the black queen is moving to **... Qe5**, **... Qb4**, **... Qg4** or **... Qh4+**, there is trap set for Black on the b7/c7 square. Examples are:
-    - **... Qe5 7. O-O-O Bg4** (attacking both Queen and Rook) **8. Qxb7 Qxe3+ 9. Kb1 Bxd1?? 10. Qc7#**
-    - **... Qg4 7. Qf2 Qb4 9. O-O-O Nc6 10. Nb5 Qa5** : nice trap here with knight on c7 and open d-column - here **11.Qe1** deviates the black Queen
-    - **... Qb4 7. O-O-O Bg4 8. Nb5! : once again, same trap with knight on c7 and open d-column :
-        - **... Bxf3 9. Nxc7#**
-        - **... Na6 9. Qxb7 Rb8 10. Qxb8+ Nxb8 11. Nxc7#**
-        - **... Nfd7 9. Qxb7**
-        - **... e5 9. Nxc7+ Ke7 10. Qxb7 Qxb7 11. Bc5#**
- <br><div align="center">
-     ![](./pics/Blackmar-Diemer_Accepted_Qxf3_Qb4_A.png)<br>
-     ... 5Qb4 7. O-O-O Bg4 8. Nb5! <br>
-     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
-     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+3.2</td></tr></table>
-
-<br>
-
-[*Back to previous move*](#_4_f3_exf3_)
+> [!NOTE]
+> ## Gambit accepted : 5.Qxf3<br>
+> Although not really a serious line, this is a tactical line for White with many case studies for patterns:
+> - **5.Qxf3** let another free pawn to Black with **... Qxd4** (hence the Stockfish score of -1.4)
+> - **6.Be3** chases the Black queen while developing the dark square bishop, allowing for White's queenside castle
+> - Whether the black queen is moving to **... Qe5**, **... Qb4**, **... Qg4** or **... Qh4+**, there is trap set for Black on the b7/c7 square. Examples are:
+>     - **... Qe5 7. O-O-O Bg4** (attacking both Queen and Rook) **8. Qxb7 Qxe3+ 9. Kb1 Bxd1?? 10. Qc7#**
+>     - **... Qg4 7. Qf2 Qb4 9. O-O-O Nc6 10. Nb5 Qa5** : nice trap here with knight on c7 and open d-column - here **11.Qe1** deviates the black Queen
+>     - **... Qb4 7. O-O-O Bg4 8. Nb5! : once again, same trap with knight on c7 and open d-column :
+>         - **... Bxf3 9. Nxc7#**
+>         - **... Na6 9. Qxb7 Rb8 10. Qxb8+ Nxb8 11. Nxc7#**
+>         - **... Nfd7 9. Qxb7**
+>         - **... e5 9. Nxc7+ Ke7 10. Qxb7 Qxb7 11. Bc5#**
+>  <br><div align="center">
+>      ![](./pics/Blackmar-Diemer_Accepted_Qxf3_Qb4_A.png)<br>
+>      ... 5Qb4 7. O-O-O Bg4 8. Nb5! <br>
+>      <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>      <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+3.2</td></tr></table>
+> 
+> <br>
+> 
+> [*Back to previous move*](#_4_f3_exf3_)
+> 
 
 <a id="_accepted_Nxf3_"></a>
 ## Gambit accepted : 5.Nxf3<br>
