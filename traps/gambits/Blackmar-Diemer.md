@@ -178,6 +178,7 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
     - [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : a sound side move avoiding the well-known main line - rarely played (8%)
     - ... e5 (+0.4) : Langeheinicke Defense : also a side move, but allowing White to recover a good position similar to a [Caro-Kann](../../e4_openings/e4_c6_Caro_Kann.md) variation
 <br>
+
 [*Back to previous move*](#_3_Nc3_)
 <br>
 
@@ -198,6 +199,7 @@ To be continued...
 [*Back to previous move*](#_4_f3_)
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
