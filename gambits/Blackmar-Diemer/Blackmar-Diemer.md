@@ -169,7 +169,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 This is the variation of Emil Josef Diemer, as an improvement of the initial version of Armand Blackmar, where **3.f3** was directly played.<br>
 The complete gambit is played on 92% of masters games after **3. ... Nf6**, and is the subject of this flashcard<br>
 <br><div align="center">
-        ![](./pics/Blackmar-Diemer_dxe4_f3_stats.png)
+        ![](./pics/Blackmar-Diemer_dxe4_Nc3_f3_stats.png)
 <br></div>
 
 <a id="_4_f3_"></a>
@@ -188,13 +188,13 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 > - The Vienna Defense is a rare move but clearly a sound one, by bringing White out of the gambit knowledge
 > - Usually, White takes the pawn by **5.fxe4**, taken by **.. Nxe4**. If White plays **6.Qf3** to threaten the knight, than **... Nxc3** exchange pieces and Black has counterplay even if White finally takes Qxb7
 > <br><div align="center">
->     ![](./pics/Blackmar-Diemer_dxe4_f3_Bg5_fxe4.png)<br>
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_f3_Bg5_fxe4.png)<br>
 >     ... 5. fxe4 Line <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
 > - In other games, White pushes **5.g4** to chase the bishop and then **6.g5** moving the Black knight to d5 and take **7.Nxe4** back. After **... e6**, Black is developing and maintaining a slight advantage. 
 > <br><div align="center">
->     ![](./pics/Blackmar-Diemer_dxe4_f3_Bg5_g4.png)<br>
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_f3_Bg5_g4.png)<br>
 >     ... 5. g4 Line <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
