@@ -175,8 +175,9 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 <a id="_4_f3_"></a>
 - The pawn taking move represents 78% of masters game, but Black still has counterplay in refusing the f3 pawn: 
     - [**... exf3**](#_4_f3_exf3_) (-0.7) : main move, most played and best rated in this position
-    - [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : a sound side move avoiding the well-known main line - rarely played (8%)
-    - ... e5 (+0.4) : Langeheinicke Defense : also a side move, but allowing White to recover a good position similar to a [Caro-Kann](../../e4_openings/e4_c6_Caro_Kann.md) variation
+    - [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : a sound side move avoiding the well-known main line - rarely played (8%) - worth to be worked upon
+    - [**... c5**](#_4_f3_c5_) (-0.4) : [Brombacher Countergambit](#_4_f3_c5_): another side move, but needs good preparation for Black - this move is provided in this flashcard, due to a nice trap set by White
+    - ... e3 (+0.4) : Langeheinicke Defense : also a side move, but allowing White to recover a good position similar to a [Caro-Kann](../../e4_openings/e4_c6_Caro_Kann.md) variation
 <br>
 
 [*Back to previous move*](#_3_Nc3_)
@@ -199,7 +200,25 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
 >  <br></div>
->     [*Back to previous move*](#_3_Nc3_)
+>     [*Back to previous move*](#_4_f3_)
+<br>
+
+<a id="_4_f3_c5_"></a>
+> [!NOTE]
+> ## Brombacher Countergambit : 4. f3 c5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.4)
+> - Another black move that sets White off the main line, a correct answer here if to move forward, increasing space for White with **5.d5**
+> - Note that **5.Bg4** looks on c7 square, while Black is threatening d4 pawn, so White will most likely 'naturally' move the knight to **6.Nb5**
+> - Black could defend by **... Na6** (-0.9), but also defend with **... Nd5** (-0.4)
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_Nc3_f3_c5.png)<br>
+>     ... 5. Bg4 cxd4 6. Nb5 Nd5 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
+> - Here, there is a tactical move with **7.Bxb8** attracting the black knight on **... Ne3** (+3.1)
+> - **8.Nc7+** forces the loss of the Black Queen with **... Qxc7**, else **... Kd7** is Mate in 2 !!
+> - Black may avoid Ne3 by **7. ... d3!!** to prevent Bf1 to protect Nb5; then Qa5+ picks up the undefended knight...
+>  <br></div>
+>     [*Back to previous move*](#_4_f3_)
 <br>
 
 <a id="_4_f3_exf3_"></a>
