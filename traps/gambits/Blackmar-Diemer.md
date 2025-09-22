@@ -154,12 +154,12 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > - Another played move in masters games is **4.Nxe4** allowing Black to take on d4: 
 >    - **4.Nxe4 Qxd4 5.Bd3 Nc6 6.Nf3 Qd5 7.O-O Nf6** Black keeps provoking White's pieces<br>
 > - A move seen in blitz/bullet club games is **4.Qe2**, also allowing Black to take on d4, but allows White to chase Black queen, leading to active and tactical position for white, although Stockfish rates it better for Black:
->    - **4.Qe2 Qxd4 5.Be3 Qd6 6.Nc3 Qd6 7.Nb5 Qc6 8.O-O-O** Black keeps provoking White's pieces<br>
+>    - **4.Qe2 Qxd4 5.Be3 Qd6 6.Nb5 Qc6 7.O-O-O** Black keeps provoking White's pieces<br>
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_dxe4_Nc3_e5_Qe2.png)<br>
 >     ... after 8. O-O-O <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
->     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-1.9</td></tr></table>
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-1.3</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
@@ -187,7 +187,17 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 > ## Vienna Defense : 4. f3 Bf5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.4)
 > - The Vienna Defense is a rare move but clearly a sound one, by bringing White out of the gambit knowledge
 > - Usually, White takes the pawn by **5.fxe4**, taken by **.. Nxe4**. If White plays **6.Qf3** to threaten the knight, than **... Nxc3** exchange pieces and Black has counterplay even if White finally takes Qxb7
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_f3_Bg5_fxe4.png)<br>
+>     ... 5. fxe4 Line <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
 > - In other games, White pushes **5.g4** to chase the bishop and then **6.g5** moving the Black knight to d5 and take **7.Nxe4** back. After **... e6**, Black is developing and maintaining a slight advantage. 
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_f3_Bg5_g4.png)<br>
+>     ... 5. g4 Line <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>-0.4</td></tr></table>
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
 <br>
@@ -199,6 +209,7 @@ To be continued...
 [*Back to previous move*](#_4_f3_)
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
