@@ -224,9 +224,22 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 
 <a id="_4_f3_exf3_"></a>
 ## 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3: gambit Diemer accepted<br>
-To be continued...
+This is the main line of the Blackmar-Diemer gambit, White has two main lines here:
+- The risky [**5.Qxf3**](#_accepted_Qxf3_) : leads to lots of traps for Black, but likely to lose in a tournament game if Black is prepared
+- The safer [**5.Nxf3**](#_accepted_Nxf3_) : also leads to several traps and more complex situations against a prepared player
+
+
+<a id="_accepted_Qxf3_"></a>
+## Gambit accepted : 5.Nxf3<br>
+
 <br>
-[*Back to previous move*](#_4_f3_)
+[*Back to previous move*](#_4_f3_exf3_)
+
+<a id="_accepted_Nxf3_"></a>
+## Gambit accepted : 5.Nxf3<br>
+
+<br>
+[*Back to previous move*](#_4_f3_exf3_)
 
 [*Back to TOP*](#_TOP_)
 
