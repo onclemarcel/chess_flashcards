@@ -11,7 +11,7 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange<br>
 When Black faces this gambit, the objective is to break White's initiative and strive for exchanges the pieces, to reach a better end game<br>
 <br><div align="center">
-    ![](./pics/Gambit_Blackmar-Diemer.png)<br>
+    ![](./pics/Blackmar-Diemer.png)<br>
     ... 1. d4 d5 2. e4 <br>
     <table align="center"><tr> 
     <td valign="center"><img align="center" src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
