@@ -16,7 +16,7 @@ When Black faces this gambit, the objective is to break White's initiative and s
     <table align="center"><tr> 
     <td valign="center"><img align="center" src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
 <br>
-<img src="./pics/Gambit_Blackmar-Diemer_stats.png"><br>
+<img src="./pics/Blackmar-Diemer_stats.png"><br>
 <br></div>
 <br>
 
