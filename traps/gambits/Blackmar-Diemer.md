@@ -136,7 +136,13 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > [!NOTE]
 > ## Gambit Accepted : 3. Nc3 e5 - Lemberger Variation (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit chosen at 13% by Black in masters game, to disrupt White's plans
-> - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, it blocks the bishop and the queen...
+> - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, before launching **5.Nxe4**, if possible:
+>   - if Black prevents by **... Nf6**, then **5.Bg5 exd4 6.Qxd4 Qxd4 7.Nxd4 Bb4 8.Nb5** aiming at c7, **... Na6 9.O-O-O** with a mate threat on **10.Rd8#**, if Black does not see it
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_dxe4_e5_Nge2.png)<br>
+>     ... 3. Nc3 e5 4. Nge2 Nf6 [...] 9. O-O-O <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Very Rare</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.4</td></tr></table> 
 > - Most played move is **4.Qh5** which directly aims at f7, followed by **5.Bc4** for the mate threat on f7 : a quite dangerous variation for Black although a correct order of moves allow Black to get a better game : 
 >    - **4.Qh5 exd4 5.Qe5+ Ne7 6.Bb5+ Nc6 7.Nxe4 Be6 8.Nc5 Qd5 9.Nf3 O-O-O** - White should exchange the queens here, or the knight is taken by **... Qxc5**<br>
 >    - **4.Qh5 exd4 5.Bc4 Qe7 6.Bg5 Nf6 7.Bxf6 Qxf6 8.Nxe4 Qe7 9.O-O-O Qxe4** - White is a piece down and Black can escape the mate, develop Nc6, ...<br>
@@ -159,9 +165,37 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 <br>
 
 <a id="_3_Nc3_Nf6_"></a>
-Follow-up
+## 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3: gambit Diemer<br>
+This is the variation of Emil Josef Diemer, as an improvement of the initial version of Armand Blackmar, where **3.f3** was directly played.<br>
+The complete gambit is played on 92% of masters games after **3. ... Nf6**, and is the subject of this flashcard<br>
+<br><div align="center">
+        ![](./pics/Blackmar-Diemer_dxe4_f5_stats.png)
+<br></div>
+
+<a id="_4_f3_"></a>
+- The pawn taking move represents 78% of masters game: 
+    - [**... exf3**](#_4_f3_exf3_) (-0.7) : main move, most played and best rated in this position
+    - [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : 
+<br>
+[*Back to previous move*](#_3_Nc3_)
+<br>
+
+<a id="_4_f3_Bf5_"></a>
+> [!NOTE]
+> ## Vienna Defense : 4. f3 Bf5 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.4)
+> - go go go
+>  <br></div>
+>     [*Back to previous move*](#_3_Nc3_)
+<br>
+
+<a id="_4_f3_exf3_"></a>
+## 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3: gambit Diemer accepted<br>
+To be continued...
+<br>
+[*Back to previous move*](#_4_f3_)
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
