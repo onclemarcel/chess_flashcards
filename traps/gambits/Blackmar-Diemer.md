@@ -169,11 +169,11 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 This is the variation of Emil Josef Diemer, as an improvement of the initial version of Armand Blackmar, where **3.f3** was directly played.<br>
 The complete gambit is played on 92% of masters games after **3. ... Nf6**, and is the subject of this flashcard<br>
 <br><div align="center">
-        ![](./pics/Blackmar-Diemer_dxe4_f5_stats.png)
+        ![](./pics/Blackmar-Diemer_dxe4_f3_stats.png)
 <br></div>
 
 <a id="_4_f3_"></a>
-- The pawn taking move represents 78% of masters game: 
+- The pawn taking move represents 78% of masters game, but Black still has counterplay in refusing the f3 pawn: 
     - [**... exf3**](#_4_f3_exf3_) (-0.7) : main move, most played and best rated in this position
     - [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : 
 <br>
@@ -195,6 +195,7 @@ To be continued...
 [*Back to previous move*](#_4_f3_)
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
