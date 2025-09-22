@@ -238,7 +238,7 @@ This is the main line of the Blackmar-Diemer gambit, White has two main lines he
 > - Whether the black queen is moving to **... Qe5**, **... Qb4**, **... Qg4** or **... Qh4+**, there is trap set for Black on the b7/c7 square. Examples are:
 >     - **... Qe5 7. O-O-O Bg4** (attacking both Queen and Rook) **8. Qxb7 Qxe3+ 9. Kb1 Bxd1?? 10. Qc7#**
 >     - **... Qg4 7. Qf2 Qb4 9. O-O-O Nc6 10. Nb5 Qa5** : nice trap here with knight on c7 and open d-column - here **11.Qe1** deviates the black Queen
->     - **... Qb4 7. O-O-O Bg4 8. Nb5! : once again, same trap with knight on c7 and open d-column :
+>     - **... Qb4 7. O-O-O Bg4 8. Nb5! : This is the **Halosar Trap** with knight on c7 and open d-column :
 >         - **... Bxf3 9. Nxc7#**
 >         - **... Na6 9. Qxb7 Rb8 10. Qxb8+ Nxb8 11. Nxc7#**
 >         - **... Nfd7 9. Qxb7**
