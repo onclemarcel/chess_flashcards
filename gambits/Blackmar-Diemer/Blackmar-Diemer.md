@@ -14,7 +14,7 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 > - Black objective is to break White's initiative and strive for exchanges the pieces, to reach a better end game<br>
 > - Black may avoid the gambit by playing the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md) or the [French Defense](../../e4_openings/e4_e6_French.md)
 > - A prepared Black player may also used several side lines to the main one ([Lemberger Variation](#_3_Nc3_e5_), [Vienna Defense](#_4_f3_Bf5_), ... )
-> - The [accepted Blackmar-Diemer](#__4_f3_exf3_) is full of tactical traps from White, with two main lines : the risky [5.Qxf3](#_accepted_Qxf3_) and the main [5.Nxf3](#_accepted_Nxf3)
+> - The [accepted Blackmar-Diemer](#_4_f3_exf3_) is full of tactical traps from White, with two main lines : the risky [5.Qxf3](#_accepted_Qxf3_) and the main [5.Nxf3](#_accepted_Nxf3_)
 >
 <br><div align="center">
     ![](./pics/Blackmar-Diemer.png)<br>
