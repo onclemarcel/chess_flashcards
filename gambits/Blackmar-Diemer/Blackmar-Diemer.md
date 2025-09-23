@@ -270,7 +270,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 <br><div align="center">
-        ![](./pics/Blackmar-Diemer_Accepted_Nxf3_stats.png)
+        ![](./pics/Blackmar-Diemer_Accepted_Nxf3_Stats.png)
 <br></div>
 
 
