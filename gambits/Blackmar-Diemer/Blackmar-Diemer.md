@@ -287,8 +287,19 @@ The main line of the accepted gambit has been well studied and lead to many choi
 [*Back to previous move*](#_4_f3_)
 <br>
 
-
-[*Back to previous move*](#_4_f3_exf3_)
+<a id="_5_Nxf3_Nc6_"></a>
+> [!NOTE]
+> ## Pietrowsky Defense : 5. Nxf3 Nc6 (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.2)
+> - This variation may quickly lead to an ideal White position for this gambit through normal moves : **6. Bb5 Bd7 7. O-O e6 8. d5!**
+> - If Black takes with **... exd5**, White can clean the board with **9. Nxd5 Nxd5 10. Qxd5** leading to the winning position aiming at f7 square 
+> <br><div align="center">
+>     ![](./pics/Blackmar-Diemer_Accepted_Nxf3_Nc6.png)<br>
+>     ... 5. Bg4 cxd4 6. Nb5 Nd5 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>players</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+2.4</td></tr></table>
+>  <br></div>
+>     [*Back to previous move*](#_5_Nxf3_)
+<br>
 
 [*Back to TOP*](#_TOP_)
 
