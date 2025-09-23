@@ -261,7 +261,7 @@ This is the main line of the Blackmar-Diemer gambit, White has two main lines he
 > 
 > <br>
 > 
-> [*Back to previous move*](#_4_f3_exf3_)
+> [*Back to previous move*](#_4_f3_)
 > 
 
 <a id="_accepted_Nxf3_"></a>
@@ -272,6 +272,20 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br><div align="center">
         ![](./pics/Blackmar-Diemer_Accepted_Nxf3_Stats.png)
 <br></div>
+<a id="_5_Nxf3_"></a>
+- Not less than five Black moves are played in masters games: 
+    - [**... g6**](#_5_Nxf3_g6_) (-0.5) : [Bogoljubow Defense](#_5_Nxf3_g6_) : 
+    - [**... Bg4**](#_5_Nxf3_Bg4_) (-0.2) : [Teichmann Defense](#_5_Nxf3_Bg4_) :
+    - [**... e6**](#_5_Nxf3_e6_) (-0.3) : [Euwe Variation](#_5_Nxf3_e6_): 
+    - [**... Bf5**](#_5_Nxf3_Bf5_) (-0.3) : [Gunderam Defense](#_5_Nxf3_Bf5_): 
+    - [**... c6**](#_5_Nxf3_c6_) (-0.5) : [Ziegler Defense](#_5_Nxf3_c6_):
+
+- Some player games also involve the following variation:
+    - [**... Nc6**](#_5_Nxf3_Nc6_) (-0.2) : [Pietrowsky Defense](#_5_Nxf3_Nc6_):     
+<br>
+
+[*Back to previous move*](#_4_f3_)
+<br>
 
 
 [*Back to previous move*](#_4_f3_exf3_)
