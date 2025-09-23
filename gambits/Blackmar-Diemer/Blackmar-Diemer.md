@@ -266,8 +266,13 @@ This is the main line of the Blackmar-Diemer gambit, White has two main lines he
 
 <a id="_accepted_Nxf3_"></a>
 ## Gambit accepted : 5.Nxf3<br>
-
+The main line of the accepted gambit has been well studied and lead to many choices from Black:
 <br>
+
+<br><div align="center">
+        ![](./pics/Blackmar-Diemer_Accepted_Nxf3_stats.png)
+<br></div>
+
 
 [*Back to previous move*](#_4_f3_exf3_)
 
