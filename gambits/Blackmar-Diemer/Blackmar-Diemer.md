@@ -5,7 +5,7 @@
 This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defense (B01) or even through an Indian Defense (A45) with **2. Nc3 d5 3. e4**
 <br><br>
 > [!TIP]
-> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nf3 Nf6**
+> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6** (with a beautiful mate case study from a "false pin" on Nf3 with **6. Bc4 Bg4? 7. Ne5! Bxd1?? 8. Bxf7#**)
 >
 <br><br>
 >[!NOTE]
