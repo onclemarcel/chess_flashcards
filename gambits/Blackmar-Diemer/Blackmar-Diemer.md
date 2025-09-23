@@ -4,12 +4,18 @@
 
 This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defense (B01) or even through an Indian Defense (A45) with **2. Nc3 d5 3. e4**
 <br><br>
-> [!NOTE]
+> [!TIP]
 > The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nf3 Nf6**
 >
 <br><br>
-The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange<br>
-When Black faces this gambit, the objective is to break White's initiative and strive for exchanges the pieces, to reach a better end game<br>
+>[!NOTE]
+> ## Summary
+> - The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange<br>
+> - Black objective is to break White's initiative and strive for exchanges the pieces, to reach a better end game<br>
+> - Black may avoid the gambit by playing the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md) or the [French Defense](../../e4_openings/e4_e6_French.md)
+> - A prepared Black player may also used several side lines to the main one ([Lemberger Variation](#_3_Nc3_e5_), [Vienna Defense](#_4_f3_Bf5_), ... )
+> - The [accepted Blackmar-Diemer](#__4_f3_exf3_) is full of tactical traps from White, with two main lines : the risky [5.Qxf3](#_accepted_Qxf3_) and the main [5.Nxf3](#_accepted_Nxf3)
+>
 <br><div align="center">
     ![](./pics/Blackmar-Diemer.png)<br>
     ... 1. d4 d5 2. e4 <br>
