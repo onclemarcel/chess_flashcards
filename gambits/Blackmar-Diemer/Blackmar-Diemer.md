@@ -9,7 +9,7 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
     <table align="center"><tr> 
     <td valign="center"><img align="center" src="../../pics/icon_stockfish.png"></td><td>-0.7</td></tr></table>
 <br></div>
-<br>
+
 >[!NOTE]
 > ## Summary
 > - The main idea for White is to gain the initiative by quickly opening the e-column and, later on, the f-column through a pawn sacrifice and a pawn exchange<br>
@@ -18,15 +18,17 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 > - A prepared Black player may also used several side lines to the main one ([Lemberger Variation](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly variation (-0.2) of the [Caro-Kann](../../e4_openings/e4_c6_Caro_Kann.md))
 > - The [accepted Blackmar-Diemer](#_4_f3_exf3_) (-0.5) is full of tactical traps from White, with two main lines : the risky [5.Qxf3](#_accepted_Qxf3_) (-1.4) and the main [5.Nxf3](#_accepted_Nxf3_) (-0.5)
 >
+<br><br>
+
+> [!TIP]
+> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6** (with a beautiful mate case study from a "false pin" on Nf3 with **6. Bc4 Bg4? 7. Ne5! Bxd1?? 8. Bxf7#**)
+>
+
 <br><div align="center">
 <img src="./pics/Blackmar-Diemer_stats.png"><br>
 <br></div>
 <br>
 
-> [!TIP]
-> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](../../e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6** (with a beautiful mate case study from a "false pin" on Nf3 with **6. Bc4 Bg4? 7. Ne5! Bxd1?? 8. Bxf7#**)
->
-<br><br>
 
 <a id="_initial_move_"></a>
 - This opening is not correct with respect to openings principles, but leads to a ***dynamic game with many tactical ideas*** for both players
