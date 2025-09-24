@@ -77,7 +77,7 @@ The following table shows the typical Black moves after **3. Nc3**
 <br></div>
 
 <a id="_3_Nc3_"></a>
-- Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game: 
+- Here Black should develop the knight while defending the e4 pawn - which represent 78% of masters game. That said, several other options are worth to be mentioned since White may be less prepared for those ones: 
     - [**... Nf6**](#_3_Nc3_Nf6_) (-0.5) : main move, most played and best rated in this position
     - [**... e5**](#_3_Nc3_e5_) (-0.1) : [Lemberger Variation](#_3_Nc3_e5_): side move for Black, which may disrupt White initiative in this opening (played only 13%)
     - [**... f5**](#_3_Nc3_f5_) (+0.1) : [Netherlands Variation](#_3_Nc3_f5_): another interesting side move, but more dangerous for Black, since it weakens f7 square and exposes the King
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
