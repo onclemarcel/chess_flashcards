@@ -63,8 +63,8 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 >     [*Back to previous move*](#_initial_move_)
 
 <a id="_accepted_"></a>
-## 1. d4 d5 2. e4 dxe4 : gambit accepted<br>
-As soon as the gambit is accepted, White should play **3. Nc3** (Diemer) instead of a direct **3. f3** (Blackmar) that is easily met with **... e5**, opening the critical daigonal h4-d8 for the Black Queen.
+## 1. d4 d5 2. e4 dxe4 : entering into the Blackmar gambit <br>
+As soon as the gambit (Blackmar) is accepted, White should play **3. Nc3** (Diemer) instead of a direct **3. f3** (Blackmar) that is easily met with **... e5**, opening the critical diagonal h4-d8 for the Black Queen.
 <br>
 > [!NOTE]
 > **3. Nc3** is played 99% of the time with no win for White in masters games when other moves are played*
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
