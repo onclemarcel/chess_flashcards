@@ -44,7 +44,7 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 
 <a id="_Nf6_"></a>
 > [!TIP]
-> ### 1. d4 d5 2. e4 Nf6? : gambit refused with Nf6 (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.6)
+> ### 1. d4 d5 2. e4 Nf6? : Blackmar Gambit refused with Nf6 (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.6)
 > - This variation is never played in masters games, but when Black refuses the gambit with **... Nf6**, White takes space with **3. e5** while attacking the knight
 > - There are 2 typical case studies hidden in this variation
 > - **Case 1**: Black blocks its own knight with **3. ... Ne4**, since it gets no available square to escape, so **4. f3** just grabs it. 
@@ -63,7 +63,7 @@ This gambit may be reached by the Queen Pawn Game (D00), the Scandinavian Defens
 >     [*Back to previous move*](#_initial_move_)
 
 <a id="_accepted_"></a>
-## 1. d4 d5 2. e4 dxe4 : entering into the Blackmar gambit <br>
+## 1. d4 d5 2. e4 dxe4 : accepting the Blackmar gambit <br>
 As soon as the gambit (Blackmar) is accepted, White should play **3. Nc3** (Diemer) instead of a direct **3. f3** (Blackmar) that is easily met with **... e5**, opening the critical diagonal h4-d8 for the Black Queen.
 <br>
 > [!NOTE]
@@ -90,7 +90,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_Nc6_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 Nc6? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
+> ## Blackmar Gambit Accepted : 3. Nc3 Nc6? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
 > - When Black answers with **.. Nc6**, **4. d5** chases the Knight : look for **... Ne5** to be chased again with **5. Qd4**
 > - Black moves its knight again, e.g. **... Ng6**, then Bb5+ sets a trap: 
 > <br><div align="center">
@@ -100,7 +100,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.0</td></tr></table>
 >  <br></div>
 > - If Black blocks with the pawn, then White can safely take with **7. dxc6** (+2.3) since the White Queen, if taken, can respawn ... in a8, thanks to a discovered check with Bb5 after **8. cxb7+** and **9. bxa8=Q** (very nice combination, indeed)
-> - Best move for Black is **... Bd7** instead of **... c6*** : Black should aim for a better end game and exchange pieces to break White initiatives
+> - Best move for Black is **... Bd7** instead of **... c6** : Black should aim for a better end game and exchange pieces to break White initiatives
 > - On the contrary, White should avoid exchanges and continue on setting pieces on the board by **7. Be3** or **7. Nge2**
 >  <br></div>
 >     [*Back to previous move*](#_3_Nc3_)
@@ -108,7 +108,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_f5_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
+> ## Blackmar Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
 > - This is a side move usually not anticipated by White in this gambit, but the move **... f5** weakens the King and White may aim at the h5-e8 diagonal
 > - White, according to Stockfish should play **4.Bg5**, however a typical White move in the Blackmar-Diemer gambit spirit is to play **4.f3** to open the e-column:
 >     - if Black takes with **... exf3**, White are much better with **5.Nxf3** (+0.8)
@@ -127,7 +127,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_Bf5_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 Bf5!? - Zeller Defense (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> ## Blackmar Gambit Accepted : 3. Nc3 Bf5!? - Zeller Defense (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit, White may directly aim at chasing the bishop by **4. g4**, which is the Stockfish best move
 > - but, there is a chance that White continue with the **4. f3** spirit *(73% of the masters games)*:
 >     - Black should not take here and protect d4 with **... Nf6** (attacking the center with **... e5** leads to the drawback of exchanging the white bishop with the knight) : the idea is to try exchanging pieces with an advantage in the end game<br>
@@ -144,7 +144,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 
 <a id="_3_Nc3_e5_"></a>
 > [!NOTE]
-> ## Gambit Accepted : 3. Nc3 e5 - Lemberger Variation (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
+> ## Blackmar Gambit Accepted : 3. Nc3 e5 - Lemberger Variation (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit chosen at 13% by Black in masters game, to disrupt White's plans
 > - White's reactions in masters games depart from Stockfish moves here (**4. Nge2**): although the move protects d4, before launching **5.Nxe4**, if possible:
 >   - if Black prevents by **... Nf6**, then **5.Bg5 exd4 6.Qxd4 Qxd4 7.Nxd4 Bb4 8.Nb5** aiming at c7, **... Na6 9.O-O-O** with a mate threat on **10.Rd8#**, if Black does not see it
@@ -175,7 +175,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 <br>
 
 <a id="_3_Nc3_Nf6_"></a>
-## 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3: gambit Diemer<br>
+## 1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3: The Diemer Gambit <br>
 This is the variation of Emil Josef Diemer, as an improvement of the initial version of Armand Blackmar, where **3.f3** was directly played.<br>
 The complete gambit is played on 92% of masters games after **3. ... Nf6**, and is the subject of this flashcard<br>
 <br><div align="center">
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
