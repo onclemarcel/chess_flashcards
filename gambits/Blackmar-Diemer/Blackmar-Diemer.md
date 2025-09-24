@@ -184,7 +184,7 @@ The complete gambit is played on 92% of masters games after **3. ... Nf6**, and 
 
 <a id="_4_f3_"></a>
 - The pawn taking move represents 78% of masters game, but Black still has counterplay in refusing the f3 pawn: 
-    - accept with [**... exf3**](#_4_f3_exf3_) (-0.7) : main move, most played and best rated in this position
+    - **accept with** [**... exf3**](#_4_f3_exf3_) (-0.7) : main move, most played and best rated in this position
     - refuse with [**... Bf5**](#_4_f3_Bf5_) (-0.4) : [Vienna Defense](#_4_f3_Bf5_) : a sound side move avoiding the well-known main line - rarely played (8%) - worth to be worked upon
     - refuse with [**... c5**](#_4_f3_c5_) (-0.4) : [Brombacher Countergambit](#_4_f3_c5_): another side move, but needs good preparation for Black - this move is provided in this flashcard, due to a nice trap set by White
     - refuse with ... c6 (-0.2) : O'kelly Defense : identical to an exchange [Caro-Kann](../../e4_openings/e4_c6_Caro_Kann.md) variation where White is attempting to transpose into the Blackmar-Diemer gambit, with Black refusing with Nf6. Here Black aims at attacking the center with **... e5**
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
