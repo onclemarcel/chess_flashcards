@@ -130,7 +130,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > ## Blackmar Gambit Accepted : 3. Nc3 Bf5!? - Zeller Defense (<sub>![](../../pics/icon_stockfish.png)</sub> : -0.1)
 > - A side move to the gambit, White may directly aim at chasing the bishop by **4. g4**, which is the Stockfish best move
 > - but, there is a chance that White continue with the **4. f3** spirit *(73% of the masters games)*:
->     - Black should not take here and protect d4 with **... Nf6** (attacking the center with **... e5** leads to the drawback of exchanging the white bishop with the knight) : the idea is to try exchanging pieces with an advantage in the end game<br>
+>     - Black should not take here and protect e4 with **... Nf6** (attacking the center with **... e5** leads to the drawback of exchanging the white bishop with the knight) : the idea is to try exchanging pieces with an advantage in the end game<br>
 > <br><div align="center">
 >     ![](./pics/Blackmar-Diemer_dxe4_Nc3_Bf5.png)<br>
 >     ... 3. Nc3 Bf5 4. g4 <br>
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
