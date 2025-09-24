@@ -110,7 +110,7 @@ Black may choose unexpected answers such as **... c5** or [**... Nc6**](#_3_Nc3_
 > [!NOTE]
 > ## Blackmar Gambit Accepted : 3. Nc3 f5!? (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.1)
 > - This is a side move usually not anticipated by White in this gambit, but the move **... f5** weakens the King and White may aim at the h5-e8 diagonal
-> - White, according to Stockfish should play **4.Bg5**, however a typical White move in the Blackmar-Diemer gambit spirit is to play **4.f3** to open the e-column:
+> - White, according to Stockfish should play **4.Bg5**, however a typical White move in the Blackmar-Diemer gambit spirit is to play **4.f3** to open the f-column:
 >     - if Black takes with **... exf3**, White are much better with **5.Nxf3** (+0.8)
 >     - but Black should attack the center to break White's initiative (-0.5) : **... e5!**: if White takes **5.fxe4**, then Black breaks with **... exd4** chasing the Knight, followed by **6. ... Nc6** to protect d4<br>
 >
@@ -302,6 +302,7 @@ The main line of the accepted gambit has been well studied and lead to many choi
 <br>
 
 [*Back to TOP*](#_TOP_)
+
 
 
 
