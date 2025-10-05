@@ -24,6 +24,7 @@ This is the most common opening played in the King's Pawn masters games (92% of 
     - [**3. Bc4**, the Italian Opening](./C50_Italian.md),
     - [**3. d4**, the Scotch Opening](./C44_Scotch.md).
 <br>
+
 - [**... d6**](./C41_Nf3_d6_Philidor_Defense.md) (+0.5) : The [Philidor Defense](./C41_Nf3_d6_Philidor_Defense.md) : The main disadvantage of defending e5 with a pawn is that, by not developing a piece instead, Black can fall behind in development. **... d6** also makes it harder to develop Black's king side bishop: Black will have to move the g-pawn or d-pawn again to free it. Since this move doesn't help control d4, White's most critical response is **3. d4**  
  <br>
 
