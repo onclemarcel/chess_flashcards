@@ -7,7 +7,7 @@
 
 <br><div align="center">
     ![](./pics/B00_e4_KPG.png)<br>
-    ... Start Position <br>
+    The King's Pawn Game 1. e4 <br>
     <table align="center"><tr> 
     <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>+0.2</td></tr></table>
 <br>
