@@ -25,9 +25,11 @@ Black's pawn on e5 is undefended, so it is easy for White to develop in a way th
   
 - [**2. Nf3**](./C40_Nf3_King_Knight.md) (+0.1) : **2. Nf3** leads to the [King's Knight Opening (C40)](./C40_Nf3_King_Knight.md), White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
 - [**2. f4**](./C30_f4_King_Gambit.md) (-0.4) : [the King's gambit](./C30_f4_King_Gambit.md), confronts the e5 pawn and tries to lever open the f-file for an attack on Black's weak f7 pawn. This is the quintessential Romantic chess opening, popular with the likes of Paul Morphy. A prepared Black player should be able to grab the proffered pawn and keep it. 
-- [**2. d4**](./C20_d4_Center_Game.md) (-0.1) : [the Centre Game](./C20_d4_Center_Game.md) smashes the centre open. White can then sacrifice a pawn or two to develop pieces with great speed (2...exd4 3. c3, the Danish gambit).
-- [**2. Nc3**](./C25_Nc3_Vienna_Game) (+0.1) : This is a development move offers flexibility in Black response since is doesn't immediately challenge e5. Nc3 controls d5 and protects e4. The [Vienna Game](./C25_Nc3_Vienna_Game.md) is also a preparing move for the **f4** [King's Gambit](./C30_f4_King_Gambit.md).
-- [**2. Bc4**](./C23_Bc4_Bishop_Opening.md) (0.0) : Another development move that is not challenging e5, but aims at f7, while preventing d5. Similarly to the **2. Nc3** move above, the [Bishop's Opening](./C23_Bc4_Bishop_Opening.md) gives flexibility in Black response.
+- [**2. d4**](./C20_d4_Center_Game.md) (-0.1) : [the Centre Game](./C20_d4_Center_Game.md) smashes the centre open. White can then sacrifice a pawn or two to develop pieces with great speed (2...exd4 3. c3, the Danish gambit).<br>
+- [**2. Nc3**](./C25_Nc3_Vienna_Game) (+0.1) : This development move offers flexibility in Black response since is doesn't immediately challenge e5. Nc3 controls d5 and protects e4. The [Vienna Game](./C25_Nc3_Vienna_Game.md) is also a preparing move for the **f4** [King's Gambit](./C30_f4_King_Gambit.md).
+- [**2. Bc4**](./C23_Bc4_Bishop_Opening.md) (0.0) : Another development move that is not challenging e5, but aims at f7, while preventing d5. Similarly to the **2. Nc3** move above, the [Bishop's Opening](./C23_Bc4_Bishop_Opening.md) gives flexibility in Black response.<br>
+- [**2. Qh5**](./C20_Qh5_Wayward_Queen.md) (-0.3) :  This move violates an opening principle by bringing the queen out early. However, Black has to be careful, as White’s queen is placed on an aggressive square. The f7-pawn is guarded only by Black's king and is considered Black’s weakest pawn at the beginning of the game.
+
   
  <br>
 

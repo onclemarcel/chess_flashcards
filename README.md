@@ -16,6 +16,7 @@ There are several ways to dive into the pages of this repository:
     - [**2. d4** The Center Game](./e4_openings/C20_d4_Center_Game.md)
     - [**2. Nc3** The Vienna game](./e4_openings/C25_Nc3_Vienna_Game.md)
     - [**2. Bc4** The Bishop's Opening](./e4_openings/C23_Bc4_Bishop_Opening.md)
+    - [**2. Qh5** The Wayward Queen](./e4_openings/C20_Qh5_Wayward_Queen.md)
     - [**2. Nf3 Nc6** The King's Knight Opening](./e4_openings/C44_Nf3_Nc6_King_Knight.md)
       - [**3. Bb5**, the Spanish Opening or Ruy Lopez](./e4_openings/C60_Ruy_Lopez.md),
       - [**3. Bc4**, the Italian Opening](./e4_openings/C50_Italian.md),
