@@ -28,8 +28,8 @@
 <br>
 
 - From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
-  - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game. White aims at controlling the center
-  
+  - [**1. e4**](./e4_openings/B00_e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game. White aims at controlling the center
+
  <br>
 
 <a id="_uncommon_note_"></a>
