@@ -6,12 +6,12 @@
 <br>
 
 <br><div align="center">
-    ![](../e4_openings/pics/B00_e4_KPG_stats.png)<br>
+    ![](./pics/B00_e4_KPG.png)<br>
     ... Start Position <br>
     <table align="center"><tr> 
-    <td valign="center"><img src="./pics/icon_stockfish.png"></td><td>+0.2</td></tr></table>
+    <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>+0.2</td></tr></table>
 <br>
-<img src="../e4_openings/pics/B00_e4_KPG_stats.png"><br>
+<img src="./pics/B00_e4_KPG_stats.png"><br>
 <br></div>
 <br>
 
@@ -23,10 +23,10 @@
     - Let White build a centre but prepare to undermine it later.
     - Control d4
   
-  - [**... e5**](./e4_openings/C20_e4_e5_KPG.md)  (+0.2) : **... e5** lets Black take space in the centre. It is a classical reply, while representing 23% of masters games
+- [**... e5**](./e4_openings/C20_e4_e5_KPG.md)  (+0.2) : **... e5** lets Black take space in the centre. It is a classical reply, while representing 23% of masters games
   
  <br>
 
- [*Back to previous move*](#_initial_move_) <br>
+ [*Back to initial move*](#_initial_move_) <br>
  [*Back to TOP*](#_TOP_)
 
