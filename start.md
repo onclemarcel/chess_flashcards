@@ -22,13 +22,15 @@
 - *\<list here possible moves, with short summary on the strategy related to this move\>*
 - *\<create a internal link to a paragraph on this page or an external link when the move is transposing to another opening \>*
 - *\< Mention the Stockfish rating of the move in parenthesis \>*
-
-- From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
-  - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game
   - [**1. \<uncommon_move\>**](#_uncommon_note_)  (-0.x) : *\<for uncommon moves illustrated in books/videos, create notes to highlight the discussion\>*
   - [**1. \<Mate or Trap Pattern\>**](#_mate_or_trap_) (-0.x) : *\<create tips when a Mate pattern or Trap Pattern should be highlighted\>*
   - [**1. \<move\>**](#_move_)  (x.x) : *\<Main moves are discussed after the notes or tips, they can be reached by clicking on an internal anchor link - *click on the move*\>*
 <br>
+
+- From the starting position, White makes its choice to open the game - opening theory is quite extensively documented in books and on the Internet, with golden rules for beginners (e.g. pieces development rules, control of the center, pawn structure, ....):
+  - [**1. e4**](./e4_openings/e4_KPG.md)  (+0.2) : the [King's Pawn Opening](./e4_openings/e4_KPG.md), is the most popular first move at all levels of the game. White aims at controlling the center
+  
+ <br>
 
 <a id="_uncommon_note_"></a>
 > [!NOTE]
