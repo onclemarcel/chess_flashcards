@@ -23,7 +23,7 @@
     - Let White build a centre but prepare to undermine it later.
     - Control d4
   
-- [**... e5**](./e4_openings/C20_e4_e5_KPG.md)  (+0.2) : **... e5** lets Black take space in the centre and control d4 square, while preventing **2. e5**. It is a classical reply, while representing 23% of masters games
+- [**... e5**](./C20_e4_e5_KPG.md)  (+0.2) : **... e5** lets Black take space in the centre and control d4 square, while preventing **2. e5**. It is a classical reply, while representing 23% of masters games
   
  <br>
 
