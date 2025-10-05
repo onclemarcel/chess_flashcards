@@ -14,6 +14,8 @@ There are several ways to dive into the pages of this repository:
   - [**1. e4 e5** The King's Pawn Game](./e4_openings/C20_e4_e5_KPG.md)
     - [**2. f4** The King's Gambit](./e4_openings/C30_f4_King_Gambit.md)
     - [**2. d4** The Center Game](./e4_openings/C20_d4_Center_Game.md)
+    - [**2. Nc3** The Vienna game](./e4_openings/C25_Nc3_Vienna_Game.md)
+    - [**2. Bc4** The Bishop's Opening](./e4_openings/C23_Bc4_Bishop_Opening.md)
     - [**2. Nf3 Nc6** The King's Knight Opening](./e4_openings/C44_Nf3_Nc6_King_Knight.md)
       - [**3. Bb5**, the Spanish Opening or Ruy Lopez](./e4_openings/C60_Ruy_Lopez.md),
       - [**3. Bc4**, the Italian Opening](./e4_openings/C50_Italian.md),
