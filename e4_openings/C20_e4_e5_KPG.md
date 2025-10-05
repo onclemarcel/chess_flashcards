@@ -23,7 +23,7 @@ Black's pawn on e5 is undefended, so it is easy for White to develop in a way th
     - Play for traps.
     - Play unusual opening moves.
   
-- [**2. Nf3**](./C40_Nf3_King_Knight.md)  (+0.1) : With **2. Nf3**, White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
+- [**2. Nf3**](./C40_Nf3_King_Knight.md)  (+0.1) : **2. Nf3** leads to the [King's Knight Opening (C40)](./C40_Nf3_King_Knight.md), White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
   
  <br>
 
