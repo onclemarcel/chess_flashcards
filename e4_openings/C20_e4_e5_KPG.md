@@ -17,9 +17,13 @@ Black's pawn on e5 is undefended, so it is easy for White to develop in a way th
 <br>
 
 <a id="_initial_move_"></a>
-- bla bla bla
+- White may try to:
+    - Attack Black's undefended e5 pawn directly.
+    - Develop a piece.
+    - Play for traps.
+    - Play unusual opening moves.
   
-- [**2. Nf3**](./e4_openings/C20_e4_e5_KPG.md)  (+0.2) : **... e5** lets Black take space in the centre and control d4 square, while preventing **2. e5**. It is a classical reply, while representing 23% of masters games
+- [**2. Nf3**](./e4_openings/C40_Nf3_King_Knight.md)  (+0.1) : With **2. Nf3**, White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
   
  <br>
 
