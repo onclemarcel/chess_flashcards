@@ -32,6 +32,32 @@ There is no immediate threat to Black's position so they have some flexibility i
 
   - **... d6**, the **Paris defense**, is very passive. It avoids developing a piece and restricts Black's kingside bishop to over defend e5, which wasn't at risk anyway. This usually transposes into an Exchange Philidor.
 
+<br>
+<br>
+
+<br><div align="center">
+    ![](./pics/C55_Nf6_Two_Knights.png)<br>
+    The Two Knights Defense 3. Bc4 Nf6 <br>
+    <table align="center"><tr> 
+    <td valign="center"><img src="../pics/icon_stockfish.png"></td><td>+0.1</td></tr></table>
+<br>
+<img src="./pics/C55_Nf6_Two_Knights_stats.png"><br>
+<br></div>
+<br>
+
+<a id="_Nf6_"></a>
+With **...Nf6**, Black develops a knight and attacks the e4-pawn, getting one step closer to castling. This move seems like the most obvious one Black can play in the Italian, but it also comes at a disadvantage of blocking the d8-h4 diagonal of the black queen.<br>
+<br>
+
+White has several options to defend the e4 pawn:
+- [**4. d3**](#_Modern_Bishop_) (+0.1) : the most common move to the Two Knights Defence, defending the pawn and opening the c1-h6 diagonal for the dark squared bishop. This is known as the Modern Bishop's Opening. It represents 73% of the masters games.
+
+- [**4. Nc3**](./C47_Four_Knights_Game.md) (-0.2) : transposes into the Italian Variation of the [Four Knights Game](./C47_Four_Knights_Game.md). This move looks like a logical move to defend the pawn, but it allows Black the opportunity to play **... Nxe4!** : This is the common ***Center Fork Trick***, in where Black temporarily sacrifices a piece in order to play d5 and get back the piece with a comfortable position.
+
+- [**4. Ng5](#_Fried_Liver_) (0.0) :  With this move, White double attacks the f7-pawn, and also takes advantage of the fact that Black did not develop his f8-bishop and cannot react to this attack by castling. This usually results in Black sacrificing a pawn for a lead in development in master level
+
+White can also open up the center:
+- [**4. d4**](#_Nf6_d4_) (0.0) : this move almost always transposes to the Scotch Gambit after 4...exd4. White can then either continue with 5. O-O, playing aggressively in gambit-style fashion, or can gain more space in the center with 5. e5.
 
 
  [*Back to initial move*](#_initial_move_) <br>
