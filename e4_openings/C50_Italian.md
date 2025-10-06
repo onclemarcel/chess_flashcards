@@ -2,10 +2,7 @@
 # 1. e4 e5 2. Nf3 Nc6 3. Bc4: The Italian Opening (C50) #
 <br>
 
-White develops the bishop to a good square where it controls a valuable diagonal. <br>
-From c4 the Bishop controls d5 and pressures Black's f7-pawn, the most vulnerable pawn in Blacks position. <br>
-Having developed both their kingside minor pieces quickly, White is ready to castle. <br>
-White's plans include a swift attack on f7 and building a big centre with c3 and d4.<br>
+White develops the bishop to a good square where it controls a valuable diagonal. From c4 the Bishop controls d5 and pressures Black's f7-pawn, the most vulnerable pawn in Blacks position. Having developed both their kingside minor pieces quickly, White is ready to castle. White's plans include a swift attack on f7 and building a big centre with c3 and d4.<br>
 
 <br><div align="center">
     ![](./pics/C50_Italian.png)<br>
