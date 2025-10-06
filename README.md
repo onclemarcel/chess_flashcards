@@ -12,13 +12,13 @@ There are several ways to dive into the pages of this repository:
 - Walk through the "code" folders to reach a specific page, especially for mate patterns or specific traps
 - Go straight to one of the most famous openings in the following list:
 
-### From the initial position###
+### From the initial position ###
 - **White** opens with:
 - [**1. e4** The King's Pawn Game](./e4_openings/B00_e4_KPG.md) to control the center, open lines for its bishop and queen, move one step to the kingside castling. One drawback is that the e4 pawn is not defended after this first move.
 - **Black** may play symmetrically with :
 - [**... e5**](./e4_openings/C20_e4_e5_KPG.md) to block e4 and get an equal share of the center, *but e5 becomes an undefended pawn*.
 
-### From 1. e4 e5###
+### From 1. e4 e5 ###
 - **White** may develop its pieces with :
   - [**2. Nc3** The Vienna game](./e4_openings/C25_Nc3_Vienna_Game.md)
   - [**2. Bc4** The Bishop's Opening](./e4_openings/C23_Bc4_Bishop_Opening.md)
