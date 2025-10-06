@@ -54,10 +54,10 @@ White has several options to defend the e4 pawn:
 
 - [**4. Nc3**](./C47_Four_Knights_Game.md) (-0.2) : transposes into the Italian Variation of the [Four Knights Game](./C47_Four_Knights_Game.md). This move looks like a logical move to defend the pawn, but it allows Black the opportunity to play **... Nxe4!** : This is the common ***Center Fork Trick***, in where Black temporarily sacrifices a piece in order to play d5 and get back the piece with a comfortable position.
 
-- [**4. Ng5](#_Fried_Liver_) (0.0) :  With this move, White double attacks the f7-pawn, and also takes advantage of the fact that Black did not develop his f8-bishop and cannot react to this attack by castling. This usually results in Black sacrificing a pawn for a lead in development in master level
+- [**4. Ng5](#_Fried_Liver_) (0.0) : With this move, leading to the [Fried Liver Attack](#_Fried_Liver_), White double attacks the f7-pawn, and also takes advantage of the fact that Black did not develop his f8-bishop and cannot react to this attack by castling. This usually results in Black sacrificing a pawn for a lead in development in master level
 
 White can also open up the center:
-- [**4. d4**](#_Nf6_d4_) (0.0) : this move almost always transposes to the Scotch Gambit after 4...exd4. White can then either continue with 5. O-O, playing aggressively in gambit-style fashion, or can gain more space in the center with 5. e5.
+- [**4. d4**](#_Nf6_d4_) (0.0) : this move leads to the [Max Lange Attack](#_Nf6_d4_) and almost always transposes to the Scotch Gambit after 4...exd4. White can then either continue with 5. O-O, playing aggressively in gambit-style fashion, or can gain more space in the center with 5. e5.
 
 
  [*Back to initial move*](#_initial_move_) <br>
