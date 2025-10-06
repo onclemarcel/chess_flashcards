@@ -33,6 +33,7 @@ There is no immediate threat to Black's position so they have some flexibility i
   - **... d6**, the **Paris defense**, is very passive. It avoids developing a piece and restricts Black's kingside bishop to over defend e5, which wasn't at risk anyway. This usually transposes into an Exchange Philidor.
 
 
+
  [*Back to initial move*](#_initial_move_) <br>
  [*Back to TOP*](#_TOP_)
 
