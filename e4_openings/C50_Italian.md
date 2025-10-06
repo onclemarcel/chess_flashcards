@@ -59,14 +59,28 @@ White has several options to defend the e4 pawn:
 White can also open up the center:
 - [**4. d4**](#_Nf6_d4_) (0.0) : this move almost always transposes to the Scotch Gambit after 4...exd4. White can then either continue with 5. O-O, playing aggressively in gambit-style fashion, or can gain more space in the center with 5. e5.
 
-<a id="_Nf6_"></a>
+<a id="_Fried_Liver_"></a>
 > [!TIP]
-> ### 3. Bc4 Nf6 2. Ng5 : the Knight Attack (<sub>![](../../pics/icon_stockfish.png)</sub> : +0.0)
+> ### 3. Bc4 Nf6 4. Ng5 : the Knight Attack (<sub>![](../pics/icon_stockfish.png)</sub> : +0.0)
 > - Black's only sensible way to defend f7 is to block the bishop's access with **... d5**
 > - After **5.exd5**, there are several possible Black answers 
->   - **... Nxd5?!** (+0.7) is *not* played at master level and considered an incorrect positional move, due to the open line created by White's move **6.Nxf7**
->   - **... Na5** (0.0) is the *most played move* at master level
->     [*Back to previous move*](#_Nf6_)
+>   - **... Nxd5?!** (+0.7) is *not* played at master level and considered an incorrect positional move, due to the open line created by White's move **6.Nxf7** : The **Fried Liver Attack**
+>   - **... Na5** (0.0) is the *most played move* at master level, attacking Bb4 and chasing White's bishop. Then Black can chase the Knight with **...h6**, and push e5 to e4 to carry puhing the White knight coming back to f3, and, finally, take d5 back with the Queen.
+>     - If white plays **6. Bb5+ c6 7. dxc6 bxc6 8. Be2**, the bishop will have to come back on a safe square, eventually
+>   - **... b5** (+0.3) : while giving a better score to White, this move is rarely played (7% of masters games) and best score is provided for the unnatural move 6.Bf1 *(known by master players, though...)*. Black may then take the pawn back with **... Nxd5**
+> <br>
+>
+><div align="center">
+>     ![](./pics/C57_Italian_Knight_Attack_Ulvestad.png)<br>
+>     Ulvestad Variation 4. Ng5 d5 5. exd5 b5 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Rare (7%)</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.3</td></tr></table>
+>  <br></div>
+><br>
+>
+> Other White moves that **6.Bf1** lead to a better game for Black with a careful play:
+>
+>  [*Back to previous move*](#_Nf6_)
 
 
  [*Back to previous move*](#_Nf6_) <br>
