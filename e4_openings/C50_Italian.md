@@ -70,7 +70,7 @@ White can also open up the center:
 >   - **... b5** (+0.3) : while giving a better score to White, this move is rarely played (7% of masters games) and best score is provided for the unnatural move 6.Bf1 *(known by master players, though...)*. Black may then take the pawn back with **... Nxd5**
 > <br>
 >
-><div align="center">
+><br><div align="center">
 >     ![](./pics/C57_Italian_Knight_Attack_Ulvestad.png)<br>
 >     Ulvestad Variation 4. Ng5 d5 5. exd5 b5 <br>
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Rare (7%)</td> 
