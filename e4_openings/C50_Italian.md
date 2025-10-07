@@ -67,7 +67,7 @@ White can also open up the center:
 >   - **... Nxd5?!** (+0.7) is *not* played at master level and considered an incorrect positional move, due to the open line created by White's move **6.Nxf7** : The **Fried Liver Attack**
 >   - **... Na5** (0.0) is the *most played move* at master level, attacking Bb4 and chasing White's bishop. Then Black can go after the Knight with **...h6**, and push e5 to e4 to carry on bullying the White knight coming back to f3. Pawn on d5 can also be taken back with the Queen, when possible.
 >     - If white plays **6. Bb5+ c6 7. dxc6 bxc6 8. Be2**, the bishop will have to come back on a safe square, eventually
->   - **... b5** (+0.3) : while giving a better score to White, this move is rarely played (7% of masters games) and best score is provided for the unnatural move 6.Bf1 *(known by master players, though...)*. Black may then take the pawn back with **... Nxd5**
+>   - **... b5** (+0.3) : while giving a better score to White, this move is rarely played (7% of masters games) and best score is provided for the unnatural move 6.Bf1 *(known by master players, though...)*.
 >
 ><br><div align="center">
 >     ![](./pics/C57_Italian_Knight_Attack_Ulvestad.png)<br>
@@ -86,5 +86,6 @@ White can also open up the center:
  [*Back to initial move*](#_initial_move_) <br>
  
  [*Back to TOP*](#_TOP_)
+
 
 
