@@ -18,7 +18,7 @@ There is no immediate threat to Black's position so they have some flexibility i
 <br>
 
 <a id="_initial_move_"></a>
-- [**... Nf6**](#_Nf6_) (+0.1) : The [Two Knights Defense](#_Nf6_) develops a piece while putting pressure on the undefended e4 pawn. This is played at 53% of the masters games and lead to the best score according to Stockfish. Note that **... Nf6** allows 4.Ng5, a sharp move that also attacks f7 and can lead to an aggressive knight sacrifice known as the Fried liver; this opening trap needs to be studied by Black.
+- [**... Nf6**](#_Nf6_) (+0.1) : The [Two Knights Defense](#_Nf6_) develops a piece while putting pressure on the undefended e4 pawn. This is played at 53% of the masters games and lead to the best score according to Stockfish. Note that **... Nf6** allows 4.Ng5, a sharp move that also attacks f7 and can lead to an aggressive knight sacrifice known as the [Fried Liver Attack](#_Fried_Liver_); this opening trap needs to be known by Black.
 
 - [**... Bc5**](#_Bc5_) (+0.2) : By developing the kingside bishop before the kingside knight, Black's queen keeps control of the g5 square, then after 4...Nf6, Black is ready to castle 5...O-O. By developing the kingside in this order, Black avoids the sharper Ng5 lines that follow the Two Knights defence: g5 is controlled by the queen until Black is ready to castle and defend f7 with the rook. Hence this continuation is called the [Giuoco Piano](#_Bc5_).
 
@@ -65,10 +65,9 @@ White can also open up the center:
 > - Black's only sensible way to defend f7 is to block the bishop's access with **... d5**
 > - After **5.exd5**, there are several possible Black answers 
 >   - **... Nxd5?!** (+0.7) is *not* played at master level and considered an incorrect positional move, due to the open line created by White's move **6.Nxf7** : The **Fried Liver Attack**
->   - **... Na5** (0.0) is the *most played move* at master level, attacking Bb4 and chasing White's bishop. Then Black can chase the Knight with **...h6**, and push e5 to e4 to carry puhing the White knight coming back to f3, and, finally, take d5 back with the Queen.
+>   - **... Na5** (0.0) is the *most played move* at master level, attacking Bb4 and chasing White's bishop. Then Black can go after the Knight with **...h6**, and push e5 to e4 to carry on bullying the White knight coming back to f3. Pawn on d5 can also be taken back with the Queen, when possible.
 >     - If white plays **6. Bb5+ c6 7. dxc6 bxc6 8. Be2**, the bishop will have to come back on a safe square, eventually
 >   - **... b5** (+0.3) : while giving a better score to White, this move is rarely played (7% of masters games) and best score is provided for the unnatural move 6.Bf1 *(known by master players, though...)*. Black may then take the pawn back with **... Nxd5**
-> <br>
 >
 ><br><div align="center">
 >     ![](./pics/C57_Italian_Knight_Attack_Ulvestad.png)<br>
@@ -76,7 +75,6 @@ White can also open up the center:
 >     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>Rare (7%)</td> 
 >     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.3</td></tr></table>
 >  <br></div>
-><br>
 >
 > Other White moves that **6.Bf1** lead to a better game for Black with a careful play:
 >
@@ -88,4 +86,5 @@ White can also open up the center:
  [*Back to initial move*](#_initial_move_) <br>
  
  [*Back to TOP*](#_TOP_)
+
 
