@@ -77,6 +77,13 @@ White can also open up the center:
 >  <br></div>
 >
 > Other White moves that **6.Bf1** lead to a better game for Black with a careful play:
+> - **6. Bxb5** allows **... Qxd5**, forking the bishop and g2 pawn - Black gets open diagonals and a central queen
+><br><div align="center">
+>     ![](./pics/C57_Ulvestad_Bxb5.png)<br>
+>     Ulvestad Variation 6. Bxb5 <br>
+>     <table align="center"><tr><td valign="center"><img src="../../pics/icon_lichess.png"></td><td>15% in Ulvestad</td> 
+>     <td valign="center"><img src="../../pics/icon_stockfish.png"></td><td>+0.0</td></tr></table>
+>  <br></div>
 >
 >  [*Back to previous move*](#_Nf6_)
 
@@ -86,6 +93,7 @@ White can also open up the center:
  [*Back to initial move*](#_initial_move_) <br>
  
  [*Back to TOP*](#_TOP_)
+
 
 
 
