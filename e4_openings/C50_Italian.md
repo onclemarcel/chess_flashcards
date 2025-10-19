@@ -22,7 +22,7 @@ There is no immediate threat to Black's position so they have some flexibility i
 
 - [**... Bc5**](#_Bc5_) (+0.2) : By developing the kingside bishop before the kingside knight, Black's queen keeps control of the g5 square, then after 4...Nf6, Black is ready to castle 5...O-O. By developing the kingside in this order, Black avoids the sharper Ng5 lines that follow the Two Knights defence: g5 is controlled by the queen until Black is ready to castle and defend f7 with the rook. Hence this continuation is called the [Giuoco Piano](#_Bc5_).
 
-- [**... f5**](../gambits/Rousseau/Rousseau.md) (+1.1) : The [Rousseau Gambit](../gambits/Rousseau/Rousseau.md) resembles a Vienna gambit with colours reversed. Black hopes White will take the offered pawn, 4.exf5?, deflecting one of their pawns from the centre and allowing 4...e5, and the only place for the White's knight to go is back to g1. However, White can decline with 4.d3 or countergambit with 4.d4.
+- [**... f5**](../gambits/Rousseau/Rousseau.md) (+1.1) : The [Rousseau Gambit](../gambits/Rousseau/Rousseau.md) resembles a Vienna gambit with colours reversed. Black hopes White will take the offered pawn, 4.exf5?, deflecting one of their pawns from the centre and allowing 4...e4, and the only place for the White's knight to go is back to g1. However, White can decline with 4.d3 or countergambit with 4.d4.
 
 - Following Black moves allow White's control of the center with 4.d4: 
 
