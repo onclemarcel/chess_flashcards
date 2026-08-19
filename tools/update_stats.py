@@ -197,8 +197,10 @@ def render(attrs, online, masters) -> str:
     ordered = sorted(online_moves, key=lambda u: -total(online_moves[u]))
     ordered += [u for u in master_moves if u not in online_moves]
 
-    lines = ["| Move | Online | W/D/B | Masters | W/D/B | |",
-             "| :--- | ---: | :--- | ---: | :--- | :-- |"]
+    lines = [
+        "| Move | Online | W/D/B | Masters | W/D/B | |",
+        "| :--- | ---: | :--- | ---: | :--- | :-- |",
+    ]
 
     for uci in ordered:
         o = online_moves.get(uci)
@@ -212,7 +214,7 @@ def render(attrs, online, masters) -> str:
             f"| {cell_count(m, master_total)} | {cell_wdb(m)} | {flag} |"
         )
 
-    if len(lines) == 2:
+    if not ordered:
         lines.append("| *no game found* | — | — | — | — | |")
 
     stamp = dt.date.today().isoformat()
@@ -256,6 +258,12 @@ def process(path: pathlib.Path, cache: Cache, delay: float, check: bool) -> bool
             print("    missing fen attribute, block left untouched", file=sys.stderr)
             result.append(match.group("body"))
             continue
+
+        # The FEN is written by hand in a code block under the diagram, so the
+        # reader can copy it. Warn if it drifted away from the marker.
+        if attrs["fen"].strip() not in original[:match.start()][-2000:]:
+            print(f"    warning: FEN of this block not found in the code block "
+                  f"above — they may have drifted apart", file=sys.stderr)
 
         wanted = [d.strip() for d in attrs["db"].split(",")]
         online = query_online(attrs, cache, delay) if "lichess" in wanted else None
