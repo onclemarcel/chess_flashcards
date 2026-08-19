@@ -1,0 +1,52 @@
+name: Refresh Lichess statistics
+
+on:
+  schedule:
+    # Every Monday at 04:17 UTC. An odd minute avoids the top-of-hour rush
+    # on the explorer, which rate limits aggressively.
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+    inputs:
+      paths:
+        description: "Files or directories to refresh (default: whole repo)"
+        default: "."
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lichess-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # The cache makes reruns cheap and keeps the explorer happy when a run
+      # is retried after a partial failure.
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: explorer-${{ github.run_id }}
+          restore-keys: explorer-
+
+      - name: Update statistics
+        run: python tools/update_stats.py ${{ inputs.paths || '.' }} --delay 1.5
+
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain '*.md')" ]; then
+            echo "Statistics unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add '*.md'
+          git commit -m "chore: refresh Lichess statistics"
+          git push
