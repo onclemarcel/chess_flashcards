@@ -19,17 +19,24 @@
 
 *... Start Position — click the board to analyse it on Lichess*
 
+```
+rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
+```
+
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
 | --- | --- |
 
 ### Lichess statistics
 
-<!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" speeds="blitz,rapid,classical" ratings="1600,1800,2000,2200" moves="8" -->
-| Move | Games | White | Draw | Black | Avg. rating |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| — | — | — | — | — | — |
+Two databases are shown side by side: **Online** (bullet and blitz, 1800+) and **Masters** (over-the-board elite games). A move that is popular online but absent from the Masters database is flagged with a warning sign — that gap is usually where the traps live.
 
-*Source: [Lichess Opening Explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#explorer) — blitz/rapid/classical, 1600+ — not generated yet*
+<!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
+
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| — | — | — | — | — | |
+
+*Not generated yet — run `python tools/update_stats.py start.md`*
 <!-- lichess-stats:end -->
 
 > [!IMPORTANT]
@@ -68,15 +75,20 @@ Example:
 
 *... 1. g4 — the Grob's Attack*
 
+```
+rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
+```
+
 | ![Lichess](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_lichess.png) | Very Rare | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.9 |
 | --- | --- | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1" speeds="blitz,rapid,classical" ratings="1600,1800,2000,2200" moves="5" -->
-| Move | Games | White | Draw | Black | Avg. rating |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| — | — | — | — | — | — |
+<!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 
-*Source: [Lichess Opening Explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — blitz/rapid/classical, 1600+ — not generated yet*
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| — | — | — | — | — | |
+
+*Not generated yet — run `python tools/update_stats.py start.md`*
 <!-- lichess-stats:end -->
 
 [*Back to previous move*](#_initial_move_)
@@ -101,8 +113,21 @@ Example:
 
 *... Shortest game — **Mate in 1** with 2... Qh4#*
 
+```
+rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2
+```
+
 | ![Lichess](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_lichess.png) | Very Rare | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | #-1 |
 | --- | --- | --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
+
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| — | — | — | — | — | |
+
+*Not generated yet — run `python tools/update_stats.py start.md`*
+<!-- lichess-stats:end -->
 
 [*Back to previous move*](#_initial_move_)
 
@@ -122,23 +147,40 @@ Example:
 
 ## How to use this template
 
-**Diagrams.** Nothing is stored in `pics/` any more except the `icon_*` files. A diagram is a single line built from the FEN:
+### Diagrams
+
+Nothing is stored in `pics/` any more except the `icon_*` files. A diagram is a single line built from the FEN:
 
 ```
 [![<caption>](https://backscattering.de/web-boardimage/board.svg?fen=<BOARD>&lastMove=<uci>&coordinates=true&size=320)](https://lichess.org/analysis/standard/<FULL_FEN_WITH_UNDERSCORES>)
 ```
 
 * `<BOARD>` is **only the piece placement field** of the FEN, i.e. everything before the first space. No space means no URL-encoding to worry about.
-* `lastMove` uses UCI notation (`g2g4`), and highlights the two squares like Lichess does.
-* Useful extras: `orientation=black` for Black-to-play cards, `arrows=Rd8h4` (colour prefix `G`/`B`/`R`/`Y`) to show a threat, `squares=f2,g2` to mark weak squares, `size=` to shrink boards inside notes.
+* `lastMove` uses UCI notation (`g2g4`) and highlights the two squares like Lichess does.
+* Useful extras: `orientation=black` for Black-to-play cards, `arrows=Rd8h4` (colour prefixes `G`/`B`/`R`/`Y`) to show a threat, `squares=f2,g2` to mark weak squares, `size=` to shrink boards inside notes.
 * `<FULL_FEN_WITH_UNDERSCORES>` is the complete FEN with spaces replaced by underscores. Append `#explorer` to land directly on the opening explorer panel.
 
-**Statistics.** Wrap each table in a marker pair; `tools/update_stats.py` queries `explorer.lichess.ovh` and rewrites what is in between:
+### Statistics
+
+Wrap each table in a marker pair; `tools/update_stats.py` queries the Lichess explorer and rewrites what is in between:
 
 ```
-<!-- lichess-stats:start fen="<FULL FEN>" speeds="blitz,rapid,classical" ratings="1600,1800,2000,2200" moves="8" -->
+<!-- lichess-stats:start fen="<FULL FEN>" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
 ...generated table...
 <!-- lichess-stats:end -->
 ```
 
-The `fen` attribute is the single source of truth for the card: the same FEN feeds the diagram URL and the statistics query.
+| Attribute | Applies to | Default | Notes |
+| :--- | :--- | :--- | :--- |
+| `fen` | both | *required* | Full FEN. Single source of truth for the card. |
+| `db` | — | `lichess,masters` | Which databases to query. |
+| `speeds` | online only | `bullet,blitz` | `ultraBullet`, `bullet`, `blitz`, `rapid`, `classical`, `correspondence`. |
+| `ratings` | online only | `1800,2000,2200,2500` | Buckets run from their value to the next one, so "1800+" must list them all. |
+| `since` / `until` | masters only | — | Years, e.g. `since="1952"`. The Masters database ignores `speeds` and `ratings`. |
+| `moves` | both | `8` | Number of continuations to list. |
+
+Each diagram is followed by a code block holding the full FEN. GitHub shows a copy button on it, which is the practical way to load the position in the Lichess **mobile app**: the app captures every `lichess.org` link but only routes a few paths internally, so an `/analysis/<fen>` link lands on its home screen instead of the position. Copying the FEN sidesteps that entirely. On desktop the diagram link works as expected.
+
+That code block is written by hand, alongside the diagram it belongs to. `update_stats.py` does not generate it, but it warns when the FEN of a statistics block cannot be found just above it — which catches the two copies drifting apart after an edit.
+
+Win/draw/black percentages are hidden below 20 games in a database: on a two-game sample they would be noise. The ⚠ flag marks moves that are played online but nearly unseen in the Masters database.
