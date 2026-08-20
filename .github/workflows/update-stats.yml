@@ -1,15 +1,29 @@
 name: Refresh Lichess statistics
 
 on:
+  # Runs as soon as the cards, the script or this workflow are committed.
+  # Handy when you cannot run Python locally: pushing from the phone is enough.
+  push:
+    branches: [main]
+    paths:
+      - "**.md"
+      - "tools/update_stats.py"
+      - ".github/workflows/update-stats.yml"
+
   schedule:
     # Every Monday at 04:17 UTC. An odd minute avoids the top-of-hour rush
     # on the explorer, which rate limits aggressively.
     - cron: "17 4 * * 1"
+
   workflow_dispatch:
     inputs:
       paths:
         description: "Files or directories to refresh (default: whole repo)"
         default: "."
+      force:
+        description: "Ignore the cache and refetch everything"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,8 +42,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      # The cache makes reruns cheap and keeps the explorer happy when a run
-      # is retried after a partial failure.
+      # Cached answers expire after 6 days inside the script itself, so the
+      # weekly run still refetches; the cache only spares the API on reruns.
       - uses: actions/cache@v4
         with:
           path: .cache
@@ -37,7 +51,9 @@ jobs:
           restore-keys: explorer-
 
       - name: Update statistics
-        run: python tools/update_stats.py ${{ inputs.paths || '.' }} --delay 1.5
+        run: |
+          python tools/update_stats.py ${{ inputs.paths || '.' }} \
+            --delay 1.5 ${{ inputs.force && '--no-cache' || '' }}
 
       - name: Commit changes
         run: |
