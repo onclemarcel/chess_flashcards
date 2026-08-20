@@ -49,6 +49,11 @@ jobs:
           restore-keys: explorer-
 
       - name: Update statistics
+        env:
+          # Optional: a Lichess personal access token, no scope required.
+          # Needed when anonymous requests are refused (CI runners are often
+          # blocked). Repo secret: Settings > Secrets and variables > Actions.
+          LICHESS_TOKEN: ${{ secrets.LICHESS_TOKEN }}
         run: |
           python tools/update_stats.py ${{ inputs.paths || '.' }} \
             --delay 1.5 ${{ inputs.force && '--no-cache' || '' }}
