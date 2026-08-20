@@ -37,6 +37,10 @@ USER_AGENT = "chess_flashcards-stats-updater (+https://github.com/onclemarcel/ch
 
 # Percentages below this many games are noise, so only the raw count is shown.
 MIN_SAMPLE = 20
+# Squares used for the proportional W/D/B bar. GitHub strips style attributes,
+# so a real cell background is impossible; these render everywhere instead.
+SQUARES = {"white": "\u2b1c", "draws": "\U0001f7eb", "black": "\u2b1b"}
+
 # A move played online but with fewer master games than this gets flagged.
 TRAP_MASTER_MAX = 5
 # ...and only if it is actually played online.
@@ -47,6 +51,7 @@ DEFAULTS = {
     "speeds": "bullet,blitz",
     "ratings": "1800,2000,2200,2500",
     "moves": "8",
+    "bars": "10",
 }
 
 BLOCK_RE = re.compile(
@@ -167,6 +172,9 @@ def total(entry) -> int:
 
 
 def human(count: int) -> str:
+    # The online database is counted in billions, the masters one in millions.
+    if count >= 1_000_000_000:
+        return f"{count / 1_000_000_000:.2f} G"
     if count >= 1_000_000:
         return f"{count / 1_000_000:.1f} M"
     if count >= 10_000:
@@ -185,15 +193,29 @@ def cell_count(entry, position_total: int) -> str:
     return f"{human(games)} ({100 * games / position_total:.1f}%)"
 
 
-def cell_wdb(entry) -> str:
+def bar(entry, slots: int) -> str:
+    """Proportional W/D/B bar, allocated by largest remainder so it always
+    totals exactly `slots` squares and never shows an empty share as filled."""
+    games = total(entry)
+    if slots <= 0 or not games:
+        return ""
+    shares = [(entry[k] / games * slots, k) for k in ("white", "draws", "black")]
+    counts = {k: int(v) for v, k in shares}
+    for _, k in sorted(shares, key=lambda s: -(s[0] - int(s[0])))[:slots - sum(counts.values())]:
+        counts[k] += 1
+    return "".join(SQUARES[k] * counts[k] for k in ("white", "draws", "black"))
+
+
+def cell_wdb(entry, slots: int = 0) -> str:
     if entry is None:
         return "—"
     games = total(entry)
     if games < MIN_SAMPLE:
         return "—"
-    return (f"{100 * entry['white'] / games:.0f}/"
-            f"{100 * entry['draws'] / games:.0f}/"
-            f"{100 * entry['black'] / games:.0f}")
+    numbers = (f"{100 * entry['white'] / games:.0f}/"
+               f"{100 * entry['draws'] / games:.0f}/"
+               f"{100 * entry['black'] / games:.0f}")
+    return f"{bar(entry, slots)} {numbers}".strip()
 
 
 def explorer_url(fen: str) -> str:
@@ -205,6 +227,11 @@ def render(attrs, online, masters) -> str:
     """Build the markdown table from the union of both databases."""
     online_moves = {m["uci"]: m for m in (online or {}).get("moves", [])}
     master_moves = {m["uci"]: m for m in (masters or {}).get("moves", [])}
+
+    try:
+        slots = max(0, int(attrs.get("bars", 10)))
+    except ValueError:
+        slots = 10
 
     online_total = total(online) if online else 0
     master_total = total(masters) if masters else 0
@@ -226,8 +253,8 @@ def render(attrs, online, masters) -> str:
         if o and total(o) >= TRAP_ONLINE_MIN and (m is None or total(m) < TRAP_MASTER_MAX):
             flag = "⚠"
         lines.append(
-            f"| {san} | {cell_count(o, online_total)} | {cell_wdb(o)} "
-            f"| {cell_count(m, master_total)} | {cell_wdb(m)} | {flag} |"
+            f"| {san} | {cell_count(o, online_total)} | {cell_wdb(o, slots)} "
+            f"| {cell_count(m, master_total)} | {cell_wdb(m, slots)} | {flag} |"
         )
 
     if not ordered:
