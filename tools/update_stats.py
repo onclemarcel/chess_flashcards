@@ -54,6 +54,9 @@ DEFAULTS = {
     "bars": "10",
 }
 
+# Run counters, so a silent no-op cannot masquerade as a success.
+TALLY = {"files": 0, "blocks": 0, "ok": 0, "cached": 0, "failed": 0}
+
 BLOCK_RE = re.compile(
     r"(?P<open><!--\s*lichess-stats:start(?P<attrs>.*?)-->)"
     r"(?P<body>.*?)"
@@ -114,6 +117,7 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
     """GET a JSON document, honouring the explorer's aggressive rate limit."""
     cached = cache.get(url)
     if cached is not None:
+        TALLY["cached"] += 1
         return cached
 
     backoff = 5.0
@@ -123,6 +127,7 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
             with urllib.request.urlopen(request, timeout=30) as response:
                 payload = json.loads(response.read().decode("utf-8"))
             cache.put(url, payload)
+            TALLY["ok"] += 1
             time.sleep(delay)
             return payload
         except urllib.error.HTTPError as err:
@@ -134,10 +139,13 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
                 backoff *= 2
                 continue
             print(f"    HTTP {err.code} for {url}", file=sys.stderr)
+            TALLY["failed"] += 1
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as err:
             print(f"    {type(err).__name__}: {err}", file=sys.stderr)
+            TALLY["failed"] += 1
             return None
+    TALLY["failed"] += 1
     return None
 
 
@@ -285,6 +293,8 @@ def process(path: pathlib.Path, cache: Cache, delay: float, check: bool) -> bool
     if not blocks:
         return False
 
+    TALLY["files"] += 1
+    TALLY["blocks"] += len(blocks)
     print(f"{path}: {len(blocks)} block(s)")
     result = []
     cursor = 0
@@ -364,14 +374,28 @@ def main() -> int:
     finally:
         cache.flush()
 
+    print(f"\nScanned {len(files)} file(s); {TALLY['files']} contained markers, "
+          f"{TALLY['blocks']} block(s) total. "
+          f"Requests: {TALLY['ok']} fetched, {TALLY['cached']} cached, "
+          f"{TALLY['failed']} failed.")
+
+    if TALLY["blocks"] == 0:
+        print("ERROR: no lichess-stats marker found. Check that the cards were "
+              "committed and that the markers were not altered.", file=sys.stderr)
+        return 1
+
+    if TALLY["ok"] == 0 and TALLY["cached"] == 0:
+        print("ERROR: every request failed; no table could be generated.",
+              file=sys.stderr)
+        return 1
+
     if args.check and stale:
         print("\nStale statistics in:", file=sys.stderr)
         for f in stale:
             print(f"  {f}", file=sys.stderr)
         return 1
 
-    print(f"\n{len(stale)} file(s) {'stale' if args.check else 'updated'}"
-          f" out of {len(files)} scanned.")
+    print(f"{len(stale)} file(s) {'stale' if args.check else 'updated'}.")
     return 0
 
 
