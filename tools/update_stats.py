@@ -36,6 +36,9 @@ import urllib.request
 # resolves but answers 401; Lichess moved off OVH in early 2026.
 EXPLORER = os.environ.get("LICHESS_EXPLORER", "https://explorer.lichess.org")
 USER_AGENT = "chess_flashcards-stats-updater (+https://github.com/onclemarcel/chess_flashcards)"
+# Anonymous requests are refused from some networks (datacenters, CI runners).
+# A personal access token needs no scope at all for the explorer endpoints.
+TOKEN = os.environ.get("LICHESS_TOKEN", "").strip()
 
 # Percentages below this many games are noise, so only the raw count is shown.
 MIN_SAMPLE = 20
@@ -124,7 +127,10 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
 
     backoff = 5.0
     for attempt in range(1, attempts + 1):
-        request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        headers = {"User-Agent": USER_AGENT}
+        if TOKEN:
+            headers["Authorization"] = f"Bearer {TOKEN}"
+        request = urllib.request.Request(url, headers=headers)
         try:
             with urllib.request.urlopen(request, timeout=30) as response:
                 payload = json.loads(response.read().decode("utf-8"))
@@ -140,13 +146,18 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
                 time.sleep(wait)
                 backoff *= 2
                 continue
-            if err.code in (401, 403, 404):
-                print(f"    HTTP {err.code} for {url}\n"
-                      f"    -> the explorer host may have moved again; override it "
-                      f"with the LICHESS_EXPLORER environment variable",
-                      file=sys.stderr)
-            else:
-                print(f"    HTTP {err.code} for {url}", file=sys.stderr)
+            body = ""
+            try:
+                body = err.read().decode("utf-8", "replace").strip()[:300]
+            except Exception:
+                pass
+            print(f"    HTTP {err.code} for {url}", file=sys.stderr)
+            if body:
+                print(f"    body: {body}", file=sys.stderr)
+            if err.code in (401, 403) and not TOKEN:
+                print("    -> anonymous request refused. Create a Lichess personal "
+                      "access token (no scope needed) and expose it as the "
+                      "LICHESS_TOKEN environment variable.", file=sys.stderr)
             TALLY["failed"] += 1
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as err:
