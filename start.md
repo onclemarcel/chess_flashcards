@@ -33,12 +33,19 @@ Two databases are shown side by side: **Online** (bullet and blitz, 1800+) and *
 The W/D/B columns carry a ten-square bar: ⬜ White wins · 🟫 draws · ⬛ Black wins. It reads at a glance and needs no styling — GitHub strips `style` attributes, so a real cell background is not an option.
 
 <!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
-
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| e4 | 1.23 G (51.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 1.3 M (45.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/44/24 |  |
+| d4 | 685.2 M (28.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 1.0 M (35.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/45/23 |  |
+| Nf3 | 128.0 M (5.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 293 k (10.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/45/22 |  |
+| c4 | 108.1 M (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 199 k (6.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/44/22 |  |
+| b3 | 53.0 M (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/45 | 11 k (0.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
+| g3 | 50.0 M (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 20 k (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/39/25 |  |
+| e3 | 44.3 M (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 0 | — | ⚠ |
+| f4 | 31.1 M (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 6.7 k (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/38/34 |  |
+| Nc3 | 0 | — | 4.0 k (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
 
-*Not generated yet — run `python tools/update_stats.py start.md`*
+*Online: bullet/blitz, 1800+ — 2.42 G games. Masters: 2.9 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#explorer) — updated 2026-08-20*
 <!-- lichess-stats:end -->
 
 > [!IMPORTANT]
@@ -85,12 +92,17 @@ rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
 | --- | --- | --- | --- |
 
 <!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| d5 | 2.8 M (40.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 121 (66.9%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 26/23/51 |  |
+| e5 | 889 k (12.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/46 | 34 (18.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 35/15/50 |  |
+| c5 | 567 k (8.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 4 (2.2%) | — | ⚠ |
+| e6 | 548 k (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
+| c6 | 433 k (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
+| d6 | 0 | — | 7 (3.9%) | — |  |
+| g6 | 0 | — | 5 (2.8%) | — |  |
 
-*Not generated yet — run `python tools/update_stats.py start.md`*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-20*
 <!-- lichess-stats:end -->
 
 [*Back to previous move*](#_initial_move_)
@@ -123,12 +135,15 @@ rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2
 | --- | --- | --- | --- |
 
 <!-- lichess-stats:start fen="rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| Qh4# | 5.6 k (42.5%) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 0/0/100 | 0 | — | ⚠ |
+| d5 | 3.7 k (27.9%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 20/2/77 | 0 | — | ⚠ |
+| Nc6 | 1.4 k (10.3%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 24/1/75 | 0 | — | ⚠ |
+| d6 | 710 (5.4%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 26/3/72 | 0 | — | ⚠ |
+| Bc5 | 472 (3.6%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 22/1/78 | 0 | — | ⚠ |
 
-*Not generated yet — run `python tools/update_stats.py start.md`*
+*Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-20*
 <!-- lichess-stats:end -->
 
 [*Back to previous move*](#_initial_move_)
