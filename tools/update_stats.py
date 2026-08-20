@@ -64,11 +64,16 @@ FENCE_RE = re.compile(r"^(?P<f>```+|~~~+).*?^(?P=f)", re.DOTALL | re.MULTILINE)
 # --------------------------------------------------------------------------
 
 class Cache:
-    """Disk cache keyed by request URL, so reruns cost nothing."""
+    """Disk cache keyed by request URL, so reruns cost nothing.
 
-    def __init__(self, path: pathlib.Path, enabled: bool = True):
+    Entries carry a timestamp: without one, a cache restored by CI would keep
+    serving the same numbers forever and the scheduled refresh would be a no-op.
+    """
+
+    def __init__(self, path: pathlib.Path, enabled: bool = True, ttl_hours: float = 144.0):
         self.path = path
         self.enabled = enabled
+        self.ttl = ttl_hours * 3600
         self.data = {}
         if enabled and path.exists():
             try:
@@ -77,14 +82,25 @@ class Cache:
                 self.data = {}
 
     def get(self, key):
-        return self.data.get(key) if self.enabled else None
+        if not self.enabled:
+            return None
+        entry = self.data.get(key)
+        if not isinstance(entry, dict) or "ts" not in entry:
+            return None
+        if time.time() - entry["ts"] > self.ttl:
+            return None
+        return entry["data"]
 
     def put(self, key, value):
-        self.data[key] = value
+        self.data[key] = {"ts": time.time(), "data": value}
 
     def flush(self):
         if not self.enabled:
             return
+        # Drop expired entries so the file does not grow without bound.
+        cutoff = time.time() - self.ttl
+        self.data = {k: v for k, v in self.data.items()
+                     if isinstance(v, dict) and v.get("ts", 0) > cutoff}
         self.path.parent.mkdir(parents=True, exist_ok=True)
         self.path.write_text(json.dumps(self.data, indent=0), encoding="utf-8")
 
@@ -296,6 +312,8 @@ def main() -> int:
                         help="seconds between API calls (default: 1.0)")
     parser.add_argument("--cache", default=".cache/explorer.json")
     parser.add_argument("--no-cache", action="store_true")
+    parser.add_argument("--cache-ttl", type=float, default=144.0,
+                        help="hours before a cached answer is refetched (default: 144)")
     parser.add_argument("--check", action="store_true",
                         help="report staleness without writing (exit 1 if stale)")
     args = parser.parse_args()
@@ -309,7 +327,8 @@ def main() -> int:
         elif p.suffix == ".md":
             files.append(p)
 
-    cache = Cache(pathlib.Path(args.cache), enabled=not args.no_cache)
+    cache = Cache(pathlib.Path(args.cache), enabled=not args.no_cache,
+                  ttl_hours=args.cache_ttl)
     stale = []
     try:
         for f in files:
