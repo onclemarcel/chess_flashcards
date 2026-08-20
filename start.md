@@ -30,6 +30,8 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 Two databases are shown side by side: **Online** (bullet and blitz, 1800+) and **Masters** (over-the-board elite games). A move that is popular online but absent from the Masters database is flagged with a warning sign — that gap is usually where the traps live.
 
+The W/D/B columns carry a ten-square bar: ⬜ White wins · 🟫 draws · ⬛ Black wins. It reads at a glance and needs no styling — GitHub strips `style` attributes, so a real cell background is not an option.
+
 <!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
 
 | Move | Online | W/D/B | Masters | W/D/B | |
@@ -178,9 +180,10 @@ Wrap each table in a marker pair; `tools/update_stats.py` queries the Lichess ex
 | `ratings` | online only | `1800,2000,2200,2500` | Buckets run from their value to the next one, so "1800+" must list them all. |
 | `since` / `until` | masters only | — | Years, e.g. `since="1952"`. The Masters database ignores `speeds` and `ratings`. |
 | `moves` | both | `8` | Number of continuations to list. |
+| `bars` | both | `10` | Squares in the W/D/B bar. `0` disables it, `5` narrows the column on phones. |
 
 Each diagram is followed by a code block holding the full FEN. GitHub shows a copy button on it, which is the practical way to load the position in the Lichess **mobile app**: the app captures every `lichess.org` link but only routes a few paths internally, so an `/analysis/<fen>` link lands on its home screen instead of the position. Copying the FEN sidesteps that entirely. On desktop the diagram link works as expected.
 
 That code block is written by hand, alongside the diagram it belongs to. `update_stats.py` does not generate it, but it warns when the FEN of a statistics block cannot be found just above it — which catches the two copies drifting apart after an edit.
 
-Win/draw/black percentages are hidden below 20 games in a database: on a two-game sample they would be noise. The ⚠ flag marks moves that are played online but nearly unseen in the Masters database.
+Squares are allocated by largest remainder, so a bar always totals exactly `bars` squares. A share under half a square disappears: at `bars="10"` a 4% draw rate shows no 🟫 square. Win/draw/black percentages are hidden below 20 games in a database: on a two-game sample they would be noise. The ⚠ flag marks moves that are played online but nearly unseen in the Masters database.
