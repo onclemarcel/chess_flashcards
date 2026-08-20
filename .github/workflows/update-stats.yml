@@ -1,4 +1,4 @@
-name: Refresh Lichess statistics
+name: Refresh Lichess Statistics
 
 on:
   # Runs as soon as the cards, the script or this workflow are committed.
