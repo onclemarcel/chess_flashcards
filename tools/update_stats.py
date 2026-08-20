@@ -32,7 +32,9 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-EXPLORER = "https://explorer.lichess.ovh"
+# Official host per the API spec. The former explorer.lichess.ovh still
+# resolves but answers 401; Lichess moved off OVH in early 2026.
+EXPLORER = os.environ.get("LICHESS_EXPLORER", "https://explorer.lichess.org")
 USER_AGENT = "chess_flashcards-stats-updater (+https://github.com/onclemarcel/chess_flashcards)"
 
 # Percentages below this many games are noise, so only the raw count is shown.
@@ -138,7 +140,13 @@ def fetch(url: str, cache: Cache, delay: float, attempts: int = 5):
                 time.sleep(wait)
                 backoff *= 2
                 continue
-            print(f"    HTTP {err.code} for {url}", file=sys.stderr)
+            if err.code in (401, 403, 404):
+                print(f"    HTTP {err.code} for {url}\n"
+                      f"    -> the explorer host may have moved again; override it "
+                      f"with the LICHESS_EXPLORER environment variable",
+                      file=sys.stderr)
+            else:
+                print(f"    HTTP {err.code} for {url}", file=sys.stderr)
             TALLY["failed"] += 1
             return None
         except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as err:
