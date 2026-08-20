@@ -1,14 +1,12 @@
-name: Refresh Lichess Statistics
+name: Refresh Lichess statistics
 
 on:
-  # Runs as soon as the cards, the script or this workflow are committed.
-  # Handy when you cannot run Python locally: pushing from the phone is enough.
+  # Any push, any branch, any file. Deliberately unfiltered: a branch or path
+  # filter that does not match is silent, and a trigger that fails silently is
+  # worse than a few extra runs. Narrow it later once the pipeline is proven.
+  # The commit this workflow pushes back uses GITHUB_TOKEN, which by design
+  # does not start another run, so there is no loop.
   push:
-    branches: [main]
-    paths:
-      - "**.md"
-      - "tools/update_stats.py"
-      - ".github/workflows/update-stats.yml"
 
   schedule:
     # Every Monday at 04:17 UTC. An odd minute avoids the top-of-hour rush
