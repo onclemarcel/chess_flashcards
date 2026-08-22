@@ -17,9 +17,18 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| exd5 | 96.9 M (71.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 24 k (96.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/37/24 |  |
+| Nc3 | 10.9 M (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 521 (2.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/33/34 |  |
+| Nf3 | 10.1 M (7.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 16 (0.1%) | — |  |
+| e5 | 8.7 M (6.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/47 | 89 (0.4%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 17/35/48 |  |
+| d4 | 4.6 M (3.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 80 (0.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 24/34/42 |  |
+| d3 | 2.4 M (1.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 50 (0.2%) | ⬜🟫🟫🟫🟫🟫⬛⬛⬛⬛ 12/50/38 |  |
+| f4 | 873 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/50 | 0 | — | ⚠ |
+| f3 | 463 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
+| a3 | 0 | — | 1 (0.0%) | — |  |
+| c4 | 0 | — | 1 (0.0%) | — |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 136.3 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 - Cases where White avoids taking the d5 pawn:
@@ -55,9 +64,13 @@ rnbqkbnr/ppp1pppp/8/4P3/3p4/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/4P3/3p4/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| c5 | 226 (48.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/1/51 | 0 | — | ⚠ |
+| Nc6 | 106 (22.5%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/5/59 | 0 | — | ⚠ |
+| e6 | 52 (11.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/2/56 | 0 | — |  |
+| Bf5 | 28 (5.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/0/50 | 0 | — |  |
+| d3 | 18 (3.8%) | — | 0 | — |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 471 games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/4P3/3p4/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 [*Back to 1... d5*](#_d5_)
@@ -86,9 +99,14 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| dxe4 | 2.8 M (73.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 39 (52.7%) | ⬜🟫🟫🟫🟫🟫⬛⬛⬛⬛ 15/46/38 |  |
+| Nf6 | 246 k (6.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 8 (10.8%) | — |  |
+| c6 | 204 k (5.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 6 (8.1%) | — |  |
+| d4 | 169 k (4.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/46 | 0 | — | ⚠ |
+| e6 | 155 k (4.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 6 (8.1%) | — |  |
+| Nc6 | 0 | — | 6 (8.1%) | — |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 74 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/3P4/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 [*Back to 1... d5*](#_d5_)
@@ -119,9 +137,13 @@ rnbqkbnr/ppp1pppp/8/3N4/3pP3/8/PPPP1PPP/R1BQKBNR b KQkq - 1 3
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3N4/3pP3/8/PPPP1PPP/R1BQKBNR b KQkq - 1 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| e5 | 63 k (36.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 43/3/54 | 0 | — | ⚠ |
+| c6 | 43 k (24.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
+| e6 | 29 k (16.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/3/49 | 0 | — | ⚠ |
+| c5 | 22 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
+| Nc6 | 8.6 k (4.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 175 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3N4/3pP3/8/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck.
@@ -140,9 +162,13 @@ rnbqkbnr/ppp2ppp/8/4p3/3pP3/8/PPPPNPPP/R1BQKBNR w KQkq e6 0 4
 <!-- lichess-stats:start fen="rnbqkbnr/ppp2ppp/8/4p3/3pP3/8/PPPPNPPP/R1BQKBNR w KQkq e6 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| d3 | 1.4 M (46.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 43 (9.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 28/33/40 |  |
+| Ng3 | 1.1 M (35.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/39 | 287 (64.9%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/42/34 |  |
+| Nf3 | 318 k (10.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/40 | 71 (16.1%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 24/25/51 |  |
+| f4 | 202 k (6.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/3/43 | 21 (4.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 24/33/43 |  |
+| c3 | 33 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 20 (4.5%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 10/75/15 |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 442 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/4p3/3pP3/8/PPPPNPPP/R1BQKBNR_w_KQkq_e6_0_4#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 [*Back to 1... d5*](#_d5_)
@@ -173,9 +199,14 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| dxe4 | 9.7 M (83.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 12 (52.2%) | — |  |
+| c6 | 434 k (3.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 7 (30.4%) | — |  |
+| Nf6 | 377 k (3.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
+| d4 | 336 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
+| e6 | 272 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 3 (13.0%) | — | ⚠ |
+| e5 | 0 | — | 1 (4.3%) | — |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 11.6 M games. Masters: 23 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 - Black may:
@@ -212,9 +243,13 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| dxe4 | 6.4 M (70.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 225 (74.8%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 21/35/44 |  |
+| c6 | 763 k (8.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 29 (9.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 28/34/38 |  |
+| e6 | 732 k (8.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 42 (14.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
+| Nf6 | 632 k (7.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/3/42 | 3 (1.0%) | — | ⚠ |
+| Nc6 | 186 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 2 (0.7%) | — | ⚠ |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 301 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 *`<The "typical Blackmar-Diemer White active setup" diagram from the previous version is not reproduced here: its exact position was only in the screenshot. Paste the FEN and it goes back in.>`*
@@ -244,9 +279,18 @@ rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| — | — | — | — | — | |
+| Qxd5 | 61.3 M (63.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 17 k (70.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
+| Nf6 | 25.2 M (26.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 6.9 k (29.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/34/24 |  |
+| c6 | 6.1 M (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 32 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜🟫⬛⬛ 75/6/19 |  |
+| e6 | 2.3 M (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 2 (0.0%) | — | ⚠ |
+| Bg4 | 803 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/3/53 | 0 | — | ⚠ |
+| e5 | 313 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 53/3/44 | 0 | — | ⚠ |
+| Bf5 | 216 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/44 | 0 | — | ⚠ |
+| Qd6 | 172 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 0 | — | ⚠ |
+| f5 | 0 | — | 2 (0.0%) | — |  |
+| Qd7 | 0 | — | 2 (0.0%) | — |  |
 
-*Not generated yet*
+*Online: bullet/blitz, 1800+ — 96.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 - Main Black moves lead to the following variations:
