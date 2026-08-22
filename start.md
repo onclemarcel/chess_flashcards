@@ -1,11 +1,11 @@
-# Start Position (A00)
+# A00 Start Position
 
 <a name="_TOP_"></a>
 
-> *Set the title of the page with `<Opening Name (ECO Code)>` followed by the move sequence:*
-> *`1. <w1> <b1>` / `2. <w2> <b2>` ...*
+> *Set the title of the page with `<ECO CODE> <Opening Name>` followed by the move sequence `<1. xx yy 2. zz aa>`*
 
-*`<Add here a short description of the main characteristics of this position (opening, trap, mate pattern, ...). Sources for the description may be a Lichess description, a video introduction (e.g. Daniel Naroditsky, Levy Rozman, Igor Smirnov, ...), an opening book, ...>`*
+*`<Add here a short description of the main characteristics of this position (opening, trap, mate pattern, ...).`* <br>
+*`Sources for the description may be a Lichess description, a video introduction (e.g. Daniel Naroditsky, Levy Rozman, Igor Smirnov, ...), an opening book, ...>`*
 
 ---
 
@@ -13,7 +13,8 @@
 
 ## The position
 
-*`<The diagram below is rendered live from the FEN in the URL: no screenshot is stored in the repository. Click the board to open it on the Lichess analysis board, where the position is fully interactive and the opening explorer is one panel away.>`*
+*`<The diagram below is rendered live from the FEN in the URL: no screenshot is stored in the repository.`* <br>
+*` Click the board to open it on the Lichess analysis board, where the position is fully interactive and the opening explorer is one panel away.>`*
 
 [![Start position](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1)
 
@@ -53,9 +54,12 @@ The W/D/B columns carry a ten-square bar: ⬜ White wins · 🟫 draws · ⬛ Bl
 
 ### Candidate moves
 
-*`<List here the possible moves, with a short summary of the strategy behind each one>`*
-*`<Create an internal link to a paragraph on this page, or an external link when the move transposes to another opening>`*
-*`<Mention the Stockfish evaluation of the move in parentheses>`*
+*`<List candidate moves, with a short summary of the strategy behind each one>`* <br>
+*`<Candidate moves may be: moves of the main line(s), moves pertaining to a named opening or variation (e.g. Italian - Guico Piano), moves with different popularity between masters games and bullet/blitz (usually indicating traps/tactic partterns), moves highlighted in books/videos/websites, moves worth to be mentionned from a specific game>`* <br>
+*`<Moves are listed here below with a link to an anchor in this page or a new page: for uncommon moves, highlighted special moves, dubious moves, moves in bullets/blitz, a note or a tip is created in this page. For a specific variation worth a deeper analysis, a new page is created. The main line of an opening remains on this page unless the main line breaks into equivalent popular multiples lines>`* <br>
+*`<Mention the Stockfish evaluation of the move in parentheses>`* <br>
+*`<When the move leads to a new variation name, place the name with a link to the page analyzing this variation>`* <br>
+*`<Examples below>`* <br>
 
 * [**1. `<uncommon_move>`**](#_uncommon_note_) (-0.x): *`<for uncommon moves illustrated in books/videos, create a note to highlight the discussion>`*
 * [**1. `<Mate or Trap Pattern>`**](#_mate_or_trap_) (-0.x): *`<create a tip when a mate pattern or a trap pattern should be highlighted>`*
@@ -116,7 +120,8 @@ rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
 
 ### `<Mate Pattern or Trap Pattern worth a tip>`
 
-*`<Add here notes when a mate pattern appears with this move or can be created from this move. This also applies to specific traps. The tip helps detecting patterns in real games, in order to either avoid a trap or use it against the opponent>`*
+*`<Add here notes when a mate pattern appears with this move or can be created from this move. This also applies to specific traps.>`* <br>
+*`<The tip helps detecting patterns in real games, in order to either avoid a trap or use it against the opponent>`*
 
 Example:
 
@@ -154,7 +159,7 @@ rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2
 
 ### 1. `<move>`
 
-*`<Present subsequent moves with the same structure as the initial move>`*
+*`<Present subsequent moves with the same structure as the initial move>`* <br>
 *`<FEN diagram, generated Lichess statistics block, list of candidate moves, notes and tips when needed...>`*
 
 [*Back to previous move*](#_initial_move_)
