@@ -46,7 +46,7 @@ The W/D/B columns carry a ten-square bar: ⬜ White wins · 🟫 draws · ⬛ Bl
 | f4 | 31.1 M (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 6.7 k (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/38/34 |  |
 | Nc3 | 0 | — | 4.0 k (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
 
-*Online: bullet/blitz, 1800+ — 2.42 G games. Masters: 2.9 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 2.42 G games. Masters: 2.9 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#explorer) — updated 2026-08-22*
 <!-- lichess-stats:end -->
 
 > [!IMPORTANT]
@@ -106,7 +106,7 @@ From the starting position, White chooses how to open the game. Opening theory i
 > | d6 | 0 | — | 7 (3.9%) | — |  |
 > | g6 | 0 | — | 5 (2.8%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-22*
 > <!-- lichess-stats:end -->
 >
 > [*Back to previous move*](#_initial_move_)
@@ -148,7 +148,7 @@ From the starting position, White chooses how to open the game. Opening theory i
 > | d6 | 710 (5.4%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 26/3/72 | 0 | — | ⚠ |
 > | Bc5 | 472 (3.6%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 22/1/78 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
 > <!-- lichess-stats:end -->
 >
 > [*Back to previous move*](#_initial_move_)
