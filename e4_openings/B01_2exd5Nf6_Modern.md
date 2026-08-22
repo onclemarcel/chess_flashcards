@@ -1,8 +1,6 @@
 <a name="_TOP_"></a>
 
-# 2... Nf6 : the Modern Variation (B01)
-
-*1. e4 d5 2. exd5 Nf6*
+# B01 Scandinavian Defense - Modern Variation <br> 1. e4 d5 2. exd5 Nf6 #
 
 Black attacks the d5 pawn with a piece instead of the Queen, avoiding the loss of tempo of the Mieses-Kotroc.
 
