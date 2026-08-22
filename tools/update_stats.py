@@ -245,6 +245,24 @@ def cell_wdb(entry, slots: int = 0) -> str:
     return f"{bar(entry, slots)} {numbers}".strip()
 
 
+def quote_body(body: str) -> str:
+    """Re-indent a generated table body with '> ' so it stays part of the
+    enclosing blockquote when a stats marker sits inside a NOTE/TIP callout.
+
+    `body` always starts and ends with a single newline (see render()); the
+    line right before the closing marker in the source has no leading '> '
+    of its own (it was swallowed as trailing body text), so the trailing
+    '> ' produced here supplies it.
+    """
+    return "\n> " + body[1:].replace("\n", "\n> ")
+
+
+def in_blockquote(original: str, pos: int) -> bool:
+    """True if the line containing `pos` is a blockquote line ('> ...')."""
+    line_start = original.rfind("\n", 0, pos) + 1
+    return original[line_start:pos].strip() == ">"
+
+
 def explorer_url(fen: str) -> str:
     return ("https://lichess.org/analysis/standard/"
             + fen.strip().replace(" ", "_") + "#explorer")
@@ -348,6 +366,8 @@ def process(path: pathlib.Path, cache: Cache, delay: float, check: bool) -> bool
             continue
 
         body = render(attrs, online, masters)
+        if in_blockquote(original, match.start("open")):
+            body = quote_body(body)
         if body != match.group("body"):
             changed = True
         result.append(body)
