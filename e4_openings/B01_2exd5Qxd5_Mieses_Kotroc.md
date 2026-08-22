@@ -1,8 +1,6 @@
 <a name="_TOP_"></a>
 
-# 2... Qxd5 : the Mieses-Kotroc Variation (B01)
-
-*1. e4 d5 2. exd5 Qxd5*
+# B01 Scandinavian Defense- Mieses-Kotroc Variation <br> 1. e4 d5 2. exd5 Qxd5 #
 
 Black recaptures immediately. The Queen is safe on d5 but stands on an open file, and White develops with tempo.
 
