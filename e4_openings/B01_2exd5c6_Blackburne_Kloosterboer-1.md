@@ -1,8 +1,6 @@
 <a name="_TOP_"></a>
 
-# 2... c6 : the Blackburne-Kloosterboer Gambit (B01)
-
-*1. e4 d5 2. exd5 c6*
+# B01 Scandinavian Defense - Blackburne-Kloosterboer Gambit <br> 1. e4 d5 2. exd5 c6 #
 
 Black offers a second pawn to open lines for the minor pieces. Dubious, but sharp.
 
