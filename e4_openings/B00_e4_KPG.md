@@ -35,10 +35,11 @@ rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
 <!-- lichess-stats:end -->
 
 > [!NOTE]
-> The Sicilian Defense (**1... c5**) is in fact the single most popular reply in masters play (45.9%) and edges out 1... e5 online too (25.3% vs 23.4%), but it doesn't yet have a dedicated card in this repository. The French (**1... e6**, 11.7% masters) and Caro-Kann (**1... c6**, 8.1% masters) pages already exist as stubs and are also pending conversion.
+> The French (**1... e6**, 11.7% masters) and Caro-Kann (**1... c6**, 8.1% masters) pages already exist as stubs and are pending conversion to the current template.
 
 ### Candidate moves
 
+* [**1... c5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B20_1e4c5_Sicilian.md) (+0.3): the [Sicilian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B20_1e4c5_Sicilian.md), the single most popular reply at master level (45.9%) — Black fights for the centre asymmetrically rather than matching White pawn for pawn
 * [**1... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_e4_e5_KPG.md) (+0.2): the classical reply — Black grabs an equal share of the centre and controls d4, at 24.0% of masters games
 * [**1... d5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md) (+0.5): the [Scandinavian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md), Black challenges e4 immediately and forces White to make an early decision on the d5 pawn
 

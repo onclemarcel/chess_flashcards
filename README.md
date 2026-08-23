@@ -17,6 +17,8 @@ There are several ways to dive into the pages of this repository:
 - [**1. e4** The King's Pawn Game](./e4_openings/B00_e4_KPG.md) to control the center, open lines for its bishop and queen, move one step to the kingside castling. One drawback is that the e4 pawn is not defended after this first move.
 - **Black** may play symmetrically with :
 - [**... e5**](./e4_openings/C20_e4_e5_KPG.md) to block e4 and get an equal share of the center, *but e5 becomes an undefended pawn*.
+- **Black**'s single most popular reply at master level is instead asymmetrical:
+- [**... c5**](./e4_openings/B20_1e4c5_Sicilian.md) the Sicilian Defense, fighting for the center on the queenside rather than matching White pawn for pawn.
 
 ### From 1. e4 e5 ###
 - **White** may develop its pieces with :
