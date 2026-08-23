@@ -31,7 +31,7 @@ rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3
 | Be2 | 0 | — | 23 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/26/30 |  |
 | b3 | 0 | — | 14 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 25.2 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 25.2 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -165,7 +165,7 @@ rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | g6 | 60 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 5 (0.1%) | — |  |
 | c5 | 11 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 * **3... Nxd5** (+0.7, 67.6% masters): the *Marshall Variation* — Black recaptures immediately, accepting an isolated-queen-pawn-style structure after a later c4
@@ -197,7 +197,7 @@ rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 | Be2 | 0 | — | 125 (5.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/26 |  |
 | g3 | 0 | — | 26 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/23 |  |
 
-*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 [*Back to 2... Nf6*](#_Nf6_)
