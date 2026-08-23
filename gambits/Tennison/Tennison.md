@@ -18,7 +18,7 @@ flowchart LR
 
     Nf3 --> c6[["2... c6 ⇄<br/>+0.3"]]
     click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md" "B10 · Caro-Kann Defense"
-    Nf3 --> e6["2... e6 ⇄<br/>+0.1"]
+    Nf3 --> e6["2... e6 ⇄<br/>+0.2"]
     click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md" "C00 · French Defense"
     Nf3 --> dxe4[["2... dxe4 !<br/>-0.7"]]:::main
     click dxe4 "#_dxe4_" "A06 · Zukertort Opening: Tennison Gambit"
@@ -63,7 +63,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 
 * Black may:
   - refuse with **2... c6**, transposing into the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3), or
-  - refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.1), or
+  - refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.2), or
   - accept with [**2... dxe4**](#_dxe4_) (-0.7): this is the most played move, at 52% of masters games
 
 [*Back to TOP*](#_TOP_)

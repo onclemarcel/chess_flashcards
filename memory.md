@@ -60,10 +60,17 @@ Goal: build out actual opening cards, organised by directory per White's first m
 - [x] Wired into `B00_e4_KPG.md` (added the missing 1...c5 candidate-move bullet, removed the stale "doesn't yet have a dedicated card" note) and README.
 - **Given this batch's own lesson**: the Grand Prix "2...d5! equalizer" claim was checked against cloud-eval before writing (confirmed ≈0.0 after main line) rather than assumed.
 
+**Batch 4 closed 2026-08-23 — stub conversions, filenames kept as-is (many existing inbound links, from B01/Blackmar-Diemer/Tennison, reference these exact paths):**
+
+- [x] `e4_e6_French.md` (C00, root +0.2) — 2. d4 d5 near-forced (98.8% masters); Nc3/Nd2/e5/exd5 covered as candidate bullets (Winawer/Classical/Rubinstein family, Tarrasch, Advance, Exchange), none built out.
+- [x] `e4_c6_Caro_Kann.md` (B10, root +0.3) — 2. d4 d5 near-forced (97.6%); masters actually favour 3. e5 Advance here (39.9%) over 3. Nc3 (23.5%), unlike the French's Nc3-first preference.
+- [x] `e4_Nc6_Nimzovitch.md` (B00, root +0.4) — kept deliberately lean (only 1.5% of masters' 1. e4 replies): both 2. Nf3 and 2. d4 branches get one diagram each with candidate bullets, no deeper build-out.
+- Reconciled a stale French-Defense eval (+0.1/+0.3 in three other files) to the new card's verified +0.2, in both prose and mermaid nodes, across `B01_1e4d5_Scandinavian.md`, `gambits/Tennison/Tennison.md`, `gambits/Blackmar-Diemer/Blackmar-Diemer.md`.
+
 ## Backlog (not started)
 
 - **Sicilian sub-systems**: Najdorf/Classical/Dragon (after 2...d6), Sveshnikov/Taimanov/Rossolimo (after 2...Nc6), Kan/Taimanov (after 2...e6), Accelerated Dragon (after 2...g6) — each a full opening system in its own right, all fanning out from `B20_1e4c5_Sicilian.md`'s "2. Nf3" section. This is the single biggest remaining body of work in the repository.
-- **Other 1. e4 replies**: convert the old-style stub cards to the current template — `e4_e6_French.md` (French, 11.7% masters), `e4_c6_Caro_Kann.md` (Caro-Kann, 8.1% masters), `e4_Nc6_Nimzovitch.md` (Nimzowitsch, lower priority — only 1.5% masters).
 - **Ruy Lopez sub-branches**: the Morphy Defense (3...a6 4.Ba4 Nf6) opens into the huge Closed/Open Ruy Lopez tabiya — worth its own card(s).
+- User's stated order for the next session (2026-08-23): finish stub conversions (done, this batch) → Ruy Lopez Morphy Defense depth → Sicilian sub-systems.
 - **New top-level fronts**: `d4_openings/`, `Nf3_openings/`, `c4_openings/` — 1. d4 (35.8% masters, no card yet), 1. Nf3 (10.2%), 1. c4 (6.9%) and their replies. None of this scaffolding exists yet — each needs its own root card analogous to `B00_e4_KPG.md`.
 - **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` are one-line stubs, deliberately deferred per the user's own instruction to set gambits/traps/mate-patterns aside until the main-line survey cards are further along.

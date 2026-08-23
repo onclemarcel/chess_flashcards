@@ -253,7 +253,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > - Black may:
 >
 >   * refuse with ... c6 ([Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) +0.3) or
->   * refuse with ... e6 ([French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) +0.1) or
+>   * refuse with ... e6 ([French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) +0.2) or
 >   * accept with ... dxe4 (-0.7) : this is the most played move at 52% in masters games
 >
 > [*Back to 1... d5*](#_d5_)

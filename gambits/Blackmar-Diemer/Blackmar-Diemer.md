@@ -18,7 +18,7 @@ flowchart LR
 
     e4 --> c6[["2... c6 ⇄<br/>+0.3"]]
     click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md" "B12 · Caro-Kann Defense"
-    e4 --> e6["2... e6 ⇄<br/>+0.3"]
+    e4 --> e6["2... e6 ⇄<br/>+0.2"]
     click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md" "C00 · French Defense"
     e4 --> Nc6(["2... Nc6 ⇄<br/>+0.4"])
     click Nc6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_Nc6_Nimzovitch.md" "B00 · Nimzowitsch Defense: Scandinavian Variation"
@@ -75,7 +75,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2
 > ### Summary
 > - White's main idea is to gain the initiative by quickly opening the e-column and, later on, the f-column, through a pawn sacrifice and a pawn exchange.
 > - Black's objective is to break White's initiative and strive for exchanging pieces to reach a better endgame.
-> - Black may avoid the gambit by playing the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3) or the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.3).
+> - Black may avoid the gambit by playing the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3) or the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.2).
 > - A prepared Black player may also use several side lines to the main one ([Lemberger Countergambit](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly Variation (-0.2) of the [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md)).
 > - The [accepted Blackmar-Diemer](#_4_f3_exf3_) (-0.5) is full of tactical traps from White, with two main lines: the risky [5. Qxf3](#_accepted_Qxf3_) (-1.4) and the main [5. Nxf3](#_accepted_Nxf3_) (-0.5).
 
@@ -87,7 +87,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2
 This opening is not correct with respect to opening principles, but leads to a ***dynamic game with many tactical ideas*** for both players. When correctly prepared, Black is able to avoid many of its traps and obtain a good position for the middle and endgame (-0.5). That said, due to the amount of preparation required from Black, a good White player may still surprise their opponent in blitz/bullet games.
 
 * refuse with **2... c6**, transposing into the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3), or
-* refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.3), or
+* refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.2), or
 * refuse with **2... Nc6**, transposing into the [Nimzowitsch Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_Nc6_Nimzovitch.md) (+0.4), or
 * refuse with [**2... Nf6**](#_Nf6_) (+0.6): which allows White to grab more space with **3. e5**, or
 * **accept** with [**2... dxe4**](#_accepted_) (-0.7): this is the most played move, at ***74%*** of masters games
