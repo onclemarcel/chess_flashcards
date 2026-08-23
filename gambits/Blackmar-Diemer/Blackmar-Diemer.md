@@ -4,6 +4,45 @@
 
 This two-step gambit (Blackmar & Diemer) may be reached from the Queen's Pawn Game (D00), the Scandinavian Defense (B01), or even through an Indian Defense (A45) with **2. Nc3 d5 3. e4**.
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. This card runs five levels deep (2nd move → 3. Nc3 → 3rd move → 4. f3 → 5th move); the diagram stops after the fourth, matching B01's own depth, so 4. f3's own branches (Vienna Defense, Brombacher Countergambit, the Halosar Trap...) stay prose-only below. Gambit/trap cards like this one are exempt from the usual 3-move depth limit — see start.md — since the point of the card is exactly that depth; this diagram just stays legible rather than mapping all five levels.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    e4["1. d4 d5 2. e4 ♙"]
+    click e4 "#_initial_move_" "D00 · Blackmar-Diemer Gambit"
+
+    e4 --> c6[["2... c6 ⇄<br/>+0.3"]]
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md" "B12 · Caro-Kann Defense"
+    e4 --> e6["2... e6 ⇄<br/>+0.3"]
+    click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md" "C00 · French Defense"
+    e4 --> Nc6(["2... Nc6 ⇄<br/>+0.4"])
+    click Nc6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_Nc6_Nimzovitch.md" "B00 · Nimzowitsch Defense: Scandinavian Variation"
+    e4 --> Nf6["2... Nf6 💣<br/>+0.6"]
+    click Nf6 "#_Nf6_" "D00 · Blackmar-Diemer Gambit"
+    e4 --> dxe4[["2... dxe4 !<br/>-0.7"]]:::main
+    click dxe4 "#_accepted_" "D00 · Blackmar-Diemer Gambit"
+
+    dxe4 --> Nc3["3. Nc3 !<br/>-0.5"]:::main
+    click Nc3 "#_accepted_" "D00 · Blackmar-Diemer Gambit"
+
+    Nc3 --> Nf6n[["3... Nf6 !<br/>-0.5"]]:::main
+    click Nf6n "#_3_Nc3_Nf6_" "D00 · Blackmar-Diemer Gambit"
+    Nc3 --> e5n["3... e5<br/>-0.1"]
+    click e5n "#_3_Nc3_e5_" "D00 · Blackmar-Diemer Gambit: Lemberger Countergambit"
+    Nc3 --> f5n{"3... f5<br/>+0.1"}
+    click f5n "#_3_Nc3_f5_" "D00 · Blackmar-Diemer Gambit: Netherlands Variation"
+    Nc3 --> Bf5n["3... Bf5<br/>-0.1"]
+    click Bf5n "#_3_Nc3_Bf5_" "D00 · Blackmar-Diemer Gambit: Zeller Defense"
+    Nc3 --> Nc6n{"3... Nc6<br/>+0.1"}
+    click Nc6n "#_3_Nc3_Nc6_" "B00 · Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation"
+```
+<!-- content-diagram:end -->
+
 <a name="_initial_move_"></a>
 
 [![1. d4 d5 2. e4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR&lastMove=e2e4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2)
@@ -37,7 +76,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2
 > - White's main idea is to gain the initiative by quickly opening the e-column and, later on, the f-column, through a pawn sacrifice and a pawn exchange.
 > - Black's objective is to break White's initiative and strive for exchanging pieces to reach a better endgame.
 > - Black may avoid the gambit by playing the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3) or the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.3).
-> - A prepared Black player may also use several side lines to the main one ([Lemberger Variation](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly Variation (-0.2) of the [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md)).
+> - A prepared Black player may also use several side lines to the main one ([Lemberger Countergambit](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly Variation (-0.2) of the [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md)).
 > - The [accepted Blackmar-Diemer](#_4_f3_exf3_) (-0.5) is full of tactical traps from White, with two main lines: the risky [5. Qxf3](#_accepted_Qxf3_) (-1.4) and the main [5. Nxf3](#_accepted_Nxf3_) (-0.5).
 
 > [!TIP]
@@ -133,11 +172,11 @@ rnbqkbnr/ppp1pppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 Black should develop the knight while defending the e4 pawn. That said, several other options are worth mentioning since White may be less prepared for those:
 
 * [**3... Nf6**](#_3_Nc3_Nf6_) (-0.5): main move, most played and best rated in this position
-* [**3... e5**](#_3_Nc3_e5_) (-0.1): the [Lemberger Variation](#_3_Nc3_e5_) — a side move that may disrupt White's initiative in this opening (played only 13% of the time)
+* [**3... e5**](#_3_Nc3_e5_) (-0.1): the [Lemberger Countergambit](#_3_Nc3_e5_) — a side move that may disrupt White's initiative in this opening (played only 13% of the time)
 * [**3... f5**](#_3_Nc3_f5_) (+0.1): the [Netherlands Variation](#_3_Nc3_f5_) — another interesting side move, but more dangerous for Black, since it weakens the f7 square and exposes the king
 * [**3... Bf5**](#_3_Nc3_Bf5_) (-0.1): the [Zeller Defense](#_3_Nc3_Bf5_) — this allows White to attack the bishop with g4 while keeping the initiative
 
-Black may also choose unexpected answers such as **3... c5** or [**3... Nc6**](#_3_Nc3_Nc6_), where in both cases White should play **4. d5**.
+Black may also choose unexpected answers such as **3... c5** or [**3... Nc6**](#_3_Nc3_Nc6_) (+0.1), where in both cases White should play **4. d5**.
 
 [*Back to TOP*](#_TOP_)
 
@@ -231,7 +270,7 @@ Black may also choose unexpected answers such as **3... c5** or [**3... Nc6**](#
 >
 > <a name="_3_Nc3_e5_"></a>
 >
-> ### 3... e5 — Lemberger Variation
+> ### 3... e5 — Lemberger Countergambit
 >
 > White's reactions in masters games depart from Stockfish's preferred move here (**4. Nge2**), which protects d4 before launching **5. Nxe4** if possible: if Black prevents it with **... Nf6**, then **5. Bg5 exd4 6. Qxd4 Qxd4 7. Nxd4 Bb4 8. Nb5** aims at c7; after **... Na6 9. O-O-O**, there's a mate threat on **10. Rd8#** if Black doesn't see it.
 >

@@ -4,6 +4,36 @@
 
 Instead of recapturing right away, Black attacks the d5 pawn with the knight, delaying **... Qxd5** to avoid losing a tempo to White's development. This is the second most popular reply in both online play (26.1%) and masters games (29.5%) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md#_exd5_).
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. Note that 3. Nc3's masters share (4.0%) sits just above the rhombus threshold (masters < 2%), so the shape stays a plain rectangle even though the ⚠ gap is real and discussed below — the two signals are independent on purpose.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    Nf6["1. e4 d5 2. exd5 Nf6"]
+    click Nf6 "#_Nf6_" "B01 · Scandinavian Defense: Modern Variation"
+
+    Nf6 --> d4[["3. d4 !<br/>+0.7"]]:::main
+    click d4 "#_d4_" "B01 · Scandinavian Defense: Modern Variation"
+    Nf6 --> Nc3["3. Nc3 ⚠<br/>+0.1"]
+    click Nc3 "#_Nc3_" "B01 · Scandinavian Defense: Modern Variation"
+    Nf6 --> c4["3. c4<br/>+0.1"]
+    click c4 "#_Modern_alt_" "B01 · Scandinavian Defense: Modern Variation"
+    Nf6 --> Nf3b["3. Nf3<br/>+0.5"]
+    click Nf3b "#_Modern_alt_" "B01 · Scandinavian Defense: Modern Variation"
+    Nf6 --> Bb5["3. Bb5+<br/>+0.3"]
+    click Bb5 "#_Modern_alt_" "B01 · Scandinavian Defense: Modern Variation"
+
+    d4 --> Nxd5[["3... Nxd5 !<br/>+0.7"]]:::main
+    click Nxd5 "#_Marshall_" "B01 · Scandinavian Defense: Marshall Variation"
+    d4 --> Bg4[["3... Bg4 ♙<br/>+0.6"]]
+    click Bg4 "#_d4_" "B01 · Scandinavian Defense: Portuguese Gambit"
+```
+<!-- content-diagram:end -->
+
 <a name="_Nf6_"></a>
 
 [![1. e4 d5 2. exd5 Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3)
@@ -31,7 +61,7 @@ rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3
 | Be2 | 0 | — | 23 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/26/30 |  |
 | b3 | 0 | — | 14 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 25.2 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 25.2 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -165,11 +195,11 @@ rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | g6 | 60 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 5 (0.1%) | — |  |
 | c5 | 11 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 * **3... Nxd5** (+0.7, 67.6% masters): the *Marshall Variation* — Black recaptures immediately, accepting an isolated-queen-pawn-style structure after a later c4
-* **3... Bg4** (30.5% masters): pins Nf3 before it develops, postponing the recapture by one more move
+* **3... Bg4** (+0.6, 30.5% masters): the *Portuguese Gambit* — pins Nf3 before it develops, postponing the recapture by one more move in exchange for a lead in development
 
 Following **3... Nxd5**, White most often plays **4. c4** (40.7% masters, kicking the knight and gaining space) or **4. Nf3** (51.5% masters, simple development). Both transpose into well-known Marshall Variation theory that deserves its own card.
 
@@ -197,7 +227,7 @@ rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 | Be2 | 0 | — | 125 (5.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/26 |  |
 | g3 | 0 | — | 26 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/23 |  |
 
-*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 [*Back to 2... Nf6*](#_Nf6_)

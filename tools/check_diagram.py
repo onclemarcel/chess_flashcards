@@ -9,11 +9,14 @@ Each node in the diagram is expected to look like:
 
 where <move text> matches a move exactly as written in a "### Candidate
 moves" bullet elsewhere in the same file, [flags] is an optional run of
-'!', '!!', '?', '??' and/or the warning triangle, <target> is either an
-in-page anchor ("#_X_") or a full https://.../blob/main/... URL, and the
-node's *shape* claims one of four data-driven categories (see SHAPES below).
-The ':::main' class is independent of shape: it marks the line this card
-follows deeper, not a statistical property.
+'!', '!!', '?', '??', the warning triangle (online/masters gap), '⇄'
+(transposes into a named opening), '♙' (a gambit) and/or '💣' (a trap --
+i.e. its target is a [!TIP] block, per start.md's own "Tips highlight mate
+patterns and traps" rule), <target> is either an in-page anchor ("#_X_") or
+a full https://.../blob/main/... URL, and the node's *shape* claims one of
+four data-driven categories (see SHAPES below). The ':::main' class is
+independent of shape: it marks the line this card follows deeper, not a
+statistical property.
 
 This script does NOT re-derive the diagram from the prose or tables (that
 would make it a generator, not a checker) and it does NOT judge whether a
@@ -74,7 +77,9 @@ EDGE_RE = re.compile(
 CLICK_RE = re.compile(r'click\s+(?P<id>[A-Za-z_][A-Za-z0-9_]*)\s+"(?P<target>[^"]+)"')
 ANCHOR_RE = re.compile(r'<a\s+(?:name|id)="([^"]+)"')
 EVAL_RE = re.compile(r'(?<![\w.])([+-]?\d+\.\d+|#-?\d+)(?![\w.])')
-FLAG_CHARS = "!?" + "⚠"  # '!', '?', warning triangle
+FLAG_CHARS = "!?⚠⇄♙💣"  # '!', '?', online/masters gap, transposition, gambit, trap
+CALLOUT_RE = re.compile(r'>\s*\[!(NOTE|TIP)\]')
+BULLET_RE = re.compile(r'^\s*[*-]\s')
 REPO_ROOT = pathlib.Path(__file__).resolve().parent.parent
 GITHUB_BLOB_RE = re.compile(
     r"https://github\.com/onclemarcel/chess_flashcards/blob/main/(?P<path>.+)$"
@@ -143,6 +148,29 @@ def split_label(label: str) -> tuple[str, str, bool]:
 
 def find_anchors(text: str) -> set[str]:
     return set(ANCHOR_RE.findall(text))
+
+
+def callout_type(text: str, anchor: str) -> str | None:
+    """'NOTE' or 'TIP' if <a name="anchor"> sits inside that kind of
+    blockquote callout, else None (main-line content, not inside either).
+    Walks backward from the anchor through unbroken '>'-prefixed lines --
+    the same "one continuous blockquote" convention start.md documents for
+    NOTE/TIP boxes -- until it finds the '[!NOTE]'/'[!TIP]' marker line or
+    exits the blockquote.
+    """
+    m = re.search(r'<a\s+(?:name|id)="' + re.escape(anchor) + r'"', text)
+    if not m:
+        return None
+    lines = text[:m.start()].split("\n")
+    if not lines[-1].lstrip().startswith(">"):
+        return None  # the anchor's own line isn't in a blockquote
+    for line in reversed(lines[:-1]):
+        if not line.lstrip().startswith(">"):
+            break
+        cm = CALLOUT_RE.search(line)
+        if cm:
+            return cm.group(1)
+    return None
 
 
 def parse_table_rows(text: str) -> list[tuple[int, str, float | None, float | None]]:
@@ -251,9 +279,15 @@ def check_file(path: pathlib.Path) -> list[str]:
                 )
                 continue
 
-            # Eval/flag can sit on the same line (candidate-list bullets) or
-            # a few lines below (a "### heading" followed by a diagram and
-            # its Stockfish row) -- look at the next few lines either way.
+            # Eval/flag/keyword can sit on the same line (candidate-list
+            # bullets) or a few lines below (a "### heading" followed by a
+            # diagram and its Stockfish row) -- look ahead, but stop at the
+            # first natural boundary: a '---' rule, or the start of the next
+            # bullet. Without that second guard, a fixed line count spills
+            # from one candidate's bullet into the very next sibling
+            # bullet's text (adjacent list items are one line apart), which
+            # is exactly what let a false '♙'/'⇄' claim on one move pass by
+            # matching a neighbour's "Gambit"/"transposes" instead of its own.
             windows = []
             occurrences = []
             start = 0
@@ -261,11 +295,15 @@ def check_file(path: pathlib.Path) -> list[str]:
                 idx = prose.find(bare_move, start)
                 if idx == -1:
                     break
-                window_end = idx
-                for _ in range(10):
+                first_nl = prose.find("\n", idx)
+                window_end = len(prose) if first_nl == -1 else first_nl + 1
+                for _ in range(9):
                     nl = prose.find("\n", window_end)
                     if nl == -1:
                         window_end = len(prose)
+                        break
+                    line = prose[window_end:nl]
+                    if line.strip() == "---" or BULLET_RE.match(line):
                         break
                     window_end = nl + 1
                 windows.append(prose[idx:window_end])
@@ -282,6 +320,24 @@ def check_file(path: pathlib.Path) -> list[str]:
                     f"{where}: node carries ⚠ but no occurrence of "
                     f"{bare_move!r} in the prose carries it too"
                 )
+            if "⇄" in label and not any("transpos" in w.lower() for w in windows):
+                problems.append(
+                    f"{where}: node carries ⇄ (transposition) but no nearby "
+                    f"occurrence of {bare_move!r} in the prose says 'transpos...'"
+                )
+            if "♙" in label and not any("Gambit" in w for w in windows):
+                problems.append(
+                    f"{where}: node carries ♙ (gambit) but no nearby "
+                    f"occurrence of {bare_move!r} in the prose says 'Gambit'"
+                )
+            if "💣" in label and target and target.startswith("#"):
+                kind = callout_type(original, target.lstrip("#"))
+                if kind != "TIP":
+                    problems.append(
+                        f"{where}: node carries 💣 (trap) but its target "
+                        f"{target!r} is inside a {kind or 'plain'} section, "
+                        f"not a [!TIP] block"
+                    )
 
             # Shape vs stats-table category (skip hexagon/blunder here).
             if shape in ("sub", "rhomb", "stad"):

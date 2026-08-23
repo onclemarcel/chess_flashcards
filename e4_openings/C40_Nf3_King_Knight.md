@@ -4,6 +4,31 @@
 
 White develops a piece to a more active square, makes room for kingside castling, asserts control in the centre and over the d4 square, and attacks Black's e5-pawn. This is the most common opening played in King's Pawn Game masters games (92% of C20).
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. None of these candidates continue on this page (all lead to a dedicated card), so no node is marked as the followed line.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    Nf3["1. e4 e5 2. Nf3"]
+    click Nf3 "#_initial_move_" "C40 · King's Knight Opening"
+
+    Nf3 --> Nc6[["2... Nc6<br/>+0.1"]]
+    click Nc6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nf3_Nc6_King_Knight.md" "C44 · King's Knight Opening: Normal Variation"
+    Nf3 --> d6["2... d6<br/>+0.5"]
+    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Nf3_d6_Philidor_Defense.md" "C41 · Philidor Defense"
+    Nf3 --> Nf6["2... Nf6<br/>+0.3"]
+    click Nf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Nf3_Nf6_Petrov_Defense.md" "C42 · Petrov's Defense"
+    Nf3 --> f5(["2... f5 ♙<br/>+1.4"])
+    click f5 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md" "C40 · Latvian Gambit"
+    Nf3 --> d5{"2... d5 ♙<br/>+0.8"}
+    click d5 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Elephant/Elephant.md" "C40 · Elephant Gambit"
+```
+<!-- content-diagram:end -->
+
 <a name="_initial_move_"></a>
 
 [![1. e4 e5 2. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2)

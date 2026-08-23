@@ -4,6 +4,33 @@
 
 By mirroring White's move, Black grabs an equal share of the centre and scope to develop some pieces. 1... e5 is also one of the few moves that directly interferes with White's ideal plan of playing d4. Black's pawn on e5 is undefended, so it is easy for White to develop in a way that restricts Black's possible responses by threatening to capture it. This is White's most common plan, but they may also choose to develop without attacking.
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. C20 is a genuine hub: each candidate here is itself the start of a whole named opening, so none continue on this page and none are marked as the followed line.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    e5["1. e4 e5"]
+    click e5 "#_initial_move_" "C20 · King's Pawn Game"
+
+    e5 --> Nf3[["2. Nf3<br/>+0.1"]]
+    click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_Nf3_King_Knight.md" "C40 · King's Knight Opening"
+    e5 --> f4["2. f4 ♙<br/>-0.4"]
+    click f4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md" "C30 · King's Gambit"
+    e5 --> d4{"2. d4<br/>-0.1"}
+    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_d4_Center_Game.md" "C20 · Center Game"
+    e5 --> Nc3["2. Nc3<br/>+0.1"]
+    click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Nc3_Vienna_Game.md" "C25 · Vienna Game"
+    e5 --> Bc4["2. Bc4<br/>0.0"]
+    click Bc4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md" "C23 · Bishop's Opening"
+    e5 --> Qh5(["2. Qh5<br/>-0.3"])
+    click Qh5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Qh5_Wayward_Queen.md" "C20 · King's Pawn Game: Wayward Queen Attack"
+```
+<!-- content-diagram:end -->
+
 <a name="_initial_move_"></a>
 
 [![1. e4 e5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR&lastMove=e7e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2)

@@ -4,6 +4,35 @@
 
 This gambit may be reached from the Réti/Zukertort Opening (A06, 1. Nf3 d5 2. e4) or by transposition from the Scandinavian Defense (B01, 1. e4 d5 2. Nf3) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md#_Nf3_). The main idea is to capture the Black queen through seemingly sensible moves. This trap backfires when avoided by Black, with a score of -0.7 estimated by Stockfish.
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. Both 3... Nf6 and 3... e5 are tied at 41.7% of masters games (a 5-game sample, so read that tie loosely) — Nf6 is master-safe in its own right, the trap is specifically two moves further, at 5. Bxd3 h6??.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    Nf3["1. e4 d5 2. Nf3 ♙"]
+    click Nf3 "#_Nf3_" "A06 · Zukertort Opening: Tennison Gambit"
+
+    Nf3 --> c6[["2... c6 ⇄<br/>+0.3"]]
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md" "B10 · Caro-Kann Defense"
+    Nf3 --> e6["2... e6 ⇄<br/>+0.1"]
+    click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md" "C00 · French Defense"
+    Nf3 --> dxe4[["2... dxe4 !<br/>-0.7"]]:::main
+    click dxe4 "#_dxe4_" "A06 · Zukertort Opening: Tennison Gambit"
+
+    dxe4 --> Ng5["3. Ng5 !<br/>-0.8"]:::main
+    click Ng5 "#_dxe4_" "A06 · Zukertort Opening: Tennison Gambit"
+
+    Ng5 --> Nf6[["3... Nf6 💣<br/>-0.4"]]
+    click Nf6 "#_Trap_" "A06 · Zukertort Opening: Tennison Gambit"
+    Ng5 --> e5[["3... e5 !<br/>-1.0"]]:::main
+    click e5 "#_Escape_" "A06 · Zukertort Opening: Tennison Gambit"
+```
+<!-- content-diagram:end -->
+
 <a name="_Nf3_"></a>
 
 [![1. e4 d5 2. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2)
@@ -72,7 +101,7 @@ rnbqkbnr/ppp1pppp/8/6N1/4p3/8/PPPP1PPP/RNBQKB1R b KQkq - 1 3
 *Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 12 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/6N1/4p3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
-* [**3... Nf6**](#_Trap_) (55.1% online): the natural developing move — but it walks straight into the trap below if Black then plays carelessly
+* [**3... Nf6**](#_Trap_) (-0.4, 55.1% online): the natural developing move — but it walks straight into the trap below if Black then plays carelessly
 * [**3... e5**](#_Escape_) (-1.0, 41.7% masters): the correct way to meet the gambit, threatening the Ng5 knight directly
 
 [*Back to TOP*](#_TOP_)

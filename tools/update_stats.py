@@ -13,7 +13,7 @@ single source of truth: edit its attributes, never the table.
 
 Usage:
     python tools/update_stats.py                  # walk the whole repository
-    python tools/update_stats.py start.md         # one file
+    python tools/update_stats.py A00_Start.md      # one file
     python tools/update_stats.py --check          # fail if anything is stale
     python tools/update_stats.py --no-cache       # ignore the on-disk cache
 """

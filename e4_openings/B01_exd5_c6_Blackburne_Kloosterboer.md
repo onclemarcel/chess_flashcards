@@ -4,6 +4,27 @@
 
 Rather than recapturing on d5, Black offers a second pawn to open lines quickly for the pieces. This try is a fringe weapon: 6.3% in online blitz/bullet, but essentially unseen in masters games (0.1%, 32 games total in the reference sample) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md#_exd5_).
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    c6["1. e4 d5 2. exd5 c6"]
+    click c6 "#_c6_" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+
+    c6 --> dxc6[["3. dxc6 !<br/>+0.8"]]:::main
+    click dxc6 "#_dxc6_" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+    c6 --> Nc3{"3. Nc3 ⚠<br/>-0.0"}
+    click Nc3 "#_Nc3_" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+    c6 --> d4[["3. d4 ⇄<br/>+0.1"]]
+    click d4 "#_d4_" "B13 · Caro-Kann Defense: Exchange Variation"
+```
+<!-- content-diagram:end -->
+
 <a name="_c6_"></a>
 
 [![1. e4 d5 2. exd5 c6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR&lastMove=c7c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3)
@@ -29,7 +50,7 @@ rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
 | d3 | 13 k (0.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/4/54 | 0 | — | ⚠ |
 | Qf3 | 11 k (0.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -38,7 +59,7 @@ rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
 ### Candidate moves
 
 * [**3. dxc6**](#_dxc6_) (+0.8): the main line — accepting is simplest and best, over two thirds of the (few) masters games and just over half of online games
-* [**3. Nc3**](#_Nc3_) (-0.0): declining keeps the tension but is objectively weaker than just taking the pawn
+* [**3. Nc3**](#_Nc3_) (-0.0 ⚠): declining keeps the tension but is objectively weaker than just taking the pawn — played 22.5% online yet essentially never at masters level
 * [**3. d4**](#_d4_) (+0.1): declines and builds the centre instead, transposing towards a well-known structure a pawn up
 
 ---
@@ -118,7 +139,7 @@ rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3
 | bxc6 | 18 k (0.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/40 | 0 | — | ⚠ |
 | Qb6 | 14 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 22 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 22 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 * **3... Nxc6** (+0.9, 60.3% online, 100% of the — very few — masters games): the point of the gambit — Black develops with tempo instead of recapturing with a pawn, aiming for quick ... e5 and piece activity

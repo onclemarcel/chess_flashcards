@@ -20,19 +20,19 @@ flowchart LR
     click e5 "#_e5_" "B01 · Scandinavian Defense"
     d5 --> d3(["2. d3<br/>-0.1"])
     click d3 "#_d3_" "B01 · Scandinavian Defense"
-    d5 --> Nc3["2. Nc3<br/>-0.6"]
+    d5 --> Nc3["2. Nc3 💣<br/>-0.6"]
     click Nc3 "#_Nc3_" "B01 · Scandinavian Defense"
-    d5 --> Nf3{"2. Nf3 ⚠<br/>-0.7"}
+    d5 --> Nf3{"2. Nf3 ⚠⇄♙💣<br/>-0.7"}
     click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Tennison/Tennison.md" "A06 · Zukertort Opening: Tennison Gambit"
-    d5 --> d4{"2. d4 ⚠<br/>-0.5"}
+    d5 --> d4{"2. d4 ⚠⇄♙<br/>-0.5"}
     click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md" "D00 · Blackmar-Diemer Gambit"
     d5 --> exd5[["2. exd5 !<br/>+0.5"]]:::main
     click exd5 "#_exd5_" "B01 · Scandinavian Defense"
 
-    exd5 --> c6{"2... c6 ⚠<br/>+0.7"}
-    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_c6_Blackburne_Kloosterboer.md" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+    exd5 --> c6{"2... c6 ⚠♙<br/>+0.7"}
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_c6_Blackburne_Kloosterboer.md" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
     exd5 --> exNf6[["2... Nf6<br/>+0.5"]]
-    click exNf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_Nf6_Modern.md" "B01 · Scandinavian Defense: Modern Variation"
+    click exNf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_Nf6_Modern.md" "B01 · Scandinavian Defense: Modern Variation"
     exd5 --> Qxd5[["2... Qxd5 !<br/>+0.5"]]:::main
     click Qxd5 "#_Qxd5_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
 
@@ -69,7 +69,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 | a3 | 0 | — | 1 (0.0%) | — |  |
 | c4 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 136.3 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 136.3 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 - Cases where White avoids taking the d5 pawn:
@@ -111,7 +111,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | Bf5 | 28 (5.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/0/50 | 0 | — |  |
 > | d3 | 18 (3.8%) | — | 0 | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 471 games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/4P3/3p4/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 471 games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/4P3/3p4/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1... d5*](#_d5_)
@@ -147,7 +147,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | e6 | 155 k (4.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 6 (8.1%) | — |  |
 > | Nc6 | 0 | — | 6 (8.1%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 74 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/3P4/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 74 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/3P4/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1... d5*](#_d5_)
@@ -184,7 +184,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | c5 | 22 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 > | Nc6 | 8.6 k (4.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 175 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3N4/3pP3/8/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 175 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3N4/3pP3/8/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > **3. Nce2** is also met by **... e5**, giving more space to Black and open the dark squares diagonal while White is stuck.
@@ -209,7 +209,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | f4 | 202 k (6.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/3/43 | 21 (4.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 24/33/43 |  |
 > | c3 | 33 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 20 (4.5%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 10/75/15 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 442 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/4p3/3pP3/8/PPPPNPPP/R1BQKBNR_w_KQkq_e6_0_4#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 442 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/4p3/3pP3/8/PPPPNPPP/R1BQKBNR_w_KQkq_e6_0_4#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1... d5*](#_d5_)
@@ -247,7 +247,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | e6 | 272 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 3 (13.0%) | — | ⚠ |
 > | e5 | 0 | — | 1 (4.3%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 11.6 M games. Masters: 23 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 11.6 M games. Masters: 23 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > - Black may:
@@ -290,7 +290,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 > | Nf6 | 632 k (7.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/3/42 | 3 (1.0%) | — | ⚠ |
 > | Nc6 | 186 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 2 (0.7%) | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 301 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-22*
+> *Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 301 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
 > - When correctly prepared, Black is able to avoid many traps of this opening and obtain a good position for middle and end game (-0.5)
@@ -329,12 +329,12 @@ rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 | f5 | 0 | — | 2 (0.0%) | — |  |
 | Qd7 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 96.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 96.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 - Main Black moves lead to the following variations:
-  * [**2... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_c6_Blackburne_Kloosterboer.md) (+0.7 ⚠) : Blackburne-Kloosterboer Gambit — played 6.3% online but essentially unseen in masters (0.1%)
-  * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_Nf6_Modern.md) (+0.5) : Modern Variation of the Scandinavian
+  * [**2... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_c6_Blackburne_Kloosterboer.md) (+0.7 ⚠) : Blackburne-Kloosterboer Gambit — played 6.3% online but essentially unseen in masters (0.1%)
+  * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_Nf6_Modern.md) (+0.5) : Modern Variation of the Scandinavian
   * [**2... Qxd5**](#_Qxd5_) (+0.5) : Mieses-Kotroc Variation — the main line, covered below
 
 The Blackburne-Kloosterboer Gambit and the Modern Variation each open their own body of theory and are documented on a dedicated card. The Mieses-Kotroc Variation stays the main line of this card and continues below.
@@ -369,7 +369,7 @@ rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
 | h3 | 0 | — | 11 (0.1%) | — |  |
 | a3 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 61.3 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 61.3 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/ppp1pppp/8/3q4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 * [**3. Nc3**](#_Qxd5_Nc3_) (+0.5): the main line by far (90.5% of masters games), attacking the queen and preparing quick development
@@ -446,7 +446,7 @@ rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 3
 | Nf6 | 47 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 77/2/21 | 0 | — | ⚠ |
 | Qg5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 40.4 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-22*
+*Online: bullet/blitz, 1800+ — 40.4 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
