@@ -18,7 +18,7 @@ flowchart LR
 
     Bc4 --> Nf6[["3... Nf6 !<br/>+0.2"]]:::main
     click Nf6 "#_Nf6_" "C55 · Italian Game: Two Knights Defense"
-    Bc4 --> f5(["3... f5 ♙<br/>+1.1"])
+    Bc4 --> f5(["3... f5 ♙<br/>+1.0"])
     click f5 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md" "C50 · Italian Game: Rousseau Gambit"
 
     Nf6 --> Nc3{"4. Nc3 ⇄<br/>-0.2"}
@@ -63,7 +63,7 @@ There is no immediate threat to Black's position so they have some flexibility i
 
 * [**3... Nf6**](#_Nf6_) (+0.2): the [Two Knights Defense](#_Nf6_) develops a piece while putting pressure on the undefended e4 pawn, at 43.9% of masters games (second to 3... Bc5's 52.3%). Note that **3... Nf6** allows 4. Ng5, a sharp move that also attacks f7 and can lead to an aggressive knight sacrifice known as the [Fried Liver Attack](#_Fried_Liver_); this opening trap needs to be known by Black.
 * **3... Bc5** (+0.2): by developing the kingside bishop before the kingside knight, Black keeps control of the g5 square, then after 4... Nf6 Black is ready to castle 5... O-O. By developing in this order, Black avoids the sharper Ng5 lines that follow the Two Knights Defense: g5 is controlled by the queen until Black is ready to castle and defend f7 with the rook. Hence this continuation is called the Giuoco Piano — *pending its own dedicated card*.
-* [**3... f5**](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) (+1.1): the [Rousseau Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) resembles a Vienna Gambit with colours reversed. Black hopes White will take the offered pawn, 4. exf5?, deflecting one of their pawns from the centre and allowing 4... e4, and the only place for White's knight to go is back to g1. However, White can decline with 4. d3 or countergambit with 4. d4.
+* [**3... f5**](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) (+1.0): the [Rousseau Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) resembles a Vienna Gambit with colours reversed. Black hopes White will take the offered pawn, 4. exf5?, deflecting one of their pawns from the centre and allowing 4... e4, when the attacked knight retreats with 5. Ng1 or holds its ground with 5. Qe2 (defending it in place) — engines actually prefer the more active 5. Nd4. However, White can decline with 4. d3 or countergambit with 4. d4.
 * **3... h6** (+0.6): called the **Anti-Fried Liver**, an amateur attempt to avoid the Ng5 lines. The idea is to allow Black to play 4... Nf6 without giving up control of g5. Though this is a straightforward idea, its drawback is that it doesn't control the centre or develop a piece, essentially giving White an extra tempo to attack with **4. d4**.
 * **3... Be7** (+0.5): the **Hungarian Defense**, a minor sideline. This is a more conservative developing move, getting ready to castle while not giving up control of g5 yet. After 4. d4 d6, a Philidor-style position is reached.
 * **3... d6** (+0.4): the **Paris Defense**, very passive. It avoids developing a piece and over-defends e5, which wasn't at risk anyway. This usually transposes into an Exchange Philidor.

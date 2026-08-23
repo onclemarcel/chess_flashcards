@@ -95,11 +95,15 @@ Alongside the main theory/statistics-driven card authoring above, the user wants
 - Run `update_stats.py` + `check_diagram.py` after every addition, same as any other edit — `patterns/general_principles.md` itself has no stats/diagram markers and both tools skip it cleanly.
 - **Not yet decided**: whether/when to do this pass — user said it's a side task "after initialisation of all cards from theory and statistics first," i.e. lower priority than the main Phase B backlog below, done opportunistically when a transcript is supplied.
 
+**Batch 7 closed 2026-08-23 — the three deferred gambit stubs, `gambits/Latvian/`, `gambits/Elephant/`, `gambits/Rousseau/`:**
+
+- [x] `Latvian.md` (C40, 1...f5, +1.4) — 3.Nxe5 main (76.4% masters). Modern online practice favours 3...Nf6/3...d5 over the "classical" book tries Qf6/Qg5 (too obscure for cloud-eval to have cached, so those are described qualitatively rather than with verified sub-lines). TIP: 3...d5 (before ...Nf6) walks into 4.Qh5+! exploiting the light squares — verified, 89% online.
+- [x] `Elephant.md` (C40, 1...d5, +0.8) — 3.exd5 e4 4.Qe2 main line, all verified. Corrected two draft claims before publishing: 3.Nxe5's "dxe4 loses to a fork" wasn't actually true (engine's top try is 3...Bd6, not a forced refutation of dxe4), and "Qe2 pins e4" was refined to state precisely what it pins against (exf3, not general movement).
+- [x] `Rousseau.md` (C50, 1...Nc6 2.Bc4 f5, +1.0) — 4.exf5 e4 tabiya, White's knight retreat split ~evenly Ng1/Qe2 (engines prefer Nd4). This **corrected a stale claim already in `C50_Italian.md`** ("the only place for White's knight to go is back to g1") — fixed there too, plus a 1.1→1.0 eval reconciliation.
+- **Recurring FEN bug this batch**: forgetting to carry a still-present pawn/piece forward into a rank string that's mostly being rewritten (e.g. dropping Black's f5 pawn when only rank8/rank6 seemed relevant) caused several zero-result explorer queries — always re-derive the *whole* rank string from the prior position, not just the squares that obviously changed.
+
 ## Backlog (not started)
 
 - **Deeper Sicilian**: Najdorf's own 6th-move branches (English Attack, Classical, etc.), the Sveshnikov past 6...d6 7.Bg5, the Dragon/Classical/Scheveningen/Kan/Taimanov systems themselves, and Maroczy Bind theory — each is its own multi-card body of work.
 - **Further Ruy Lopez depth**: Chigorin/Breyer/Zaitsev (deep in the Closed main line after 7. Bb3 d6 8. c3), and the Open Variation's own theory past 6. d4.
-- **New top-level fronts** (from Phase B's original scope, still untouched): `d4_openings/`, `Nf3_openings/`, `c4_openings/` for 1. d4/1. Nf3/1. c4 and their replies.
-- **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` remain one-line stubs, still deliberately deferred.
 - **New top-level fronts**: `d4_openings/`, `Nf3_openings/`, `c4_openings/` — 1. d4 (35.8% masters, no card yet), 1. Nf3 (10.2%), 1. c4 (6.9%) and their replies. None of this scaffolding exists yet — each needs its own root card analogous to `B00_e4_KPG.md`.
-- **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` are one-line stubs, deliberately deferred per the user's own instruction to set gambits/traps/mate-patterns aside until the main-line survey cards are further along.
