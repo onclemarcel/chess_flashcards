@@ -142,6 +142,33 @@ Both are considered fully sound; the choice is largely a matter of taste.
 
 ---
 
+> [!TIP]
+> [DN] From Daniel Naroditsky's *Speedrun: Back to 3000* — against 4... Bc5, **5. Nxc6** is masters' second-choice recapture-inducing try; **5... Qf6** answers in kind (87.9% of masters games), and the position becomes a real practical test of whether White meets it correctly.
+>
+> <a name="_Bc5_Nxc6_"></a>
+>
+> ### 4... Bc5 5. Nxc6 Qf6 — mind the two different "f3"s
+>
+> [![5... Qf6](https://backscattering.de/web-boardimage/board.svg?fen=r1b1k1nr/pppp1ppp/2N2q2/2b5/4P3/8/PPP2PPP/RNBQKB1R&lastMove=d8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1b1k1nr/pppp1ppp/2N2q2/2b5/4P3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_6)
+>
+> *... 5... Qf6*
+>
+> ```
+> r1b1k1nr/pppp1ppp/2N2q2/2b5/4P3/8/PPP2PPP/RNBQKB1R w KQkq - 1 6
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
+> | --- | --- |
+>
+> White's two main tries are the **queen** moves **6. Qd2** (50.4% masters) and **6. Qf3** (47.9%) — the latter offers a queen trade that's been reached thousands of times in top-level games. [DN] The **pawn** move **6. f3??** looks similar on the board but is a very different decision: barely played at master level (1.0%), it blocks White's own king-knight development and, critically, makes it much harder to castle — see [Every pawn move leaves something behind](https://github.com/onclemarcel/chess_flashcards/blob/main/patterns/general_principles.md#_pawn_move_weaknesses_).
+>
+> After **6. f3 dxc6** (opening Black's own light-squared bishop in the process — doubled pawns are a small price for development here), White's position is still only slightly worse on the engine's own numbers (-0.1), but the practical damage is real: the king is stuck in the centre a long time, and — as happened in the featured game — that's exactly the kind of position where a further slip turns into a full-blown blunder.
+>
+> [*Back to 3... exd4*](#_exd4_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
 <a name="_Bc4_"></a>
 
 ### 4. Bc4 — Scotch Gambit

@@ -10,6 +10,7 @@ The purpose of this documentation is primarily a personnal work to gather inform
 There are several ways to dive into the pages of this repository:
 - Start [here](./A00_Start.md), on the first page illustrating the starting position, with links to the main first move openings
 - Walk through the "code" folders to reach a specific page, especially for mate patterns or specific traps
+- Browse [general, opening-agnostic principles](./patterns/general_principles.md) pulled from coaching commentary (currently: Daniel Naroditsky's *Speedrun: Back to 3000*, tagged `[DN]`)
 - Go straight to one of the most famous openings in the following list:
 
 ### From the initial position ###

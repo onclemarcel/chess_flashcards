@@ -82,6 +82,19 @@ Goal: build out actual opening cards, organised by directory per White's first m
 - Wired all four into `B20_1e4c5_Sicilian.md`'s Overview mermaid and candidate-move links (was "none of Black's replies to 2. Nf3 have their own card yet").
 - **Note on scope**: none of these four cards go past their own first sub-fork — Najdorf's own move-6 branches, Sveshnikov past 6...d6 7.Bg5, Dragon/Classical/Scheveningen/Kan/Taimanov proper, and Maroczy Bind theory are all still open backlog. Sicilian is too large to ever fully "finish" in the way a single named opening can; this batch closes the *immediate* fan-out the user asked for.
 
+## Side task: video-to-cards (added 2026-08-23)
+
+Alongside the main theory/statistics-driven card authoring above, the user wants a **recurring side task**: process transcripts of chess coaching videos (starting with Daniel Naroditsky's *Speedrun: Back to 3000 ELO* series, transcripts under `transcripts/Naroditsky/Back to 3000 ELO/<n>.txt`) and fold the useful content into the existing cards — never paste a full transcript in. Established workflow after a first trial on `397.txt`:
+
+- **Tag every video-derived addition `[DN]`** (initials of the source) so multiple future sources can be told apart on the same page.
+- **Never trust a transcript's algebraic notation at face value.** Auto-transcription mangles move letters in ways that sound plausible (e.g. a queen move and a pawn push both landing on "f3" got blurred together in `397.txt`) — reconstruct the actual game from context/legality and verify every move and eval against the Lichess explorer/cloud-eval before writing anything, exactly like the theory-authoring workflow above. If a position can't be reconstructed with real confidence (missing moves, ambiguous narration), don't force a diagram for it — prose-only is fine.
+- **Three destinations for extracted content**, decided per item:
+  1. A position-specific point that's simply new depth on an existing card → add inline (a `[!TIP]`/`[!NOTE]` block, or extend a bullet), same shape as the rest of that card. Example: `e4_openings/C44_Scotch.md`'s `_Bc5_Nxc6_` TIP — the 4...Bc5 5.Nxc6 Qf6 line wasn't built out before; added with verified stats/eval, flagging White's real 6.Qd2/6.Qf3 against the inferior 6.f3.
+  2. An opening-agnostic principle (not tied to one position) → `patterns/general_principles.md`, a new reference page (companion to `start.md`, not a move-tree card) with one anchored entry per principle, tagged `[DN]`. Cards that concretely illustrate a principle link to the relevant anchor there rather than re-explaining it (see the Scotch TIP's link to `_pawn_move_weaknesses_`).
+  3. A whole new named trap/variation not covered anywhere → would get its own card (not yet needed in practice; no example from `397.txt`).
+- Run `update_stats.py` + `check_diagram.py` after every addition, same as any other edit — `patterns/general_principles.md` itself has no stats/diagram markers and both tools skip it cleanly.
+- **Not yet decided**: whether/when to do this pass — user said it's a side task "after initialisation of all cards from theory and statistics first," i.e. lower priority than the main Phase B backlog below, done opportunistically when a transcript is supplied.
+
 ## Backlog (not started)
 
 - **Deeper Sicilian**: Najdorf's own 6th-move branches (English Attack, Classical, etc.), the Sveshnikov past 6...d6 7.Bg5, the Dragon/Classical/Scheveningen/Kan/Taimanov systems themselves, and Maroczy Bind theory — each is its own multi-card body of work.
