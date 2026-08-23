@@ -22,6 +22,8 @@ flowchart LR
     click d6 "#_d6_" "C20 · Wayward Queen Attack"
     Qh5 --> Qf6{"2... Qf6 ⚠<br/>-0.1"}
     click Qf6 "#_Qf6_" "C20 · Wayward Queen Attack"
+    Qh5 --> Qe7["2... Qe7 ⚠<br/>-0.1"]
+    click Qe7 "#_Qe7_" "C20 · Wayward Queen Attack"
 ```
 <!-- content-diagram:end -->
 
@@ -59,6 +61,7 @@ rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2
 * [**2... Nc6**](#_Nc6_) (-0.4): defends e5 and develops a piece — the correct, near-universal reply (89.6% of masters games, 64.9% online).
 * [**2... d6**](#_d6_) (-0.2): also defends e5, at the cost of blocking the f8-bishop for now.
 * [**2... Qf6**](#_Qf6_) (-0.1 ⚠): an *amateur try* seen 7.0% of the time online but essentially never in masters play — it defends f7 and e5 in one move, but blocks Black's own knight from its best square.
+* [**2... Qe7**](#_Qe7_) (-0.1 ⚠): playable, but it blocks the f8-bishop's own development for no real gain.
 
 [*Back to TOP*](#_TOP_)
 
@@ -138,6 +141,49 @@ r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3
 >
 > White's queen has to retreat, most commonly **4. Qf3**, and Black is simply better developed for the tempo White spent.
 >
+> [DN] **4... Nf6!** is the accurate follow-up: it blocks the queen's own control of f7 along the f-file, and the knight cannot be taken because it is defended by the queen on d8 along the now-open d8-h4 diagonal (the e7 pawn moved away back on move 1).
+>
+> [![3... g6 4. Qf3 Nf6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR_w_KQkq_-_2_5)
+>
+> *... 4. Qf3 Nf6 — the knight cannot be taken, defended by the queen on d8*
+>
+> ```
+> r1bqkb1r/pppp1p1p/2n2np1/4p3/2B1P3/5Q2/PPPP1PPP/RNB1K1NR w KQkq - 2 5
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.2 |
+> | --- | --- |
+>
+> [DN] White commonly continues **5. d3**, and here Black has a strong practical shot: **5... Nd4!**, hopping into the centre to attack the queen a third time. The point is that **c2 is undefended** in this whole variation — nothing White has played (Bc4, Qf3, d3) covers it — so the retreating queen must also watch that square.
+>
+> [![5. d3 Nd4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1p1p/5np1/4p3/2BnP3/3P1Q2/PPP2PPP/RNB1K1NR&lastMove=c6d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1p1p/5np1/4p3/2BnP3/3P1Q2/PPP2PPP/RNB1K1NR_w_KQkq_-_1_6)
+>
+> *... 5. d3 Nd4 — attacking the queen a third time, eyeing c2*
+>
+> ```
+> r1bqkb1r/pppp1p1p/5np1/4p3/2BnP3/3P1Q2/PPP2PPP/RNB1K1NR w KQkq - 1 6
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -1.0 |
+> | --- | --- |
+>
+> [DN] The only good square is **6. Qd1!**, which retreats to safety *and* covers c2 along the d1-a4 diagonal. Play might continue **6... Bg7 7. c3** (chasing the knight away, the only try) **Nc6 8. Nf3**, reaching a position that is only slightly better for Black (-0.3) despite White's lost tempi — a far cry from a disaster.
+>
+> Anywhere else, and **6... Nxc2+!** forks king, queen and rook at once — a real "family fork" (the knight on c2 hits e1, e3/wherever the queen is, and a1 simultaneously). This is exactly what happened in the source game: White played **6. Qe3??**, missing that the knight's next stop covers the queen too.
+>
+> [![6. Qe3?? Nxc2+](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1p1p/5np1/4p3/2B1P3/3PQ3/PPn2PPP/RNB1K1NR&lastMove=d4c2&arrows=Ge1e1,Yc2e3,Rc2a1&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1p1p/5np1/4p3/2B1P3/3PQ3/PPn2PPP/RNB1K1NR_w_KQkq_-_0_7)
+>
+> *... 6. Qe3?? Nxc2+ — the knight forks the king (check), the queen on e3, and the rook on a1*
+>
+> ```
+> r1bqkb1r/pppp1p1p/5np1/4p3/2B1P3/3PQ3/PPn2PPP/RNB1K1NR w KQkq - 0 7
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -6.9 |
+> | --- | --- |
+>
+> After **7. Kf1** (forced), Black takes the bigger prize with **7... Nxe3+ 8. Bxe3**, ending up a full queen for a knight — not just the exchange that a hasty **7... Nxa1** would have grabbed instead.
+>
 > [*Back to 2... Nc6*](#_Nc6_)
 > [*Back to TOP*](#_TOP_)
 
@@ -184,6 +230,28 @@ rnb1kbnr/pppp1ppp/5q2/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3
 | --- | --- |
 
 An amateur-level defence: it covers both e5 and f7 in one move, but it blocks Black's own g8-knight from its natural square and puts the queen in the way of Black's own development. White simply continues **3. Nc3**, developing with tempo-free comfort.
+
+[*Back to 2. Qh5*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Qe7_"></a>
+
+### 2... Qe7
+
+[![2... Qe7](https://backscattering.de/web-boardimage/board.svg?fen=rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR&lastMove=d8e7&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR_w_KQkq_-_2_3)
+
+*... 2... Qe7*
+
+```
+rnb1kbnr/ppppqppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.1 |
+| --- | --- |
+
+[DN] Defends both e5 and f7 in one move, same as Qf6, but its real drawback is quieter: it sits on the f8-bishop's own diagonal, blocking its development. Black can still fianchetto with a later ... g6/... Bg7 (the bishop doesn't have to go to e7's square, just past it), so the move isn't losing — just a wasted extra step compared to meeting the coming **3. Bc4** with ... g6 directly, the way [2... Nc6](#_Nc6_) does.
 
 [*Back to 2. Qh5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

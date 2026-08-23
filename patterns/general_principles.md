@@ -99,3 +99,48 @@ Before assuming a piece is undefended or a tactic works, list everything actuall
 When one consideration clearly outranks another (king safety over the "quality" of a particular trade, for instance), stop weighing the smaller one — take whichever trade gets you to the higher priority. Optimising a minor factor while ignoring a major one is a common way to waste moves.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_removing_the_defender_"></a>
+
+### Removing the defender: a piece guarded by only one other piece is still hanging
+
+[DN] If a piece or pawn is protected by exactly one other piece and no pawns, treat it as functionally undefended — its "defender" can simply be removed (captured, deflected, or chased away), after which the original piece just falls. Naroditsky calls this a "type 2 undefended piece": not literally hanging on the board right now, but one tempo away from it. This is the natural companion to [Count *all* the defenders](#_count_all_defenders_) above — that entry is about not *undercounting* defenders, this one is about noticing when the count, even correct, is still fragile because it's exactly one.
+
+*Source: Speedrun: Back to 3000, game 2 — a rook captured a knight that was the sole defender of another piece, winning it outright next move.*
+
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_convert_material_advantage_"></a>
+
+### Converting a big material advantage: open the centre, keep developing, don't chase small material
+
+[DN] Once you're up a piece or more (a pawn alone is too small a margin for this to apply), the fastest way to cash the advantage in is usually to **open the position** — especially with the enemy king still uncastled or exposed — rather than to slowly maneuver. An extra queen or rook is only as strong as the open lines it can use. Two companion habits make this work in practice:
+
+- **Keep developing even while up material.** It's tempting to start hunting checkmate immediately, but a piece still sitting on its home square can't help, and ignoring development is how "winning" positions get thrown away to a scrappy counterattack.
+- **Don't spend moves defending or chasing trivial material.** If you're up a queen, a single attacked pawn is not a real problem — let it go and keep making progress. This is the same idea as [knowing your priorities](#_priorities_) above, applied specifically to the "I'm winning big, why does this pawn matter" moment.
+
+*Source: Speedrun: Back to 3000, game 2 — after winning the queen via a family fork, White's exposed king made ... d5 (opening the centre) the natural follow-up, and a later attacked pawn was simply ignored in favour of bringing the last rook into the attack.*
+
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_trade_or_attack_"></a>
+
+### Trade or attack when you're up material? It depends on how the pieces you'd keep are actually working
+
+[DN] There are two distinct ways to win a game where you're up significant material (roughly a piece or more): trade down toward a simple won endgame (fewer pieces, opponent left with a bare king, promote a pawn), or keep the pieces on the board and use the material edge to mount a direct attack on the king. Neither is "more correct" by default — it depends on the position:
+
+- Trading down is the safer, more mechanical route once you're ahead enough that any reasonably-played endgame wins on its own.
+- Keeping pieces on is faster when the extra material can attack the king *immediately* — a queen-up attack against an exposed king can checkmate in a handful of moves, while herding a lone king to the edge of the board with reduced material can take much longer.
+- The risk of over-trading: it's easy to get so focused on simplifying that a tactical threat (a back-rank mate is the classic example) gets missed along the way.
+
+In practice, lean toward keeping pieces on when they're already well-placed to attack; lean toward trading when the opponent still has some activity left that swapping pieces would neutralise.
+
+*Source: Speedrun: Back to 3000, game 2 — a standalone demonstration position (queen-up, enemy king exposed) contrasting a slow king-hunt endgame technique with an immediate mating attack that keeps the queen on the board.*
+
+[*Back to TOP*](#_TOP_)
