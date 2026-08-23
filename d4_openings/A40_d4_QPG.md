@@ -21,13 +21,22 @@ flowchart LR
     d4 --> c5a["1... c5<br/>+0.6"]
     click c5a "#_c5_" "A43 · Benoni Defense: Old Benoni"
     d4 --> f5a["1... f5<br/>+0.5"]
-    click f5a "#_f5_" "A80 · Dutch Defense"
+    click f5a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch.md" "A81 · Dutch Defense: Semi-Leningrad Variation"
     d4 --> g6a["1... g6<br/>+0.6"]
     click g6a "#_g6_" "A40 · Queen's Pawn Game: Modern Defense"
     d4 --> e6a["1... e6<br/>+0.4"]
     click e6a "#_e6_" "A40 · Queen's Pawn Game"
     d4 --> d5a[["1... d5<br/>+0.3"]]
     click d5a "#_d5_" "D00 · Queen's Pawn Game"
+
+    d5a --> Nc3d["2. Nc3<br/>-0.1"]
+    click Nc3d "#_d5_" "D01 · Veresov Attack"
+    d5a --> Bf4d["2. Bf4<br/>0.0"]
+    click Bf4d "#_d5_" "D00 · Queen's Pawn Game: Accelerated London System"
+    d5a --> Nf3d["2. Nf3<br/>+0.1"]
+    click Nf3d "#_d5_" "D02 · Queen's Pawn Game: Zukertort Variation"
+    d5a --> c4d[["2. c4 !<br/>+0.2"]]:::main
+    click c4d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md" "D06 · Queen's Gambit"
     d4 --> Nf6[["1... Nf6 !<br/>+0.2"]]:::main
     click Nf6 "#_Nf6_" "A45 · Indian Defense"
 
@@ -37,9 +46,9 @@ flowchart LR
     click Nf3b "#_Nf6_Nf3_" "A46 · Indian Defense: Knights Variation"
 
     c4b --> e6c[["2... e6 !<br/>+0.1"]]:::main
-    click e6c "#_Nf6_c4_e6_" "A40 · Queen's Pawn Game"
+    click e6c "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E20_Nimzo_QI_Fork.md" "E20 · Nimzo-Indian Defense"
     c4b --> g6c[["2... g6<br/>+0.3"]]
-    click g6c "#_Nf6_c4_g6_" "E60 · Indian Defense: West Indian Defense"
+    click g6c "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md" "E61 · King's Indian Defense"
 ```
 <!-- content-diagram:end -->
 
@@ -196,6 +205,8 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > *Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
+> **2. g3** (40.9% masters, but only 3.8% online — a sharp inversion) is masters' clear favourite here, the Fianchetto Attack — see the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch.md), built out to the Semi-Leningrad Variation.
+>
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)
 
@@ -274,7 +285,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 ---
 
 > [!NOTE]
-> **1... d5** opens the Queen's Gambit / Slav complex — the biggest single body of theory after 1. d4, on a par with the Sicilian after 1. e4. It doesn't yet have a dedicated card in this repository.
+> **1... d5** opens the biggest single body of theory after 1. d4, on a par with the Sicilian after 1. e4 — this NOTE only covers White's second move; each reply below fans out into its own vast complex.
 >
 > <a name="_d5_"></a>
 >
@@ -303,6 +314,11 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > 
 > *Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
+>
+> * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (+0.2): by far White's most tested try (76.9% of masters games) — the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), covered on its own card (Slav / Queen's Gambit Declined / Queen's Gambit Accepted)
+> * **2. Nf3** (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the "Zukertort Variation"
+> * **2. Bf4** (0.0): the Accelerated London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit
+> * **2. Nc3** (-0.1): the Veresov Attack — a minor, rarely-tested try (1.0% masters)
 >
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)
@@ -425,6 +441,8 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
 > | --- | --- |
 >
+> White's near-automatic **3. Nc3** (80.0% of masters games) forks into the King's Indian (3... Bg7) and Grünfeld (3... d5) Defenses — see the [dedicated hub card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md).
+>
 > [*Back to 1... Nf6 2. c4*](#_Nf6_c4_)
 > [*Back to TOP*](#_TOP_)
 
@@ -447,7 +465,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 | --- | --- |
 
-This position is the doorway to the whole Nimzo-Indian (3. Nc3 Bb4) / Queen's Indian (3. Nf3 b6) / Queen's Gambit Declined (3. Nc3 d5) family — none of it built out yet in this repository (backlog).
+White's 3rd move here is close at master level (47.5% Nf3 vs 40.1% Nc3) but inverts online, where Nc3 leads by nearly 3:1 (65.1% vs 22.6%) — see the [dedicated hub card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E20_Nimzo_QI_Fork.md) for both branches (Nimzo-Indian / Queen's Indian / Bogo-Indian).
 
 [*Back to 1... Nf6 2. c4*](#_Nf6_c4_)
 [*Back to TOP*](#_TOP_)

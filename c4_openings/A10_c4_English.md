@@ -149,6 +149,8 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > *Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-23*
 > <!-- lichess-stats:end -->
 >
+> Masters and online players disagree here too: **3. Nf3** is masters' clear favourite (48.9%), developing before committing the queen's knight, while online **3. Nc3** dominates instead (59.4%). Neither is built out further yet in this repository (backlog).
+>
 > [*Back to 1. c4*](#_c4_)
 > [*Back to TOP*](#_TOP_)
 
@@ -365,7 +367,13 @@ rnbqkb1r/pppppp1p/5np1/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
 
-White usually continues 3. Nf3 or 3. g3, both aiming at a King's Indian/Grünfeld-style middlegame — none of it built out yet in this repository (backlog).
+White's 3rd move is a genuine two-way split, both aiming at King's Indian-style middlegames:
+
+* **3. e4** (43.0% masters): grabs the maximum centre immediately, directly transposing into the [King's Indian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md) tabiya if Black continues ... Bg7/... d6
+* **3. g3** (38.5% masters): the more distinctly "English" try, fianchettoing before committing the centre
+* **3. d4** (12.4% masters): transposes straight into the [King's Indian/Grünfeld fork](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md) from the d4 side
+
+None of these are built out from the English move order yet in this repository (backlog).
 
 [*Back to 1... Nf6 2. Nc3*](#_Nf6_Nc3_)
 [*Back to TOP*](#_TOP_)

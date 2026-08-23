@@ -52,9 +52,12 @@ There are several ways to dive into the pages of this repository:
   - [**3. Nc3**, the Four Knights Game](./e4_openings/C47_Four_Knights_Game.md).
 
 ### From the initial position, White's other first moves ###
-- [**1. d4** The Queen's Pawn Game](./d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters) — leads into the Indian Defense complex (King's Indian, Grünfeld, Nimzo-/Queen's-Indian) after 1... Nf6, or the Queen's Gambit complex after 1... d5.
+- [**1. d4** The Queen's Pawn Game](./d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters):
+  - **1... Nf6** (60.9% masters) leads into the Indian Defense complex: [King's Indian](./d4_openings/E70_Kings_Indian.md) / [Grünfeld](./d4_openings/D85_Grunfeld.md) fork after 2. c4 g6 3. Nc3, or [Nimzo-Indian](./d4_openings/E20_Nimzo_Indian.md) / [Queen's Indian](./d4_openings/E12_Queens_Indian.md) fork after 2. c4 e6.
+  - **1... d5** (25.8% masters) opens the [Queen's Gambit](./d4_openings/D06_Queens_Gambit.md), where the Slav (49.5%), Queen's Gambit Declined (35.3%) and Queen's Gambit Accepted (11.8%) branch.
+  - **1... f5** opens the [Dutch Defense](./d4_openings/A81_Dutch.md), built out to the Semi-Leningrad Variation.
 - [**1. Nf3** The Zukertort Opening](./Nf3_openings/A04_Nf3_Zukertort.md) (10.2% masters) — flexible, most lines transpose into 1. d4 or 1. c4 territory.
-- [**1. c4** The English Opening](./c4_openings/A10_c4_English.md) (6.9% masters) — a flank opening, often reached via a reversed Sicilian (1... e5) or Indian-style structures (1... Nf6).
+- [**1. c4** The English Opening](./c4_openings/A10_c4_English.md) (6.9% masters) — a flank opening, often reached via a reversed Sicilian (1... e5) or Indian-style structures (1... Nf6), which itself transposes toward the King's Indian complex above after 2. Nc3 g6.
 
 \
 NOTE: all cards are linked between each other through the most common chess moves sequence that lead to the position subject of the card\
