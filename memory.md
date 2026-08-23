@@ -67,10 +67,15 @@ Goal: build out actual opening cards, organised by directory per White's first m
 - [x] `e4_Nc6_Nimzovitch.md` (B00, root +0.4) — kept deliberately lean (only 1.5% of masters' 1. e4 replies): both 2. Nf3 and 2. d4 branches get one diagram each with candidate bullets, no deeper build-out.
 - Reconciled a stale French-Defense eval (+0.1/+0.3 in three other files) to the new card's verified +0.2, in both prose and mermaid nodes, across `B01_1e4d5_Scandinavian.md`, `gambits/Tennison/Tennison.md`, `gambits/Blackmar-Diemer/Blackmar-Diemer.md`.
 
+**Batch 5 closed 2026-08-23 — `C84_Ruy_Lopez_Morphy_Closed.md`, spun off from C60's "3...a6" section:**
+
+- [x] Root = 5. O-O (+0.3, the actual main Ruy Lopez tabiya, 87.5% of masters games reach it). Candidates: 5...Be7 Closed (72.4% masters, built out one more ply to 6.Re1 b5 — 98.6% masters, essentially forced), 5...Nxe4 Open Variation (9.4%, also built out to 6.d4), 5...b5/Bc5(Møller)/d6 as bullets only.
+- [x] **FEN gotcha found and fixed**: a castled position's castling-rights field must drop the side that castled (`kq` not `KQkq` after White's O-O) or the Lichess explorer API silently returns zero games — two positions had to be re-fetched after this bug produced empty results. Also re-confirmed the earlier gotcha (forgetting to place a piece on its new square in the rank string when only that rank changes, e.g. a bishop landing on an otherwise-pawns-only rank) — hit again here (5...Be7) before being caught.
+- [x] Wired into `C60_Ruy_Lopez.md`'s Berlin-defense-adjacent prose (was "opening into the vast Closed/Open Ruy Lopez tabiyas... pending its own dedicated card").
+
 ## Backlog (not started)
 
-- **Sicilian sub-systems**: Najdorf/Classical/Dragon (after 2...d6), Sveshnikov/Taimanov/Rossolimo (after 2...Nc6), Kan/Taimanov (after 2...e6), Accelerated Dragon (after 2...g6) — each a full opening system in its own right, all fanning out from `B20_1e4c5_Sicilian.md`'s "2. Nf3" section. This is the single biggest remaining body of work in the repository.
-- **Ruy Lopez sub-branches**: the Morphy Defense (3...a6 4.Ba4 Nf6) opens into the huge Closed/Open Ruy Lopez tabiya — worth its own card(s).
-- User's stated order for the next session (2026-08-23): finish stub conversions (done, this batch) → Ruy Lopez Morphy Defense depth → Sicilian sub-systems.
+- **Sicilian sub-systems**: Najdorf/Classical/Dragon (after 2...d6), Sveshnikov/Taimanov/Rossolimo (after 2...Nc6), Kan/Taimanov (after 2...e6), Accelerated Dragon (after 2...g6) — each a full opening system in its own right, all fanning out from `B20_1e4c5_Sicilian.md`'s "2. Nf3" section. This is the single biggest remaining body of work in the repository, and per the user's own stated order (2026-08-23: stubs → Ruy Lopez → Sicilian) is next up.
+- **Further Ruy Lopez depth**: Chigorin/Breyer/Zaitsev (deep in the Closed main line after 7. Bb3 d6 8. c3), and the Open Variation's own theory past 6. d4 — left for whenever Ruy Lopez comes back into scope, Sicilian takes priority per the user's ordering.
 - **New top-level fronts**: `d4_openings/`, `Nf3_openings/`, `c4_openings/` — 1. d4 (35.8% masters, no card yet), 1. Nf3 (10.2%), 1. c4 (6.9%) and their replies. None of this scaffolding exists yet — each needs its own root card analogous to `B00_e4_KPG.md`.
 - **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` are one-line stubs, deliberately deferred per the user's own instruction to set gambits/traps/mate-patterns aside until the main-line survey cards are further along.

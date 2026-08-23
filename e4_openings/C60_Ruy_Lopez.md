@@ -102,7 +102,7 @@ r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4
 * **4. Ba4**: the main retreat, keeping the pin alive and the bishop's long-term pressure on the queenside — masters' overwhelming choice (91.2%).
 * **4. Bxc6**: the *Exchange Variation* — see the note above.
 
-Almost all main lines continue **4... Nf6**, attacking e4 in turn — 89.2% of masters games after 4. Ba4, opening into the vast Closed/Open Ruy Lopez tabiyas that are each worth their own dedicated card.
+Almost all main lines continue **4... Nf6**, attacking e4 in turn — 89.2% of masters games after 4. Ba4, reaching [**5. O-O**, the main Ruy Lopez tabiya](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md), where the Closed Variation and the independent Open Variation (5... Nxe4) both branch off.
 
 [*Back to 3. Bb5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
