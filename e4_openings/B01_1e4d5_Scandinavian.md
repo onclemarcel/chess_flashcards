@@ -4,6 +4,47 @@
 
 Black move directly brings White on a quick decision: take or leave the d5 pawn:
 
+### Overview
+
+*Quick map of every move covered on this card — text and evals match the candidate-move lists below exactly. Node shape is a data-driven category (master-safe / blitz trap / understudied / blunder); see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. Hover a node for its ECO code and variation name; click to jump to its section (GitHub's own rendering strips click-navigation, so use the links in the text below there — the hover tooltip may or may not survive GitHub's rendering too, unconfirmed; both work in an interactive Mermaid preview like VS Code's or mermaid.live).*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    d5["1. e4 d5"]
+    click d5 "#_d5_" "B01 · Scandinavian Defense"
+
+    d5 --> e5{"2. e5 ⚠<br/>0.0"}
+    click e5 "#_e5_" "B01 · Scandinavian Defense"
+    d5 --> d3(["2. d3<br/>-0.1"])
+    click d3 "#_d3_" "B01 · Scandinavian Defense"
+    d5 --> Nc3["2. Nc3<br/>-0.6"]
+    click Nc3 "#_Nc3_" "B01 · Scandinavian Defense"
+    d5 --> Nf3{"2. Nf3 ⚠<br/>-0.7"}
+    click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Tennison/Tennison.md" "A06 · Zukertort Opening: Tennison Gambit"
+    d5 --> d4{"2. d4 ⚠<br/>-0.5"}
+    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md" "D00 · Blackmar-Diemer Gambit"
+    d5 --> exd5[["2. exd5 !<br/>+0.5"]]:::main
+    click exd5 "#_exd5_" "B01 · Scandinavian Defense"
+
+    exd5 --> c6{"2... c6 ⚠<br/>+0.7"}
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_c6_Blackburne_Kloosterboer.md" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+    exd5 --> exNf6[["2... Nf6<br/>+0.5"]]
+    click exNf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_Nf6_Modern.md" "B01 · Scandinavian Defense: Modern Variation"
+    exd5 --> Qxd5[["2... Qxd5 !<br/>+0.5"]]:::main
+    click Qxd5 "#_Qxd5_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
+
+    Qxd5 --> Nf3c["3. Nf3<br/>+0.2"]
+    click Nf3c "#_Qxd5_alt_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
+    Qxd5 --> d4c["3. d4<br/>+0.1"]
+    click d4c "#_Qxd5_alt_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
+    Qxd5 --> Nc3b[["3. Nc3 !<br/>+0.5"]]:::main
+    click Nc3b "#_Qxd5_Nc3_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
+```
+<!-- content-diagram:end -->
+
 <a name="_d5_"></a>
 
 [![1. e4 d5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR&lastMove=d7d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_d6_0_2)
@@ -33,11 +74,11 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 
 - Cases where White avoids taking the d5 pawn:
 
-  * [**2. e5**](#_e5_) (0.0) : Black already equals by attacking e5 pawn and d4 square
+  * [**2. e5**](#_e5_) (0.0 ⚠) : Black already equals by attacking e5 pawn and d4 square — popular in blitz/bullet (6.4%) but almost never seen in masters (0.4%)
   * [**2. d3**](#_d3_) (-0.1) : no compensation for White following the Queens exchange
   * [**2. Nc3**](#_Nc3_) (-0.6) : less space for White than Black in the opening
-  * [**2. Nf3**](#_Nf3_) (-0.7) : [Tennison Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Tennison/Tennison.md)
-  * [**2. d4**](#_d4_) (-0.5) : [Blackmar-Diemer Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md)
+  * [**2. Nf3**](#_Nf3_) (-0.7 ⚠) : [Tennison Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Tennison/Tennison.md) — a real online/masters gap (7.4% vs 0.1%), the mark of a blitz trap
+  * [**2. d4**](#_d4_) (-0.5 ⚠) : [Blackmar-Diemer Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md) — rare in masters (0.3%) but over 11x more common online (3.4%), and likely under-represented even here since this gambit is best known below the 1800+ rating floor these tables use
 
 - The pawn ***capture is the best option for White*** with [**2. exd5**](#_exd5_) (97% of masters games with score estimated at +0.5)
 
@@ -292,9 +333,9 @@ rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:end -->
 
 - Main Black moves lead to the following variations:
-  * [**2. ... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_c6_Blackburne_Kloosterboer.md) (+0.7) : Blackburne-Kloosterboer Gambit
-  * [**2. ... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_Nf6_Modern.md) (+0.5) : Modern Variation of the Scandinavian
-  * [**2. ... Qxd5**](#_Qxd5_) (+0.5) : Mieses-Kotroc Variation — the main line, covered below
+  * [**2... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_c6_Blackburne_Kloosterboer.md) (+0.7 ⚠) : Blackburne-Kloosterboer Gambit — played 6.3% online but essentially unseen in masters (0.1%)
+  * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_d5_exd5_Nf6_Modern.md) (+0.5) : Modern Variation of the Scandinavian
+  * [**2... Qxd5**](#_Qxd5_) (+0.5) : Mieses-Kotroc Variation — the main line, covered below
 
 The Blackburne-Kloosterboer Gambit and the Modern Variation each open their own body of theory and are documented on a dedicated card. The Mieses-Kotroc Variation stays the main line of this card and continues below.
 

@@ -208,6 +208,33 @@ That code block is written by hand, alongside the diagram it belongs to. `update
 
 Squares are allocated by largest remainder, so a bar always totals exactly `bars` squares. A share under half a square disappears: at `bars="10"` a 4% draw rate shows no 🟫 square. Win/draw/black percentages are hidden below 20 games in a database: on a two-game sample they would be noise. The ⚠ flag marks moves that are played online but nearly unseen in the Masters database.
 
+### Content diagram (optional)
+
+For a card with enough branches to be worth a map, an "Overview" section near the top can hold a fishbone-style Mermaid flowchart: the main line runs as a straight spine, side lines and traps branch off it. GitHub renders `mermaid` code fences natively, so no image is generated or stored. See B01's Overview for a worked example.
+
+* Each node's label is the move exactly as written in a "### Candidate moves" bullet elsewhere on the page (e.g. `"2. exd5 !<br/>+0.5"`), optionally followed by `!`/`!!`/`?`/`??`/⚠ on the move line and the Stockfish eval on the next line via `<br/>`. These stay editorial calls — nothing checks whether a `!` is chess-correct.
+* The node's **shape** is a data-driven claim, checked against that move's own row in this page's stats tables — not decoration:
+
+  | Shape | Mermaid syntax | Claims | Threshold |
+  | :--- | :--- | :--- | :--- |
+  | ▭ rectangle | `id["text"]` | unclassified | doesn't cleanly meet another threshold |
+  | ▭▭ subroutine | `id[["text"]]` | master-safe | masters ≥ 20% |
+  | ◇ rhombus | `id{"text"}` | blitz trap | masters < 2%, online ≥ 3%, **and** online is at least 8× the masters share |
+  | ⬭ stadium | `id(["text"])` | understudied everywhere | masters < 2% **and** online < 3% |
+  | ⬡ hexagon | `id{{"text"}}` | punishable blunder | eval ≥ 0.9 worse than its best sibling |
+
+  This is the repository's actual differentiator from books and other opening sites: the online/masters gap surfaces which "natural-looking" moves are really blitz traps (rhombus) worth knowing both to spring and to meet, separately from lines nobody has studied much anywhere (stadium) — a source of repertoire variety, not just a warning. The 8× ratio (rather than a flat online-percentage floor) is deliberate: a move that's rare in masters but still played 3%+ online is already a large relative gap even when its raw online share looks modest, and these tables only cover 1800+ rated online play to begin with — a gambit better known below that floor (club-level, casual blitz) will look even more under-represented here than it really is, so the bar for calling it a trap should stay low, not high.
+* Give the line this card follows deeper the `:::main` class (defined once as `classDef main stroke-width:3px;`) for a thicker border — independent of shape, since the followed line and the statistically "safest" line aren't always the same node (a side reference can be master-safe without being where this card goes next). Don't add custom fill/stroke colours: GitHub's Mermaid theme auto-adapts to light/dark, and a hardcoded colour won't.
+* Every node needs a matching `click <id> "<target>"` line: `"#_anchor_"` for a section on the same page, or a full `https://github.com/onclemarcel/chess_flashcards/blob/main/...` URL for another card. GitHub itself doesn't make these clickable (it strips `click` interactivity), but they still work as machine-checkable link targets, and some editor Mermaid previews do render them as links.
+* A `click` line can carry a third quoted argument — `click <id> "<target>" "<tooltip>"` — which Mermaid renders as the node's SVG `<title>`, shown as a native hover tooltip in any renderer that keeps it. Use it for `"<ECO> · <variation name>"`, e.g. `"B01 · Scandinavian Defense: Mieses-Kotroc Variation"`; for a position with no distinct name of its own, repeat its nearest *named* ancestor's ECO/name rather than inventing one or leaving it blank — that's what Lichess's own opening explorer does too. Source it from the explorer response's `opening` field (same live query `update_stats.py` already makes), not from memory.
+
+`tools/check_diagram.py` catches drift between the diagram and the prose/tables it summarises: a node's move text not found verbatim in the page, an eval that doesn't appear near that move's bullet, a `⚠` the prose doesn't back up, a shape whose claimed category doesn't match that move's own stats-table row, a hexagon whose eval swing against its best sibling is under 0.9, or a `click` target whose anchor/file doesn't exist. It does not judge whether a `!`/`?` annotation is chess-correct, or generate the diagram — both stay hand-authored. Run it the same way as the stats updater:
+
+```
+python tools/check_diagram.py                  # whole repository
+python tools/check_diagram.py path/to/card.md   # one file
+```
+
 ### Notes & Tips
 
 A `[!NOTE]` or `[!TIP]` callout is a full blockquote, not just its opening line. Every line that belongs to the side note — the anchor, the heading, the diagram, the FEN code block, the stats table, and the "Back to" links — is prefixed with `>` (a blank line inside the blockquote is written as a bare `>`), so GitHub renders the whole side note as one boxed callout. This keeps side branches visually distinct from the main line: a reader scanning the page sees at a glance which content is "on the path" and which is a side note to come back from. The blockquote ends right after the "Back to" links; the `---` separator that follows stays outside it.
