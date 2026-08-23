@@ -6,7 +6,7 @@ Black avoids symmetry from the very first move and fights for the centre on the 
 
 ### Overview
 
-*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. This is only the first branch of an enormous opening; none of Black's replies to 2. Nf3 have their own card yet, so that fan-out is left off the map — see the candidate-move list under 2. Nf3 below instead.*
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
 
 <!-- content-diagram:start -->
 ```mermaid
@@ -24,6 +24,15 @@ flowchart LR
     click c3 "#_c3_" "B22 · Sicilian Defense: Alapin Variation"
     c5 --> f4{"2. f4 ⚠<br/>0.0"}
     click f4 "#_f4_" "B21 · Sicilian Defense: Grand Prix Attack"
+
+    Nf3 --> d6[["2... d6 !<br/>+0.3"]]:::main
+    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md" "B50 · Sicilian Defense, Open"
+    Nf3 --> Nc6b[["2... Nc6<br/>+0.3"]]
+    click Nc6b "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md" "B30 · Sicilian Defense, 2... Nc6"
+    Nf3 --> e6b[["2... e6<br/>+0.3"]]
+    click e6b "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md" "B40 · Sicilian Defense, 2... e6"
+    Nf3 --> g6b["2... g6<br/>+0.3"]
+    click g6b "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B34_Sicilian_g6_Accelerated_Dragon.md" "B34 · Sicilian Defense: Accelerated Dragon"
 ```
 <!-- content-diagram:end -->
 
@@ -99,14 +108,14 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 *Online: bullet/blitz, 1800+ — 173.1 M games. Masters: 501 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
-Masters are close to evenly split three ways here, and each answer opens into its own vast body of theory — none of them continue on this page:
+Masters are close to evenly split three ways here, and each answer opens into its own vast body of theory:
 
-* **2... d6** (46.1% masters): prepares ... Nf6 without allowing e5 tricks, keeping options open between the *Najdorf*, *Classical*, and *Dragon* families depending on how the game continues after 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3.
-* **2... Nc6** (26.9% masters): develops naturally and keeps flexible, heading toward the *Sveshnikov*, *Taimanov*, *Kalashnikov*, or a Rossolimo-style **3. Bb5** setup.
-* **2... e6** (23.0% masters): flexible and solid, aiming for the *Taimanov* or *Kan* systems, often delaying ... Nf6 or ... d6 for a move or two.
-* **2... g6** (2.1% masters): the *Accelerated Dragon* — fianchettoes at once, skipping ... d6 to reach a Dragon-style setup a tempo faster, at the cost of allowing White's Maroczy Bind (**3. c4**) since the c-pawn hasn't committed to d6 yet.
+* [**2... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md) (+0.3, 46.1% masters): prepares ... Nf6 without allowing e5 tricks, keeping options open between the [*Najdorf*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md), *Classical*, and *Dragon* families depending on how the game continues after 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3.
+* [**2... Nc6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md) (+0.3, 26.9% masters): develops naturally and keeps flexible, heading toward the [*Sveshnikov*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md), *Taimanov*, or a *Rossolimo*-style **3. Bb5** setup.
+* [**2... e6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md) (+0.3, 23.0% masters): flexible and solid, aiming for the [*Taimanov* or *Kan*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md) systems, often delaying ... Nf6 or ... d6 for a move or two.
+* [**2... g6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B34_Sicilian_g6_Accelerated_Dragon.md) (+0.3, 2.1% masters): the [*Accelerated Dragon*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B34_Sicilian_g6_Accelerated_Dragon.md) — fianchettoes at once, skipping ... d6 to reach a Dragon-style setup a tempo faster, at the cost of allowing White's Maroczy Bind (**3. c4**) since the c-pawn hasn't committed to d6 yet.
 
-All four are fully sound main systems, each worth its own dedicated card.
+All four are fully sound main systems.
 
 [*Back to 1... c5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

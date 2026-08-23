@@ -18,7 +18,7 @@ There are several ways to dive into the pages of this repository:
 - **Black** may play symmetrically with :
 - [**... e5**](./e4_openings/C20_e4_e5_KPG.md) to block e4 and get an equal share of the center, *but e5 becomes an undefended pawn*.
 - **Black**'s single most popular reply at master level is instead asymmetrical:
-- [**... c5**](./e4_openings/B20_1e4c5_Sicilian.md) the Sicilian Defense, fighting for the center on the queenside rather than matching White pawn for pawn.
+- [**... c5**](./e4_openings/B20_1e4c5_Sicilian.md) the Sicilian Defense, fighting for the center on the queenside rather than matching White pawn for pawn. After 2. Nf3, Black's four main systems are the [Najdorf](./e4_openings/B50_Sicilian_d6_Open.md) (2... d6), the [Sveshnikov/Taimanov/Rossolimo family](./e4_openings/B30_Sicilian_Nc6_Open.md) (2... Nc6), the [Kan/Taimanov family](./e4_openings/B40_Sicilian_e6_Open.md) (2... e6), and the [Accelerated Dragon](./e4_openings/B34_Sicilian_g6_Accelerated_Dragon.md) (2... g6).
 - **Black** may also prepare ... d5 before playing it:
 - [**... e6**](./e4_openings/e4_e6_French.md) the French Defense, or
 - [**... c6**](./e4_openings/e4_c6_Caro_Kann.md) the Caro-Kann Defense, which keeps the light-squared bishop free.

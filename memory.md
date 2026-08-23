@@ -73,9 +73,20 @@ Goal: build out actual opening cards, organised by directory per White's first m
 - [x] **FEN gotcha found and fixed**: a castled position's castling-rights field must drop the side that castled (`kq` not `KQkq` after White's O-O) or the Lichess explorer API silently returns zero games — two positions had to be re-fetched after this bug produced empty results. Also re-confirmed the earlier gotcha (forgetting to place a piece on its new square in the rank string when only that rank changes, e.g. a bishop landing on an otherwise-pawns-only rank) — hit again here (5...Be7) before being caught.
 - [x] Wired into `C60_Ruy_Lopez.md`'s Berlin-defense-adjacent prose (was "opening into the vast Closed/Open Ruy Lopez tabiyas... pending its own dedicated card").
 
+**Batch 6 closed 2026-08-23 — the four Sicilian "2. Nf3" branches, spun off from `B20_1e4c5_Sicilian.md`, completing the user's stated order (stubs → Ruy Lopez → Sicilian):**
+
+- [x] `B50_Sicilian_d6_Open.md` — the (near-)forced 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 tabiya, then the Najdorf (5...a6, 71.1% masters, dominant) built one ply further into its own move-6 fork (English Attack/Classical/etc.); Classical/Dragon/Scheveningen left as bullets.
+- [x] `B30_Sicilian_Nc6_Open.md` — forks at White's 3rd move itself (3.d4 Open 57.9% vs 3.Bb5 Rossolimo 28.6%, both real). Open branch built to the Sveshnikov (5...e5, masters' actual top choice at 59.9%, with its near-forced 6.Ndb5 at 98.1%); Rossolimo covered as a NOTE.
+- [x] `B40_Sicilian_e6_Open.md` — kept to the tabiya only: Kan (39.8%) / Taimanov (36.8%) / Four Knights Sicilian (21.6%) are genuinely three-way split at master level, presented as bullets with no single line picked to go deeper.
+- [x] `B34_Sicilian_g6_Accelerated_Dragon.md` — built to the Bg7 tabiya, then the Maroczy Bind (5.c4, 51.2%) vs 5.Nc3 (43.1%) fork as bullets.
+- Wired all four into `B20_1e4c5_Sicilian.md`'s Overview mermaid and candidate-move links (was "none of Black's replies to 2. Nf3 have their own card yet").
+- **Note on scope**: none of these four cards go past their own first sub-fork — Najdorf's own move-6 branches, Sveshnikov past 6...d6 7.Bg5, Dragon/Classical/Scheveningen/Kan/Taimanov proper, and Maroczy Bind theory are all still open backlog. Sicilian is too large to ever fully "finish" in the way a single named opening can; this batch closes the *immediate* fan-out the user asked for.
+
 ## Backlog (not started)
 
-- **Sicilian sub-systems**: Najdorf/Classical/Dragon (after 2...d6), Sveshnikov/Taimanov/Rossolimo (after 2...Nc6), Kan/Taimanov (after 2...e6), Accelerated Dragon (after 2...g6) — each a full opening system in its own right, all fanning out from `B20_1e4c5_Sicilian.md`'s "2. Nf3" section. This is the single biggest remaining body of work in the repository, and per the user's own stated order (2026-08-23: stubs → Ruy Lopez → Sicilian) is next up.
-- **Further Ruy Lopez depth**: Chigorin/Breyer/Zaitsev (deep in the Closed main line after 7. Bb3 d6 8. c3), and the Open Variation's own theory past 6. d4 — left for whenever Ruy Lopez comes back into scope, Sicilian takes priority per the user's ordering.
+- **Deeper Sicilian**: Najdorf's own 6th-move branches (English Attack, Classical, etc.), the Sveshnikov past 6...d6 7.Bg5, the Dragon/Classical/Scheveningen/Kan/Taimanov systems themselves, and Maroczy Bind theory — each is its own multi-card body of work.
+- **Further Ruy Lopez depth**: Chigorin/Breyer/Zaitsev (deep in the Closed main line after 7. Bb3 d6 8. c3), and the Open Variation's own theory past 6. d4.
+- **New top-level fronts** (from Phase B's original scope, still untouched): `d4_openings/`, `Nf3_openings/`, `c4_openings/` for 1. d4/1. Nf3/1. c4 and their replies.
+- **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` remain one-line stubs, still deliberately deferred.
 - **New top-level fronts**: `d4_openings/`, `Nf3_openings/`, `c4_openings/` — 1. d4 (35.8% masters, no card yet), 1. Nf3 (10.2%), 1. c4 (6.9%) and their replies. None of this scaffolding exists yet — each needs its own root card analogous to `B00_e4_KPG.md`.
 - **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` are one-line stubs, deliberately deferred per the user's own instruction to set gambits/traps/mate-patterns aside until the main-line survey cards are further along.
