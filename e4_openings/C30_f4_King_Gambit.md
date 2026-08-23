@@ -140,7 +140,7 @@ rnbqk1nr/pppp1ppp/8/2b1p3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq - 1 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
-Black develops actively and keeps an eye on the long-term weakness the f4-pawn creates around White's king, rather than entering sharp forcing lines. White usually continues **3. Nf3**, defending e5's attacker in advance, since **3. fxe5??** simply loses a pawn back to **3... Qh4+**.
+Black develops actively and keeps an eye on the long-term weakness the f4-pawn creates around White's king, rather than entering sharp forcing lines. White usually continues **3. Nf3**, defending e5's attacker in advance. **3. fxe5??** is a real trap for White to fall into, not just Black: after **3... Qh4+ 4. g3 Qxe4+ 5. Qe2 Qxh1**, Black has already won a rook.
 
 [*Back to 2. f4*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

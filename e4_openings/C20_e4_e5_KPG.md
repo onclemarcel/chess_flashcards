@@ -18,7 +18,7 @@ flowchart LR
 
     e5 --> Nf3[["2. Nf3<br/>+0.1"]]
     click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_Nf3_King_Knight.md" "C40 · King's Knight Opening"
-    e5 --> f4["2. f4 ♙<br/>-0.4"]
+    e5 --> f4["2. f4 ♙<br/>-0.3"]
     click f4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md" "C30 · King's Gambit"
     e5 --> d4{"2. d4<br/>-0.1"}
     click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_d4_Center_Game.md" "C20 · Center Game"

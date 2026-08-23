@@ -6,7 +6,7 @@ Black develops a piece while defending e5 a second time, controlling both e5 and
 
 ### Overview
 
-*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. 3. Bb5 (Ruy Lopez), 3. d4 (Scotch) and 3. Nc3 (Four Knights) are all discussed below but have no card or anchor of their own yet, so they're left off this map rather than pointing nowhere — including 3. Bb5, which is actually masters' main try (65.0%). Treat this diagram as "what's built so far," not the full picture.*
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
 
 <!-- content-diagram:start -->
 ```mermaid
@@ -16,8 +16,14 @@ flowchart LR
     Nc6["1. e4 e5 2. Nf3 Nc6"]
     click Nc6 "#_initial_move_" "C44 · King's Knight Opening: Normal Variation"
 
+    Nc6 --> Bb5[["3. Bb5 !<br/>+0.2"]]:::main
+    click Bb5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C60_Ruy_Lopez.md" "C60 · Ruy Lopez"
     Nc6 --> Bc4[["3. Bc4<br/>+0.1"]]
     click Bc4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md" "C50 · Italian Game"
+    Nc6 --> d4["3. d4<br/>+0.1"]
+    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md" "C44 · Scotch Opening"
+    Nc6 --> Nc3["3. Nc3<br/>+0.1"]
+    click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md" "C47 · Four Knights Game"
 ```
 <!-- content-diagram:end -->
 
@@ -53,9 +59,9 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 
 None of White's main tries here is objectively much stronger than the others — Stockfish rates all four within a couple tenths of a pawn. The split is almost entirely a matter of style and how much of the resulting theory each side is willing to learn.
 
-* **3. Bb5** (+0.2): the *Ruy Lopez* (Spanish Opening) — masters' clear favourite (65.0% of masters games) and the most studied opening in chess history. Pins the knight defending e5 and prepares to add long-term pressure on the centre — *pending its own dedicated card*.
+* [**3. Bb5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C60_Ruy_Lopez.md) (+0.2): the [Ruy Lopez](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C60_Ruy_Lopez.md) (Spanish Opening) — masters' clear favourite (65.0% of masters games) and the most studied opening in chess history. Pins the knight defending e5 and prepares to add long-term pressure on the centre.
 * [**3. Bc4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md) (+0.1): the [Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), the most popular try online (39.6%) though second to the Ruy Lopez in masters play (19.3%). Develops actively toward f7 at once.
-* **3. d4** (+0.1): the *Scotch Opening* — opens the centre immediately rather than building up slowly. Popular online (20.2%) but a clear third choice for masters (8.9%) — *pending its own dedicated card*.
-* **3. Nc3** (+0.1): the *Four Knights Game*, developing symmetrically and keeping the position flexible; the least common of the four both online (7.7%) and in masters play (5.7%) — *pending its own dedicated card*.
+* [**3. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md) (+0.1): the [Scotch Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md) — opens the centre immediately rather than building up slowly. Popular online (20.2%) but a clear third choice for masters (8.9%).
+* [**3. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) (+0.1): the [Four Knights Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md), developing symmetrically and keeping the position flexible; the least common of the four both online (7.7%) and in masters play (5.7%).
 
 [*Back to TOP*](#_TOP_)

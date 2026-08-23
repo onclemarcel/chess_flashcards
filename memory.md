@@ -44,9 +44,18 @@ Goal: build out actual opening cards, organised by directory per White's first m
 - [x] `C42_Nf3_Nf6_Petrov_Defense.md` — 2... Nf6 (+0.3). Two TIPs: the classic 3. Nxe5 Nxe4?? 4. Qe2! pin (Petrov Trap) and 3. Bc4?! Nxe4! (no Center Fork Trick defence here, unlike the Italian/Four Knights version) — both grounded in Lichess cloud-eval, not just memory.
 - [x] `C44_Nf3_Nc6_King_Knight.md` — 2... Nc6 (+0.2), a cheap **hub** card fanning into Ruy Lopez (masters' actual main try, 65.0%!)/Italian/Scotch/Four Knights — only Italian has a card so far, so the Overview only shows that one node per the "don't point nowhere" convention.
 
+**Batch 2 closed 2026-08-23 — the C44 hub's own children, spun off from `C44_Nf3_Nc6_King_Knight.md`:**
+
+- [x] `C60_Ruy_Lopez.md` — 3. Bb5 (+0.2), masters' actual main try after 2... Nc6 (65.0%). Morphy/Berlin/Old Steinitz/Classical covered at 3...; the Exchange Variation is a NOTE rather than its own card. Two verified tactical tricks (Nxe5?? just hangs the knight in Berlin; Bxc6 dxc6 Nxe5?? Qd4! forks in Classical) — both checked against cloud-eval before writing, not assumed from memory (an earlier draft's Berlin claim was wrong and caught this way).
+- [x] `C44_Scotch.md` — 3. d4 (+0.1). exd4 is near-forced (99.6% masters); Nxd4 vs the Scotch Gambit (4. Bc4) covered, plus Mieses/Classical split at move 4.
+- [x] `C47_Four_Knights_Game.md` — 3. Nc3 (+0.1). 3...Nf6 main (92.2% masters) with a genuine 3-way split at move 4 (Bb5/d4/g3); 3...Bc5 flagged ⚠ but corrected to NOT claim a material-winning trick (verified: 4.Nxe5 Nxe4 5.d4 Bd6! just holds equal, it's a real GM-level line, not a blunder).
+- [x] `C44_Nf3_Nc6_King_Knight.md` — hub Overview and candidate-move links updated to point at all three new cards instead of "pending its own dedicated card".
+
+**Lesson from this batch**: verify every specific tactical/trap claim (fork, mate, "wins a piece") against `cloud-eval` before writing it — pattern-matching from a similar-looking line in another opening produced two wrong claims (Four Knights 3...Bc5, Ruy Lopez Berlin) that were only caught by checking. Popularity/eval numbers from the explorer are reliable; hand-recalled tactical lines are not, even when they "sound right".
+
 ## Backlog (not started)
 
-- **C60 Ruy Lopez, C44_Scotch, C47 Four Knights** — full named-opening cards spun off from the C44 hub above, now the natural next session. Ruy Lopez is masters' actual main try after 2... Nc6 (65.0%) and currently has no card at all.
 - **Other 1. e4 replies**: 1...c5 Sicilian (no card yet — *highest priority*, it's masters' single most popular reply at 45.9%, per A00/B00's own notes). Also convert the old-style stub cards to the current template: `e4_e6_French.md` (French), `e4_c6_Caro_Kann.md` (Caro-Kann), `e4_Nc6_Nimzovitch.md` (Nimzowitsch, lower priority — only 1.5% masters).
+- **Ruy Lopez sub-branches**: the Morphy Defense (3...a6 4.Ba4 Nf6) opens into the huge Closed/Open Ruy Lopez tabiya — worth its own card(s) once the Sicilian/other-replies backlog is through, given how much masters play routes through here.
 - **New top-level fronts**: `d4_openings/`, `Nf3_openings/`, `c4_openings/` — 1. d4 (35.8% masters, no card yet), 1. Nf3 (10.2%), 1. c4 (6.9%) and their replies. None of this scaffolding exists yet — each needs its own root card analogous to `B00_e4_KPG.md`.
 - **Gambits/traps depth**: `gambits/Latvian/Latvian.md`, `gambits/Elephant/Elephant.md`, `gambits/Rousseau/Rousseau.md` are one-line stubs, deliberately deferred per the user's own instruction to set gambits/traps/mate-patterns aside until the main-line survey cards are further along.

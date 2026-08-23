@@ -40,9 +40,10 @@ There are several ways to dive into the pages of this repository:
 
 ### From 1. e4 e5 2. Nf3 Nc6 ###
 - **White** is able to enter into well-known openings such as:
-  - [**3. Bb5**, the Spanish Opening or Ruy Lopez](./e4_openings/C60_Ruy_Lopez.md),
+  - [**3. Bb5**, the Spanish Opening or Ruy Lopez](./e4_openings/C60_Ruy_Lopez.md), masters' clear favourite,
   - [**3. Bc4**, the Italian Opening](./e4_openings/C50_Italian.md),
-  - [**3. d4**, the Scotch Opening](./e4_openings/C44_Scotch.md).
+  - [**3. d4**, the Scotch Opening](./e4_openings/C44_Scotch.md),
+  - [**3. Nc3**, the Four Knights Game](./e4_openings/C47_Four_Knights_Game.md).
 
 \
 NOTE: all cards are linked between each other through the most common chess moves sequence that lead to the position subject of the card\
