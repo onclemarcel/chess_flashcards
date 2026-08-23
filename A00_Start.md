@@ -33,12 +33,12 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 *Online: bullet/blitz, 1800+ — 2.42 G games. Masters: 2.9 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR_w_KQkq_-_0_1#explorer) — updated 2026-08-23*
 <!-- lichess-stats:end -->
 
-> [!NOTE]
-> **1. d4** is a real rival to 1. e4, not a fringe try: 28.3% online and 35.8% of masters games — it doesn't yet have a dedicated card in this repository. **1. Nf3** (10.2% masters) and **1. c4** (6.9% masters) are further behind but also real, established openings, likewise still pending.
-
 ### Candidate moves
 
 * [**1. g4**](#_g4_) (-0.9): an uncommon, weakening try — see [Grob's Attack](#_g4_) below, and the [shortest possible game](#_mate_or_trap_) it can walk into.
+* [**1. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_c4_English.md) (+0.1): the [English Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_c4_English.md), a real but less common try (6.9% masters) — a flank opening that often transposes into reversed-Sicilian or Indian-style structures.
+* [**1. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A04_Nf3_Zukertort.md) (+0.1): the [Zukertort Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A04_Nf3_Zukertort.md) (10.2% masters) — flexible, most lines transpose into 1. d4 or 1. c4 territory.
+* [**1. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md) (+0.2): the [Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters) after 1. e4.
 * [**1. e4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md) (+0.2): the [King's Pawn Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md) is the most popular first move at all levels of the game. White aims at controlling the centre.
 
 [*Back to TOP*](#_TOP_)

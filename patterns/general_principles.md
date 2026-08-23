@@ -76,7 +76,7 @@ Doubled or otherwise inconvenient pawns are a minor, long-term concern; falling 
 
 A "plan" doesn't have to mean calculating fifteen moves — it can be as simple as naming a concrete objective (castle; win a pawn; trade off the opponent's good bishop) and then asking, one at a time, what's stopping you from doing it right now, and in what order those obstacles need clearing.
 
-*Worked example from [DN]: objective = castle short. Obstacle 1 — the light-squared bishop is in the way, needs a square. Obstacle 2 — its natural square (e3) is undefended. Obstacle 3 — defending e3 with the queen first requires the b2 pawn to not be hanging, so c3 or Nc3 has to come even earlier. The plan falls out of answering the obstacles in reverse order.*
+*Worked example from [DN]: (C44 Scotch 4... Bc5 5. Nxc6 Qf6 6. f3?? dxc6) objective = castle short. Obstacle 1 — the black-squared bishop is in the way, needs to get rid of it. Obstacle 2 — its natural square (e3) is undefended, so Qe2 would be necessary first. Obstacle 3 — defending e3 with the queen requires the b2 pawn to not be hanging, so c3 or Nc3 has to come even earlier.*
 
 [*Back to TOP*](#_TOP_)
 

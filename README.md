@@ -51,6 +51,11 @@ There are several ways to dive into the pages of this repository:
   - [**3. d4**, the Scotch Opening](./e4_openings/C44_Scotch.md),
   - [**3. Nc3**, the Four Knights Game](./e4_openings/C47_Four_Knights_Game.md).
 
+### From the initial position, White's other first moves ###
+- [**1. d4** The Queen's Pawn Game](./d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters) — leads into the Indian Defense complex (King's Indian, Grünfeld, Nimzo-/Queen's-Indian) after 1... Nf6, or the Queen's Gambit complex after 1... d5.
+- [**1. Nf3** The Zukertort Opening](./Nf3_openings/A04_Nf3_Zukertort.md) (10.2% masters) — flexible, most lines transpose into 1. d4 or 1. c4 territory.
+- [**1. c4** The English Opening](./c4_openings/A10_c4_English.md) (6.9% masters) — a flank opening, often reached via a reversed Sicilian (1... e5) or Indian-style structures (1... Nf6).
+
 \
 NOTE: all cards are linked between each other through the most common chess moves sequence that lead to the position subject of the card\
 \
