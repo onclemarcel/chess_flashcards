@@ -50,7 +50,7 @@ rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
 | d3 | 13 k (0.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/4/54 | 0 | — | ⚠ |
 | Qf3 | 11 k (0.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 6.1 M games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -139,7 +139,7 @@ rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3
 | bxc6 | 18 k (0.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/40 | 0 | — | ⚠ |
 | Qb6 | 14 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 22 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 22 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2P5/8/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * **3... Nxc6** (+0.9, 60.3% online, 100% of the — very few — masters games): the point of the gambit — Black develops with tempo instead of recapturing with a pawn, aiming for quick ... e5 and piece activity

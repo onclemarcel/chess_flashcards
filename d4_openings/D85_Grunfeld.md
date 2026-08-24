@@ -25,7 +25,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq d6 0 4
 | e4 | 289 k (4.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 | Qb3 | 0 | — | 539 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/51/15 |  |
 
-*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 **4. cxd5** is masters' most common try (53.1%) — the Exchange Variation, resolving the central tension immediately and inviting Black to recapture with the knight.
@@ -63,7 +63,7 @@ rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 5
 | Nb4 | 367 (0.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/4/35 | 0 | — | ⚠ |
 | Qd6 | 191 (0.0%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 81/3/16 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_5#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_5#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 ### Candidate moves

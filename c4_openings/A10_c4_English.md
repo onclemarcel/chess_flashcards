@@ -66,7 +66,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 | f5 | 2.3 M (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 4.7 k (2.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 | Nc6 | 0 | — | 484 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/26 |  |
 
-*Online: bullet/blitz, 1800+ — 107.9 M games. Masters: 199 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR_b_KQkq_c3_0_1#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 107.9 M games. Masters: 199 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR_b_KQkq_c3_0_1#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -111,7 +111,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | Nf3 | 793 k (8.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 6.5 k (40.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/43/20 |  |
 > | e4 | 521 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 3.9 k (24.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/43/18 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. c4*](#_c4_)
@@ -146,7 +146,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | e3 | 847 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 45 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/47/16 |  |
 > | b3 | 246 k (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/45 | 214 (1.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > Masters and online players disagree here too: **3. Nf3** is masters' clear favourite (48.9%), developing before committing the queen's knight, while online **3. Nc3** dominates instead (59.4%). Neither is built out further yet in this repository (backlog).
@@ -184,7 +184,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | e3 | 785 k (5.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/47 | 0 | — | ⚠ |
 > | e4 | 0 | — | 758 (2.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/22 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. c4*](#_c4_)
@@ -219,7 +219,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | Nf3 | 743 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/43 | 571 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/49/23 |  |
 > | d3 | 472 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 730 (1.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/39/21 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 21.6 M games. Masters: 50 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 21.6 M games. Masters: 50 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. c4*](#_c4_)
@@ -254,7 +254,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2
 | a3 | 46 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 0 | — | ⚠ |
 | b4 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * [**2. Nc3**](#_Nf6_Nc3_) (+0.1): White's clear favourite (59.2% of masters games) — covered below
@@ -316,7 +316,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 | c6 | 595 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 794 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/42/16 |  |
 | b6 | 174 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 93 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 
-*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * [**2... g6**](#_Nf6_Nc3_g6_) (+0.5): masters' top choice (28.7%) — a King's Indian-style fianchetto against the English, covered below

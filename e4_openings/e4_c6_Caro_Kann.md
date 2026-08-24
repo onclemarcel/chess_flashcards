@@ -48,7 +48,7 @@ rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | Ne2 | 0 | — | 427 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
 | b3 | 0 | — | 68 (0.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/28/43 |  |
 
-*Online: bullet/blitz, 1800+ — 124.7 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 124.7 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -84,7 +84,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 | f3 | 2.6 M (4.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 2.5 k (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/32/30 |  |
 | Bd3 | 614 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 27 (0.0%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 41/22/37 |  |
 
-*Online: bullet/blitz, 1800+ — 59.2 M games. Masters: 84 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 59.2 M games. Masters: 84 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 Unlike the French, masters' top choice here is to gain space rather than develop first. Each answer opens into its own body of theory — none of them continue on this page:
