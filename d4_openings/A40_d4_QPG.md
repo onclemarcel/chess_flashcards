@@ -30,11 +30,11 @@ flowchart LR
     click d5a "#_d5_" "D00 · Queen's Pawn Game"
 
     d5a --> Nc3d["2. Nc3<br/>-0.1"]
-    click Nc3d "#_d5_" "D01 · Veresov Attack"
+    click Nc3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md" "D01 · Richter-Veresov Attack"
     d5a --> Bf4d["2. Bf4<br/>0.0"]
     click Bf4d "#_d5_" "D00 · Queen's Pawn Game: Accelerated London System"
     d5a --> Nf3d["2. Nf3<br/>+0.1"]
-    click Nf3d "#_d5_" "D02 · Queen's Pawn Game: Zukertort Variation"
+    click Nf3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md" "D02 · Queen's Pawn Game: Zukertort Variation"
     d5a --> c4d[["2. c4 !<br/>+0.2"]]:::main
     click c4d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md" "D06 · Queen's Gambit"
     d4 --> Nf6[["1... Nf6 !<br/>+0.2"]]:::main
@@ -77,7 +77,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 | b6 | 13.8 M (2.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 987 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/30/26 |  |
 | Nc6 | 0 | — | 1.7 k (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/30/26 |  |
 
-*Online: bullet/blitz, 1800+ — 684.3 M games. Masters: 1.0 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_d3_0_1#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 684.3 M games. Masters: 1.0 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_d3_0_1#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -128,7 +128,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e4 | 0 | — | 2 (1.7%) | — |  |
 > | g3 | 0 | — | 2 (1.7%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 31.1 M games. Masters: 115 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 31.1 M games. Masters: 115 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4*](#_d4_)
@@ -137,7 +137,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 ---
 
 > [!NOTE]
-> **1... c5** invites an Old Benoni structure a tempo down for Black compared with lines starting 1. d4 Nf6 2. c4 c5 — White is not forced to advance the d-pawn, and simply enjoys a comfortable space advantage.
+> **1... c5** invites an Old Benoni structure a tempo down for Black compared with lines starting 1. d4 Nf6 2. c4 c5 — White is not forced to advance the d-pawn, and simply enjoys a comfortable space advantage. See the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md) for the theory past this point, including a real surprise: masters' own most popular try there is objectively the *worst* of Black's realistic options per Stockfish.
 >
 > <a name="_c5_"></a>
 >
@@ -153,20 +153,6 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 >
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 > | --- | --- |
->
-> <!-- lichess-stats:start fen="rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | d5 | 13.2 M (28.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 6.7 k (76.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/29/25 |  |
-> | c4 | 7.8 M (16.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
-> | Nf3 | 7.3 M (15.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 0 | — | ⚠ |
-> | e3 | 5.5 M (11.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/47 | 660 (7.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/37/32 |  |
-> | c3 | 4.2 M (8.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 703 (8.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/41/30 |  |
-> | dxc5 | 0 | — | 331 (3.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/34/34 |  |
-> | e4 | 0 | — | 183 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
-> 
-> *Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-23*
-> <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)
@@ -202,7 +188,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | g3 | 0 | — | 12 k (40.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 > | Bg5 | 0 | — | 2.6 k (9.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > **2. g3** (40.9% masters, but only 3.8% online — a sharp inversion) is masters' clear favourite here, the Fianchetto Attack — see the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch.md), built out to the Semi-Leningrad Variation.
@@ -240,7 +226,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e3 | 2.8 M (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 0 | — | ⚠ |
 > | g3 | 0 | — | 684 (2.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4*](#_d4_)
@@ -276,7 +262,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e4 | 4.7 M (7.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 4.4 k (10.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/48/20 |  |
 > | g3 | 0 | — | 953 (2.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/41/24 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 67.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 67.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4*](#_d4_)
@@ -312,13 +298,13 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | Nc3 | 10.6 M (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 2.6 k (1.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
 > | Bg5 | 0 | — | 2.8 k (1.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/38/27 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (+0.2): by far White's most tested try (76.9% of masters games) — the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), covered on its own card (Slav / Queen's Gambit Declined / Queen's Gambit Accepted)
-> * **2. Nf3** (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the "Zukertort Variation"
+> * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md), covered on its own card (Torre Attack / Accelerated London)
 > * **2. Bf4** (0.0): the Accelerated London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit
-> * **2. Nc3** (-0.1): the Veresov Attack — a minor, rarely-tested try (1.0% masters)
+> * [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) (-0.1): the [Richter-Veresov Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) — a minor, rarely-tested try (1.0% masters), covered on its own card
 >
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)
@@ -351,7 +337,7 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 | c3 | 3.8 M (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.2 k (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/37/35 |  |
 | g3 | 1.3 M (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 3.6 k (0.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/39/25 |  |
 
-*Online: bullet/blitz, 1800+ — 182.9 M games. Masters: 627 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 182.9 M games. Masters: 627 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * [**2. c4**](#_Nf6_c4_) (+0.2): by far White's most tested try (72.4% of masters games) — covered below
@@ -412,7 +398,7 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 | b6 | 679 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.8 k (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/31/33 |  |
 | Nc6 | 0 | — | 2.0 k (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/33/28 |  |
 
-*Online: bullet/blitz, 1800+ — 82.4 M games. Masters: 457 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 82.4 M games. Masters: 457 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * [**2... e6**](#_Nf6_c4_e6_) (+0.1): masters' top choice (54.2%) — Queen's Gambit Declined / Nimzo-Indian / Queen's Indian family, covered below

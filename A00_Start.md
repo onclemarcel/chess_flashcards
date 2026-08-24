@@ -35,7 +35,8 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 
 ### Candidate moves
 
-* [**1. g4**](#_g4_) (-0.9): an uncommon, weakening try — see [Grob's Attack](#_g4_) below, and the [shortest possible game](#_mate_or_trap_) it can walk into.
+* [**1. f4**](https://github.com/onclemarcel/chess_flashcards/blob/main/f4_openings/A02_Bird.md) (-0.2): [Bird's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/f4_openings/A02_Bird.md) (0.2% masters) — a real, playable flank try, essentially a reversed Dutch Defense with an extra tempo.
+* [**1. b3**](https://github.com/onclemarcel/chess_flashcards/blob/main/b3_openings/A01_Nimzo_Larsen.md) (0.0): the [Nimzo-Larsen Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/b3_openings/A01_Nimzo_Larsen.md) (0.4% masters) — fully sound and still a genuine top-level weapon, fianchettoing before touching the centre at all.
 * [**1. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_c4_English.md) (+0.1): the [English Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_c4_English.md), a real but less common try (6.9% masters) — a flank opening that often transposes into reversed-Sicilian or Indian-style structures.
 * [**1. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A04_Nf3_Zukertort.md) (+0.1): the [Zukertort Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A04_Nf3_Zukertort.md) (10.2% masters) — flexible, most lines transpose into 1. d4 or 1. c4 territory.
 * [**1. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md) (+0.2): the [Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters) after 1. e4.
@@ -46,73 +47,19 @@ rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1
 ---
 
 > [!NOTE]
-> With **1. g4**, White enters the [Grob's Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/g4_opening/Grob.md), significantly compromising the kingside pawn structure and placing the g-pawn on an unusual square that is difficult to defend without giving Black the initiative.
+> Every other first move shares this page's own **A00** ECO code — individually too rare for its own code, but each with a real name and idea behind it, worth its own small card as an uncommon path to try. All fourteen are covered in [`A00_openings/`](https://github.com/onclemarcel/chess_flashcards/tree/main/A00_openings):
 >
-> <a name="_g4_"></a>
->
-> ### 1. g4 — Grob's Attack
->
-> [![1. g4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR&lastMove=g2g4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1)
->
-> *... 1. g4 — the Grob's Attack*
->
-> ```
-> rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.9 |
-> | --- | --- |
->
-> <!-- lichess-stats:start fen="rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | d5 | 2.8 M (40.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 121 (66.9%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 26/23/51 |  |
-> | e5 | 889 k (12.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/46 | 34 (18.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 35/15/50 |  |
-> | c5 | 567 k (8.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 4 (2.2%) | — | ⚠ |
-> | e6 | 548 k (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
-> | c6 | 433 k (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
-> | d6 | 0 | — | 7 (3.9%) | — |  |
-> | g6 | 0 | — | 5 (2.8%) | — |  |
-> 
-> *Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-23*
-> <!-- lichess-stats:end -->
->
-> [*Back to 1... start*](#_initial_move_)
-> [*Back to TOP*](#_TOP_)
-
----
-
-> [!TIP]
-> **1. g4?** the [Grob's Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/g4_opening/Grob.md) is generally considered one of the worst starting moves, and it comes with the game's most famous cautionary tale: the shortest possible loss.
->
-> <a name="_mate_or_trap_"></a>
->
-> ### 1. g4 e5 2. f3?? — the shortest game
->
-> A typical mate pattern is reached through this sequence: **1. g4? e5 2. f3??**
->
-> [![1. g4 e5 2. f3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR&lastMove=f2f3&arrows=Rd8h4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2)
->
-> *... Shortest game — **Mate in 1** with 2... Qh4#*
->
-> ```
-> rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | #-1 |
-> | --- | --- |
->
-> <!-- lichess-stats:start fen="rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR b KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | Qh4# | 5.6 k (42.5%) | ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛ 0/0/100 | 0 | — | ⚠ |
-> | d5 | 3.7 k (27.9%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 20/2/77 | 0 | — | ⚠ |
-> | Nc6 | 1.4 k (10.3%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 24/1/75 | 0 | — | ⚠ |
-> | d6 | 710 (5.4%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 26/3/72 | 0 | — | ⚠ |
-> | Bc5 | 472 (3.6%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 22/1/78 | 0 | — | ⚠ |
-> 
-> *Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-23*
-> <!-- lichess-stats:end -->
->
-> [*Back to 1... start*](#_initial_move_)
-> [*Back to TOP*](#_TOP_)
+> * [**1. b4**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Polish.md) — Polish (Sokolsky) Opening (-0.1)
+> * [**1. g3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Hungarian.md) — Hungarian Opening, also known as Benko's Opening (+0.1)
+> * [**1. g4**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Grob.md) — Grob's Attack (-0.9), including the [shortest possible game](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Grob.md#_mate_or_trap_) it can walk into
+> * [**1. h3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Clemenz.md) — Clemenz Opening (0.0)
+> * [**1. Nh3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Amar.md) — Amar (Paris) Opening (-0.4)
+> * [**1. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Van_Geet.md) — Van Geet Opening, also known as the Dunst Opening (0.0)
+> * [**1. a3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Anderssen.md) — Anderssen's Opening (-0.1)
+> * [**1. c3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Saragossa.md) — Saragossa Opening (0.0)
+> * [**1. a4**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Ware.md) — Ware (Meadow Hay) Opening (-0.2)
+> * [**1. d3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Mieses.md) — Mieses Opening (-0.1)
+> * [**1. e3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Vant_Kruijs.md) — Van't Kruijs Opening (+0.1)
+> * [**1. f3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Barnes.md) — Barnes Opening, sometimes nicknamed the "Fried Fox" (-0.8)
+> * [**1. Na3**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Sodium.md) — Sodium Attack, also known as the Durkin Opening (-0.5)
+> * [**1. h4**](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Kadas.md) — Kádas Opening (-0.4)

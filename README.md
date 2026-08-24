@@ -9,8 +9,10 @@ The purpose of this documentation is primarily a personnal work to gather inform
 \
 There are several ways to dive into the pages of this repository:
 - Start [here](./A00_Start.md), on the first page illustrating the starting position, with links to the main first move openings
-- Walk through the "code" folders to reach a specific page, especially for mate patterns or specific traps
-- Browse [general, opening-agnostic principles](./patterns/general_principles.md) pulled from coaching commentary (currently: Daniel Naroditsky's *Speedrun: Back to 3000*, tagged `[DN]`)
+- Walk through the "code" folders to reach a specific page, especially for specific traps
+- Browse [general, opening-agnostic principles](./patterns/general_principles.md) pulled from coaching commentary (currently: Daniel Naroditsky's *Speedrun: Back to 3000*, tagged `[DN-<game number>]`, e.g. `[DN-1]` for game 1)
+- Browse [checkmate patterns](./mates/mate_patterns.md) — recurring mating shapes and the tactics used to force them, independent of any one opening
+- Browse [irregular first moves](./A00_openings/) — Polish, Grob, Van Geet, and eleven other rare-but-playable A00 openings, one short card each
 - Go straight to one of the most famous openings in the following list:
 
 ### From the initial position ###
@@ -21,8 +23,12 @@ There are several ways to dive into the pages of this repository:
 - **Black**'s single most popular reply at master level is instead asymmetrical:
 - [**... c5**](./e4_openings/B20_1e4c5_Sicilian.md) the Sicilian Defense, fighting for the center on the queenside rather than matching White pawn for pawn. After 2. Nf3, Black's four main systems are the [Najdorf](./e4_openings/B50_Sicilian_d6_Open.md) (2... d6), the [Sveshnikov/Taimanov/Rossolimo family](./e4_openings/B30_Sicilian_Nc6_Open.md) (2... Nc6), the [Kan/Taimanov family](./e4_openings/B40_Sicilian_e6_Open.md) (2... e6), and the [Accelerated Dragon](./e4_openings/B34_Sicilian_g6_Accelerated_Dragon.md) (2... g6).
 - **Black** may also prepare ... d5 before playing it:
-- [**... e6**](./e4_openings/e4_e6_French.md) the French Defense, or
-- [**... c6**](./e4_openings/e4_c6_Caro_Kann.md) the Caro-Kann Defense, which keeps the light-squared bishop free.
+- [**... e6**](./e4_openings/e4_e6_French.md) the French Defense, built out to the [Winawer/Classical](./e4_openings/e4_e6_French.md#_Nc3_) fork after 2. d4 d5 3. Nc3, or
+- [**... c6**](./e4_openings/e4_c6_Caro_Kann.md) the Caro-Kann Defense, which keeps the light-squared bishop free, built out to the [Advance Variation](./e4_openings/e4_c6_Caro_Kann.md#_e5_) tabiya after 2. d4 d5 3. e5.
+- **Black** may instead delay the centre entirely (hypermodern tries — rare, but sound and genuinely offbeat):
+- [**... d6**](./e4_openings/B07_Pirc_Defense.md) the Pirc Defense, forking into the [Austrian Attack](./e4_openings/B08_Pirc_Defense_Tabiya.md) (4. f4) / Classical (4. Nf3) / [150 Attack](./e4_openings/B08_Pirc_Defense_Tabiya.md#_Be3_) (4. Be3) after 2. d4 Nf6 3. Nc3 g6,
+- [**... g6**](./e4_openings/B06_Modern_Defense.md) the Modern (Robatsch) Defense, the same idea reached by fianchettoing first, or
+- [**... Nf6**](./e4_openings/B02_Alekhine_Defense.md) the Alekhine Defense, provoking White's centre forward instead of contesting it — leads to the [Four Pawns Attack](./e4_openings/B03_Alekhine_Defense.md#_f4_) if White pushes all the way.
 
 ### From 1. e4 e5 ###
 - **White** may develop its pieces with :
@@ -53,11 +59,14 @@ There are several ways to dive into the pages of this repository:
 
 ### From the initial position, White's other first moves ###
 - [**1. d4** The Queen's Pawn Game](./d4_openings/A40_d4_QPG.md), White's second most popular try (35.8% masters):
-  - **1... Nf6** (60.9% masters) leads into the Indian Defense complex: [King's Indian](./d4_openings/E70_Kings_Indian.md) / [Grünfeld](./d4_openings/D85_Grunfeld.md) fork after 2. c4 g6 3. Nc3, or [Nimzo-Indian](./d4_openings/E20_Nimzo_Indian.md) / [Queen's Indian](./d4_openings/E12_Queens_Indian.md) fork after 2. c4 e6.
-  - **1... d5** (25.8% masters) opens the [Queen's Gambit](./d4_openings/D06_Queens_Gambit.md), where the Slav (49.5%), Queen's Gambit Declined (35.3%) and Queen's Gambit Accepted (11.8%) branch.
+  - **1... Nf6** (60.9% masters) leads into the Indian Defense complex: [King's Indian](./d4_openings/E70_Kings_Indian.md) / [Grünfeld](./d4_openings/D85_Grunfeld.md) fork after 2. c4 g6 3. Nc3, or [Nimzo-Indian](./d4_openings/E20_Nimzo_Indian.md) / [Queen's Indian](./d4_openings/E12_Queens_Indian.md) fork after 2. c4 e6 — or, sidestepping both pin and fianchetto ideas, the [Catalan Opening](./d4_openings/E00_Catalan.md) after 2. c4 e6 3. g3.
+  - **1... d5** (25.8% masters) opens the [Queen's Gambit](./d4_openings/D06_Queens_Gambit.md) after 2. c4 (Slav 49.5% / QGD 35.3% / QGA 11.8%) — or, if White delays c4, the [Richter-Veresov Attack](./d4_openings/D01_Richter_Veresov_Attack.md) (2. Nc3) or the [Zukertort Variation](./d4_openings/D02_QPG_Nf3.md) (2. Nf3), which itself forks into the [Torre Attack](./d4_openings/D03_Torre_Attack.md) and the [Colle System](./d4_openings/D04_Colle_System.md) (3. e3) — genuine sound-but-rarely-faced sidesteps out of mainstream Queen's Gambit/Slav theory.
   - **1... f5** opens the [Dutch Defense](./d4_openings/A81_Dutch.md), built out to the Semi-Leningrad Variation.
+  - **1... c5** opens the [Old Benoni](./d4_openings/A43_Old_Benoni.md) — a real surprise here: masters' own most popular reply at move 2 (2... e5, the move the line is named for) is objectively the *worst* of Black's realistic options per Stockfish.
 - [**1. Nf3** The Zukertort Opening](./Nf3_openings/A04_Nf3_Zukertort.md) (10.2% masters) — flexible, most lines transpose into 1. d4 or 1. c4 territory.
 - [**1. c4** The English Opening](./c4_openings/A10_c4_English.md) (6.9% masters) — a flank opening, often reached via a reversed Sicilian (1... e5) or Indian-style structures (1... Nf6), which itself transposes toward the King's Indian complex above after 2. Nc3 g6.
+- [**1. b3** The Nimzo-Larsen Attack](./b3_openings/A01_Nimzo_Larsen.md) (0.4% masters) — fully sound and still a genuine top-level weapon; fianchettoes the bishop to b2 before touching the centre.
+- [**1. f4** Bird's Opening](./f4_openings/A02_Bird.md) (0.2% masters) — a reversed Dutch Defense with an extra tempo, including the [From's Gambit](./f4_openings/A02_Bird.md#_e5_) trap-line for Black.
 
 \
 NOTE: all cards are linked between each other through the most common chess moves sequence that lead to the position subject of the card\

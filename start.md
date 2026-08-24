@@ -57,7 +57,7 @@ This page is the template and style guide for every flashcard in this repository
 > [!NOTE]
 > Notes gather side variations worth mentioning, although they are not part of the main line of this flash card.
 
-A `[!NOTE]` or `[!TIP]` callout is a full blockquote, not just its opening line. Every line that belongs to the side note — the anchor, the heading, the diagram, the FEN code block, the stats table, and the "Back to" links — is prefixed with `>` (a blank line inside the blockquote is written as a bare `>`), so GitHub renders the whole side note as one boxed callout. This keeps side branches visually distinct from the main line: a reader scanning the page sees at a glance which content is "on the path" and which is a side note to come back from. The blockquote ends right after the "Back to" links; the `---` separator that follows stays outside it. A worked example, in full, lives on [A00 Start Position](./A00_Start.md#_g4_) (1. g4 — Grob's Attack) — its own `[!NOTE]` block is exactly this shape.
+A `[!NOTE]` or `[!TIP]` callout is a full blockquote, not just its opening line. Every line that belongs to the side note — the anchor, the heading, the diagram, the FEN code block, the stats table, and the "Back to" links — is prefixed with `>` (a blank line inside the blockquote is written as a bare `>`), so GitHub renders the whole side note as one boxed callout. This keeps side branches visually distinct from the main line: a reader scanning the page sees at a glance which content is "on the path" and which is a side note to come back from. The blockquote ends right after the "Back to" links; the `---` separator that follows stays outside it. A worked example, in full, lives on [B01 Scandinavian Defense](./e4_openings/B01_1e4d5_Scandinavian.md#_e5_) (2. e5) — its own `[!NOTE]` block is exactly this shape.
 
 Skeleton:
 
@@ -77,7 +77,7 @@ Skeleton:
 > [!TIP]
 > Tips highlight mate patterns and traps, to help spotting them in real games.
 
-Tips follow the same skeleton as notes, anchored under a heading like `### 1. <Mate Pattern or Trap Pattern worth a tip>`. Add the tip when a mate pattern or a trap pattern should be highlighted — it helps recognise the pattern in real games, in order to either avoid a trap or use it against the opponent. The worked example on [A00 Start Position](./A00_Start.md#_mate_or_trap_) (1. g4 e5 2. f3?? — the shortest game) shows a full tip, mate pattern included.
+Tips follow the same skeleton as notes, anchored under a heading like `### 1. <Mate Pattern or Trap Pattern worth a tip>`. Add the tip when a mate pattern or a trap pattern should be highlighted — it helps recognise the pattern in real games, in order to either avoid a trap or use it against the opponent. The worked example on [Grob's Attack](./A00_openings/Grob.md#_mate_or_trap_) (1. g4 e5 2. f3?? — the shortest game) shows a full tip, mate pattern included.
 
 ---
 

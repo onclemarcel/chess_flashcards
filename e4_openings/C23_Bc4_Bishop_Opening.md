@@ -54,7 +54,7 @@ rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2
 | Be7 | 0 | — | 6 (0.1%) | — |  |
 | c5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 20.4 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 20.4 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -96,7 +96,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3
 | Bxf7+ | 166 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 80 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/39/20 |  |
 
-*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_w_KQkq_-_2_3#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_w_KQkq_-_2_3#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -105,6 +105,59 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3
 * **3. d3** (+0.1): defends e4 and keeps the position flexible — masters' overwhelming preference (86.4%).
 * **3. Nc3** (+0.1): develops a piece, defending e4 indirectly and inviting transposition to Vienna/Four Knights structures.
 * **3. Nf3** (+0.1): the simplest defence, transposing straight into the Italian Game after ... Nc6.
+
+> [!NOTE]
+> [DN-3] **3. d4** (5.8% masters, 13.0% online) opens the centre immediately instead of the quiet 3. d3, and it's perfectly sound (-0.2, barely different from 3. d3 itself) — not a dubious try. The imprecision comes one move later: after **3... exd4**, **4. e5** (attacking the knight, -0.65) is measurably worse than the simple **4. Nf3** (-0.15, recapturing the pawn back next while keeping development simple). This line is *not* built out as its own dedicated card yet (backlog); the beginner-level game below is flagged here specifically because it shows what 4. e5 actually costs in practice, move by move — not because 3. d4 itself is a mistake.
+
+> [!TIP]
+> [DN-3] A cautionary middlegame moment from that same beginner-level game (both sides erred through the opening — this is here for the blunder, not as recommended theory): **1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. e5 d5 5. exf6 dxc4 6. Qe2+ Be6 7. fxg7 Bxg7 8. Qh5 Nc6 9. Nf3 Qd7 10. Ng5 O-O-O 11. O-O Bd5 12. a4 Rdg8**.
+>
+> <a name="_e5_pawn_grab_"></a>
+>
+> ### 4. e5 — keeps attacking, but keeps getting worse
+>
+> After 4. e5 d5, White presses on with a whole sequence of forcing, pawn-grabbing moves — **5. exf6** (winning the knight) **dxc4** (Black recaptures the bishop) **6. Qe2+** (regaining the pawn with check) **Be6 7. fxg7** (grabbing yet another pawn) **Bxg7** — and it *looks* like White is dictating the game the entire time, since every one of these moves is a capture or a check. The evaluation says otherwise:
+>
+> | Move | Eval |
+> | :--- | ---: |
+> | 4. e5 | -0.65 |
+> | 5. exf6 | -1.8 |
+> | 5... dxc4 | -1.75 |
+> | 6. Qe2+ | -2.8 |
+> | 6... Be6 | -2.9 |
+> | 7. fxg7 | -2.6 |
+> | 7... Bxg7 | -2.9 |
+>
+> Every White "threat" in this sequence is real, but each one only regains material Black is happy to give back for a bigger lead in development and structure — by move 7 Black has two pieces out, an extra pawn, and an intact centre, while White's queen and bishop have both been chased around and the king still isn't safe. Forcing moves are not automatically good moves; check what they're actually worth before playing the whole sequence on autopilot.
+>
+> [*Back to 2. Bc4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+> [!NOTE]
+> [DN-3] **10... O-O-O**, not O-O: with the g7 pawn gone (traded away back on move 7), short castling would tuck the king behind a permanently weakened kingside pawn shield — exactly the kind of structural damage that invites a later attack (a knight landing on g5, for instance, would be far more dangerous with no g-pawn to challenge it). Long castling puts the king on a side where the pawn structure is still intact. This is the same idea as [development matters more than pawn structure](https://github.com/onclemarcel/chess_flashcards/blob/main/patterns/general_principles.md#_development_over_structure_) turned around: pawn structure *is* worth caring about specifically when it's the structure right in front of your own king.
+
+> [!TIP]
+> <a name="_Nxf7_blunder_"></a>
+>
+> ### 13. Nxf7?? — a "2 attackers, 1 defender" count that doesn't actually work
+>
+> [![13. Nxf7??](https://backscattering.de/web-boardimage/board.svg?fen=2k3rr/pppq1pbp/2n5/3b2NQ/P1pp4/8/1PP2PPP/RNB2RK1&lastMove=d8g8&arrows=Gg5f7,Gh5f7,Rd5f7&coordinates=true&size=320)](https://lichess.org/analysis/standard/2k3rr/pppq1pbp/2n5/3b2NQ/P1pp4/8/1PP2PPP/RNB2RK1_w_KQ_-_1_13)
+>
+> *... position before 13. Nxf7 — green: White's two attackers on f7 (Ng5, Qh5); red: Black's one defender (Bd5)*
+>
+> ```
+> 2k3rr/pppq1pbp/2n5/3b2NQ/P1pp4/8/1PP2PPP/RNB2RK1 w KQ - 1 13
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -4.0 |
+> | --- | --- |
+>
+> White counted two attackers against one defender on f7 and grabbed the pawn — but a raw attacker/defender count only tells you a capturing sequence is *possible*, not that it's *good*. Here White simply played **13. Nxf7 Bxf7** and stopped, having traded a whole knight for a single pawn with no follow-up recapture — the count was real, but the piece values behind it were not (a knight is worth far more than the pawn plus whatever the *second* attacker, the queen, could still pick up on a now-defended square). The position, already -4.0 for Black purely from the earlier 4. e5 imprecision, drops to -6.0.
+>
+> Play continued **14. Qb5 Bd5** (the bishop simply returns to the post it just left, still eyeing the long diagonal and the soon-to-be-weak g2 square) **15. a5 a6 16. Qc5 Bf8** (a double-purpose move: it attacks the queen on c5 *and* unmasks the g8-rook's attack on g2, since the g7-bishop had been sitting on that file) **17. Na3**, and Black finished with a forcing combination rather than simply grabbing the loose queen — see the [Corridor Mate](https://github.com/onclemarcel/chess_flashcards/blob/main/mates/Corridor_Mate/Corridor_Mate.md) pattern card for the full breakdown of **17... Rxg2+ 18. Kh1 Rg1+ 19. Kxg1 Qg4#**.
+>
+> [*Back to 2. Bc4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
 
 [*Back to 2. Bc4*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

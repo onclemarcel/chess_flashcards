@@ -143,7 +143,7 @@ Both are considered fully sound; the choice is largely a matter of taste.
 ---
 
 > [!TIP]
-> [DN] From Daniel Naroditsky's *Speedrun: Back to 3000* — against 4... Bc5, **5. Nxc6** is masters' second-choice recapture-inducing try; **5... Qf6** answers in kind (87.9% of masters games), and the position becomes a real practical test of whether White meets it correctly.
+> [DN-1] From Daniel Naroditsky's *Speedrun: Back to 3000* — against 4... Bc5, **5. Nxc6** is masters' second-choice recapture-inducing try; **5... Qf6** answers in kind (87.9% of masters games), and the position becomes a real practical test of whether White meets it correctly.
 >
 > <a name="_Bc5_Nxc6_"></a>
 >
@@ -160,7 +160,7 @@ Both are considered fully sound; the choice is largely a matter of taste.
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
 > | --- | --- |
 >
-> White's two main tries are the **queen** moves **6. Qd2** (50.4% masters) and **6. Qf3** (47.9%) — the latter offers a queen trade that's been reached thousands of times in top-level games. [DN] The **pawn** move **6. f3??** looks similar on the board but is a very different decision: barely played at master level (1.0%), it blocks White's own king-knight development and, critically, makes it much harder to castle — see [Every pawn move leaves something behind](https://github.com/onclemarcel/chess_flashcards/blob/main/patterns/general_principles.md#_pawn_move_weaknesses_).
+> White's two main tries are the **queen** moves **6. Qd2** (50.4% masters) and **6. Qf3** (47.9%) — the latter offers a queen trade that's been reached thousands of times in top-level games. [DN-1] The **pawn** move **6. f3??** looks similar on the board but is a very different decision: barely played at master level (1.0%), it blocks White's own king-knight development and, critically, makes it much harder to castle — see [Every pawn move leaves something behind](https://github.com/onclemarcel/chess_flashcards/blob/main/patterns/general_principles.md#_pawn_move_weaknesses_).
 >
 > After **6. f3 dxc6** (opening Black's own light-squared bishop in the process — doubled pawns are a small price for development here), White's position is still only slightly worse on the engine's own numbers (-0.1), but the practical damage is real: the king is stuck in the centre a long time, and — as happened in the featured game — that's exactly the kind of position where a further slip turns into a full-blown blunder.
 >

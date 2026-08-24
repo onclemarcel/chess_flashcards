@@ -1,0 +1,175 @@
+<a name="_TOP_"></a>
+
+# B06 Modern Defense <br> 1. e4 g6 #
+
+Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md): also called the Robatsch Defense, after Austrian player Karl Robatsch. Black fianchettoes the king's bishop before committing anything in the centre, planning to strike back at White's pawns from the flank once they're overextended rather than contesting the centre directly — a hypermodern approach in the same spirit as the Alekhine Defense.
+
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    g6["1. e4 g6"]
+    click g6 "#_initial_move_" "B06 · Modern Defense"
+
+    g6 --> d4[["2. d4 !<br/>+0.5"]]:::main
+    click d4 "#_d4_" "B06 · Modern Defense"
+
+    d4 --> Bg7[["2... Bg7 !<br/>+0.5"]]:::main
+    click Bg7 "#_Bg7_" "B06 · Modern Defense"
+
+    Bg7 --> Nc3[["3. Nc3 !<br/>+0.5"]]:::main
+    click Nc3 "#_Nc3_" "B06 · Modern Defense"
+
+    Nc3 --> d6[["3... d6 !<br/>+0.5"]]:::main
+    click d6 "#_d6_" "B06 · Modern Defense: Standard Line"
+```
+<!-- content-diagram:end -->
+
+<a name="_initial_move_"></a>
+
+[![1. e4 g6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR&lastMove=g7g6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2)
+
+*... 1. e4 g6 — Modern Defense*
+
+```
+rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| d4 | 26.6 M (49.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 33 k (95.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/33/30 |  |
+| Nf3 | 12.2 M (22.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 268 (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/31/40 |  |
+| Nc3 | 6.0 M (11.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 870 (2.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/30/37 |  |
+| f4 | 2.5 M (4.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/49 | 0 | — | ⚠ |
+| h4 | 0 | — | 173 (0.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/24/43 |  |
+
+*Online: bullet/blitz, 1800+ — 54.3 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
+<!-- lichess-stats:end -->
+
+**2. d4** is masters' overwhelming choice (95.1%) — grabbing the centre while Black hasn't contested it at all yet.
+
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d4_"></a>
+
+## 2. d4
+
+[![2. d4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2)
+
+*... 2. d4*
+
+```
+rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bg7 | 27.2 M (90.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 37 k (88.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/33/30 |  |
+| d6 | 914 k (3.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/45 | 2.9 k (7.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/36/29 |  |
+| Nf6 | 534 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 242 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 44/24/32 |  |
+| c6 | 267 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 1.4 k (3.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
+
+*Online: bullet/blitz, 1800+ — 29.9 M games. Masters: 41 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-24*
+<!-- lichess-stats:end -->
+
+**2... Bg7** is masters' near-unanimous choice (88.9%) — completing the fianchetto before deciding anything about the centre.
+
+[*Back to 1. e4 g6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Bg7_"></a>
+
+## 2... Bg7
+
+[![2... Bg7](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR&lastMove=f8g7&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_-_1_3)
+
+*... 2... Bg7*
+
+```
+rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+**3. Nc3** is masters' clear main try (64.7%) — developing naturally rather than committing to a specific plan (c4, f4, or Be3) just yet.
+
+[*Back to 2. d4*](#_d4_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nc3_"></a>
+
+## 3. Nc3
+
+[![3. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3)
+
+*... 3. Nc3*
+
+```
+rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| d6 | 4.9 M (45.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/4/44 | 15 k (61.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/32/31 |  |
+| c5 | 1.7 M (16.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 808 (3.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/29/25 |  |
+| e6 | 1.4 M (13.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 0 | — | ⚠ |
+| c6 | 955 k (8.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 6.9 k (28.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/33/30 |  |
+| b6 | 464 k (4.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/41 | 0 | — | ⚠ |
+| Nf6 | 308 k (2.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
+| a6 | 0 | — | 993 (4.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/29/39 |  |
+| d5 | 0 | — | 497 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/38/22 |  |
+| Nc6 | 0 | — | 171 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/35/20 |  |
+
+*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-24*
+<!-- lichess-stats:end -->
+
+**3... d6** is masters' clear main try (61.1%) — the *Standard Line*, finally contesting e5/c5 while keeping the king's knight's development flexible (Nf6 or Ne7/Nh6 depending on White's setup).
+
+[*Back to 2... Bg7*](#_Bg7_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d6_"></a>
+
+## 3... d6 — Standard Line
+
+[![3... d6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR&lastMove=d7d6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_0_4)
+
+*... 3... d6 — reaching the Modern Defense: Standard Line tabiya*
+
+```
+rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+White's most common follow-up is **4. Be3** (40.5% masters), preparing Qd2 and long castling for a kingside pawn storm — a setup nearly identical in spirit to the [Pirc Defense's 150 Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md), since the resulting structures are so similar once Black eventually adds ... Nf6. Deeper Modern Defense theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 3. Nc3*](#_Nc3_)
+[*Back to TOP*](#_TOP_)
