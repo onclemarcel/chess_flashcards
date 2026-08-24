@@ -46,7 +46,7 @@ r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq f6 0 4
 | O-O | 57 k (3.8%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/3/56 | 0 | — | ⚠ |
 | Bxg8 | 43 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/3/50 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 15 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_f6_0_4#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 15 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_f6_0_4#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -98,7 +98,7 @@ Simply defending e4 sidesteps every trick the gambit relies on: Black has spent 
 > | O-O | 5.1 k (2.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/2/56 | 0 | — | ⚠ |
 > | Ng5 | 3.9 k (1.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 35/3/63 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 237 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/5P2/2B1p3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-08-23*
+> *Online: bullet/blitz, 1800+ — 237 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/5P2/2B1p3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-08-24*
 > <!-- lichess-stats:end -->
 >
 > The attacked knight has real options, split almost evenly in practice between **5. Ng1** (43.1%, simply retreating) and **5. Qe2** (42.8%, holding the square — the queen defends f3 in place, so ... exf3 just meets Qxf3). Engines actually rate the more active **5. Nd4** as at least as good as either, offering the knight an outpost instead of a retreat. Whichever White chooses, the position is roughly balanced (0.0) — Black has real central space and development in exchange for the pawn, rather than a clearly winning attack.

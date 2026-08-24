@@ -90,7 +90,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 * [**1... f5**](#_f5_) (+0.5): the [Dutch Defense](#_f5_) — Black stakes a claim on e4 at the cost of a kingside weakening
 * [**1... g6**](#_g6_) (+0.6): the [Modern Defense](#_g6_) move order — flexible, but concedes the centre for now
 * [**1... e6**](#_e6_) (+0.4): keeps options for the French, Queen's Gambit Declined or Nimzo-Indian open
-* [**1... d5**](#_d5_) (+0.3): opens the vast Queen's Gambit / Slav complex — masters' clear #2 choice (25.8%), pending its own dedicated card
+* [**1... d5**](#_d5_) (+0.3): masters' clear #2 choice (25.8%) — opens the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) complex after 2. c4, or the sound-but-rarely-faced [Richter-Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)/[Zukertort](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) sidesteps if White delays c4
 * [**1... Nf6**](#_Nf6_) (+0.2): the main line by far (60.9% of masters games) — covered below
 
 [*Back to TOP*](#_TOP_)

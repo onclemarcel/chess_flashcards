@@ -51,7 +51,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3
 | d5 | 0 | — | 6 (0.0%) | — |  |
 | Qf6 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 26.0 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 26.0 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 | Bb5 | 134 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 33 (0.1%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 24/45/30 |  |
 | Bd3 | 59 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 24.5 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 24.5 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 * [**4. Nxd4**](#_Nxd4_) (0.0): the principled recapture, centralising the knight — masters' clear main line (84.1%).
@@ -127,7 +127,7 @@ r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Bb4+ | 0 | — | 1.2 k (6.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
 | g6 | 0 | — | 218 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/33/27 |  |
 
-*Online: bullet/blitz, 1800+ — 14.3 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-23*
+*Online: bullet/blitz, 1800+ — 14.3 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
 Black's two main tries are close in popularity at master level:
