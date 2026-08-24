@@ -100,7 +100,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3
 <!-- lichess-stats:end -->
 
 > [!NOTE]
-> **3. d3** is masters' near-unanimous reply here (86.4% of masters games) — the *Modern Bishop's Opening*, quietly defending e4 and preparing a slow build-up — but only their top choice online by a much smaller margin (36.9%), where **3. Nc3**, **3. Nf3**, and even the immediate **3. d4** are all tried in real numbers. This card and [C50 Italian](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md) converge on the same 3. d3 tabiya whenever Black meets either opening with ... Nf6 — *pending its own dedicated card*.
+> **3. d3** is masters' near-unanimous reply here (86.4% of masters games) — the [**Modern Bishop's Opening**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Modern_Bishops_Opening.md), quietly defending e4 and preparing a slow build-up — but only their top choice online by a much smaller margin (36.9%), where **3. Nc3**, **3. Nf3**, and even the immediate **3. d4** are all tried in real numbers. This card and [C50 Italian](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md) converge on the same 3. d3 tabiya whenever Black meets either opening with ... Nf6 — covered in full on its own card.
 
 * **3. d3** (+0.1): defends e4 and keeps the position flexible — masters' overwhelming preference (86.4%).
 * **3. Nc3** (+0.1): develops a piece, defending e4 indirectly and inviting transposition to Vienna/Four Knights structures.

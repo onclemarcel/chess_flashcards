@@ -184,7 +184,19 @@ r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
 | --- | --- |
 
-Transposes into Italian Game/Scotch Gambit territory: White develops actively and often follows up with **5. O-O** or **5. e5**, betting on faster piece activity to compensate for the pawn — very similar in spirit to the Danish Gambit reached from the Center Game.
+<!-- lichess-stats:start fen="r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nf6 | 2.6 M (34.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.9 k (67.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/43/32 |  |
+| Bc5 | 1.8 M (24.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 644 (22.7%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/40/36 |  |
+| d6 | 1.0 M (13.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 88 (3.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
+| Be7 | 583 k (7.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 44 (1.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/32/16 |  |
+| Bb4+ | 506 k (6.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 53/3/44 | 130 (4.6%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 7/78/15 |  |
+
+*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-08-24*
+<!-- lichess-stats:end -->
+
+Masters' clear main try is **4... Nf6** (67.5%), attacking e4 in return rather than accepting a second pawn — after **5. e5 d5** the gambit pawn usually comes back with interest for White's development. **4... Bc5** (22.7%) instead heads straight for Italian Game/Giuoco Piano-style structures a tempo down for Black. Either way, White develops actively and often follows up with **5. O-O** or **5. e5**, betting on faster piece activity to compensate for the pawn — very similar in spirit to the Danish Gambit reached from the Center Game. Not built out further here (backlog).
 
 [*Back to 3... exd4*](#_exd4_)
 [*Back to TOP*](#_TOP_)

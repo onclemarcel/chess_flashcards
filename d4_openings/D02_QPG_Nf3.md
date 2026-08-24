@@ -21,8 +21,8 @@ flowchart LR
 
     Nf6 --> c4[["3. c4 !<br/>+0.2"]]:::main
     click c4 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md" "D06 · Queen's Gambit"
-    Nf6 --> Bf4["3. Bf4<br/>+0.1"]
-    click Bf4 "#_Bf4_" "D02 · Queen's Pawn Game: Symmetrical Variation"
+    Nf6 --> Bf4["3. Bf4<br/>0.0"]
+    click Bf4 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md" "D02 · Queen's Pawn Game: London System"
     Nf6 --> Bg5["3. Bg5<br/>-0.1"]
     click Bg5 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D03_Torre_Attack.md" "D03 · Queen's Pawn Game: Torre Attack"
 ```
@@ -92,7 +92,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3
 <!-- lichess-stats:end -->
 
 * **3. c4** (+0.2, 70.4% masters): by far White's most common choice — transposes straight into the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (2... c6/e6 there), the "known path" this whole card exists to sidestep from.
-* [**3. Bf4**](#_Bf4_) (+0.1, 11.5% masters): the *Accelerated London System* — see the note below.
+* [**3. Bf4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md) (0.0, 11.5% masters): the [***London System***](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md) — a fully independent system with its own card.
 * **3. Bg5** (-0.1, 2.4% masters): the [***Torre Attack***](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D03_Torre_Attack.md) — rare, but a fully independent system with its own card.
 * **3. e3** (7.4% masters): the [Colle System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D04_Colle_System.md) — covered on its own card.
 * **3. g3** (6.0% masters): Catalan-adjacent, though the [Catalan Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E00_Catalan.md) proper is reached by a different move order (1. d4 Nf6 2. c4 e6 3. g3) — not covered further here.
@@ -103,24 +103,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3
 ---
 
 > [!NOTE]
-> **3. Bf4**, the *Accelerated London System*, develops the bishop outside the pawn chain before it gets shut in by ... e6 — the same idea already flagged as [A40's Accelerated London note](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_d5_) after 1... d5 2. Bf4 directly. It's masters' clear second choice here (11.5%, well ahead of the Torre's 2.4%), and a genuine "sound-but-not-learned" path: extremely popular at club level, rarely deeply prepared against.
->
-> <a name="_Bf4_"></a>
->
-> ### 3. Bf4
->
-> [![3. Bf4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R&lastMove=c1f4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3)
->
-> *... 3. Bf4 — Accelerated London System*
->
-> ```
-> rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
-> | --- | --- |
->
-> White simply continues e3, c3/c4, Bd3 or Be2, and Nbd2 in more or less any order, building a solid structure that doesn't depend much on Black's exact replies — the practical appeal of the whole London family. Not built out further here (backlog).
+> **3. Bf4** is the real, standard **London System** — despite an earlier draft of this note calling it "Accelerated," that name actually belongs to a different move order (2. Bf4 *before* Nf3, flagged on [A40's own note](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_d5_)); the explorer's own `opening` field confirms the distinction. It's masters' clear second choice here (11.5%, well ahead of the Torre's 2.4%), and a genuine "sound-but-not-learned" path: extremely popular at club level, rarely deeply prepared against. Covered in full on its own card: [**D02 London System**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md).
 >
 > [*Back to 2... Nf6*](#_Nf6_)
 > [*Back to TOP*](#_TOP_)

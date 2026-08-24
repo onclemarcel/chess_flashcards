@@ -302,8 +302,8 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > <!-- lichess-stats:end -->
 >
 > * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (+0.2): by far White's most tested try (76.9% of masters games) — the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), covered on its own card (Slav / Queen's Gambit Declined / Queen's Gambit Accepted)
-> * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md), covered on its own card (Torre Attack / Accelerated London)
-> * **2. Bf4** (0.0): the Accelerated London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit
+> * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md), covered on its own card (Torre Attack / [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md))
+> * **2. Bf4** (0.0): the *Accelerated* London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit. Transposes toward the same structures as the full [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md) card if White follows up with Nf3 next.
 > * [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) (-0.1): the [Richter-Veresov Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) — a minor, rarely-tested try (1.0% masters), covered on its own card
 >
 > [*Back to 1. d4*](#_d4_)
@@ -342,6 +342,7 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 
 * [**2. c4**](#_Nf6_c4_) (+0.2): by far White's most tested try (72.4% of masters games) — covered below
 * [**2. Nf3**](#_Nf6_Nf3_) (+0.1): develops first and keeps c4 in reserve — a real second choice (20.6% of masters games), usually transposing back into the same complex
+* [**2. Bg5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md) (0.0): the [Trompowsky Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md) — sidesteps the whole Indian Defense complex entirely (3.7% masters), covered on its own card
 
 [*Back to 1. d4*](#_d4_)
 [*Back to TOP*](#_TOP_)
@@ -403,6 +404,8 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 
 * [**2... e6**](#_Nf6_c4_e6_) (+0.1): masters' top choice (54.2%) — Queen's Gambit Declined / Nimzo-Indian / Queen's Indian family, covered below
 * [**2... g6**](#_Nf6_c4_g6_) (+0.3): a very close second (32.8% of masters games) — the King's Indian / Grünfeld family
+* **2... c5** (0.0, 8.3% masters): after 3. d5 (88.8% masters), forks hard into two real gambit/defence tries — the [**Benko Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) (3... b5, actually masters' *more* popular pick here at 48.5%) and the [**Modern Benoni**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A60_Modern_Benoni.md) (3... e6, 26.5%) — both covered on their own cards
+* [**2... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) (+0.9, 0.7% masters): the [**Budapest Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) — a real, named pawn sacrifice for quick piece activity, covered on its own card
 
 [*Back to 1... Nf6*](#_Nf6_)
 [*Back to TOP*](#_TOP_)
