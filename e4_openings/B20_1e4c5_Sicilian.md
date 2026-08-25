@@ -63,7 +63,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2
 | b3 | 0 | — | 3.1 k (0.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/34/34 |  |
 | Ne2 | 0 | — | 2.9 k (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/37/26 |  |
 
-*Online: bullet/blitz, 1800+ — 311.7 M games. Masters: 601 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 311.7 M games. Masters: 601 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -105,7 +105,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 | b6 | 463 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/45 | 588 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/29/34 |  |
 | Qc7 | 0 | — | 55 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 
-*Online: bullet/blitz, 1800+ — 173.1 M games. Masters: 501 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 173.1 M games. Masters: 501 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 Masters are close to evenly split three ways here, and each answer opens into its own vast body of theory:
@@ -151,7 +151,7 @@ All four are fully sound main systems.
 > | g6 | 955 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 1.3 k (3.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/37/30 |  |
 > | e5 | 0 | — | 497 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > **2... Nf6** (44.6% masters) is the main try, attacking e4 at once: after **3. e5 Nd5**, the knight is well placed on d5 and Black continues ... d6, ... Nc6, and ... g6/... e6 depending on taste. **2... d5** (33.2% masters) strikes back in the centre immediately instead, and after **3. exd5 Qxd5 4. d4**, White develops with tempo against the queen — a structure similar in spirit to the Center Game.
@@ -190,7 +190,7 @@ All four are fully sound main systems.
 > | Nf6 | 343 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 > | b6 | 0 | — | 28 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/25/32 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 41.4 M games. Masters: 46 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 41.4 M games. Masters: 46 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > **2... Nc6** (57.5% masters) is by far the main reply, often meeting **3. g3** with **3... g6**, both sides fianchettoing for a symmetrical-looking but strategically rich middlegame.
@@ -229,7 +229,7 @@ All four are fully sound main systems.
 > | e5 | 212 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 > | Nf6 | 0 | — | 41 (1.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/27/41 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 14.0 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 14.0 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > **2... d5!** (37.4% masters, the top try) hits back in the centre before White's kingside plan gets moving: after **3. exd5 Nf6**, Black regains the pawn with a comfortable game, since the knight both attacks d5 and prepares to meet **4. Nc3** with ... Nxd5. This is why the Grand Prix scores much better online (4.4% of tries) than in masters practice (0.4%) — it rewards an opponent who doesn't know the simple central answer.

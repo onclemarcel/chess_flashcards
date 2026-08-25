@@ -29,7 +29,7 @@ rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4
 | Nd2 | 0 | — | 511 (3.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/30/30 |  |
 | a4 | 0 | — | 372 (2.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/31/33 |  |
 
-*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_b6_0_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_b6_0_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -66,7 +66,7 @@ rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR b KQkq - 0 4
 | g6 | 24 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 25 (0.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/24/24 |  |
 | Qa5+ | 12 k (0.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 3 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2ppppp/5n2/1PpP4/8/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **4... a6** is masters' near-unanimous reply (99.0%) — immediately challenges the b5 pawn, aiming to rip open the a-file rather than let White simply consolidate the extra pawn.
@@ -100,7 +100,7 @@ rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5
 | e3 | 299 k (11.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 1.9 k (15.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
 | f3 | 86 k (3.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 1.0 k (8.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/30/32 |  |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **5. bxa6** is masters' clear main try (54.9%) — takes the second pawn, betting the resulting queenside structure genuinely favours White despite Black's coming piece activity down the open a- and b-files. **5. b6** (18.0%) instead returns the pawn immediately to simplify, and **5. e3** (15.3%) just declines further, developing calmly with an extra pawn already banked. Not built out further here (backlog) — the resulting middlegames (Black recaptures on a6, fianchettoes the dark bishop, and piles up on the queenside files for long-term compensation) are a whole body of theory in their own right.

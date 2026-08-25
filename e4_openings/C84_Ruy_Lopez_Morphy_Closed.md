@@ -50,7 +50,7 @@ r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5
 | Bd6 | 5.6 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/3/35 | 0 | — | ⚠ |
 | Ng4 | 0 | — | 14 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -91,7 +91,7 @@ r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6
 | Qe2 | 24 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 866 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 | Nc3 | 0 | — | 143 (0.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 17/57/25 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 60 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_4_6#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 60 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_4_6#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**6. Re1**](#_Re1_) (+0.2): moves the rook off the e-file's future pin/attack before playing d4, preparing to meet ... exd4 with the rook already backing up e4 — masters' near-unanimous choice (84.4%).
@@ -128,7 +128,7 @@ r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 5 6
 | d5 | 212 (0.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/3/39 | 1 (0.0%) | — | ⚠ |
 | Bd6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_b_kq_-_5_6#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_b_kq_-_5_6#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **6... b5** (98.6% of masters games) is close to automatic — pushing the bishop back to b3 before it can be challenged by ... Na5, and gaining queenside space in the process. From here [**7. Bb3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C88_Ruy_Lopez_Closed_Bb3.md) forks between the traditional **... d6** main line (leading, several moves later, to the Chigorin/Breyer/Zaitsev tabiya) and **... O-O** (which can allow the Marshall Attack gambit) — its own dedicated card.
@@ -161,7 +161,7 @@ r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6
 | Bxc6 | 9.6 k (2.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 7 (0.1%) | — |  |
 | Qe2 | 3.9 k (1.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 11 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 378 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 378 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 Unlike [Petrov's Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Nf3_Nf6_Petrov_Defense.md), where grabbing e4 too early runs into the Qe2 pin, White has no such trick here — the pawn is simply gone. **6. d4!** is masters' near-universal answer (96.5%), striking the centre and the e5 pawn at once rather than trying to win the knight back immediately. The position is sharper and more concrete than the Closed lines, and — unusually for the Ruy Lopez — Black gets real chances to play for a win with correct preparation, which is part of why some elite players choose it specifically to sidestep drawish Berlin/Closed theory. See the [dedicated Open Variation card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C80_Ruy_Lopez_Open_Variation.md) for the theory past this point.

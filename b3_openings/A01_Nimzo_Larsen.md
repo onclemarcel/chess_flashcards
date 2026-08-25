@@ -55,7 +55,7 @@ rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1
 | b6 | 0 | — | 244 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/40/28 |  |
 | g6 | 0 | — | 239 (2.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
 
-*Online: bullet/blitz, 1800+ — 53.0 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR_b_KQkq_-_0_1#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 53.0 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR_b_KQkq_-_0_1#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -92,7 +92,7 @@ rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq e6 0 2
 | g3 | 54 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 4 (0.1%) | — | ⚠ |
 | c4 | 0 | — | 29 (0.6%) | ⬜🟫🟫🟫🟫⬛⬛⬛⬛⬛ 14/38/48 |  |
 
-*Online: bullet/blitz, 1800+ — 9.6 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 9.6 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **2. Bb2** is close to automatic (98.8% of masters games) — the whole point of 1. b3, pressuring e5 down the long diagonal before Black can shore it up.
@@ -126,7 +126,7 @@ rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR b KQkq - 1 2
 | d5 | 307 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/3/43 | 0 | — | ⚠ |
 | e4 | 0 | — | 5 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/1P6/PBPPPPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **2... Nc6** is masters' clear main try (81.3%) — defending e5 a second time before White can add more pressure with Nf3 or an eventual f4.

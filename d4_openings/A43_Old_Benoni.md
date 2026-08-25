@@ -51,7 +51,7 @@ rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2
 | dxc5 | 0 | — | 331 (3.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/34/34 |  |
 | e4 | 0 | — | 183 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
 
-*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -86,7 +86,7 @@ rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2
 | e5 | 1.9 M (14.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 2.3 k (35.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 51/27/23 |  |
 | g6 | 564 k (4.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 857 (12.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/31/28 |  |
 
-*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -123,7 +123,7 @@ rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3
 | dxe6 | 271 k (14.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 42 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/24 |  |
 | Nc3 | 250 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 173 (7.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/27/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **3. e4** is masters' clear main try (71.0%) — completing a broad pawn centre while Black's own centre is already fixed and the dark-squared bishop stays boxed in behind the e5 pawn for a long time.
