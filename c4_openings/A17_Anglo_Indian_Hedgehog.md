@@ -26,7 +26,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3
 | Nf3 | 619 k (12.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 2.2 k (31.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/44/18 |  |
 | e3 | 300 k (6.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 29 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 34/31/34 |  |
 
-*Online: bullet/blitz, 1800+ — 5.0 M games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 5.0 M games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -64,7 +64,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3
 | b6 | 95 k (8.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 872 (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/42/16 |  |
 | c5 | 93 k (8.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 1.5 k (10.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 36/48/16 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**3... d5**](#_Nf3_d5_) (+0.1, 53.0% masters): masters' actual top choice here — no distinct name of its own, transposing toward Queen's-Gambit-Declined-flavoured structures — covered below

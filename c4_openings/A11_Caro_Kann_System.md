@@ -29,7 +29,7 @@ rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2
 | d3 | 126 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 54 (0.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 54/26/20 |  |
 
-*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -118,7 +118,7 @@ rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 | Qc7 | 9.3 k (0.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | f5 | 0 | — | 18 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**2... d5**](#_Nf3_d5_) (+0.2): overwhelmingly masters' choice (85.1%) — covered below
@@ -153,7 +153,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 | Qc2 | 29 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/6/40 | 174 (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/40/16 |  |
 | Qb3 | 0 | — | 42 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
 
-*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**3. e3**](#_Nf3_d5_e3_) (+0.2): masters' clear favourite (45.5%) — the **Gurevich System**, covered below
@@ -198,7 +198,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 3
 | Bf5 | 45 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 38 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 55/29/16 |  |
 | g6 | 0 | — | 53 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/34/17 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **3... Nf6** is overwhelmingly masters' choice here (93.4%) — simple development, keeping ... Bf5/... Bg4 and a later ... e6 all in reserve. Deeper Anglo-Slav theory past this point is its own extensive body of work, not covered further here.
