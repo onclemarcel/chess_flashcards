@@ -126,7 +126,33 @@ r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 *Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
-Kicking the knight looks like it costs a tempo — and objectively it does give White a small structural target on d5 for later — but Black gets active, well-coordinated pieces in exchange, and this line has become one of the main Sicilian weapons at the very top level. **6. Ndb5** (98.1% of masters games!) is close to the only serious try — the knight heads back toward d6, and after **6... d6 7. Bg5**, White pins the f6-knight while eyeing the d5 outpost, starting the immense body of Sveshnikov theory that would need its own dedicated card.
+Kicking the knight looks like it costs a tempo — and objectively it does give White a small structural target on d5 for later — but Black gets active, well-coordinated pieces in exchange, and this line has become one of the main Sicilian weapons at the very top level. **6. Ndb5** (98.1% of masters games!) is close to the only serious try — the knight heads back toward d6, and after **6... d6**, White pins the f6-knight with **7. Bg5** while eyeing the d5 outpost.
+
+[![6. Ndb5 d6 7. Bg5](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pp3ppp/2np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R&lastMove=c1g5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_7)
+
+*... 6. Ndb5 d6 7. Bg5*
+
+```
+r1bqkb1r/pp3ppp/2np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 7
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+**7... a6** is essentially forced (99.8% of masters games) — kicking the knight immediately before it can settle anywhere, the whole point of the Sveshnikov's active piece play.
+
+[![7... a6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/1p3ppp/p1np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R&lastMove=a7a6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/1p3ppp/p1np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R_w_KQkq_-_0_8)
+
+*... 7... a6 — the main Sveshnikov tabiya*
+
+```
+r1bqkb1r/1p3ppp/p1np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 8
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+**8. Na3** is masters' overwhelming choice (97.3%) — retreating to a3 rather than trading on f6 immediately, keeping the option of a later Nc4 or c4 to fight for the d5 square. Deeper Sveshnikov theory past this point (the resulting piece-vs-structure battle over d5, ... Be6/... Bxb5 ideas, and more) is its own extensive body of work — one of the main Sicilian weapons at the top level — not covered further here.
 
 [*Back to 3. d4*](#_d4_)
 [*Back to TOP*](#_TOP_)

@@ -18,6 +18,11 @@ flowchart LR
 
     g6 --> d4[["3. d4 !<br/>+0.3"]]:::main
     click d4 "#_d4_" "B34 · Sicilian Defense: Accelerated Dragon"
+
+    d4 --> c4m[["5. c4 !<br/>+0.5"]]:::main
+    click c4m "#_c4_" "B37 · Sicilian Defense: Accelerated Dragon, Maróczy Bind"
+    c4m --> Nc6m[["5... Nc6 !<br/>+0.3"]]:::main
+    click Nc6m "#_c4_" "B37 · Sicilian Defense: Accelerated Dragon, Maróczy Bind"
 ```
 <!-- content-diagram:end -->
 
@@ -86,10 +91,53 @@ rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
-* **5. c4** (51.2% masters): the *Maroczy Bind* — clamps down on d5 for good with pawns on c4 and e4, the critical test of the whole Accelerated Dragon and the main reason some players prefer the slower ... d6 move order instead.
-* **5. Nc3** (43.1% masters): develops naturally and transposes toward regular Dragon structures once Black plays ... d6 and ... Nf6.
+* [**5. c4**](#_c4_) (51.2% masters): the *Maroczy Bind* — clamps down on d5 for good with pawns on c4 and e4, the critical test of the whole Accelerated Dragon and the main reason some players prefer the slower ... d6 move order instead. See below.
+* **5. Nc3** (43.1% masters): develops naturally and transposes toward regular Dragon structures once Black plays ... d6 and ... Nf6 — not covered further here.
 
 Both are considered fully critical; which one a Black player fears more is largely a matter of preparation.
+
+[*Back to 1... g6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_c4_"></a>
+
+### 5. c4 — Maróczy Bind
+
+[![5. c4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R&lastMove=c2c4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5)
+
+*... 5. c4 — Maróczy Bind*
+
+```
+rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+...generated table...
+<!-- lichess-stats:end -->
+
+**5... Nc6** is masters' clear main try (88.6%) — developing naturally and pressuring d4 before White can consolidate the bind.
+
+[![5... Nc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R&lastMove=b8c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6)
+
+*... 5... Nc6 — reaching the main Maróczy Bind tabiya*
+
+```
+r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+...generated table...
+<!-- lichess-stats:end -->
+
+**6. Be3** is masters' overwhelming choice (93.1%) — completing development and eyeing a later Qd2/Rc1 or Nb3 plan while the bind's queenside space advantage does its slow work. Deeper Maróczy Bind theory (Black's ... Ng4/... Nxd4 exchanging tries, and White's own Nc2/Nb3 regrouping ideas) is its own extensive body of work, not covered further here.
 
 [*Back to 1... g6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

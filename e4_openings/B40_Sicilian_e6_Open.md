@@ -93,11 +93,66 @@ rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 *Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-24*
 <!-- lichess-stats:end -->
 
-* **4... a6** (39.8% masters): the *Kan Variation* (also called the Paulsen) — keeps the knight home a move longer, ruling out Nb5 ideas immediately, similar in spirit to the Najdorf but with ... e6 already played instead of ... d6.
-* **4... Nc6** (36.8% masters): the *Taimanov Variation* — develops naturally, often following up with ... Qc7 and ... a6, keeping the option of ... d6 or ... d5 open.
-* **4... Nf6** (21.6% masters): the *Four Knights Sicilian* — attacks e4 directly; after **5. Nc3 Nc6**, both knight pairs face off in the centre.
+* [**4... a6**](#_a6_) (39.8% masters): the *Kan Variation* (also called the Paulsen) — keeps the knight home a move longer, ruling out Nb5 ideas immediately, similar in spirit to the Najdorf but with ... e6 already played instead of ... d6. See below.
+* [**4... Nc6**](#_Nc6_) (36.8% masters): the *Taimanov Variation* — develops naturally, often following up with ... Qc7 and ... a6, keeping the option of ... d6 or ... d5 open. See below.
+* **4... Nf6** (21.6% masters): the *Four Knights Sicilian* — attacks e4 directly; after **5. Nc3 Nc6**, both knight pairs face off in the centre. Not covered further here.
 
 Each of these three systems is a substantial independent body of theory in its own right.
 
 [*Back to 1... e6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_a6_"></a>
+
+### 4... a6 — Kan Variation
+
+[![4... a6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=a7a6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5)
+
+*... 4... a6 — Kan Variation*
+
+```
+rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkbnr/1p1p1ppp/a3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+...generated table...
+<!-- lichess-stats:end -->
+
+> [!NOTE]
+> Masters' actual main try, **5. Bd3** (48.6%), is a real online/masters inversion: online play instead favours the more natural-looking **5. Nc3** (53.4% online, only 33.2% masters). Bd3 aims straight at the kingside while keeping the knight flexible between c3 and d2 — a more subtle try that takes some experience to prefer over simply developing the queen's knight.
+
+**5. Bd3** is masters' clear main try (48.6%) — see the note above. Deeper Kan theory (Black's flexible ... Qc7/... Nc6/... b5 setups) is its own extensive body of work, not covered further here.
+
+[*Back to 3. d4*](#_d4_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nc6_"></a>
+
+### 4... Nc6 — Taimanov Variation
+
+[![4... Nc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=b8c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5)
+
+*... 4... Nc6 — Taimanov Variation*
+
+```
+r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+...generated table...
+<!-- lichess-stats:end -->
+
+**5. Nc3** is masters' overwhelming choice (85.5%) — developing naturally before deciding on a plan, with **5. Nb5** (9.7%) a real second choice, immediately probing the d6 square the way it does against the Sveshnikov and Najdorf. Deeper Taimanov theory (Black's typical ... Qc7/... a6/... Nf6 set-up) is its own extensive body of work, not covered further here.
+
+[*Back to 3. d4*](#_d4_)
 [*Back to TOP*](#_TOP_)

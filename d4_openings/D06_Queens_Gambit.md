@@ -27,6 +27,19 @@ flowchart LR
     click Nc3b "#_c6_Nc3_" "D10 · Slav Defense"
     c6a --> Nf3b[["3. Nf3 !<br/>+0.2"]]:::main
     click Nf3b "#_c6_Nf3_" "D11 · Slav Defense: Modern Line"
+
+    Nf3b --> Nf6c[["3... Nf6 !<br/>+0.2"]]:::main
+    click Nf6c "#_c6_Nf3_Nf6_" "D11 · Slav Defense: Modern Line"
+
+    Nf6c --> Nc3c[["4. Nc3 !<br/>+0.2"]]:::main
+    click Nc3c "#_c6_Nf3_Nc3_" "D15 · Slav Defense: Three Knights Variation"
+    Nf6c --> e3c["4. e3<br/>+0.2"]
+    click e3c "#_c6_Nf3_e3_" "D11 · Slav Defense: Quiet Variation"
+
+    Nc3c --> e6c[["4... e6 !<br/>+0.2"]]:::main
+    click e6c "#_c6_Nf3_Nc3_" "D15 · Slav Defense: Three Knights Variation"
+    e3c --> Bf5c["4... Bf5 !<br/>+0.2"]
+    click Bf5c "#_c6_Nf3_e3_" "D11 · Slav Defense: Quiet Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -52,7 +65,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 | Bf5 | 2.7 M (2.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 1.1 k (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/37/19 |  |
 | c5 | 2.0 M (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 385 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/45/17 |  |
 
-*Online: bullet/blitz, 1800+ — 93.6 M games. Masters: 204 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 93.6 M games. Masters: 204 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -95,7 +108,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | e4 | 1.8 M (15.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 6.2 k (25.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 > | Qa4+ | 110 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 82 (0.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 26/37/38 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4 d5 2. c4*](#_c4_)
@@ -130,7 +143,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | e3 | 2.3 M (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/45 | 131 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/28 |  |
 > | g3 | 613 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 815 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/52/20 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4 d5 2. c4*](#_c4_)
@@ -166,7 +179,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | Qc2 | 0 | — | 69 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/54/17 |  |
 | Nd2 | 0 | — | 33 (0.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/36 |  |
 
-*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**3. Nf3**](#_c6_Nf3_) (+0.2): masters' clear favourite (64.7%) — covered below
@@ -217,7 +230,132 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
-Black usually continues 3... Nf6, reaching the tabiya from which the Semi-Slav (4... e6), the Chameleon/Central Slav Variations and the main-line Slav (4... Bf5/Bg4) all branch — none of it built out yet in this repository (backlog).
+<!-- lichess-stats:start fen="rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nf6 | 8.0 M (63.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 69 k (91.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/54/16 |  |
+| e6 | 1.9 M (15.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 5.0 k (6.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/19 |  |
+| Bf5 | 872 k (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 66 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/33/17 |  |
+| dxc4 | 615 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 1.1 k (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
+
+*Online: bullet/blitz, 1800+ — 12.6 M games. Masters: 75 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**3... Nf6** is close to automatic (91.7% of masters games) — completing development before deciding on a structure, the same logical order as 2... c6 itself.
+
+* [**3... Nf6**](#_c6_Nf3_Nf6_) (+0.2): see below.
 
 [*Back to 2... c6*](#_c6_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_c6_Nf3_Nf6_"></a>
+
+### 2... c6 3. Nf3 Nf6 — the Slav tabiya
+
+[![1. d4 d5 2. c4 c6 3. Nf3 Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R&lastMove=g8f6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4)
+
+*... 1. d4 d5 2. c4 c6 3. Nf3 Nf6 — reaching the main Slav tabiya*
+
+```
+rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nc3 | 6.3 M (55.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 52 k (55.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/53/17 |  |
+| e3 | 1.4 M (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 27 k (28.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/55/16 |  |
+| g3 | 1.3 M (11.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 0 | — | ⚠ |
+| cxd5 | 1.1 M (9.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 3.7 k (3.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 18/66/16 |  |
+| Qc2 | 0 | — | 5.1 k (5.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
+
+*Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+White's 4th move splits the whole rest of Slav theory in two: **4. Nc3** develops naturally and heads toward the Semi-Slav or the main-line Slav Accepted, while **4. e3** (the *Quiet Variation*, also called the Chameleon or Central Slav in older sources) keeps the structure flexible a move longer.
+
+* [**4. Nc3**](#_c6_Nf3_Nc3_) (+0.2): masters' clear main try (55.3%) — the *Three Knights Variation*, see below.
+* [**4. e3**](#_c6_Nf3_e3_) (+0.2): a real second choice (28.9% masters) — the *Quiet Variation*, see below.
+
+[*Back to 2... c6 3. Nf3*](#_c6_Nf3_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. Nc3**, the *Three Knights Variation*, develops naturally before deciding between a quick e4 and a slower e3 build-up — this is the move order that actually leads to the Semi-Slav.
+>
+> <a name="_c6_Nf3_Nc3_"></a>
+>
+> ### 4. Nc3 — Three Knights Variation
+>
+> [![4. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4)
+>
+> *... 4. Nc3 — Three Knights Variation*
+>
+> ```
+> rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | e6 | 4.6 M (33.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 32 k (51.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 26/59/15 |  |
+> | Bf5 | 2.6 M (18.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
+> | Bg4 | 2.1 M (15.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 0 | — | ⚠ |
+> | dxc4 | 2.0 M (14.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/46 | 18 k (29.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
+> | a6 | 0 | — | 10 k (16.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
+> | g6 | 0 | — | 1.2 k (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 47/41/13 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 13.9 M games. Masters: 63 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **4... e6** (+0.2) is masters' clear main try (51.7%) — the **Semi-Slav**, combining the Slav's ... c6 with the QGD's ... e6 for one of the most solid (and most heavily analysed) structures in all of chess. **4... dxc4** is a real second choice (29.2%), the *Slav Accepted*, while **4... a6** (16.4%, the *Chebanenko Variation*) delays the decision another move. Each of these is its own extensive body of theory, not covered further here.
+>
+> [*Back to 2... c6 3. Nf3 Nf6*](#_c6_Nf3_Nf6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. e3**, the *Quiet Variation* (also called the Chameleon or Central Slav in older sources), keeps the position flexible — White delays Nc3 so a later cxd5/Nc3 or a Stonewall-style c5 push both stay available, at the cost of blocking in the c1-bishop for now.
+>
+> <a name="_c6_Nf3_e3_"></a>
+>
+> ### 4. e3 — Quiet Variation
+>
+> [![4. e3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R&lastMove=e2e3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4)
+>
+> *... 4. e3 — Quiet Variation*
+>
+> ```
+> rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | Bg4 | 1.1 M (33.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/6/46 | 4.3 k (14.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/51/18 |  |
+> | e6 | 840 k (24.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 9.4 k (31.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 28/61/12 |  |
+> | Bf5 | 678 k (20.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 11 k (36.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/54/18 |  |
+> | g6 | 345 k (10.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/45 | 1.9 k (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 37/48/16 |  |
+> | a6 | 177 k (5.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 3.2 k (10.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/47/19 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> This is where the classical **main-line Slav** actually lives: **4... Bf5** (+0.2) is masters' clear main try (36.0%) — developing the light-squared bishop outside the pawn chain before it gets shut in, the single defining idea of the whole Slav complex. **4... e6** (31.9%) transposes toward Semi-Slav-flavoured structures instead, and **4... Bg4** (14.7%) develops the bishop actively rather than solidly. Each branch is its own extensive body of theory, not covered further here.
+>
+> [*Back to 2... c6 3. Nf3 Nf6*](#_c6_Nf3_Nf6_)
+> [*Back to TOP*](#_TOP_)

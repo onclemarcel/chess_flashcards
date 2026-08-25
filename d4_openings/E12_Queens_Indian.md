@@ -24,7 +24,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
 | e3 | 109 k (4.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/46 | 2.8 k (4.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/25 |  |
 | Bf4 | 27 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 928 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 
-*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
@@ -32,10 +32,44 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
 
 ### Candidate moves
 
-* **4. g3** (61.8% masters): the Petrosian/fianchetto System, by far the main try — White meets Black's long diagonal with one of its own
-* **4. a3** (19.6% masters): the Petrosian Variation proper — prevents ... Bb4+ before continuing development
-* **4. Nc3** (11.5% masters): a more direct developing try, allowing ... Bb4 and transposing toward Nimzo-Indian-flavoured structures
+* [**4. g3**](#_g3_) (61.8% masters): the Petrosian/fianchetto System, by far the main try — White meets Black's long diagonal with one of its own, see below
+* **4. a3** (19.6% masters): the Petrosian Variation proper — prevents ... Bb4+ before continuing development — not covered further here
+* **4. Nc3** (11.5% masters): a more direct developing try, allowing ... Bb4 and transposing toward Nimzo-Indian-flavoured structures — not covered further here
 
-None of these are built out yet in this repository (backlog).
+[*Back to TOP*](#_TOP_)
 
+---
+
+<a name="_g3_"></a>
+
+## 4. g3 — Fianchetto Variation
+
+[![4. g3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R&lastMove=g2g3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_4)
+
+*... 4. g3 — Fianchetto Variation*
+
+```
+rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bb7 | 656 k (67.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 11 k (32.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/53/17 |  |
+| Ba6 | 272 k (27.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 22 k (61.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/59/17 |  |
+| Bb4+ | 32 k (3.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 1.9 k (5.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/53/19 |  |
+| c6 | 5.3 k (0.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/9/50 | 230 (0.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 24/51/25 |  |
+
+*Online: bullet/blitz, 1800+ — 976 k games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+> [!NOTE]
+> Masters' actual main try, **4... Ba6** (61.1%), is a real online/masters inversion: the natural-looking **4... Bb7** dominates online instead (67.2% online, only 32.4% masters). **4... Ba6** takes indirect aim at the c4 pawn from the side rather than developing straight to the long diagonal, forcing White to spend a tempo defending it (e.g. Qc2 or b3) before Black completes development — a genuinely more sophisticated try that's harder to find over the board than it looks in a database.
+
+**4... Ba6** is masters' clear main try (61.1%) — see above. **4... Bb7** (32.4% masters) is the more straightforward alternative, simply completing the fianchetto. Deeper Queen's Indian theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 1. d4 Nf6 2. c4 e6 3. Nf3 b6*](#_b6_)
 [*Back to TOP*](#_TOP_)

@@ -66,7 +66,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 | f5 | 2.3 M (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 4.7 k (2.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 | Nc6 | 0 | — | 484 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/26 |  |
 
-*Online: bullet/blitz, 1800+ — 107.9 M games. Masters: 199 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR_b_KQkq_c3_0_1#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 107.9 M games. Masters: 199 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR_b_KQkq_c3_0_1#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -111,7 +111,7 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | Nf3 | 793 k (8.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 6.5 k (40.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/43/20 |  |
 > | e4 | 521 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 3.9 k (24.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/43/18 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. c4*](#_c4_)
@@ -146,10 +146,38 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | e3 | 847 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 45 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/47/16 |  |
 > | b3 | 246 k (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/45 | 214 (1.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
-> Masters and online players disagree here too: **3. Nf3** is masters' clear favourite (48.9%), developing before committing the queen's knight, while online **3. Nc3** dominates instead (59.4%). Neither is built out further yet in this repository (backlog).
+> Masters and online players disagree here too: **2. Nf3** is masters' clear favourite (48.9%), developing before committing the queen's knight, while online **2. Nc3** dominates instead (59.4%).
+>
+> <a name="_c5_Nf3_"></a>
+>
+> ### 1... c5 2. Nf3
+>
+> [![1. c4 c5 2. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2)
+>
+> *... 2. Nf3*
+>
+> ```
+> rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | Nc6 | 2.1 M (50.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/43 | 14 k (44.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/45/22 |  |
+> | Nf6 | 517 k (12.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/43 | 11 k (34.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/49/19 |  |
+> | e6 | 517 k (12.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
+> | g6 | 0 | — | 4.9 k (15.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/23 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **2... Nc6** is masters' clear main try (44.6%), with **2... Nf6** (34.9%) a real second choice — both simply developing before committing to a pawn structure. Deeper Symmetrical Variation theory past this point is its own extensive body of work, not covered further here.
 >
 > [*Back to 1. c4*](#_c4_)
 > [*Back to TOP*](#_TOP_)
@@ -184,8 +212,38 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | e3 | 785 k (5.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/47 | 0 | — | ⚠ |
 > | e4 | 0 | — | 758 (2.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/22 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
+>
+> **2. Nf3** is masters' clear favourite (34.5%), narrowly ahead of **2. Nc3** (31.3%) — genuinely close, unlike most forks in this repository.
+>
+> <a name="_e6_Nf3_"></a>
+>
+> ### 1... e6 2. Nf3
+>
+> [![1. c4 e6 2. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R&lastMove=g1f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2)
+>
+> *... 2. Nf3*
+>
+> ```
+> rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | d5 | 1.6 M (58.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 7.5 k (59.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/23 |  |
+> | Nf6 | 293 k (10.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 3.7 k (28.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/44/21 |  |
+> | c5 | 156 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 0 | — | ⚠ |
+> | f5 | 0 | — | 749 (5.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/35/21 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **2... d5** is masters' clear main try (59.4%) — striking the centre immediately and often transposing into Queen's Gambit Declined structures a tempo down for White. Deeper Agincourt theory past this point is its own extensive body of work, not covered further here.
 >
 > [*Back to 1. c4*](#_c4_)
 > [*Back to TOP*](#_TOP_)
@@ -219,8 +277,39 @@ rnbqkbnr/pppppppp/8/8/2P5/8/PP1PPPPP/RNBQKBNR b KQkq c3 0 1
 > | Nf3 | 743 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/43 | 571 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/49/23 |  |
 > | d3 | 472 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 730 (1.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/39/21 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 21.6 M games. Masters: 50 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-24*
+> *Online: bullet/blitz, 1800+ — 21.6 M games. Masters: 50 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
+>
+> **2. Nc3** is masters' clear favourite (62.2%) — the most natural developing move, keeping every plan (g3, e3, or a quick d4) open.
+>
+> <a name="_e5_Nc3_"></a>
+>
+> ### 1... e5 2. Nc3
+>
+> [![1. c4 e5 2. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2)
+>
+> *... 2. Nc3 — King's English Variation, Reversed Sicilian*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | Nf6 | 5.0 M (35.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 18 k (57.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/56/20 |  |
+> | Nc6 | 3.4 M (23.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 6.9 k (22.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/27 |  |
+> | d6 | 1.6 M (11.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 2.2 k (6.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
+> | f5 | 1.2 M (8.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 0 | — | ⚠ |
+> | Bb4 | 0 | — | 3.8 k (12.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/38/32 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 14.1 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **2... Nf6** is masters' clear main try (57.1%), with **2... Nc6** (22.2%) a real second choice — both simply developing before committing to a pawn structure, exactly mirroring a Sicilian a tempo down. Deeper Reversed Sicilian theory past this point is its own extensive body of work, not covered further here.
 >
 > [*Back to 1. c4*](#_c4_)
 > [*Back to TOP*](#_TOP_)
@@ -254,7 +343,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2
 | a3 | 46 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 0 | — | ⚠ |
 | b4 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**2. Nc3**](#_Nf6_Nc3_) (+0.1): White's clear favourite (59.2% of masters games) — covered below
@@ -316,7 +405,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 | c6 | 595 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 794 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/42/16 |  |
 | b6 | 174 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 93 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 
-*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * [**2... g6**](#_Nf6_Nc3_g6_) (+0.5): masters' top choice (28.7%) — a King's Indian-style fianchetto against the English, covered below
