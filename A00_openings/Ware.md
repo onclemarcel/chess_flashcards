@@ -34,3 +34,26 @@ rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1
 * **1... e5 / 1... Nf6 / 1... d5**: Black just develops normally and takes the centre — White's flank pawn move doesn't contest anything there.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... e5 2. h4**, the **Crab Opening** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)), grabs a second flank pawn instead of developing — a genuinely poor follow-up (−1.1), well past this card's own already-weak baseline.
+>
+> <a name="_Crab_"></a>
+>
+> ### 1... e5 2. h4 — Crab Opening
+>
+> [![1. a4 e5 2. h4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR&lastMove=h2h4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR_b_KQkq_h3_0_2)
+>
+> *... 1... e5 2. h4 — Crab Opening*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq h3 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -1.1 |
+> | --- | --- |
+>
+> [*Back to 1. a4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

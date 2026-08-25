@@ -35,3 +35,12 @@ rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1
 * **1... Nf6 / 1... d5 / 1... g6**: a genuine three-way spread (26.8%, 25.3%, 20.6% masters) — nothing about 1. e3 forces Black toward one particular structure, so the reply mostly reflects Black's own repertoire rather than a refutation of anything specific.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6**, the **Amsterdam Attack** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)), is a real named tabiya but sits four plies past this card's own depth budget — not built out here, mentioned only so the name is discoverable. Roughly balanced (+0.1) at the point it's reached.
+>
+> `rnbqkbnr/pppp1ppp/8/4p3/8/4P3/PPPP1PPP/RNBQKBNR` → `... e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6` → `r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR`
+>
+> [*Back to TOP*](#_TOP_)

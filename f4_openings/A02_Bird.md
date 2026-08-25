@@ -42,6 +42,8 @@ rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq f3 0 1
 * **1... g6** (-0.1, 9.8% masters): fianchettoes without committing a central pawn first.
 * [**1... e5**](#_e5_) (+0.4): the ***From's Gambit*** — see the TIP below.
 * **1... d6** (0.0, 1.6% masters): a minor, flexible try.
+* [**1... f5**](#_f5_) (+0.2): a rare symmetrical try, the starting point of the *Swiss Gambit* — see below.
+* [**1... g5**](#_g5_) (+0.8): the ***Hobbs Gambit*** — see the TIP below.
 
 [*Back to TOP*](#_TOP_)
 
@@ -66,6 +68,58 @@ rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq f3 0 1
 > | --- | --- |
 >
 > **2. fxe5** is masters' clear main try (80.3%) — declining with 2. e4 or 2. d3 is playable but concedes the whole point of 1. f4. After **2... d6** (91.7% masters, ripping the long diagonal back open) **3. exd6 Bxd6**, Black has real piece activity and attacking chances for the pawn, but Stockfish still rates the position a little better for White (+0.4) if the extra material is defended accurately — a genuine practical try rather than a sound equalizer.
+>
+> Two named tries branch from **4. Nf3** here, both mention-only (deeper than this card's own build-out): the ***Lasker Variation*** (4... g5, +0.5) grabs more kingside space to support the bishop's diagonal before White can castle; the ***Lipke Variation*** (4... Nh6 5. d4, +0.5) develops more calmly and prepares ... Ng4 or ... Nf5 instead. Both keep Stockfish's evaluation essentially where it already was after 3... Bxd6 — the gambit's practical compensation, not a further swing either way.
+>
+> [*Back to 1. f4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... f5** meets the flank pawn symmetrically. Its main point of interest is the ***Swiss Gambit***: 2. e4!? fxe4 3. Nc3 Nf6 4. g4!?, throwing a second flank pawn forward to rip open lines against Black's king before development is complete.
+>
+> <a name="_f5_"></a>
+>
+> ### 1... f5
+>
+> [![1... f5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppppp1pp/8/5p2/5P2/8/PPPPP1PP/RNBQKBNR&lastMove=f7f5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/5P2/8/PPPPP1PP/RNBQKBNR_w_KQkq_f6_0_2)
+>
+> *... 1... f5*
+>
+> ```
+> rnbqkbnr/ppppp1pp/8/5p2/5P2/8/PPPPP1PP/RNBQKBNR w KQkq f6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> After the Swiss Gambit's **4. g4**, Stockfish actually prefers Black (−0.7 with best play, e.g. 4... h6 first) — a real practical try for White that isn't objectively sound, mention-only here (backlog for a full build-out).
+>
+> [*Back to 1. f4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!TIP]
+> **1... g5!?**, the *Hobbs Gambit*, offers the g-pawn immediately to lure White's f-pawn or knight forward and rip open the h-file/long dark diagonal — a real oddity, not a sound equalizer (Stockfish already prefers White, +0.8, before White has even taken anything).
+>
+> <a name="_g5_"></a>
+>
+> ### 1... g5 — Hobbs Gambit
+>
+> [![1... g5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR&lastMove=g7g5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR_w_KQkq_g6_0_2)
+>
+> *... 1... g5 — Hobbs Gambit*
+>
+> ```
+> rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR w KQkq g6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.8 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
 >
 > [*Back to 1. f4*](#_initial_move_)
 > [*Back to TOP*](#_TOP_)

@@ -44,3 +44,14 @@ rnbqkbnr/ppp1pppp/8/3p4/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 0 2
 Not built out further here (backlog) — each of the remaining real A07-coded siblings above is its own body of theory.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Three named A07 sub-lines sit deeper than this card's own build-out — mention-only, no diagram, each independently verified:
+>
+> - **Yugoslav Variation** (2... Nf6 3. Bg2 c6 4. O-O Bg4, +0.2): develops actively, pinning the knight once White has castled.
+> - **Keres Variation** (2... Bg4 3. Bg2 Nd7, +0.3): pins the knight immediately, before White's own kingside fianchetto is even finished.
+> - **Pachman System** (2... g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7, +0.2): a King's Indian-style reversed setup, developing the knight to e7 rather than f6.
+>
+> [*Back to TOP*](#_TOP_)

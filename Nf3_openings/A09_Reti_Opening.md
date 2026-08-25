@@ -35,9 +35,16 @@ A genuine near-even fork with no dominant try — masters split almost evenly be
 
 * **2... c6** (0.0, 36.3% masters): a Slav-flavoured structure, keeping the light-squared bishop free.
 * **2... e6** (0.0, 33.7% masters): a Queen's-Gambit-Declined-flavoured structure instead.
-* **2... d4** (0.0, 23.4% masters): grabs space immediately rather than supporting the pawn, a real independent try.
-* **2... dxc4** (0.0, 6.1% masters): accepts the offer; White regains the pawn with a favourable tempo in almost every line, the same story as the actual Queen's Gambit Accepted.
+* **2... d4** (0.0, 23.4% masters): the *Advance Variation* — grabs space immediately rather than supporting the pawn, a real independent try.
+* **2... dxc4** (0.0, 6.1% masters): the *Accepted* line — White regains the pawn with a favourable tempo in almost every line, the same story as the actual Queen's Gambit Accepted.
 
 Not built out further here (backlog) — each branch is its own extensive body of theory.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... dxc4 3. e3 Be6**, the *Keres Variation* (+0.2, mention-only) — Black defends the extra pawn actively with the bishop rather than the more common ... b5, before White's typical e3/Bxc4 regains it anyway.
+>
+> [*Back to TOP*](#_TOP_)

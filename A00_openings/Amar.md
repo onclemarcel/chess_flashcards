@@ -34,3 +34,12 @@ rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1
 * **1... d5 / 1... e5**: Black just takes the full centre — with the knight already committed to a passive square, White has no good way to contest it.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4**, the **Amar Gambit** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)) — White's own "Paris Gambit" idea, offering the knight back for a pawn and the bishop pair. Sits well past this card's own depth budget, mentioned only so the name is discoverable. Roughly -0.6 at the point it's reached — real compensation, not full equality.
+>
+> `rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R` → `... d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4` → `rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQK2R`
+>
+> [*Back to TOP*](#_TOP_)

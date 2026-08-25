@@ -36,3 +36,41 @@ rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1
 * **1... e5 / 1... g6 / 1... c5**: all real minor tries, none close to d5's popularity.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Two named sub-lines, live-confirmed via [chessopenings.com](https://chessopenings.com/eco/A00): **1... e5 2. Nd2**, the **Valencia Opening**, develops the queen's knight toward e4/f3 rather than the more natural Nf3/g3 setup. **1... c5 2. Nc3 Nc6 3. g3**, the **Venezolana Opening**, adds a King's Indian Attack-style fianchetto against a Sicilian-like Black setup.
+>
+> <a name="_Valencia_"></a>
+>
+> ### 1... e5 2. Nd2 — Valencia Opening
+>
+> [![1. d3 e5 2. Nd2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR&lastMove=b1d2&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR_b_KQkq_-_1_2)
+>
+> *... 1... e5 2. Nd2 — Valencia Opening*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.2 |
+> | --- | --- |
+>
+> <a name="_Venezolana_"></a>
+>
+> ### 1... c5 2. Nc3 Nc6 3. g3 — Venezolana Opening
+>
+> [![1. d3 c5 2. Nc3 Nc6 3. g3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR&lastMove=g2g3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR_b_KQkq_-_0_3)
+>
+> *... 1... c5 2. Nc3 Nc6 3. g3 — Venezolana Opening*
+>
+> ```
+> r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq - 0 3
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.3 |
+> | --- | --- |
+>
+> [*Back to 1. d3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

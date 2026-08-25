@@ -58,6 +58,8 @@ rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 > | --- | --- |
 >
+> **2... g6** (+0.2) is the natural King's Indian-flavoured reply here, most often meeting **3. b4!?**, the ***Reti-Smyslov Variation*** (−0.1, mention-only) — an early flank expansion instead of the calmer c4/Bg2 setup. **2... b5** (+0.2, mention-only), the ***Spassky's Variation***, grabs queenside space immediately instead.
+>
 > [*Back to 1... Nf6*](#_initial_move_)
 > [*Back to TOP*](#_TOP_)
 

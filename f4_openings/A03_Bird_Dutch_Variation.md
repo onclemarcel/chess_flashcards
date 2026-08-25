@@ -36,6 +36,8 @@ rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq d6 0 2
 ### Candidate moves
 
 * [**2. Nf3**](#_Nf3_) (-0.2, 87.7% masters): the line this card follows.
+* [**2. c4**](#_c4_) (-0.6): the *Mujannah Opening*.
+* [**2. e4**](#_e4_) (-1.5): the *Williams Gambit*.
 
 [*Back to TOP*](#_TOP_)
 
@@ -70,7 +72,7 @@ rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2
 <!-- lichess-stats:end -->
 
 * [**2... g6**](#_g6_) (-0.2): masters' narrow main try (46.3%), fianchettoing to match White's own eventual g3 — covered below.
-* **2... Nf6** (32.7% masters): a close second, keeping the bishop's diagonal open for now.
+* [**2... Nf6**](#_Lasker_Var_) (32.7% masters): a close second, keeping the bishop's diagonal open for now — see the *Lasker Variation* below.
 
 [*Back to 2. Nf3*](#_Nf3_)
 [*Back to TOP*](#_TOP_)
@@ -96,6 +98,81 @@ From here **3. g3** is masters' clear main try (59.2%), completing White's own f
 
 [*Back to 2. Nf3*](#_Nf3_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2. c4**, the *Mujannah Opening*, strikes at d5 from the flank instead of developing the knight first.
+>
+> <a name="_c4_"></a>
+>
+> ### 2. c4 — Mujannah Opening
+>
+> [![2. c4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR&lastMove=c2c4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR_b_KQkq_c3_0_2)
+>
+> *... 2. c4 — Mujannah Opening*
+>
+> ```
+> rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq c3 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.6 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. f4 d5*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2. e4!?**, the *Williams Gambit*, offers the e-pawn to rip open the centre before Black's own kingside is secured — a real practical try, but engine-dubious (Stockfish already prefers Black by more than a pawn after the simple capture).
+>
+> <a name="_e4_"></a>
+>
+> ### 2. e4 — Williams Gambit
+>
+> [![2. e4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR&lastMove=e2e4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_e3_0_2)
+>
+> *... 2. e4 — Williams Gambit*
+>
+> ```
+> rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR b KQkq e3 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -1.5 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. f4 d5*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... Nf6 3. e3 c5**, the *Lasker Variation*, develops calmly instead of committing to the ... g6 fianchetto — a real second try at masters level (32.7%), objectively about level with the g6 main line.
+>
+> <a name="_Lasker_Var_"></a>
+>
+> ### 2... Nf6 3. e3 c5 — Lasker Variation
+>
+> [![Lasker Variation](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R&lastMove=c7c5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R_w_KQkq_c6_0_4)
+>
+> *... 2... Nf6 3. e3 c5 — Lasker Variation*
+>
+> ```
+> rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq c6 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.2 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 2. Nf3*](#_Nf3_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 

@@ -189,9 +189,34 @@ rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2
 > Masters actually prefer **2... c6** here (65.2%, a small 69-game sample) over grabbing the pawn with **2... Bxg4** (15.9%) — a real online/masters inversion (Bxg4 leads online at 38.3%). c6 stays outside this card's scope for now (no dedicated line built out), but it's worth knowing that declining the pawn *before* it's even offered is the more cautious, more-tested try at the top.
 
 * [**2... Bxg4**](#_Fritz_) (-1.0, 38.3% online): grabs the free pawn — sound, and the line this card follows into the Fritz Gambit below.
-* **2... c6**: masters' actual preference (65.2%), not built out further here (backlog).
+* [**2... c6**](#_Spike_) (-0.9, 65.2% masters): masters' actual preference — White's own follow-up 3. g5 (the **Spike Attack**) covered in a NOTE below.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... c6 3. g5**, the **Spike Attack** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)), pushes the g-pawn a second time rather than developing — real (10 masters games) but still objectively poor for White (-0.9).
+>
+> <a name="_Spike_"></a>
+>
+> ### 2... c6 3. g5 — Spike Attack
+>
+> [![1. g4 d5 2. Bg2 c6 3. g5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR&lastMove=g4g5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR_b_KQkq_-_0_3)
+>
+> *... 3. g5 — Spike Attack*
+>
+> ```
+> rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq - 0 3
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.9 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. g4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -232,8 +257,34 @@ Stockfish confirms this is a real gambit, not a swindle: down two pawns for real
 * [**3... e6**](#_Fritz_e6_) (-0.6, 21.0% online): declines, protecting d5 — see [IS-2]/[IS-3] below.
 * [**3... c6**](#_Fritz_c6_) (-1.0, 38.3% online): declines, also protecting d5 — see [IS-4]/[IS-5] below.
 * [**3... Be6**](#_Fritz_Be6_) (+0.4, 17.7% online): keeps the extra g4 pawn and retreats the bishop to defend d5 directly — see [IS-5] below.
+* [**3... d4**](#_Romford_) (-1.0, 1 masters game): pushes past instead of resolving the tension — the **Romford Counter-Gambit** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)).
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3... d4**, the **Romford Counter-Gambit**, was sitting in the stats table above with no candidate bullet — a genuine silent gap, same shape as several caught elsewhere in this repo (see `memory.md`). Objectively no better than the other declined tries (-1.0, matching c6/e6).
+>
+> <a name="_Romford_"></a>
+>
+> ### 3... d4 — Romford Counter-Gambit
+>
+> [![1. g4 d5 2. Bg2 Bxg4 3. c4 d4](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR&lastMove=d5d4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_4)
+>
+> *... 3... d4 — Romford Counter-Gambit*
+>
+> ```
+> rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -1.0 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 3. c4*](#_Fritz_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 

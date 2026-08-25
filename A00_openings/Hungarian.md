@@ -38,3 +38,41 @@ rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1
 * **1... Nf6 / 1... g6 / 1... e5**: all real (17.6%, 15.7%, 15.3% masters), each steering toward a different transposition — a genuine four-way spread rather than one dominant try, reflecting how little 1. g3 itself commits White to.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Two named sub-lines, live-confirmed via [chessopenings.com](https://chessopenings.com/eco/A00): **1... h5**, the **Lasker Simul Special**, grabs kingside space before White's own fianchetto lands — an eccentric-looking try, not built out further here. **1... e5 2. Nf3**, the **Reversed Alekhine**, transposes into an Alekhine's Defense structure with colours reversed and a tempo up for White.
+>
+> <a name="_Lasker_Simul_"></a>
+>
+> ### 1... h5 — Lasker Simul Special
+>
+> [![1. g3 h5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR&lastMove=h7h5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR_w_KQkq_h6_0_2)
+>
+> *... 1... h5 — Hungarian Opening: Lasker Simul Special*
+>
+> ```
+> rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq h6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+> | --- | --- |
+>
+> <a name="_Reversed_Alekhine_"></a>
+>
+> ### 1... e5 2. Nf3 — Reversed Alekhine
+>
+> [![1. g3 e5 2. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R&lastMove=g1f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R_b_KQkq_-_1_2)
+>
+> *... 1... e5 2. Nf3 — Hungarian Opening: Reversed Alekhine*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.2 |
+> | --- | --- |
+>
+> [*Back to 1. g3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

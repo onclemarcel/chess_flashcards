@@ -35,6 +35,30 @@ rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1
 
 * **1... e5** (53.0% masters): by far the most natural reply — Black takes the centre while the b4 pawn hasn't actually attacked or defended anything there. Often continues **2. Bb2 Bxb4** as a well-known sub-line where Black simply grabs the offered pawn.
 * **1... d5** (17.6% masters): stakes the same central claim without touching b4 at all.
-* **1... Nf6 / 1... c6**: both solid, flexible tries that keep options open.
+* **1... Nf6**: a solid, flexible try that keeps options open.
+* **1... c6**: the **Outflank Variation** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)) — same flexible idea, preparing ... d5 without committing the centre yet.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... Nh6**, the **Tuebingen Variation**, develops the knight to the rim instead — an odd-looking try (0 masters games in this database) that nonetheless keeps ... e5/... d5 in reserve and sidesteps ... Bxb4 tricks entirely.
+>
+> <a name="_Tuebingen_"></a>
+>
+> ### 1... Nh6 — Tuebingen Variation
+>
+> [![1. b4 Nh6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR&lastMove=g8h6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR_w_KQkq_-_1_2)
+>
+> *... 1... Nh6 — Polish Opening: Tuebingen Variation*
+>
+> ```
+> rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+> | --- | --- |
+>
+> [*Back to 1. b4*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

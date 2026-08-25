@@ -30,6 +30,10 @@ flowchart LR
     click d5a "https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A06_Zukertort_d5.md" "A06 · Zukertort Opening"
     Nf3 --> Nf6["1... Nf6<br/>+0.2"]
     click Nf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A05_Zukertort_Nf6.md" "A05 · Zukertort Opening"
+    Nf3 --> d6a["1... d6<br/>+0.5"]
+    click d6a "#_d6_" "A04 · Zukertort Opening"
+    Nf3 --> g5a(["1... g5<br/>+1.2"])
+    click g5a "#_g5_" "A04 · Herrstroem Gambit"
 ```
 <!-- content-diagram:end -->
 
@@ -70,6 +74,8 @@ rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
 * [**1... d5**](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A06_Zukertort_d5.md) (+0.2, 30.2% masters): the classical, most thematic reply to the Réti idea — this is **A06**, not A04, covered on its own card.
 * [**1... e6**](#_e6_) (+0.1): flexible, keeps French/QGD/Nimzo-style setups available — played far more online (8.9%) than in masters (1.5%)
 * [**1... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A05_Zukertort_Nf6.md) (+0.2, 46.4% masters): masters' top choice — this is **A05**, not A04, covered on its own card.
+* [**1... d6**](#_d6_) (+0.5): a flexible try (6.0% online, 2.3% masters), keeping the door open for a Pirc/Wade-style setup — see below.
+* [**1... g5**](#_g5_) (+1.2): the ***Herrstroem Gambit*** — see the TIP below.
 
 [*Back to TOP*](#_TOP_)
 
@@ -177,6 +183,8 @@ rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
 > *Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_f6_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
 >
+> Two named tries strike at f5 immediately with **e4**, both mention-only (deeper than this card's own build-out): the ***Pirc-Lisitsin Gambit*** (2. e4!?, −0.2) offers the e-pawn at once for quick central control, objectively about equal after 2... fxe4; the ***Lisitsin Gambit, Deferred*** (2. d3 Nf6 3. e4, +0.3) reaches a similar idea a move later, after Black has already committed the knight to f6.
+>
 > [*Back to 1. Nf3*](#_Nf3_)
 > [*Back to TOP*](#_TOP_)
 
@@ -212,6 +220,56 @@ rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1
 > 
 > *Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 4.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 > <!-- lichess-stats:end -->
+>
+> [*Back to 1. Nf3*](#_Nf3_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... d6** keeps the door open for a Pirc/King's Indian-style setup without committing a kingside pawn yet. Its main point of named theory is the ***Wade Defence*** (2. e4 Bg4, mention-only below), pinning the knight before White gets to castle.
+>
+> <a name="_d6_"></a>
+>
+> ### 1... d6
+>
+> [![1. Nf3 d6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R&lastMove=d7d6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_-_0_2)
+>
+> *... 1. Nf3 d6*
+>
+> ```
+> rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+> | --- | --- |
+>
+> After **2. e4 Bg4** (Wade Defence), Stockfish still likes White (+0.9) — a real, playable try for Black, just not a full equalizer. Not built out further here (backlog).
+>
+> [*Back to 1. Nf3*](#_Nf3_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!TIP]
+> **1... g5!?**, the *Herrstroem Gambit*, offers the g-pawn to knock White's knight around and grab kingside space — a real oddity, and objectively bad (Stockfish already prefers White by more than a pawn).
+>
+> <a name="_g5_"></a>
+>
+> ### 1... g5 — Herrstroem Gambit
+>
+> [![1. Nf3 g5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R&lastMove=g7g5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_g6_0_2)
+>
+> *... 1. Nf3 g5 — Herrstroem Gambit*
+>
+> ```
+> rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R w KQkq g6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.2 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
 >
 > [*Back to 1. Nf3*](#_Nf3_)
 > [*Back to TOP*](#_TOP_)

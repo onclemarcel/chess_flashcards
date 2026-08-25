@@ -36,3 +36,41 @@ rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1
 * **1... c5** (29.3% masters): a real second choice, often transposing toward Sicilian-like structures a tempo up for White (2. e4 reaching a normal Sicilian, or 2. d4 heading elsewhere).
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Two named sub-lines, live-confirmed via [chessopenings.com](https://chessopenings.com/eco/A00): **1... e5 2. a3**, the **Battambang Opening**, adds a flank tempo before committing further. **1... c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4**, the **Novosibirsk Opening**, brings the queen out early (twice) — objectively shaky (−0.5) but a real trap-flavoured try, only 25 masters games.
+>
+> <a name="_Battambang_"></a>
+>
+> ### 1... e5 2. a3 — Battambang Opening
+>
+> [![1. Nc3 e5 2. a3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR&lastMove=a2a3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR_b_KQkq_-_0_2)
+>
+> *... 1... e5 2. a3 — Battambang Opening*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR b KQkq - 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.3 |
+> | --- | --- |
+>
+> <a name="_Novosibirsk_"></a>
+>
+> ### 1... c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4 — Novosibirsk Opening
+>
+> [![1. Nc3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR&lastMove=d4h4&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR_b_KQkq_-_2_4)
+>
+> *... 4. Qh4 — Novosibirsk Opening*
+>
+> ```
+> r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.5 |
+> | --- | --- |
+>
+> [*Back to 1. Nc3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

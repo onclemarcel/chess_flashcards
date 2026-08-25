@@ -56,3 +56,26 @@ rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1
 >
 > [*Back to 1. f3*](#_initial_move_)
 > [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... e5 2. Kf2**, the **Hammerschlag** (named live per [chessopenings.com](https://chessopenings.com/eco/A00)), voluntarily walks the king out rather than developing — a genuinely bad follow-up (−1.4) even by this card's already-weak standards, and a tiny sample (2 masters games) confirms how rarely anyone repeats it.
+>
+> <a name="_Hammerschlag_"></a>
+>
+> ### 1... e5 2. Kf2 — Hammerschlag
+>
+> [![1. f3 e5 2. Kf2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR&lastMove=e1f2&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR_b_kq_-_1_2)
+>
+> *... 1... e5 2. Kf2 — Hammerschlag*
+>
+> ```
+> rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -1.4 |
+> | --- | --- |
+>
+> [*Back to 1. f3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

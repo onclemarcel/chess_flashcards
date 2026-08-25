@@ -208,6 +208,106 @@ From here **3. e3** is masters' clear main try (74.8%), preparing a timely Bb5 p
 
 ---
 
+> [!NOTE]
+> **1... c5** — the *English Variation*, meeting the flank fianchetto with a flank pawn of its own.
+>
+> <a name="_c5_"></a>
+>
+> ### 1... c5
+>
+> [![1... c5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR&lastMove=c7c5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_c6_0_2)
+>
+> *... 1... c5 — English Variation*
+>
+> ```
+> rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq c6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. b3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... f5** — the *Dutch Variation*, staking out kingside space before White's own bishop gets to bear on the long diagonal.
+>
+> <a name="_f5_"></a>
+>
+> ### 1... f5
+>
+> [![1... f5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR&lastMove=f7f5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_f6_0_2)
+>
+> *... 1... f5 — Dutch Variation*
+>
+> ```
+> rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq f6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. b3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... b5** — the *Polish Variation*, grabbing queenside space and eyeing an eventual ... Bb7 fight for the long diagonal.
+>
+> <a name="_b5_"></a>
+>
+> ### 1... b5
+>
+> [![1... b5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR&lastMove=b7b5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_b6_0_2)
+>
+> *... 1... b5 — Polish Variation*
+>
+> ```
+> rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR w KQkq b6 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. b3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **1... b6** — the *Symmetrical Variation*, mirroring White's own fianchetto plan.
+>
+> <a name="_b6_"></a>
+>
+> ### 1... b6
+>
+> [![1... b6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR&lastMove=b7b6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR_w_KQkq_-_0_2)
+>
+> *... 1... b6 — Symmetrical Variation*
+>
+> ```
+> rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
+>
+> [*Back to 1. b3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
 <a name="_real_game_"></a>
 
 ## A real example: Nakamura vs Carlsen, 2024

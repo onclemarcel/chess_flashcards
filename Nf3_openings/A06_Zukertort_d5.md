@@ -37,6 +37,9 @@ A genuinely scattered choice for White — no single try clears 40% of masters g
 * **2. d4** (+0.2, 29.7% masters): transposes directly into [`D02_Zukertort_Variation.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md)'s own root — the two cards meet here, not duplicated.
 * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/Nf3_openings/A09_Reti_Opening.md) (0.0, 19.8% masters): the *Réti Opening* proper — this is **A09**, covered on its own card.
 * **2. e3** (0.0, 6.0% masters): a quiet, Colle/London-flavoured try, not built out further here (backlog).
-* **2. b3** (0.0, 4.2% masters): fianchettoes the queen's bishop immediately, not built out further here (backlog).
+* **2. b3** (0.0, 4.2% masters): the *Nimzovich-Larsen Attack* transposition (see [`A01_Nimzo_Larsen.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/b3_openings/A01_Nimzo_Larsen.md)) — fianchettoes the queen's bishop immediately, not built out further here (backlog).
+* **2. d3** (0.0, 0.3% masters): the *Old Indian Attack* — a rare, quiet transposition, not built out further here (backlog).
+* **2. b4** (−0.2, 0.2% masters): *Santasiere's Folly* — an early flank gambit-flavoured expansion, not built out further here (backlog).
+* [**2. e4**](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Tennison/Tennison.md) (−0.8, 0.0% masters): the *Tennison Gambit* — covered on its own card.
 
 [*Back to TOP*](#_TOP_)
