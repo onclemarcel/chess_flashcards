@@ -26,6 +26,13 @@ flowchart LR
 
     Bb3 --> d5["7... d5 !<br/>+0.2"]:::main
     click d5 "#_d5_" "C80 · Ruy Lopez: Open"
+
+    d5 --> dxe5o["8. dxe5 !<br/>+0.2"]:::main
+    click dxe5o "#_dxe5o_" "C80 · Ruy Lopez: Open, Main Line"
+    dxe5o --> Nbd2o["9. Nbd2 !<br/>+0.2"]:::main
+    click Nbd2o "#_Nbd2o_" "C80 · Ruy Lopez: Open, Bernstein Variation"
+    Nbd2o --> Nc5o["9... Nc5 !<br/>+0.2"]:::main
+    click Nc5o "#_Nbd2o_" "C80 · Ruy Lopez: Open, Bernstein Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -185,7 +192,116 @@ r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1 w kq d6 0 8
 *Online: bullet/blitz, 1800+ — 178 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_d6_0_8#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
-From here the game is essentially forced for several more moves: **8. dxe5** (98.2% masters) **Be6** (99.9%) reaches a real tabiya, and White's 9th move is a genuine four-way choice — **9. Nbd2** (46.7% masters, the top try — the knight heads for e4/c4 next), **9. c3** (27.7%, supporting a later d4 or Bc2-Nbd2 regrouping), **9. Be3** (14.9%) and **9. Qe2** (9.6%) are all played. After **9. Nbd2 Nc5** (75.0% masters), the position is named the ***Bernstein Variation*** (verified live via the explorer's own `opening` field) — Stockfish still calls it dead level (+0.1), a good summary of the whole Open Variation: Black's activity and structure genuinely compensate for White's extra central space and bishop pair, all the way through forced-looking main theory. Deeper Bernstein/9. c3 theory is its own body of work, not covered further here.
+From here the game is essentially forced for several more moves.
+
+* [**8. dxe5**](#_dxe5o_) (+0.2): near-unanimous (98.2% masters) — see below.
 
 [*Back to 7. Bb3*](#_Bb3_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_dxe5o_"></a>
+
+## 8. dxe5
+
+[![8. dxe5](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2p2ppp/p1n5/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1&lastMove=d4e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_b_kq_-_0_8)
+
+*... 8. dxe5*
+
+```
+r1bqkb1r/2p2ppp/p1n5/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 b kq - 0 8
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+**8... Be6** is essentially forced (99.9% of masters games) — developing the last minor piece and eyeing d5/c4 before White can pressure the knight.
+
+[![8... Be6](https://backscattering.de/web-boardimage/board.svg?fen=r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1&lastMove=c8e6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9)
+
+*... 8... Be6 — reaching the main Open Variation tabiya*
+
+```
+r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 w kq - 1 9
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 w kq - 1 9" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| c3 | 64 k (43.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 1.9 k (27.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/55/18 |  |
+| Nbd2 | 39 k (26.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 3.3 k (46.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 27/60/13 |  |
+| Qe2 | 13 k (9.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/8/41 | 667 (9.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/52/15 |  |
+| Re1 | 9.6 k (6.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 0 | — | ⚠ |
+| Be3 | 0 | — | 1.0 k (14.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/50/18 |  |
+
+*Online: bullet/blitz, 1800+ — 147 k games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+White's 9th move is a genuine four-way choice: **9. Nbd2** (46.7% masters, the top try — the knight heads for e4/c4 next), **9. c3** (27.7%, supporting a later d4 or Bc2-Nbd2 regrouping), **9. Be3** (14.9%) and **9. Qe2** (9.6%) are all played.
+
+* [**9. Nbd2**](#_Nbd2o_) (+0.2): masters' top try (46.7%) — the Bernstein Variation, see below.
+* **9. c3 / 9. Be3 / 9. Qe2**: all real (27.7%/14.9%/9.6% masters) — not covered further here.
+
+[*Back to 8. dxe5*](#_dxe5o_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nbd2o_"></a>
+
+## 9. Nbd2 — Bernstein Variation
+
+[![9. Nbd2](https://backscattering.de/web-boardimage/board.svg?fen=r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1&lastMove=b1d2&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1_b_kq_-_2_9)
+
+*... 9. Nbd2 — Bernstein Variation*
+
+```
+r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1 b kq - 2 9
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1 b kq - 2 9" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nc5 | 23 k (59.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 2.4 k (75.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 26/62/12 |  |
+| Bc5 | 8.5 k (21.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 242 (7.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/51/15 |  |
+| Be7 | 5.1 k (13.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/10/45 | 554 (17.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 30/57/14 |  |
+
+*Online: bullet/blitz, 1800+ — 39 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1_b_kq_-_2_9#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**9... Nc5** is masters' clear main try (75.0%) — this exact position is named the ***Bernstein Variation*** (verified live via the explorer's own `opening` field), retreating the knight to a safer, still-active square rather than waiting for it to be kicked with f3/Nb3.
+
+[![9... Nc5](https://backscattering.de/web-boardimage/board.svg?fen=r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1&lastMove=e4c5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1_w_kq_-_3_10)
+
+*... 9... Nc5 — the Bernstein Variation tabiya*
+
+```
+r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1 w kq - 3 10
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1 w kq - 3 10" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| c3 | 19 k (81.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/9/43 | 2.4 k (99.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 26/62/12 |  |
+| Re1 | 2.8 k (12.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 1 (0.0%) | — | ⚠ |
+| Qe2 | 622 (2.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 8 (0.3%) | — |  |
+| a4 | 575 (2.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/9/45 | 0 | — | ⚠ |
+| h3 | 0 | — | 4 (0.2%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 23 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1_w_kq_-_3_10#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**10. c3** is close to automatic (99.5% of masters games) — securing the b3 bishop's retreat square on c2 and preparing Bc2 or Nb3 to challenge the c5 knight, while Stockfish still calls the position dead level (+0.2). A good summary of the whole Open Variation: Black's activity and structure genuinely compensate for White's extra central space and bishop pair, all the way through forced-looking main theory. Deeper Bernstein theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 8... Be6*](#_dxe5o_)
 [*Back to TOP*](#_TOP_)

@@ -20,6 +20,8 @@ flowchart LR
     click d4 "#_d4_" "C95 · Ruy Lopez: Closed, Breyer"
     d4 --> Nbd7[["10... Nbd7 !<br/>+0.4"]]:::main
     click Nbd7 "#_Nbd7_" "C95 · Ruy Lopez: Closed, Breyer"
+    Nbd7 --> Nbd2b[["11. Nbd2 !<br/>+0.3"]]:::main
+    click Nbd2b "#_Nbd2b_" "C95 · Ruy Lopez: Closed, Breyer"
 ```
 <!-- content-diagram:end -->
 
@@ -104,7 +106,41 @@ r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-From here White typically continues **11. Nbd2**, re-routing the other knight toward f1-g3/e3 while Black finishes with ... Bb7, ... Re8 and ... Bf8 — a famously slow, manoeuvring middlegame prized for its resilience rather than sharp tactics. Deeper Breyer theory past this point is its own extensive body of work, not covered further here.
+From here White typically continues **11. Nbd2**, re-routing the other knight toward f1-g3/e3 while Black finishes with ... Bb7, ... Re8 and ... Bf8 — a famously slow, manoeuvring middlegame prized for its resilience rather than sharp tactics.
+
+* [**11. Nbd2**](#_Nbd2b_) (+0.4): see below.
 
 [*Back to 10. d4*](#_d4_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nbd2b_"></a>
+
+## 11. Nbd2
+
+[![11. Nbd2](https://backscattering.de/web-boardimage/board.svg?fen=r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1&lastMove=b1d2&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1_b_-_-_2_11)
+
+*... 11. Nbd2*
+
+```
+r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 b - - 2 11
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 b - - 2 11" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bb7 | 74 k (84.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/7/47 | 6.2 k (94.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/55/17 |  |
+| c5 | 9.3 k (10.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 322 (4.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/48/24 |  |
+| Re8 | 2.4 k (2.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/38 | 10 (0.2%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 87 k games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2pnbppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1_b_-_-_2_11#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**11... Bb7** is masters' overwhelming choice (94.8%) — completing development on the long diagonal before deciding on ... Re8/... Bf8 and the classic knight reroute. Deeper Breyer theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 10... Nbd7*](#_Nbd7_)
 [*Back to TOP*](#_TOP_)

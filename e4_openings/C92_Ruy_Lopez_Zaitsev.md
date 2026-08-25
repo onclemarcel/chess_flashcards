@@ -22,6 +22,8 @@ flowchart LR
     click Re8 "#_Re8_" "C92 · Ruy Lopez: Closed, Zaitsev Variation"
     Re8 --> Nbd2[["11. Nbd2 !<br/>+0.4"]]:::main
     click Nbd2 "#_Nbd2_" "C92 · Ruy Lopez: Closed, Zaitsev Variation"
+    Nbd2 --> Bf8[["11... Bf8 !<br/>+0.3"]]:::main
+    click Bf8 "#_Bf8_" "C92 · Ruy Lopez: Closed, Zaitsev Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -129,11 +131,11 @@ r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11
 
 <a name="_Nbd2_"></a>
 
-## 11. Nbd2 — the Zaitsev tabiya
+## 11. Nbd2
 
 [![11. Nbd2](https://backscattering.de/web-boardimage/board.svg?fen=r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1&lastMove=b1d2&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1_b_-_-_2_11)
 
-*... 11. Nbd2 — reaching the main Zaitsev tabiya*
+*... 11. Nbd2*
 
 ```
 r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 b - - 2 11
@@ -142,7 +144,43 @@ r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 b - - 2 11
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-From here Black typically continues **... Bf8**, keeping every piece flexible while White manoeuvres the knight toward f1-g3 or e3 and prepares d4-d5 or the classic kingside expansion with Nf1-g3, Bg5/Be3 and a4 — the dense, still-fashionable Zaitsev middlegame, its own extensive body of theory not covered further here.
+From here Black typically continues **... Bf8**, keeping every piece flexible while White manoeuvres the knight toward f1-g3 or e3 and prepares d4-d5 or the classic kingside expansion with Nf1-g3, Bg5/Be3 and a4.
+
+* [**11... Bf8**](#_Bf8_) (+0.3): see below.
 
 [*Back to 10... Re8*](#_Re8_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Bf8_"></a>
+
+## 11... Bf8 — the Zaitsev tabiya
+
+[![11... Bf8](https://backscattering.de/web-boardimage/board.svg?fen=r2qrbk1/1bp2ppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1&lastMove=e7f8&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qrbk1/1bp2ppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1_w_-_-_3_12)
+
+*... 11... Bf8 — reaching the main Zaitsev tabiya*
+
+```
+r2qrbk1/1bp2ppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 w - - 3 12
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r2qrbk1/1bp2ppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1 w - - 3 12" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bc2 | 10 k (36.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 789 (13.3%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/56/19 |  |
+| a4 | 4.8 k (17.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 2.1 k (35.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 25/65/10 |  |
+| Nf1 | 4.8 k (17.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/52 | 0 | — | ⚠ |
+| d5 | 3.4 k (12.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 46/8/46 | 1.1 k (18.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 29/60/11 |  |
+| a3 | 0 | — | 1.9 k (31.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 25/65/10 |  |
+
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 6.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qrbk1/1bp2ppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP1N1PP1/R1BQR1K1_w_-_-_3_12#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+White's 12th move here is a genuine multi-way split — no single try dominates: **12. a4** (35.8% masters) probes the queenside immediately, **12. a3** (31.1%) prepares Bc2/b4 more slowly, **12. d5** (18.6%) closes the centre, and **12. Bc2** (13.3%) simply repositions the bishop off the b3-g8 diagonal before Black's ... Nc4/... Na5 ideas. Each branch is its own extensive body of theory, not covered further here.
+
+[*Back to 11. Nbd2*](#_Nbd2_)
 [*Back to TOP*](#_TOP_)

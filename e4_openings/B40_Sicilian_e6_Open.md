@@ -18,6 +18,11 @@ flowchart LR
 
     e6 --> d4[["3. d4 !<br/>+0.3"]]:::main
     click d4 "#_d4_" "B40 · Sicilian Defense, 2... e6: Open"
+
+    d4 --> a6k[["4... a6 !<br/>+0.4"]]:::main
+    click a6k "#_a6_" "B41 · Sicilian Defense: Kan Variation"
+    d4 --> Nc6t[["4... Nc6<br/>+0.3"]]
+    click Nc6t "#_Nc6_" "B44 · Sicilian Defense: Taimanov Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -119,8 +124,16 @@ rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqkbnr/1p1p1ppp/a3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-...generated table...
+<!-- lichess-stats:start fen="rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nc3 | 4.0 M (53.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 11 k (33.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/33/34 |  |
+| c4 | 1.4 M (18.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 4.2 k (12.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/35/29 |  |
+| Bd3 | 903 k (12.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 16 k (48.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
+| Be3 | 229 k (3.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
+| Be2 | 0 | — | 975 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/33/30 |  |
+
+*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -149,7 +162,14 @@ r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | --- | --- |
 
 <!-- lichess-stats:start fen="r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
-...generated table...
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nc3 | 4.4 M (52.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 30 k (85.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/26 |  |
+| Nxc6 | 1.6 M (18.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 584 (1.7%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/35/43 |  |
+| c4 | 634 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 0 | — | ⚠ |
+| Nb5 | 0 | — | 3.4 k (9.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
+
+*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **5. Nc3** is masters' overwhelming choice (85.5%) — developing naturally before deciding on a plan, with **5. Nb5** (9.7%) a real second choice, immediately probing the d6 square the way it does against the Sveshnikov and Najdorf. Deeper Taimanov theory (Black's typical ... Qc7/... a6/... Nf6 set-up) is its own extensive body of work, not covered further here.

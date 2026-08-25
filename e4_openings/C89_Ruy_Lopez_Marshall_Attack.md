@@ -22,6 +22,11 @@ flowchart LR
     click Nxd5 "#_Nxd5_" "C89 · Ruy Lopez: Marshall Attack"
     Nxd5 --> Nxe5[["10. Nxe5 !<br/>+0.1"]]:::main
     click Nxe5 "#_Nxe5_" "C89 · Ruy Lopez: Marshall Attack"
+
+    Nxe5 --> Nxe5b[["10... Nxe5 !<br/>+0.3"]]:::main
+    click Nxe5b "#_Nxe5b_" "C89 · Ruy Lopez: Marshall Attack"
+    Nxe5b --> c6m[["11... c6 !<br/>+0.1"]]:::main
+    click c6m "#_Nxe5b_" "C89 · Ruy Lopez: Marshall Attack, Modern Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -140,7 +145,80 @@ r1bq1rk1/2p1bppp/p1n5/1p1nN3/8/1BP5/PP1P1PPP/RNBQR1K1 b - - 0 10
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 | --- | --- |
 
-From here the thematic continuation is **10... Nxe5 11. Rxe5 c6**, giving up the pawn for good in exchange for the bishop pair and lasting piece activity (**12. d4 Bd6 13. Re1 Qh4** heading for a kingside attack is the classical plan) — this is tagged live by the explorer as the ***Marshall Attack, Modern Variation***, and Stockfish still calls the resulting positions close to level (+0.1 after 11... c6) despite Black's permanent pawn deficit. That balance between "objectively fine for White" and "extremely dangerous to face without preparation" is exactly why many White players choose an Anti-Marshall try (8. a4 / 8. h3, see [C88](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C88_Ruy_Lopez_Closed_Bb3.md#_OO_)) rather than allow this position at all. Deeper Marshall theory past this point (11... c6 and beyond) is its own extensive body of work, not covered further here.
+From here the thematic continuation gives up the pawn for good in exchange for the bishop pair and lasting piece activity — that balance between "objectively fine for White" and "extremely dangerous to face without preparation" is exactly why many White players choose an Anti-Marshall try (8. a4 / 8. h3, see [C88](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C88_Ruy_Lopez_Closed_Bb3.md#_OO_)) rather than allow this position at all.
+
+* [**10... Nxe5**](#_Nxe5b_) (+0.3): essentially forced — see below.
 
 [*Back to 9... Nxd5*](#_Nxd5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nxe5b_"></a>
+
+## 10... Nxe5
+
+[![10... Nxe5](https://backscattering.de/web-boardimage/board.svg?fen=r1bq1rk1/2p1bppp/p7/1p1nn3/8/1BP5/PP1P1PPP/RNBQR1K1&lastMove=c6e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p7/1p1nn3/8/1BP5/PP1P1PPP/RNBQR1K1_w_-_-_0_11)
+
+*... 10... Nxe5*
+
+```
+r1bq1rk1/2p1bppp/p7/1p1nn3/8/1BP5/PP1P1PPP/RNBQR1K1 w - - 0 11
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+**11. Rxe5** recaptures the pawn (100% of masters games) — the rook lands actively on the e-file, already eyeing e7/e8 down the line.
+
+[![11. Rxe5](https://backscattering.de/web-boardimage/board.svg?fen=r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1&lastMove=e1e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_b_-_-_0_11)
+
+*... 11. Rxe5*
+
+```
+r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 b - - 0 11
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 b - - 0 11" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| c6 | 286 k (76.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 4.9 k (96.0%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 12/78/10 |  |
+| Nf6 | 77 k (20.6%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 34/3/63 | 41 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/27/29 |  |
+| Bb7 | 8.5 k (2.3%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/5/55 | 154 (3.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 21/64/14 |  |
+| Bd6 | 942 (0.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/4/34 | 0 | — | ⚠ |
+| Nb6 | 0 | — | 5 (0.1%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 374 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_b_-_-_0_11#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**11... c6** is masters' clear main try (96.0%) — securing the d5 knight once and for all before starting the kingside build-up (... Bd6, ... Qh4, ... Bg4/... Ng4 and more), the true tabiya of the whole gambit.
+
+[![11... c6](https://backscattering.de/web-boardimage/board.svg?fen=r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1&lastMove=c7c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_w_-_-_0_12)
+
+*... 11... c6 — the Marshall Attack tabiya*
+
+```
+r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 w - - 0 12
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 w - - 0 12" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| d4 | 197 k (68.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/54 | 2.6 k (53.6%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 13/76/11 |  |
+| d3 | 31 k (10.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 1.2 k (24.6%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 12/80/8 |  |
+| Bxd5 | 30 k (10.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/6/53 | 106 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/55/17 |  |
+| Re1 | 12 k (4.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/53 | 922 (18.9%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫🟫 9/86/5 |  |
+
+*Online: bullet/blitz, 1800+ — 286 k games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_w_-_-_0_12#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+This exact position is tagged live by the explorer as the ***Marshall Attack, Modern Variation***, and Stockfish still calls it close to level (+0.1) despite Black's permanent pawn deficit — a good summary of the whole gambit. White's 12th move is a real choice: **12. d4** (53.6% masters) is the main try, heading for the classical **12... Bd6 13. Re1 Qh4** kingside build-up, with **12. d3** (24.6%) and **12. Re1** (18.9%) both real alternatives. Deeper Marshall theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 10. Nxe5*](#_Nxe5_)
 [*Back to TOP*](#_TOP_)

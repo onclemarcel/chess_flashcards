@@ -20,6 +20,8 @@ flowchart LR
     click Bc2 "#_Bc2_" "C97 · Ruy Lopez: Closed, Chigorin Defense"
     Bc2 --> c5[["10... c5 !<br/>+0.4"]]:::main
     click c5 "#_c5_" "C96 · Ruy Lopez: Closed, Chigorin Defense"
+    c5 --> d4c["11. d4 !<br/>+0.4"]:::main
+    click d4c "#_d4c_" "C96 · Ruy Lopez: Closed, Chigorin Defense"
 ```
 <!-- content-diagram:end -->
 
@@ -105,7 +107,43 @@ r1bq1rk1/4bppp/p2p1n2/npp1p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1 w - c6 0 11
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-From here White typically continues **11. d4**, striking the centre while Black's queenside space and the a5 knight (soon rerouted via ... Nc6 or ... Bc6-e8-g6 style manoeuvres in deeper lines) provide lasting counterplay — the classical Chigorin middlegame, its own extensive body of theory not covered further here.
+From here White typically continues **11. d4**, striking the centre while Black's queenside space and the a5 knight (soon rerouted via ... Nc6 or ... Bc6-e8-g6 style manoeuvres in deeper lines) provide lasting counterplay.
+
+* [**11. d4**](#_d4c_) (+0.4): see below.
 
 [*Back to 10. Bc2*](#_Bc2_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d4c_"></a>
+
+## 11. d4
+
+[![11. d4](https://backscattering.de/web-boardimage/board.svg?fen=r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11)
+
+*... 11. d4*
+
+```
+r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1 b - d3 0 11
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1 b - d3 0 11" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Qc7 | 169 k (57.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 6.4 k (67.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 36/49/15 |  |
+| cxd4 | 58 k (19.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 473 (5.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 43/45/12 |  |
+| Nc6 | 25 k (8.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/41 | 0 | — | ⚠ |
+| Nd7 | 24 k (8.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 1.9 k (20.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
+| Bb7 | 0 | — | 249 (2.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
+
+*Online: bullet/blitz, 1800+ — 291 k games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**11... Qc7** is masters' clear main try (67.8%) — connecting the rooks and eyeing a later ... Rd8 or ... Bd7/... Rfe8 regrouping, while the tension on d4/e5 stays unresolved. Deeper Chigorin theory past this point (the resulting piece-vs-space middlegame) is its own extensive body of work, not covered further here.
+
+[*Back to 10... c5*](#_c5_)
 [*Back to TOP*](#_TOP_)
