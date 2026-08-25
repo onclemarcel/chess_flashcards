@@ -27,6 +27,9 @@ flowchart LR
 
     Nc3 --> d6[["3... d6 !<br/>+0.5"]]:::main
     click d6 "#_d6_" "B06 · Modern Defense: Standard Line"
+
+    d6 --> Be3m[["4. Be3 !<br/>+0.5"]]:::main
+    click Be3m "#_Be3_" "B06 · Modern Defense: Standard Line"
 ```
 <!-- content-diagram:end -->
 
@@ -52,7 +55,7 @@ rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | f4 | 2.5 M (4.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/49 | 0 | — | ⚠ |
 | h4 | 0 | — | 173 (0.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/24/43 |  |
 
-*Online: bullet/blitz, 1800+ — 54.3 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 54.3 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **2. d4** is masters' overwhelming choice (95.1%) — grabbing the centre while Black hasn't contested it at all yet.
@@ -84,7 +87,7 @@ rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | Nf6 | 534 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 242 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 44/24/32 |  |
 | c6 | 267 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 1.4 k (3.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 29.9 M games. Masters: 41 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 29.9 M games. Masters: 41 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **2... Bg7** is masters' near-unanimous choice (88.9%) — completing the fianchetto before deciding anything about the centre.
@@ -144,7 +147,7 @@ rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 | d5 | 0 | — | 497 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/38/22 |  |
 | Nc6 | 0 | — | 171 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/35/20 |  |
 
-*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **3... d6** is masters' clear main try (61.1%) — the *Standard Line*, finally contesting e5/c5 while keeping the king's knight's development flexible (Nf6 or Ne7/Nh6 depending on White's setup).
@@ -169,7 +172,47 @@ rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
 
-White's most common follow-up is **4. Be3** (40.5% masters), preparing Qd2 and long castling for a kingside pawn storm — a setup nearly identical in spirit to the [Pirc Defense's 150 Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md), since the resulting structures are so similar once Black eventually adds ... Nf6. Deeper Modern Defense theory past this point is its own extensive body of work, not covered further here.
+White's most common follow-up is **4. Be3** (40.5% masters), preparing Qd2 and long castling for a kingside pawn storm — a setup nearly identical in spirit to the [Pirc Defense's 150 Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Defense_Tabiya.md#_Be3_), since the resulting structures are so similar once Black eventually adds ... Nf6.
+
+* [**4. Be3**](#_Be3_) (+0.5): masters' clear preference (40.5%) — see below.
 
 [*Back to 3. Nc3*](#_Nc3_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Be3_"></a>
+
+## 4. Be3
+
+[![4. Be3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR&lastMove=c1e3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4)
+
+*... 4. Be3*
+
+```
+rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 1 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 1 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nf6 | 1.3 M (37.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 1.0 k (12.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/33/24 |  |
+| a6 | 555 k (16.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 4.7 k (56.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/31/32 |  |
+| Nc6 | 530 k (15.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 125 (1.5%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 53/20/27 |  |
+| Nd7 | 356 k (10.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/4/43 | 375 (4.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/27/30 |  |
+| c6 | 309 k (9.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 2.0 k (24.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/31/29 |  |
+| e6 | 100 k (3.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 18 (0.2%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 8.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+> [!NOTE]
+> Masters' most popular try, **4... a6** (56.6%), is another online/masters inversion: online play favours the more natural-looking **4... Nf6** instead (37.9% online, only 12.3% masters). The a6/b5-style queenside expansion (a "Modern Benoni-ish" or hypermodern approach, striking on the wing rather than developing normally) is a real repertoire idea worth knowing specifically because it's under-represented in online play relative to how often masters actually choose it.
+
+**4... a6** prepares ... b5 queenside expansion before committing the king's knight — masters' clear main try (56.6%). Deeper Modern Defense theory past this point is its own extensive body of work, not covered further here.
+
+[*Back to 3... d6*](#_d6_)
 [*Back to TOP*](#_TOP_)

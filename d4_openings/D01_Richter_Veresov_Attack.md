@@ -26,6 +26,11 @@ flowchart LR
 
     Bg5 --> Nbd7[["3... Nbd7 !<br/>-0.1"]]:::main
     click Nbd7 "#_Nbd7_" "D01 · Richter-Veresov Attack"
+
+    Nbd7 --> Nf3v["4. Nf3 !<br/>-0.2"]:::main
+    click Nf3v "#_Nf3v_" "D01 · Richter-Veresov Attack: Two Knights System"
+    Nbd7 --> f3v["4. f3<br/>-0.4"]
+    click f3v "#_f3v_" "D01 · Richter-Veresov Attack"
 ```
 <!-- content-diagram:end -->
 
@@ -53,7 +58,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2
 | c5 | 614 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 75 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
 | g6 | 0 | — | 42 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/29/19 |  |
 
-*Online: bullet/blitz, 1800+ — 11.9 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 11.9 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -88,7 +93,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
 | e4 | 1.3 M (15.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/45 | 145 (1.8%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 21/33/46 |  |
 | Nf3 | 849 k (9.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 89 (1.1%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 25/37/38 |  |
 
-*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 White's 3rd move here is a genuine near-even fork — **3. Bg5** (48.9% masters) and **3. Bf4** (47.4%) are essentially tied, unlike most of this repository's forks. Only 3. Bg5 carries the Veresov name.
@@ -127,7 +132,7 @@ rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3
 | c5 | 134 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 342 (8.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/29/44 |  |
 | g6 | 0 | — | 149 (3.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/42/33 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_3_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_3_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **3... Nbd7** is masters' clear main try (50.2%) — a flexible developing move that avoids committing the light-squared bishop or the c-pawn just yet, and sidesteps 3... Ne4 tactics against the loose Bg5.
@@ -152,7 +157,83 @@ r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 4 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.1 |
 | --- | --- |
 
-From here White typically continues **4. Nf3** or **4. f3**, preparing e4 with a broad centre while Black completes development with ... e6/... c6 and ... Be7 or ... h6-... Bf5 ideas against the Bg5 bishop — a compact, well-tested body of theory in its own right, not covered further here. Fully sound (Stockfish keeps it within 0.2 of equal at every step above), and rare enough at club level that most opponents will be reasoning it out at the board rather than from preparation.
+White's 4th move here is genuinely spread out: **4. Nf3** (42.3% masters) is the plurality choice, but **4. Qd3** (21.4%) is a real second option — a touch more common than **4. f3** (17.2%) — with **4. e3** (13.4%) also seen. Fully sound throughout (Stockfish keeps every line within half a pawn of equal), and rare enough at club level that most opponents will be reasoning it out at the board rather than from preparation.
+
+* [**4. Nf3**](#_Nf3v_) (-0.2): the plurality choice (42.3% masters) — see below.
+* [**4. f3**](#_f3v_) (-0.4): a real alternative (17.2% masters) — see below.
+* **4. Qd3 / 4. e3**: also genuinely played (21.4%/13.4% masters) — not covered further here.
 
 [*Back to 3. Bg5*](#_Bg5_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. Nf3**, tagged the *Two Knights System* by the explorer, develops naturally and prepares to castle before committing to e4.
+>
+> <a name="_Nf3v_"></a>
+>
+> ### 4. Nf3 — Two Knights System
+>
+> [![4. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R&lastMove=g1f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R_b_KQkq_-_5_4)
+>
+> *... 4. Nf3 — Two Knights System*
+>
+> ```
+> r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 5 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.2 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R b KQkq - 5 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | h6 | 27 k (28.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 261 (30.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/42/33 |  |
+> | e6 | 27 k (27.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 165 (19.2%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 21/45/33 |  |
+> | c6 | 22 k (22.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 140 (16.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/31 |  |
+> | g6 | 9.6 k (10.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 257 (29.9%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/42/34 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 859 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R_b_KQkq_-_5_4#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> Black's reply is a genuine near-even four-way split — **4... h6** (30.4% masters) and **4... g6** (29.9%) are essentially tied, with **4... e6** (19.2%) and **4... c6** (16.3%) both real too. Deeper Two Knights System theory is its own extensive body of work, not covered further here.
+>
+> [*Back to 3... Nbd7*](#_Nbd7_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. f3** supports an eventual e4 push with the f-pawn instead of the knight, keeping the option of a broader kingside pawn storm later.
+>
+> <a name="_f3v_"></a>
+>
+> ### 4. f3
+>
+> [![4. f3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR&lastMove=f2f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4)
+>
+> *... 4. f3*
+>
+> ```
+> r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq - 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.4 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq - 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | h6 | 33 k (34.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 97 (28.0%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 25/28/47 |  |
+> | c6 | 23 k (24.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/49 | 109 (31.4%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 26/26/49 |  |
+> | c5 | 21 k (21.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 119 (34.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/34/36 |  |
+> | e6 | 14 k (14.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 22 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/55/18 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 347 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> Another close three-way split — **4... c5** (34.3% masters), **4... c6** (31.4%) and **4... h6** (28.0%) are all within a few points of each other. Deeper theory past this point is its own extensive body of work, not covered further here.
+>
+> [*Back to 3... Nbd7*](#_Nbd7_)
+> [*Back to TOP*](#_TOP_)

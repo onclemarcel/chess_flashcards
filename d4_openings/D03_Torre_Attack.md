@@ -23,6 +23,11 @@ flowchart LR
 
     Ne4 --> Bf4[["4. Bf4 !<br/>-0.1"]]:::main
     click Bf4 "#_Bf4_" "D03 · Queen's Pawn Game: Torre Attack, Gossip Variation"
+
+    Bf4 --> c5t[["4... c5 !<br/>-0.1"]]:::main
+    click c5t "#_c5t_" "D03 · Queen's Pawn Game: Torre Attack, Gossip Variation"
+    Bf4 --> Bf5t[["4... Bf5<br/>+0.1"]]
+    click Bf5t "#_Bf5t_" "D03 · Queen's Pawn Game: Torre Attack, Gossip Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -51,7 +56,7 @@ rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3
 | Nbd7 | 0 | — | 143 (7.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/38/22 |  |
 | c5 | 0 | — | 124 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 24/43/33 |  |
 
-*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -87,7 +92,7 @@ rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4
 | e3 | 31 k (5.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | Be3 | 0 | — | 12 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 591 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_4_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 591 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_4_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **4. Bf4** is masters' clear main choice (61.9%) — retreating to a square where the bishop still eyes the long diagonal and supports a later e3/c3 structure, rather than trading it off with 4. Bh4 (which invites ... g5 ideas).
@@ -112,10 +117,84 @@ rnbqkb1r/ppp1pppp/8/3p4/3PnB2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 5 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.1 |
 | --- | --- |
 
-From here Black typically continues **... c5** or **... Bf5**, while White fills in with e3, c4, Bd3 and Nbd2 — a compact, well-tested structure similar in spirit to the London/Accelerated London family, not built out further here (backlog).
+From here Black typically continues **... c5** or **... Bf5**, while White fills in with e3, c4, Bd3 and Nbd2 — a compact, well-tested structure similar in spirit to the London/Accelerated London family.
+
+* [**4... c5**](#_c5t_) (-0.1): masters' clear main try (70.8%) — see below.
+* [**4... Bf5**](#_Bf5t_) (+0.1): a real second choice (11.7% masters) — see below.
 
 [*Back to 3... Ne4*](#_Ne4_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4... c5** strikes back at White's centre immediately, the most natural way to challenge White's setup before it's fully in place.
+>
+> <a name="_c5t_"></a>
+>
+> ### 4... c5
+>
+> [![4... c5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R&lastMove=c7c5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_5)
+>
+> *... 4... c5*
+>
+> ```
+> rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R w KQkq c6 0 5
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.1 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R w KQkq c6 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | e3 | 61 k (56.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 275 (58.1%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 18/42/40 |  |
+> | c3 | 30 k (28.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/46 | 135 (28.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/52/25 |  |
+> | Nbd2 | 8.4 k (7.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 11 (2.3%) | — |  |
+> | dxc5 | 4.3 k (4.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 45 (9.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/40/29 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 108 k games. Masters: 473 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_5#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **5. e3** (58.1% masters) is White's clear main try — a solid, flexible structure over the sharper **5. c3** (28.5% masters). Deeper Gossip Variation theory past this point is its own extensive body of work, not covered further here.
+>
+> [*Back to 4. Bf4*](#_Bf4_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4... Bf5** develops the light-squared bishop before it gets shut in by a later ... e6, the main alternative to the sharper ... c5.
+>
+> <a name="_Bf5t_"></a>
+>
+> ### 4... Bf5
+>
+> [![4... Bf5](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R&lastMove=c8f5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_6_5)
+>
+> *... 4... Bf5*
+>
+> ```
+> rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 6 5
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R w KQkq - 6 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | e3 | 15 k (52.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 51 (65.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 22/57/22 |  |
+> | Nbd2 | 8.3 k (28.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/9/47 | 21 (26.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/48/24 |  |
+> | c3 | 2.7 k (9.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/10/47 | 2 (2.6%) | — | ⚠ |
+> 
+> *Online: bullet/blitz, 1800+ — 29 k games. Masters: 78 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_6_5#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **5. e3** (65.4% masters) is again White's clear main try, with **5. Nbd2** (26.9%) a real second choice. Deeper theory past this point is its own extensive body of work, not covered further here.
+>
+> [*Back to 4. Bf4*](#_Bf4_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 

@@ -49,7 +49,7 @@ rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4
 | Bf5 | 48 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | c6 | 0 | — | 389 (4.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -80,7 +80,19 @@ rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
 | --- | --- |
 
-White typically continues **5. Be2** or **5. exd6**, meeting the pin without weakening the kingside with h3 too early — its own body of theory, not covered further here.
+<!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Be2 | 432 k (59.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 3.2 k (94.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
+| Bc4 | 84 k (11.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 27 (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/37 |  |
+| exd6 | 76 k (10.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 21 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 24/52/24 |  |
+| h3 | 58 k (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 85 (2.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 35/26/39 |  |
+| c4 | 51 k (7.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 47 (1.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
+
+*Online: bullet/blitz, 1800+ — 721 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_2_5#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**5. Be2** is masters' overwhelming choice (94.5%) — meeting the pin the simplest way, without weakening the kingside with an early h3. Deeper Alekhine Defense theory past this point is its own extensive body of work, not covered further here.
 
 [*Back to 4. Nf3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -124,7 +136,19 @@ rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.9 |
 | --- | --- |
 
-Fianchettoing before resolving the central tension — playable, but the least precise of the three main tries per Stockfish. Not covered further here.
+<!-- lichess-stats:start fen="rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bc4 | 172 k (40.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 1.9 k (80.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/41/18 |  |
+| c4 | 98 k (23.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/5/52 | 214 (9.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/36/28 |  |
+| Be2 | 53 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 174 (7.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/30/33 |  |
+| exd6 | 40 k (9.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
+| Ng5 | 0 | — | 20 (0.8%) | ⬜🟫🟫🟫🟫⬛⬛⬛⬛⬛ 10/40/50 |  |
+
+*Online: bullet/blitz, 1800+ — 422 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**5. Bc4** — tagged the *Alburt Variation* by the explorer (named after GM Lev Alburt, a leading exponent of this whole 4... g6 setup) — is masters' clear main try (80.7%), eyeing the d5 knight and f7 before Black can consolidate with ... Bg7. Fianchettoing before resolving the central tension is playable for Black, but the least precise of the three main 4th-move tries per Stockfish. Deeper theory past this point is not covered further here.
 
 [*Back to 4. Nf3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
