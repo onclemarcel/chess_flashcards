@@ -2,7 +2,7 @@
 
 # A81 Dutch Defense: Semi-Leningrad Variation <br> 1. d4 f5 2. g3 Nf6 3. Bg2 g6 #
 
-**2. g3**, the Fianchetto Attack, is masters' most tested reply to the Dutch (40.9% — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md)), meeting Black's kingside space grab with a long-diagonal bishop of its own rather than contesting the centre directly.
+**2. g3**, the Fianchetto Attack, is masters' most tested reply to the Dutch (40.9% — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md)), meeting Black's kingside space grab with a long-diagonal bishop of its own rather than contesting the centre directly.
 
 <a name="_g3_"></a>
 

@@ -2,7 +2,7 @@
 
 # E61 King's Indian Defense <br> 1. d4 Nf6 2. c4 g6 3. Nc3 #
 
-**3. Nc3** is White's overwhelming choice after the King's Indian/Grünfeld move order (80.0% of masters games — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md)), developing naturally and preparing e4. Black now has to choose between two entirely different defences that happen to share the same first two moves.
+**3. Nc3** is White's overwhelming choice after the King's Indian/Grünfeld move order (80.0% of masters games — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md)), developing naturally and preparing e4. Black now has to choose between two entirely different defences that happen to share the same first two moves.
 
 <a name="_Nc3_"></a>
 

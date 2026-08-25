@@ -2,7 +2,7 @@
 
 # A57 Benko Gambit <br> 1. d4 Nf6 2. c4 c5 3. d5 b5 #
 
-Spun off from [A40's own 2... c5 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_Nf6_c4_), where c5 sat unmentioned in the candidate-move list despite a real 8.3% masters share. A real surprise found while researching this card: **3... b5** is actually masters' single most popular try after 3. d5 (48.5%, well ahead of 3... e6's 26.5%) — the Benko Gambit isn't a niche sideline here, it's the practical main line. Black offers a pawn on the queenside to rip open the a- and b-files against White's king, betting long-term piece activity and pressure against a fixed target (the a2/b2 pawns) will outweigh the material deficit.
+Spun off from [A40's own 2... c5 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_c4_), where c5 sat unmentioned in the candidate-move list despite a real 8.3% masters share. A real surprise found while researching this card: **3... b5** is actually masters' single most popular try after 3. d5 (48.5%, well ahead of 3... e6's 26.5%) — the Benko Gambit isn't a niche sideline here, it's the practical main line. Black offers a pawn on the queenside to rip open the a- and b-files against White's king, betting long-term piece activity and pressure against a fixed target (the a2/b2 pawns) will outweigh the material deficit.
 
 <a name="_initial_move_"></a>
 

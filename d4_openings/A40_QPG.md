@@ -34,7 +34,7 @@ flowchart LR
     d5a --> Bf4d["2. Bf4<br/>0.0"]
     click Bf4d "#_d5_" "D00 · Queen's Pawn Game: Accelerated London System"
     d5a --> Nf3d["2. Nf3<br/>+0.1"]
-    click Nf3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md" "D02 · Queen's Pawn Game: Zukertort Variation"
+    click Nf3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md" "D02 · Queen's Pawn Game: Zukertort Variation"
     d5a --> c4d[["2. c4 !<br/>+0.2"]]:::main
     click c4d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md" "D06 · Queen's Gambit"
     d4 --> Nf6[["1... Nf6 !<br/>+0.2"]]:::main
@@ -90,7 +90,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 * [**1... f5**](#_f5_) (+0.5): the [Dutch Defense](#_f5_) — Black stakes a claim on e4 at the cost of a kingside weakening
 * [**1... g6**](#_g6_) (+0.6): the [Modern Defense](#_g6_) move order — flexible, but concedes the centre for now
 * [**1... e6**](#_e6_) (+0.4): keeps options for the French, Queen's Gambit Declined or Nimzo-Indian open
-* [**1... d5**](#_d5_) (+0.3): masters' clear #2 choice (25.8%) — opens the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) complex after 2. c4, or the sound-but-rarely-faced [Richter-Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)/[Zukertort](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) sidesteps if White delays c4
+* [**1... d5**](#_d5_) (+0.3): masters' clear #2 choice (25.8%) — opens the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) complex after 2. c4, or the sound-but-rarely-faced [Richter-Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)/[Zukertort](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md) sidesteps if White delays c4
 * [**1... Nf6**](#_Nf6_) (+0.2): the main line by far (60.9% of masters games) — covered below
 
 [*Back to TOP*](#_TOP_)
@@ -302,7 +302,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > <!-- lichess-stats:end -->
 >
 > * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (+0.2): by far White's most tested try (76.9% of masters games) — the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), covered on its own card (Slav / Queen's Gambit Declined / Queen's Gambit Accepted)
-> * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md), covered on its own card (Torre Attack / [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md))
+> * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md), covered on its own card (Torre Attack / [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md))
 > * **2. Bf4** (0.0): the *Accelerated* London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit. Transposes toward the same structures as the full [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md) card if White follows up with Nf3 next.
 > * [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) (-0.1): the [Richter-Veresov Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) — a minor, rarely-tested try (1.0% masters), covered on its own card
 >

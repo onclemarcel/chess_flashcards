@@ -2,7 +2,7 @@
 
 # B07 Pirc Defense <br> 1. e4 d6 #
 
-Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md): named after Slovenian grandmaster Vasja Pirc. Black delays committing the centre, planning ... Nf6, ... g6 and ... Bg7 in some order before deciding how (or whether) to challenge White's pawns — a close cousin of the [Modern Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md), reached here by a different move order (... d6 before ... g6 rather than after).
+Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_KPG.md): named after Slovenian grandmaster Vasja Pirc. Black delays committing the centre, planning ... Nf6, ... g6 and ... Bg7 in some order before deciding how (or whether) to challenge White's pawns — a close cousin of the [Modern Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md), reached here by a different move order (... d6 before ... g6 rather than after).
 
 ### Overview
 

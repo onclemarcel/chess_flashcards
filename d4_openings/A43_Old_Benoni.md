@@ -2,7 +2,7 @@
 
 # A43 Benoni Defense: Old Benoni <br> 1. d4 c5 #
 
-Spun off from [A40's 1... c5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_c5_): Black strikes at the centre from the flank a tempo down compared with the Modern Benoni (which needs 1. d4 Nf6 2. c4 c5 3. d5 first). White isn't forced to advance the d-pawn at all, and simply enjoys a comfortable space advantage if it's declined — but **2. d5** is by far the most tested reply, and this card follows the resulting Old Benoni structure.
+Spun off from [A40's 1... c5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_c5_): Black strikes at the centre from the flank a tempo down compared with the Modern Benoni (which needs 1. d4 Nf6 2. c4 c5 3. d5 first). White isn't forced to advance the d-pawn at all, and simply enjoys a comfortable space advantage if it's declined — but **2. d5** is by far the most tested reply, and this card follows the resulting Old Benoni structure.
 
 ### Overview
 

@@ -17,11 +17,11 @@ flowchart LR
     click e4 "#_initial_move_" "D00 · Blackmar-Diemer Gambit"
 
     e4 --> c6[["2... c6 ⇄<br/>+0.3"]]
-    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md" "B12 · Caro-Kann Defense"
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md" "B12 · Caro-Kann Defense"
     e4 --> e6["2... e6 ⇄<br/>+0.2"]
-    click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md" "C00 · French Defense"
+    click e6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md" "C00 · French Defense"
     e4 --> Nc6(["2... Nc6 ⇄<br/>+0.4"])
-    click Nc6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_Nc6_Nimzovitch.md" "B00 · Nimzowitsch Defense: Scandinavian Variation"
+    click Nc6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md" "B00 · Nimzowitsch Defense: Scandinavian Variation"
     e4 --> Nf6["2... Nf6 💣<br/>+0.6"]
     click Nf6 "#_Nf6_" "D00 · Blackmar-Diemer Gambit"
     e4 --> dxe4[["2... dxe4 !<br/>-0.7"]]:::main
@@ -75,20 +75,20 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2
 > ### Summary
 > - White's main idea is to gain the initiative by quickly opening the e-column and, later on, the f-column, through a pawn sacrifice and a pawn exchange.
 > - Black's objective is to break White's initiative and strive for exchanging pieces to reach a better endgame.
-> - Black may avoid the gambit by playing the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3) or the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.2).
-> - A prepared Black player may also use several side lines to the main one ([Lemberger Countergambit](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly Variation (-0.2) of the [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md)).
+> - Black may avoid the gambit by playing the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) (+0.3) or the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md) (+0.2).
+> - A prepared Black player may also use several side lines to the main one ([Lemberger Countergambit](#_3_Nc3_e5_) (-0.1), [Vienna Defense](#_4_f3_Bf5_) (-0.4), or even the O'Kelly Variation (-0.2) of the [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md)).
 > - The [accepted Blackmar-Diemer](#_4_f3_exf3_) (-0.5) is full of tactical traps from White, with two main lines: the risky [5. Qxf3](#_accepted_Qxf3_) (-1.4) and the main [5. Nxf3](#_accepted_Nxf3_) (-0.5).
 
 > [!TIP]
-> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6** — with a beautiful mate case study from a "false pin" on Nf3: **6. Bc4 Bg4? 7. Ne5! Bxd1?? 8. Bxf7#**.
+> The main variation of the Blackmar-Diemer gambit may also be obtained from the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md), with **1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3 exf3 5. Nxf3 Nf6** — with a beautiful mate case study from a "false pin" on Nf3: **6. Bc4 Bg4? 7. Ne5! Bxd1?? 8. Bxf7#**.
 
 ### Candidate moves
 
 This opening is not correct with respect to opening principles, but leads to a ***dynamic game with many tactical ideas*** for both players. When correctly prepared, Black is able to avoid many of its traps and obtain a good position for the middle and endgame (-0.5). That said, due to the amount of preparation required from Black, a good White player may still surprise their opponent in blitz/bullet games.
 
-* refuse with **2... c6**, transposing into the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) (+0.3), or
-* refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) (+0.2), or
-* refuse with **2... Nc6**, transposing into the [Nimzowitsch Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_Nc6_Nimzovitch.md) (+0.4), or
+* refuse with **2... c6**, transposing into the [Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) (+0.3), or
+* refuse with **2... e6**, transposing into the [French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md) (+0.2), or
+* refuse with **2... Nc6**, transposing into the [Nimzowitsch Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md) (+0.4), or
 * refuse with [**2... Nf6**](#_Nf6_) (+0.6): which allows White to grab more space with **3. e5**, or
 * **accept** with [**2... dxe4**](#_accepted_) (-0.7): this is the most played move, at ***74%*** of masters games
 
@@ -358,8 +358,8 @@ The pawn-taking move represents 78% of masters games, but Black still has counte
 * **accept with** [**4... exf3**](#_4_f3_exf3_) (-0.7): main move, most played and best rated in this position
 * refuse with [**4... Bf5**](#_4_f3_Bf5_) (-0.4): the [Vienna Defense](#_4_f3_Bf5_) — a sound side move avoiding the well-known main line, rarely played (8%) and worth working on
 * refuse with [**4... c5**](#_4_f3_c5_) (-0.4): the [Brombacher Countergambit](#_4_f3_c5_) — another side move that needs good preparation for Black, included here for a nice trap set by White
-* refuse with **4... c6** (-0.2): the **O'Kelly Defense** — identical to an Exchange [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) where White attempts to transpose into the Blackmar-Diemer gambit against a Black player who refused with Nf6. Black aims at attacking the centre with **... e5**
-* refuse with **4... e3** (+0.4): the **Langeheinicke Defense** — also a side move, but it lets White recover a good position similar to a [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) variation
+* refuse with **4... c6** (-0.2): the **O'Kelly Defense** — identical to an Exchange [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) where White attempts to transpose into the Blackmar-Diemer gambit against a Black player who refused with Nf6. Black aims at attacking the centre with **... e5**
+* refuse with **4... e3** (+0.4): the **Langeheinicke Defense** — also a side move, but it lets White recover a good position similar to a [Caro-Kann](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) variation
 
 [*Back to 3. Nc3*](#_3_Nc3_)
 [*Back to TOP*](#_TOP_)

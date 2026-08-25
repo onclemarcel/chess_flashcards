@@ -2,7 +2,7 @@
 
 # E20 Nimzo-Indian Defense <br> 1. d4 Nf6 2. c4 e6 #
 
-After **2... e6** (masters' top choice among Black's replies to 2. c4, 54.2% — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md)), White has to decide whether to allow the Nimzo-Indian pin at all. **3. Nc3** invites it; **3. Nf3** sidesteps it, at least for a move.
+After **2... e6** (masters' top choice among Black's replies to 2. c4, 54.2% — see [A40 Queen's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md)), White has to decide whether to allow the Nimzo-Indian pin at all. **3. Nc3** invites it; **3. Nf3** sidesteps it, at least for a move.
 
 <a name="_e6_"></a>
 

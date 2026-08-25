@@ -2,7 +2,7 @@
 
 # D03 Queen's Pawn Game: Torre Attack <br> 1. d4 d5 2. Nf3 Nf6 3. Bg5 #
 
-Spun off from [D02's 2... Nf6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md#_Nf6_): named after Mexican master Carlos Torre, who used it to famously beat Emanuel Lasker in 1925. White pins the f6 knight before committing the c-pawn anywhere — rare at this exact move order (2.4% of masters games, versus 70.4% simply transposing into the Queen's Gambit via 3. c4), but a fully independent, well-tested system rather than a trick.
+Spun off from [D02's 2... Nf6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_Nf6_): named after Mexican master Carlos Torre, who used it to famously beat Emanuel Lasker in 1925. White pins the f6 knight before committing the c-pawn anywhere — rare at this exact move order (2.4% of masters games, versus 70.4% simply transposing into the Queen's Gambit via 3. c4), but a fully independent, well-tested system rather than a trick.
 
 ### Overview
 

@@ -2,7 +2,7 @@
 
 # A45 Trompowsky Attack <br> 1. d4 Nf6 2. Bg5 #
 
-Spun off from [A40's 1... Nf6 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_Nf6_), where Bg5 already sat in the numbers (3.7% masters, 4.5% online) with no candidate bullet or card pointing to it — a genuine silent gap, not just a shallow mention. Named after English IM Julian Hodgson's championing of the move in the 1980s-90s, the Trompowsky pins nothing (Black's knight isn't defending anything on f6 yet) but immediately puts the question to Black's own next move, sidestepping the vast Indian Defense theory that follows 2. c4/2. Nf3 entirely.
+Spun off from [A40's 1... Nf6 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_), where Bg5 already sat in the numbers (3.7% masters, 4.5% online) with no candidate bullet or card pointing to it — a genuine silent gap, not just a shallow mention. Named after English IM Julian Hodgson's championing of the move in the 1980s-90s, the Trompowsky pins nothing (Black's knight isn't defending anything on f6 yet) but immediately puts the question to Black's own next move, sidestepping the vast Indian Defense theory that follows 2. c4/2. Nf3 entirely.
 
 <a name="_initial_move_"></a>
 

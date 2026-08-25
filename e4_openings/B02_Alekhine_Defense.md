@@ -2,7 +2,7 @@
 
 # B02 Alekhine Defense <br> 1. e4 Nf6 #
 
-Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md): named after fourth World Champion Alexander Alekhine, who introduced it in 1921. Black provokes White's centre forward, inviting e4-e5-d4-c4 style expansion, with the plan of undermining the resulting broad pawn front later rather than contesting the centre directly. A genuinely hypermodern try — rare (1.6% of masters games) and objectively a touch worse for Black than the classical replies, but a real trap for an unprepared opponent who doesn't know how to build the centre correctly.
+Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_KPG.md): named after fourth World Champion Alexander Alekhine, who introduced it in 1921. Black provokes White's centre forward, inviting e4-e5-d4-c4 style expansion, with the plan of undermining the resulting broad pawn front later rather than contesting the centre directly. A genuinely hypermodern try — rare (1.6% of masters games) and objectively a touch worse for Black than the classical replies, but a real trap for an unprepared opponent who doesn't know how to build the centre correctly.
 
 ### Overview
 

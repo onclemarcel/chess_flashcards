@@ -2,7 +2,7 @@
 
 # A51 Budapest Gambit <br> 1. d4 Nf6 2. c4 e5 #
 
-Spun off from [A40's own 1... Nf6 2. c4 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_Nf6_c4_), where e5 sat unmentioned in the candidate-move list despite a real, named try (0.7% masters, 8.0% online) — the last of the audit's original nine gaps. Black offers the e-pawn immediately, betting on quick piece activity (... Ng4 hitting e5 and f2, a fast ... Nc6/... Bc5 setup) to make up for the material, rather than committing to a long-term structural bind the way the Benko Gambit or Modern Benoni do.
+Spun off from [A40's own 1... Nf6 2. c4 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_c4_), where e5 sat unmentioned in the candidate-move list despite a real, named try (0.7% masters, 8.0% online) — the last of the audit's original nine gaps. Black offers the e-pawn immediately, betting on quick piece activity (... Ng4 hitting e5 and f2, a fast ... Nc6/... Bc5 setup) to make up for the material, rather than committing to a long-term structural bind the way the Benko Gambit or Modern Benoni do.
 
 <a name="_initial_move_"></a>
 

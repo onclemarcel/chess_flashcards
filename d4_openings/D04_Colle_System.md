@@ -2,7 +2,7 @@
 
 # D04 Queen's Pawn Game: Colle System <br> 1. d4 d5 2. Nf3 Nf6 3. e3 #
 
-Spun off from [D02's 2... Nf6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_QPG_Nf3.md#_Nf6_): named after Belgian master Edgar Colle. Rather than fight for a specific structure, White commits to a fixed plan — e3, Bd3, Nbd2, O-O, and eventually the thematic e3-e4 break — that plays almost the same way regardless of what Black does. That's the defining trait of a "system" opening: Black's 3rd-move reply here is unusually scattered (no single try clears even 33% of masters games) precisely because it doesn't change White's plan very much.
+Spun off from [D02's 2... Nf6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_Nf6_): named after Belgian master Edgar Colle. Rather than fight for a specific structure, White commits to a fixed plan — e3, Bd3, Nbd2, O-O, and eventually the thematic e3-e4 break — that plays almost the same way regardless of what Black does. That's the defining trait of a "system" opening: Black's 3rd-move reply here is unusually scattered (no single try clears even 33% of masters games) precisely because it doesn't change White's plan very much.
 
 ### Overview
 

@@ -2,7 +2,7 @@
 
 # B01 Scandinavian Defense: Blackburne-Kloosterboer Gambit <br> 1. e4 d5 2. exd5 c6 #
 
-Rather than recapturing on d5, Black offers a second pawn to open lines quickly for the pieces. This try is a fringe weapon: 6.3% in online blitz/bullet, but essentially unseen in masters games (0.1%, 32 games total in the reference sample) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md#_exd5_).
+Rather than recapturing on d5, Black offers a second pawn to open lines quickly for the pieces. This try is a fringe weapon: 6.3% in online blitz/bullet, but essentially unseen in masters games (0.1%, 32 games total in the reference sample) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_exd5_).
 
 ### Overview
 
@@ -88,7 +88,7 @@ rnbqkbnr/pp2pppp/2p5/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3
 ---
 
 > [!NOTE]
-> **3. d4** also declines the pawn, but keeps a small, solid edge (+0.1) rather than the near-equality of 3. Nc3: Black is all but forced into **3... cxd5** (97.3% online, 99.7% masters), transposing into the [Caro-Kann Defense, Exchange Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) — a well-known, symmetrical structure with no special theory tied to this move order.
+> **3. d4** also declines the pawn, but keeps a small, solid edge (+0.1) rather than the near-equality of 3. Nc3: Black is all but forced into **3... cxd5** (97.3% online, 99.7% masters), transposing into the [Caro-Kann Defense, Exchange Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) — a well-known, symmetrical structure with no special theory tied to this move order.
 >
 > <a name="_d4_"></a>
 >

@@ -2,7 +2,7 @@
 
 # B06 Modern Defense <br> 1. e4 g6 #
 
-Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_e4_KPG.md): also called the Robatsch Defense, after Austrian player Karl Robatsch. Black fianchettoes the king's bishop before committing anything in the centre, planning to strike back at White's pawns from the flank once they're overextended rather than contesting the centre directly — a hypermodern approach in the same spirit as the Alekhine Defense.
+Spun off from [B00's King's Pawn Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_KPG.md): also called the Robatsch Defense, after Austrian player Karl Robatsch. Black fianchettoes the king's bishop before committing anything in the centre, planning to strike back at White's pawns from the flank once they're overextended rather than contesting the centre directly — a hypermodern approach in the same spirit as the Alekhine Defense.
 
 ### Overview
 

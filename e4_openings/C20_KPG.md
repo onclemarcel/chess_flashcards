@@ -17,17 +17,17 @@ flowchart LR
     click e5 "#_initial_move_" "C20 · King's Pawn Game"
 
     e5 --> Nf3[["2. Nf3<br/>+0.1"]]
-    click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_Nf3_King_Knight.md" "C40 · King's Knight Opening"
+    click Nf3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md" "C40 · King's Knight Opening"
     e5 --> f4["2. f4 ♙<br/>-0.3"]
-    click f4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md" "C30 · King's Gambit"
+    click f4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md" "C30 · King's Gambit"
     e5 --> d4{"2. d4<br/>-0.1"}
-    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_d4_Center_Game.md" "C20 · Center Game"
+    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Center_Game.md" "C20 · Center Game"
     e5 --> Nc3["2. Nc3<br/>+0.1"]
-    click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Nc3_Vienna_Game.md" "C25 · Vienna Game"
+    click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md" "C25 · Vienna Game"
     e5 --> Bc4["2. Bc4<br/>0.0"]
-    click Bc4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md" "C23 · Bishop's Opening"
+    click Bc4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md" "C23 · Bishop's Opening"
     e5 --> Qh5(["2. Qh5<br/>-0.3"])
-    click Qh5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Qh5_Wayward_Queen.md" "C20 · King's Pawn Game: Wayward Queen Attack"
+    click Qh5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Wayward_Queen.md" "C20 · King's Pawn Game: Wayward Queen Attack"
 ```
 <!-- content-diagram:end -->
 
@@ -69,11 +69,11 @@ rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
   - Play for traps.
   - Play unusual opening moves.
 
-* [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_Nf3_King_Knight.md) (+0.1): **2. Nf3** leads to the [King's Knight Opening (C40)](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_Nf3_King_Knight.md), White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
-* [**2. f4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md) (-0.3): [the King's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md), confronts the e5 pawn and tries to lever open the f-file for an attack on Black's weak f7 pawn. This is the quintessential Romantic chess opening, popular with the likes of Paul Morphy. A prepared Black player should be able to grab the proffered pawn and keep it.
-* [**2. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_d4_Center_Game.md) (-0.1): [the Centre Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_d4_Center_Game.md) smashes the centre open. White can then sacrifice a pawn or two to develop pieces with great speed (2... exd4 3. c3, the Danish Gambit).
-* [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Nc3_Vienna_Game.md) (+0.1): this development move offers flexibility in Black's response since it doesn't immediately challenge e5. Nc3 controls d5 and protects e4. The [Vienna Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Nc3_Vienna_Game.md) is also a preparing move for the **f4** [King's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_f4_King_Gambit.md).
-* [**2. Bc4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md) (0.0): another development move that doesn't challenge e5, but aims at f7 while preventing d5. Similarly to **2. Nc3** above, the [Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md) gives flexibility in Black's response.
-* [**2. Qh5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Qh5_Wayward_Queen.md) (-0.3): this move violates an opening principle by bringing the queen out early. However, Black has to be careful, as White's queen is placed on an aggressive square. The f7-pawn is guarded only by Black's king and is considered Black's weakest pawn at the beginning of the game.
+* [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md) (+0.1): **2. Nf3** leads to the [King's Knight Opening (C40)](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md), White directly attacks the pawn while also developing a piece. Additionally, it controls the d4 square, ready to support a future d4 pawn push, and starts to make room for White to castle. This move represents 92% of King's Pawn masters games.
+* [**2. f4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md) (-0.3): [the King's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md), confronts the e5 pawn and tries to lever open the f-file for an attack on Black's weak f7 pawn. This is the quintessential Romantic chess opening, popular with the likes of Paul Morphy. A prepared Black player should be able to grab the proffered pawn and keep it.
+* [**2. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Center_Game.md) (-0.1): [the Centre Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Center_Game.md) smashes the centre open. White can then sacrifice a pawn or two to develop pieces with great speed (2... exd4 3. c3, the Danish Gambit).
+* [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md) (+0.1): this development move offers flexibility in Black's response since it doesn't immediately challenge e5. Nc3 controls d5 and protects e4. The [Vienna Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md) is also a preparing move for the **f4** [King's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md).
+* [**2. Bc4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md) (0.0): another development move that doesn't challenge e5, but aims at f7 while preventing d5. Similarly to **2. Nc3** above, the [Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md) gives flexibility in Black's response.
+* [**2. Qh5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_Wayward_Queen.md) (-0.3): this move violates an opening principle by bringing the queen out early. However, Black has to be careful, as White's queen is placed on an aggressive square. The f7-pawn is guarded only by Black's king and is considered Black's weakest pawn at the beginning of the game.
 
 [*Back to TOP*](#_TOP_)

@@ -2,7 +2,7 @@
 
 # A60 Modern Benoni <br> 1. d4 Nf6 2. c4 c5 3. d5 e6 #
 
-Spun off from [A40's own 2... c5 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_Nf6_c4_) alongside the [Benko Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) — masters' second choice after 3. d5 (26.5%, behind the Benko's 48.5%). Rather than sacrifice a pawn immediately, Black strikes at White's d5 pawn from the other side, aiming to trade it off and leave White with an isolated or backward d-pawn structure while Black's own pieces get real activity down the long diagonal and the e-file.
+Spun off from [A40's own 2... c5 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_c4_) alongside the [Benko Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) — masters' second choice after 3. d5 (26.5%, behind the Benko's 48.5%). Rather than sacrifice a pawn immediately, Black strikes at White's d5 pawn from the other side, aiming to trade it off and leave White with an isolated or backward d-pawn structure while Black's own pieces get real activity down the long diagonal and the e-file.
 
 <a name="_initial_move_"></a>
 

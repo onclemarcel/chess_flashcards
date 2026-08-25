@@ -2,7 +2,7 @@
 
 # C23 Modern Bishop's Opening <br> 1. e4 e5 2. Bc4 Nf6 3. d3 #
 
-Spun off from a NOTE duplicated across both [C23 Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md#_Nf6_) and [C50 Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), previously flagged "pending its own dedicated card" in both places — the two openings converge on this exact tabiya whenever Black meets either move order with ... Nf6: 3. d3 quietly defends e4, keeping the position flexible and delaying any commitment in the centre. This position doesn't carry its own distinct name in the Lichess explorer's ECO data (it stays generically "C23"), reflecting how transpositional it really is.
+Spun off from a NOTE duplicated across both [C23 Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Nf6_) and [C50 Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), previously flagged "pending its own dedicated card" in both places — the two openings converge on this exact tabiya whenever Black meets either move order with ... Nf6: 3. d3 quietly defends e4, keeping the position flexible and delaying any commitment in the centre. This position doesn't carry its own distinct name in the Lichess explorer's ECO data (it stays generically "C23"), reflecting how transpositional it really is.
 
 <a name="_initial_move_"></a>
 

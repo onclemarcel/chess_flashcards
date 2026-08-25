@@ -24,7 +24,7 @@ k7/8/8/3b4/6q1/8/5P1P/5RK1 w - - 0 1
 
 ## Worked example [DN-3]
 
-*Source: Speedrun: Back to 3000 ELO, game 3 (Naroditsky, 491 ELO on-screen) — full game context and the opening's own issues are covered as a cautionary NOTE/TIP on [C23 Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bc4_Bishop_Opening.md#_Nxf7_blunder_); this card is only about the mating mechanism itself, verified move by move against the engine.*
+*Source: Speedrun: Back to 3000 ELO, game 3 (Naroditsky, 491 ELO on-screen) — full game context and the opening's own issues are covered as a cautionary NOTE/TIP on [C23 Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Nxf7_blunder_); this card is only about the mating mechanism itself, verified move by move against the engine.*
 
 Reached after **17. Na3**, following **16... Bf8**, a double-purpose move that both attacked White's queen on c5 and — by moving off the g-file — unmasked Black's own rook's attack on g2:
 

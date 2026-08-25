@@ -2,7 +2,7 @@
 
 # D01 Richter-Veresov Attack <br> 1. d4 d5 2. Nc3 #
 
-Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_d5_): rather than commit to c4 immediately, White develops the queen's knight first, keeping options open between a quick e4 push or the sharper Bg5 pin that gives this line its name. A real sidestep for club and blitz players — sound, rarely faced, and often steering the game away from mainstream Queen's Gambit/Slav theory within two moves.
+Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d5_): rather than commit to c4 immediately, White develops the queen's knight first, keeping options open between a quick e4 push or the sharper Bg5 pin that gives this line its name. A real sidestep for club and blitz players — sound, rarely faced, and often steering the game away from mainstream Queen's Gambit/Slav theory within two moves.
 
 ### Overview
 

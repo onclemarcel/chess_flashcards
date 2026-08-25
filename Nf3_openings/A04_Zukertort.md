@@ -399,7 +399,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
-Play typically continues 3. d4, transposing directly into the [1. d4 Nf6 2. c4 e6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_Nf6_c4_e6_) tabiya — the two cards meet here.
+Play typically continues 3. d4, transposing directly into the [1. d4 Nf6 2. c4 e6](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_c4_e6_) tabiya — the two cards meet here.
 
 [*Back to 1... Nf6 2. c4*](#_Nf6_c4_)
 [*Back to TOP*](#_TOP_)

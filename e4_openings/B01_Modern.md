@@ -2,7 +2,7 @@
 
 # B01 Scandinavian Defense: Modern Variation <br> 1. e4 d5 2. exd5 Nf6 #
 
-Instead of recapturing right away, Black attacks the d5 pawn with the knight, delaying **... Qxd5** to avoid losing a tempo to White's development. This is the second most popular reply in both online play (26.1%) and masters games (29.5%) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_1e4d5_Scandinavian.md#_exd5_).
+Instead of recapturing right away, Black attacks the d5 pawn with the knight, delaying **... Qxd5** to avoid losing a tempo to White's development. This is the second most popular reply in both online play (26.1%) and masters games (29.5%) — see [B01](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_exd5_).
 
 ### Overview
 

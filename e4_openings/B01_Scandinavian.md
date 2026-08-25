@@ -30,9 +30,9 @@ flowchart LR
     click exd5 "#_exd5_" "B01 · Scandinavian Defense"
 
     exd5 --> c6{"2... c6 ⚠♙<br/>+0.7"}
-    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_c6_Blackburne_Kloosterboer.md" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
+    click c6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Blackburne_Kloosterboer.md" "B01 · Scandinavian Defense: Blackburne-Kloosterboer Gambit"
     exd5 --> exNf6[["2... Nf6<br/>+0.5"]]
-    click exNf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_Nf6_Modern.md" "B01 · Scandinavian Defense: Modern Variation"
+    click exNf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md" "B01 · Scandinavian Defense: Modern Variation"
     exd5 --> Qxd5[["2... Qxd5 !<br/>+0.5"]]:::main
     click Qxd5 "#_Qxd5_" "B01 · Scandinavian Defense: Mieses-Kotroc Variation"
 
@@ -252,8 +252,8 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2
 >
 > - Black may:
 >
->   * refuse with ... c6 ([Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_c6_Caro_Kann.md) +0.3) or
->   * refuse with ... e6 ([French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/e4_e6_French.md) +0.2) or
+>   * refuse with ... c6 ([Caro-Kann Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B10_Caro_Kann.md) +0.3) or
+>   * refuse with ... e6 ([French Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md) +0.2) or
 >   * accept with ... dxe4 (-0.7) : this is the most played move at 52% in masters games
 >
 > [*Back to 1... d5*](#_d5_)
@@ -333,8 +333,8 @@ rnbqkbnr/ppp1pppp/8/3P4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:end -->
 
 - Main Black moves lead to the following variations:
-  * [**2... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_c6_Blackburne_Kloosterboer.md) (+0.7 ⚠) : Blackburne-Kloosterboer Gambit — played 6.3% online but essentially unseen in masters (0.1%)
-  * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_exd5_Nf6_Modern.md) (+0.5) : Modern Variation of the Scandinavian
+  * [**2... c6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Blackburne_Kloosterboer.md) (+0.7 ⚠) : Blackburne-Kloosterboer Gambit — played 6.3% online but essentially unseen in masters (0.1%)
+  * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md) (+0.5) : Modern Variation of the Scandinavian
   * [**2... Qxd5**](#_Qxd5_) (+0.5) : Mieses-Kotroc Variation — the main line, covered below
 
 The Blackburne-Kloosterboer Gambit and the Modern Variation each open their own body of theory and are documented on a dedicated card. The Mieses-Kotroc Variation stays the main line of this card and continues below.

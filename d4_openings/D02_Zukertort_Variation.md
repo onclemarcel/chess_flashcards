@@ -2,7 +2,7 @@
 
 # D02 Queen's Pawn Game: Zukertort Variation <br> 1. d4 d5 2. Nf3 #
 
-Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_d5_): White develops the king's knight before deciding anything about the c-pawn. Unlike 2. Nc3 ([Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)), this mostly isn't an attempt to sidestep known theory — it's a flexible move order that transposes into the Queen's Gambit complex in the large majority of games, with two genuine independent tries (the Torre Attack and the Accelerated London System) as the real "escape hatch" content.
+Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d5_): White develops the king's knight before deciding anything about the c-pawn. Unlike 2. Nc3 ([Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)), this mostly isn't an attempt to sidestep known theory — it's a flexible move order that transposes into the Queen's Gambit complex in the large majority of games, with two genuine independent tries (the Torre Attack and the Accelerated London System) as the real "escape hatch" content.
 
 ### Overview
 
@@ -103,7 +103,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3
 ---
 
 > [!NOTE]
-> **3. Bf4** is the real, standard **London System** — despite an earlier draft of this note calling it "Accelerated," that name actually belongs to a different move order (2. Bf4 *before* Nf3, flagged on [A40's own note](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_d4_QPG.md#_d5_)); the explorer's own `opening` field confirms the distinction. It's masters' clear second choice here (11.5%, well ahead of the Torre's 2.4%), and a genuine "sound-but-not-learned" path: extremely popular at club level, rarely deeply prepared against. Covered in full on its own card: [**D02 London System**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md).
+> **3. Bf4** is the real, standard **London System** — despite an earlier draft of this note calling it "Accelerated," that name actually belongs to a different move order (2. Bf4 *before* Nf3, flagged on [A40's own note](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d5_)); the explorer's own `opening` field confirms the distinction. It's masters' clear second choice here (11.5%, well ahead of the Torre's 2.4%), and a genuine "sound-but-not-learned" path: extremely popular at club level, rarely deeply prepared against. Covered in full on its own card: [**D02 London System**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md).
 >
 > [*Back to 2... Nf6*](#_Nf6_)
 > [*Back to TOP*](#_TOP_)
