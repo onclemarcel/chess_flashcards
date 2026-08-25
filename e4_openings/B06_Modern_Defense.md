@@ -152,8 +152,36 @@ rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 
 **3... d6** is masters' clear main try (61.1%) — the *Standard Line*, finally contesting e5/c5 while keeping the king's knight's development flexible (Nf6 or Ne7/Nh6 depending on White's setup).
 
+* [**3... d6**](#_d6_) (+0.5, 61.1% masters): the *Standard Line* — covered below.
+* [**3... c5**](#_c5_) (+0.7, 3.3% masters): the *Modern Pterodactyl* — see the note below.
+
 [*Back to 2... Bg7*](#_Bg7_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3... c5**, the *Modern Pterodactyl*, strikes at d4 immediately while keeping the option of ... Qa5 to pin the c3-knight — the same idea recurs under two other codes/move orders (A42 via 1. Nf3, B27 via 1. e4 c5), not duplicated here.
+>
+> <a name="_c5_"></a>
+>
+> ### 3... c5 — Modern Pterodactyl
+>
+> [![3... c5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR&lastMove=c7c5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_c6_0_4)
+>
+> *... 3... c5 — Modern Pterodactyl*
+>
+> ```
+> rnbqk1nr/pp1pppbp/6p1/2p5/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+> | --- | --- |
+>
+> **4. dxc5** is masters' clear main try (39.5%) — not the "book" 4. Be3 that gives the line its most commonly cited name (only 7.2% masters); **4. d5** (29.8%) and **4. Nf3** (21.9%) are both real too. Not built out further here (backlog).
+>
+> [*Back to 3. Nc3*](#_Nc3_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 

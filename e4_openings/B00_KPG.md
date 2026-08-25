@@ -47,3 +47,19 @@ rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1
 * [**1... Nc6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md) (+0.4): the [Nimzowitsch Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md) — develops a piece before committing any pawn structure, rare (0.5% masters) but fully playable
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Every other reply shares this page's own **B00** ECO code — individually too rare for its own code, but each with a real name and idea behind it, worth its own small card as an uncommon path to try (the mirror image of the `A00_openings/` cluster: White's irregular *first* moves there, Black's irregular *replies* to 1. e4 here). All ten are covered in [`B00_openings/`](https://github.com/onclemarcel/chess_flashcards/tree/main/B00_openings):
+>
+> * [**1... b6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Owen.md) — Owen Defense (+0.7), the most-played of the ten by a wide margin
+> * [**1... a6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/St_George.md) — St. George Defense (+0.5), of Miles-Karpov 1980 fame
+> * [**1... a5**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Ware_Defense.md) — Ware Defense (+0.8), the mirror of A00's own Ware Opening
+> * [**1... g5**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Borg.md) — Borg Defense (+1.4), "Grob" spelled backwards, and just as weakening
+> * [**1... h6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Carr.md) — Carr Defense (+0.6)
+> * [**1... h5**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Goldsmith.md) — Goldsmith Defense (+1.0)
+> * [**1... f6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Barnes.md) — Barnes Defense (+1.1), including the [Fried Fox Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Barnes.md#_fried_fox_) troll line it can walk into (a different "Fried Fox" from A00's own Barnes Opening)
+> * [**1... f5**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Duras_Gambit.md) — Duras Gambit (+1.4)
+> * [**1... Nh6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Hippopotamus.md) — Hippopotamus Defense (+0.9)
+> * [**1... Na6**](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Lemming.md) — Lemming Defense (+0.9)

@@ -26,6 +26,8 @@ flowchart LR
     click g6a "#_g6_" "A40 · Queen's Pawn Game: Modern Defense"
     d4 --> e6a["1... e6<br/>+0.4"]
     click e6a "#_e6_" "A40 · Queen's Pawn Game"
+    d4 --> d6a["1... d6<br/>+0.6"]
+    click d6a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md" "A41 · Queen's Pawn Game"
     d4 --> d5a[["1... d5<br/>+0.3"]]
     click d5a "#_d5_" "D00 · Queen's Pawn Game"
 
@@ -90,8 +92,11 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 * [**1... f5**](#_f5_) (+0.5): the [Dutch Defense](#_f5_) — Black stakes a claim on e4 at the cost of a kingside weakening
 * [**1... g6**](#_g6_) (+0.6): the [Modern Defense](#_g6_) move order — flexible, but concedes the centre for now
 * [**1... e6**](#_e6_) (+0.4): keeps options for the French, Queen's Gambit Declined or Nimzo-Indian open
+* [**1... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md) (+0.6, 2.8% masters): delays every commitment, transposing toward the [Old Indian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md) (after 2. c4), the [Pirc Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md) (after 2. e4), or staying flexible — covered on its own card
 * [**1... d5**](#_d5_) (+0.3): masters' clear #2 choice (25.8%) — opens the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) complex after 2. c4, or the sound-but-rarely-faced [Richter-Veresov](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)/[Zukertort](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md) sidesteps if White delays c4
 * [**1... Nf6**](#_Nf6_) (+0.2): the main line by far (60.9% of masters games) — covered below
+* [**1... Nc6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Mikenas_Defense.md) (+0.6, 0.2% masters): the [Mikenas Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Mikenas_Defense.md) — a rare piece-first try, covered on its own card
+* [**1... b5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Polish_Defense.md) (+1.1, 0.1% masters): the [Polish Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Polish_Defense.md) — queenside space for nothing in the centre, covered on its own card
 
 [*Back to TOP*](#_TOP_)
 
@@ -381,6 +386,7 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 > <!-- lichess-stats:end -->
 >
 > * [**2... b6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md): the [Pseudo Queen's Indian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md) — covered on its own card
+> * [**2... Ne4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md): the [Döry Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md) — a rare provocative knight hop, covered on its own card
 >
 > [*Back to 1... Nf6*](#_Nf6_)
 > [*Back to TOP*](#_TOP_)
@@ -419,7 +425,8 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 
 * [**2... e6**](#_Nf6_c4_e6_) (+0.1): masters' top choice (54.2%) — Queen's Gambit Declined / Nimzo-Indian / Queen's Indian family, covered below
 * [**2... g6**](#_Nf6_c4_g6_) (+0.3): a very close second (32.8% of masters games) — the King's Indian / Grünfeld family
-* **2... c5** (0.0, 8.3% masters): after 3. d5 (88.8% masters), forks hard into two real gambit/defence tries — the [**Benko Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) (3... b5, actually masters' *more* popular pick here at 48.5%) and the [**Modern Benoni**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A60_Modern_Benoni.md) (3... e6, 26.5%) — both covered on their own cards
+* [**2... b6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A50_Queens_Indian_Accelerated.md) (+0.2, 0.1% masters): the [Queen's Indian Accelerated](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A50_Queens_Indian_Accelerated.md) — the Queen's Indian idea before White commits Nf3, covered on its own card
+* **2... c5** (0.0, 8.3% masters): after 3. d5 (88.8% masters), forks hard into two real gambit/defence tries — the [**Benko Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) (3... b5, actually masters' *more* popular pick here at 48.5%) and the [**Modern Benoni**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A60_Modern_Benoni.md) (3... e6, 26.5%) — both covered on their own cards, plus a much rarer tactical try, the [**Vulture Defense**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Vulture_Defense.md) (3... Ne4, 0.4%)
 * [**2... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) (+0.9, 0.7% masters): the [**Budapest Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) — a real, named pawn sacrifice for quick piece activity, covered on its own card
 * [**2... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md) (+0.5, 4.8% masters): the [**Old Indian Defense**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md) — a solid, King's-Indian-flavoured setup without the fianchetto, covered on its own card
 

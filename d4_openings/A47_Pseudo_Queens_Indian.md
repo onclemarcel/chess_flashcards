@@ -72,7 +72,44 @@ rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3
 *Online: bullet/blitz, 1800+ — 190 k games. Masters: 981 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
-White fianchettoes to match Black's own setup, heading toward a calm double-fianchetto middlegame. Not built out further here (backlog) — a genuinely minor system, not worth chasing past this point.
+White fianchettoes to match Black's own setup, heading toward a calm double-fianchetto middlegame.
+
+**3... Bb7** is essentially forced (91.9% masters); **4. Bg2** follows automatically to complete White's own fianchetto.
+
+* [**4... c5**](#_c5_) (+0.2): the *Marienbad System* — the line this card follows.
 
 [*Back to 2... b6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_c5_"></a>
+
+## 3... Bb7 4. Bg2 c5 — Marienbad System
+
+[![4... c5](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R&lastMove=c7c5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R_w_KQkq_c6_0_5)
+
+*... 3... Bb7 4. Bg2 c5 — Marienbad System*
+
+```
+rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq c6 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq c6 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| O-O | 19 k (66.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 96 (28.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/46/27 |  |
+| dxc5 | 4.1 k (14.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/48 | 86 (25.9%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 21/48/31 |  |
+| c3 | 2.5 k (9.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 52 (15.7%) | ⬜🟫🟫🟫🟫⬛⬛⬛⬛⬛ 15/38/46 |  |
+| c4 | 1.4 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 81 (24.4%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 20/40/41 |  |
+
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 332 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R_w_KQkq_c6_0_5#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+A genuinely scattered choice for White at move 5 — **5. O-O** (28.9% masters), **5. dxc5** (25.9%), **5. c4** (24.4%) and **5. c3** (15.7%) are all real, no dominant try. Not built out further here (backlog) — a genuinely minor system overall, not worth chasing deeper.
+
+[*Back to 3. g3*](#_g3_)
 [*Back to TOP*](#_TOP_)

@@ -20,7 +20,15 @@ rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
 | --- | --- |
 
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-...generated table...
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| c4 | 12.1 M (38.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 6.2 k (21.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/35/35 |  |
+| Nf3 | 7.1 M (22.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 12 k (42.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/37/27 |  |
+| Bf4 | 3.1 M (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/47 | 0 | — | ⚠ |
+| e4 | 2.8 M (9.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 8.5 k (30.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/36/26 |  |
+| g3 | 0 | — | 1.1 k (3.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/38/26 |  |
+
+*Online: bullet/blitz, 1800+ — 31.3 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -53,7 +61,16 @@ rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2
 | --- | --- |
 
 <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-...generated table...
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nf6 | 3.5 M (36.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 4.8 k (28.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/37/27 |  |
+| g6 | 1.8 M (18.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 5.8 k (33.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/38/28 |  |
+| Nd7 | 1.0 M (10.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 459 (2.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/28/21 |  |
+| c6 | 972 k (10.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 0 | — | ⚠ |
+| Bg4 | 474 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 4.9 k (28.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/37/26 |  |
+| f5 | 0 | — | 987 (5.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/27 |  |
+
+*Online: bullet/blitz, 1800+ — 9.6 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 A genuine three-way near-even fork with no dominant try at master level — **2... g6** (33.9%), **2... Bg4** (28.6%) and **2... Nf6** (28.0%) are all within six points of each other, each heading toward a different established complex (King's-Indian-style fianchetto, an active early bishop sortie, or a flexible knight-first move order). None built out further here (backlog) — matches this repository's established "present all real candidates, don't force one deeper" convention for near-even forks.

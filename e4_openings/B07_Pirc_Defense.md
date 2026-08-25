@@ -56,7 +56,7 @@ rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 *Online: bullet/blitz, 1800+ — 63.2 M games. Masters: 45 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
-**2. d4** is masters' overwhelming choice (95.0%).
+**2. d4** is masters' overwhelming choice (95.0%). The same position is also reachable by the opposite move order, 1. d4 d6 2. e4 — see [`A41_Queens_Pawn_Game.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md).
 
 [*Back to TOP*](#_TOP_)
 
@@ -148,6 +148,8 @@ rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 
 * [**3... g6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Defense_Tabiya.md) (+0.5): the real Pirc Defense proper — masters' clear main try (49.1%) — covered on its own card.
 * [**3... e5**](#_e5_) (+0.5): a genuine independent alternative (33.6% masters), staying closer to a delayed Philidor structure since White has committed the knight to c3 rather than f3 — covered below.
+* [**3... c6**](#_c6_) (+0.8, 9.7% masters): the *Czech Defense* — see the note below.
+* [**3... Nbd7**](#_Nbd7_) (+0.6, 6.9% masters): the *Lion Defense* — see the note below.
 
 [*Back to 2... Nf6*](#_Nf6_)
 [*Back to TOP*](#_TOP_)
@@ -173,6 +175,56 @@ rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 > | --- | --- |
 >
 > Not built out further here (backlog).
+>
+> [*Back to 3. Nc3*](#_Nc3_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3... c6**, the *Czech Defense*, prepares a quick ... Qa5/... b5 queenside counterplay before committing the king's bishop, staying closer to the Caro-Kann's own light-squared plan than the fianchetto ideas above.
+>
+> <a name="_c6_"></a>
+>
+> ### 3... c6 — Czech Defense
+>
+> [![3... c6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR&lastMove=c7c6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_0_4)
+>
+> *... 3... c6 — Czech Defense*
+>
+> ```
+> rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.8 |
+> | --- | --- |
+>
+> **4. f4** is masters' clear main try (42.1%), building a broad pawn centre before Black can strike back. Not built out further here (backlog).
+>
+> [*Back to 3. Nc3*](#_Nc3_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3... Nbd7**, the *Lion Defense*, develops the queen's knight before committing a kingside setup at all — flexible, but noticeably slower than the main Pirc's immediate fianchetto.
+>
+> <a name="_Nbd7_"></a>
+>
+> ### 3... Nbd7 — Lion Defense
+>
+> [![3... Nbd7](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR&lastMove=b8d7&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_3_4)
+>
+> *... 3... Nbd7 — Lion Defense*
+>
+> ```
+> r1bqkb1r/pppnpppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
+> | --- | --- |
+>
+> **4. Nf3** is masters' clear main try (53.2%), developing naturally; **4. f4** (22.7%) grabs more space immediately. Not built out further here (backlog).
 >
 > [*Back to 3. Nc3*](#_Nc3_)
 > [*Back to TOP*](#_TOP_)
