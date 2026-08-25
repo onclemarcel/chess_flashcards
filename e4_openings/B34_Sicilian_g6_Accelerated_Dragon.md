@@ -117,7 +117,15 @@ rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5
 | --- | --- |
 
 <!-- lichess-stats:start fen="rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-...generated table...
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nc6 | 489 k (83.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 2.4 k (88.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/40/17 |  |
+| Nf6 | 29 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 128 (4.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 46/39/15 |  |
+| d6 | 28 k (4.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 0 | — | ⚠ |
+| Qb6 | 21 k (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 116 (4.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
+| b6 | 0 | — | 29 (1.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 34/28/38 |  |
+
+*Online: bullet/blitz, 1800+ — 586 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **5... Nc6** is masters' clear main try (88.6%) — developing naturally and pressuring d4 before White can consolidate the bind.
@@ -134,7 +142,14 @@ r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6
 | --- | --- |
 
 <!-- lichess-stats:start fen="r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
-...generated table...
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Be3 | 1.4 M (86.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 6.8 k (93.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/41/19 |  |
+| Nc2 | 104 k (6.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/42 | 469 (6.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/32/24 |  |
+| Nxc6 | 73 k (4.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
+| Nb3 | 0 | — | 12 (0.2%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 7.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **6. Be3** is masters' overwhelming choice (93.1%) — completing development and eyeing a later Qd2/Rc1 or Nb3 plan while the bind's queenside space advantage does its slow work. Deeper Maróczy Bind theory (Black's ... Ng4/... Nxd4 exchanging tries, and White's own Nc2/Nb3 regrouping ideas) is its own extensive body of work, not covered further here.
