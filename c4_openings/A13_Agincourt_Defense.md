@@ -27,7 +27,7 @@ rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2
 | d3 | 200 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 5 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -91,11 +91,11 @@ rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 | c6 | 86 k (3.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | g5 | 0 | — | 21 (0.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/29/38 |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-* [**2... d5**](#_Nf3_d5_) (+0.3): masters' clear main try (59.4%) — covered below
-* **2... Nf6** (+0.2, 28.9% masters): a real second try, usually transposing back into ... d5 lines after 3. g3/3. Nc3
+* [**2... d5**](#_Nf3_d5_) (+0.3): the *Agincourt Variation* — masters' clear main try (59.4%) — covered below
+* [**2... Nf6**](#_Nf6_romanishin_) (+0.2, 28.9% masters): a real second try, usually transposing back into ... d5 lines after 3. g3/3. Nc3 — see the *Romanishin Gambit* mention below
 * **2... f5** (5.9% masters): a Dutch-style try, no distinct name of its own here
 
 [*Back to 1. c4 e6*](#_e6_)
@@ -103,9 +103,19 @@ rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 
 ---
 
+> [!NOTE]
+> **2... Nf6 3. g3 a6 4. Bg2 b5**, the *Romanishin Gambit* (+0.4, mention-only) — Black grabs queenside space at once rather than transposing back to ... d5, a real independent try but not a full equalizer.
+>
+> <a name="_Nf6_romanishin_"></a>
+>
+> [*Back to 1. c4 e6*](#_e6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
 <a name="_Nf3_d5_"></a>
 
-## 2. Nf3 d5
+## 2. Nf3 d5 — Agincourt Variation
 
 [![1. c4 e6 2. Nf3 d5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R&lastMove=d7d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3)
 
@@ -126,12 +136,12 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 | Nc3 | 100 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 7 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**3. g3**](#_Nf3_d5_g3_) (0.0): masters' clear favourite (42.4%) — covered below
 * **3. d4** (+0.2, 28.4% masters): transposes into Queen's Gambit Declined territory
-* **3. b3 / 3. e3** (+0.1 each): real but secondary tries (14.5%/13.8% masters), no distinct name of their own here
+* **3. b3 / 3. e3** (+0.1 each): real but secondary tries (14.5%/13.8% masters) — 3. b3's own **Wimpey System** (3... Nf6 4. Bb2 c5 5. e3, +0.1, mention-only) is the one named continuation here
 
 [*Back to 2. Nf3*](#_Nf3_)
 [*Back to TOP*](#_TOP_)
@@ -140,9 +150,9 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 
 <a name="_Nf3_d5_g3_"></a>
 
-## 3. g3
+## 3. g3 — Agincourt Variation
 
-Masters' clear favourite (42.4%): the most distinctly "English" reply, fianchettoing before revealing any further central intentions. **A14, live-confirmed and cross-checked against [chessopenings.com](https://chessopenings.com/eco/A14)**, sits five plies further down this exact line: 3... Nf6 4. Bg2 Be7 5. O-O — the **Neo-Catalan Declined** tabiya. That's well past this card's own depth budget (three plies past its title position), so it stays backlog rather than built out here.
+Masters' clear favourite (42.4%): the most distinctly "English" reply, fianchettoing before revealing any further central intentions. **A14, live-confirmed and cross-checked against [chessopenings.com](https://chessopenings.com/eco/A14)**, sits five plies further down this exact line: 3... Nf6 4. Bg2 Be7 5. O-O — the **Neo-Catalan Declined** tabiya, split off into its own card, [`A14_Neo_Catalan_Declined.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A14_Neo_Catalan_Declined.md).
 
 [![1. c4 e6 2. Nf3 d5 3. g3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R&lastMove=g2g3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R_b_KQkq_-_0_3)
 
@@ -160,10 +170,10 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 3
 | dxc4 | 95 k (10.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/39 | 1.2 k (18.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/45/28 |  |
 | c5 | 50 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/40 | 308 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/33/24 |  |
 
-*Online: bullet/blitz, 1800+ — 902 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 902 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-**3... Nf6** is masters' clear main try (63.1%), with **3... dxc4** (18.8%) a real second choice, grabbing the pawn before White can fianchetto the bishop onto it.
+**3... Nf6**, the *Neo-Catalan*, is masters' clear main try (63.1%) — feeding straight into the [A14 Neo-Catalan Declined](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A14_Neo_Catalan_Declined.md) card above once White adds Bg2/O-O (that card's own **Symmetrical: Keres Defence** NOTE covers the deeper 5... c5 sideline too), or the ***Neo-Catalan Accepted*** (4. Bg2 dxc4, +0.1, mention-only) if Black instead grabs the pawn a move later. **3... dxc4** (18.8%) takes it immediately instead, and **3... c6**, the ***Kurajica Defence*** (5.8% masters, mention-only), reinforces d5 before committing the king's knight.
 
 [*Back to 2. Nf3 d5*](#_Nf3_d5_)
 [*Back to TOP*](#_TOP_)

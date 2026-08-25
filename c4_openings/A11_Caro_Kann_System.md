@@ -4,6 +4,8 @@
 
 Spun off from [A10_English.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md), where **1... c6** got only a short NOTE. Black keeps ... d5 in reserve while staying flexible — the name comes from the resulting pawn structure resembling a genuine Caro-Kann Defense, just reached from the other side of the board. This card covers the lines that stay within the English family (no White 2. e4 or 2. d4, both of which transpose straight into other named openings — see the NOTEs below).
 
+**Corrected 2026-08-25**: this card used to carry the whole "3. b3" branch as a mention-only NOTE. That position is live-confirmed **A12**, not A11 — split off into [`A12_Caro_Kann_System_b3.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md) and built out properly there (it carries seven of `eco.md`'s named A12 sub-variations). A11 itself stays the correct code for the root and for 3. e3/3. d4/3. g3.
+
 <a name="_c6_"></a>
 
 [![1. c4 c6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR&lastMove=c7c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2)
@@ -27,7 +29,7 @@ rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2
 | d3 | 126 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 54 (0.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 54/26/20 |  |
 
-*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -116,7 +118,7 @@ rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 | Qc7 | 9.3 k (0.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | f5 | 0 | — | 18 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**2... d5**](#_Nf3_d5_) (+0.2): overwhelmingly masters' choice (85.1%) — covered below
@@ -151,11 +153,11 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 | Qc2 | 29 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/6/40 | 174 (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/40/16 |  |
 | Qb3 | 0 | — | 42 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
 
-*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**3. e3**](#_Nf3_d5_e3_) (+0.2): masters' clear favourite (45.5%) — the **Gurevich System**, covered below
-* [**3. b3**](#_Nf3_d5_b3_) (0.0): the **Bogoljubow Variation** (12.5% masters) — a real second try, covered in a NOTE below
+* [**3. b3**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md) (0.0, 12.5% masters): the **A12** Réti Opening: Anglo-Slav Variation — covered on its own card
 * **3. d4** (+0.2, 20.5% masters): transposes into the **D11** Slav Defense: Modern Line
 * **3. g3** (+0.2, 16.7% masters): a quieter fianchetto try, no distinct name of its own
 
@@ -165,24 +167,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 ---
 
 > [!NOTE]
-> **3. b3**, the Bogoljubow Variation, fianchettoes the queen's bishop instead of committing the centre — Black replies with either a quick ... Nf6 (44.8%) or the more aggressive ... Bg4 (35.0%), pinning the knight before White can add e3.
->
-> <a name="_Nf3_d5_b3_"></a>
->
-> ### 3. b3 — Bogoljubow Variation (A12)
->
-> [![1. c4 c6 2. Nf3 d5 3. b3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R&lastMove=b2b3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R_b_KQkq_-_0_3)
->
-> *... 3. b3 — Réti Opening: Anglo-Slav Variation, Bogoljubow Variation*
->
-> ```
-> rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
-> | --- | --- |
->
-> Not built out further here (backlog).
+> **3. b3**, a real second try (12.5% masters) fianchettoing the queen's bishop instead of committing the centre, is live-confirmed **A12** — the same class of "wrong root code" split already applied elsewhere in this repo (A02/A04/A15). See [`A12_Caro_Kann_System_b3.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md) for the full build-out, including the Torre/London/Bled/New York/Capablanca's/Bogolyubov Variations.
 >
 > [*Back to 2. Nf3 d5*](#_Nf3_d5_)
 > [*Back to TOP*](#_TOP_)
@@ -213,7 +198,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R b KQkq - 0 3
 | Bf5 | 45 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 38 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 55/29/16 |  |
 | g6 | 0 | — | 53 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/34/17 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/4PN2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3... Nf6** is overwhelmingly masters' choice here (93.4%) — simple development, keeping ... Bf5/... Bg4 and a later ... e6 all in reserve. Deeper Anglo-Slav theory past this point is its own extensive body of work, not covered further here.

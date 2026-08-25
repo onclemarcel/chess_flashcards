@@ -23,41 +23,18 @@ rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR w KQkq c6 0 2
 | e3 | 847 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 45 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/47/16 |  |
 | b3 | 246 k (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/45 | 214 (1.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 
-*Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**2. Nf3**](#_Nf3_) (+0.2): masters' clear favourite (48.9%) — developing before committing the queen's knight, covered below
-* [**2. Nc3**](#_Nc3_) (+0.1): a real second try (28.3% masters) — the **A34** Normal Variation, covered in a NOTE below
+* [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A34_Symmetrical_Normal_Variation.md) (+0.1, 28.3% masters): the **A34** Normal Variation — covered on its own card
 * **2. g3** (21.5% masters): a quieter fianchetto try, usually transposing into the Nf3/Nc3 lines
 
 [*Back to TOP*](#_TOP_)
 
 ---
-
-> [!NOTE]
-> **2. Nc3**, the **A34** Normal Variation, most often meets **2... Nc6** (50.0%), **2... g6** (23.8%) or **2... Nf6** (19.8%) — a genuine three-way split at this early stage.
->
-> <a name="_Nc3_"></a>
->
-> ### 2. Nc3 — Normal Variation (A34)
->
-> [![1. c4 c5 2. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2)
->
-> *... 2. Nc3 — English Opening: Symmetrical Variation, Normal Variation*
->
-> ```
-> rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
-> | --- | --- |
->
-> Not built out further here (backlog).
->
-> [*Back to 1. c4 c5*](#_c5_)
-> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -84,7 +61,7 @@ rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 | g6 | 422 k (10.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/45 | 4.9 k (15.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/23 |  |
 | b6 | 0 | — | 924 (3.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/37/27 |  |
 
-*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**2... Nc6**](#_Nf3_Nc6_) (+0.2): masters' clear main try (44.6%) — covered below
@@ -118,7 +95,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 1 3
 | g3 | 470 k (22.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 1.6 k (11.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/42/29 |  |
 | e3 | 218 k (10.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 437 (3.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/45/20 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_1_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_1_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3. Nc3** is masters' top try here (50.0%), with **3. d4** (33.4%, striking straight into the centre) a real second choice. After 3. Nc3, Black's own 3rd move is a genuine three-way split (43.5% ... g6, 29.3% ... e5, 20.3% ... Nf6) with no single dominant continuation — none of these are built out further here (backlog).
@@ -145,6 +122,10 @@ rnbqkb1r/pp1ppppp/5n2/2p5/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 1 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
+* [**3. Nc3**](#_Nf3_Nf6_Nc3_) (68.4% masters): masters' clear favourite — the **A34** Three Knights Variation, covered below
+* **3. g3** (22.6% masters): a quieter fianchetto try, usually transposing back into the Nc3 lines
+* [**3. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A31_Anti_Benoni_Variation.md) (+0.1, 5.7% masters): the **A31** Anti-Benoni Variation — covered on its own card
+
 <a name="_Nf3_Nf6_Nc3_"></a>
 
 ### 3. Nc3 — Three Knights Variation (A34)
@@ -167,10 +148,17 @@ rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3
 | d6 | 61 k (5.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/41 | 0 | — | ⚠ |
 | b6 | 0 | — | 1.8 k (9.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/39/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 Black's 3rd move is a genuine spread with no single dominant try: **3... Nc6** (33.2%), **3... e6** (29.9%), **3... d5** (19.2%, striking the centre immediately), **3... b6** (9.0%) and **3... g6** (8.1%) are all real. Deeper Three Knights theory past this point is its own extensive body of work, not covered further here.
 
 [*Back to 2. Nf3*](#_Nf3_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2. Nf3 Nf6 3. g3 b6 4. Bg2 Bb7 5. O-O e6 6. Nc3 Be7**, the *Hedgehog Defense* (+0.3, mention-only — well past this card's own depth budget), is one of the Symmetrical Variation's most distinct strategic setups: Black keeps a small, elastic pawn chain (a6/b6/d6/e6) and waits for White to overextend, exactly mirroring the Hedgehog System reached from the other side of the board (see [A17_Anglo_Indian_Hedgehog.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md)). `eco.md`'s own **flexible formation** sub-line (7. d4 cxd4 8. Qxd4 d6 9. Rd1 a6 10. b3 Nbd7) continues the same idea three moves deeper still — real, but too deep to diagram here.
+>
+> [*Back to TOP*](#_TOP_)

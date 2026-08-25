@@ -117,11 +117,11 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A10
 
-- **English Opening** — `1.c4`
-- **English Opening** — `1.c4 g6`
-- **English Opening, Adorjan Defence** — `1.c4 g6 2.e4 e5`
-- **English Opening, Jaenisch Gambit** — `1.c4 b5`
-- **English Opening, Anglo-Dutch Defence** — `1.c4 f5`
+- **English Opening** — `1.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md#_c4_)
+- **English Opening** — `1.c4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md#_g6_)
+- **English Opening, Adorjan Defence** — `1.c4 g6 2.e4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md#_g6_)
+- **English Opening, Jaenisch Gambit** — `1.c4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md#_b5_)
+- **English Opening, Anglo-Dutch Defence** — `1.c4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A10_English.md#_f5_)
 
 ## A11
 
@@ -129,181 +129,181 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A12
 
-- **English Opening, Caro-Kann defensive System** — `1.c4 c6 2.Nf3 d5 3.b3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A11_Caro_Kann_System.md#_Nf3_d5_b3_)
-- **English Opening, Torre defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4`
-- **English Opening, London defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5`
-- **English Opening, Caro-Kann defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2`
-- **English Opening, Bled Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 g6`
-- **English Opening, New York (London) defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bf5`
-- **English Opening, Capablanca's Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bg4`
-- **English Opening, Caro-Kann defensive System,  Bogolyubov Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Bg4`
+- **English Opening, Caro-Kann defensive System** — `1.c4 c6 2.Nf3 d5 3.b3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_initial_move_)
+- **English Opening, Torre defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_g3_Bg4_)
+- **English Opening, London defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.g3 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_g3_Bf5_)
+- **English Opening, Caro-Kann defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_Bb2_)
+- **English Opening, Bled Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_Bb2_g6_)
+- **English Opening, New York (London) defensive System** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_Bb2_Bf5_)
+- **English Opening, Capablanca's Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Nf6 4.Bb2 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Nf6_Bb2_Bg4_)
+- **English Opening, Caro-Kann defensive System,  Bogolyubov Variation** — `1.c4 c6 2.Nf3 d5 3.b3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A12_Caro_Kann_System_b3.md#_Bg4_)
 
 ## A13
 
 - **English Opening** — `1.c4 e6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_e6_)
-- **English Opening, Romanishin Gambit** — `1.c4 e6 2.Nf3 Nf6 3.g3 a6 4.Bg2 b5`
-- **English Opening, Agincourt Variation** — `1.c4 e6 2.Nf3 d5`
-- **English Opening, Wimpey System** — `1.c4 e6 2.Nf3 d5 3.b3 Nf6 4.Bb2 c5 5.e3`
-- **English Opening, Agincourt Variation** — `1.c4 e6 2.Nf3 d5 3.g3`
-- **English Opening, Kurajica Defence** — `1.c4 e6 2.Nf3 d5 3.g3 c6`
-- **English Opening, Neo-Catalan** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6`
-- **English Opening, Neo-Catalan Accepted** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4`
+- **English Opening, Romanishin Gambit** — `1.c4 e6 2.Nf3 Nf6 3.g3 a6 4.Bg2 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf6_romanishin_)
+- **English Opening, Agincourt Variation** — `1.c4 e6 2.Nf3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_)
+- **English Opening, Wimpey System** — `1.c4 e6 2.Nf3 d5 3.b3 Nf6 4.Bb2 c5 5.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_)
+- **English Opening, Agincourt Variation** — `1.c4 e6 2.Nf3 d5 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_g3_)
+- **English Opening, Kurajica Defence** — `1.c4 e6 2.Nf3 d5 3.g3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_g3_)
+- **English Opening, Neo-Catalan** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_g3_)
+- **English Opening, Neo-Catalan Accepted** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md#_Nf3_d5_g3_)
 
 ## A14
 
-- **English Opening, Neo-Catalan declined** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A13_Agincourt_Defense.md)
-- **English Opening, Symmetrical,  Keres Defence** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O c5 6.cxd5 Nxd5 7.Nc3 Nc6`
+- **English Opening, Neo-Catalan declined** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A14_Neo_Catalan_Declined.md#_initial_move_)
+- **English Opening, Symmetrical,  Keres Defence** — `1.c4 e6 2.Nf3 d5 3.g3 Nf6 4.Bg2 Be7 5.O-O c5 6.cxd5 Nxd5 7.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A14_Neo_Catalan_Declined.md#_c5_)
 
 ## A15
 
-- **English Opening** — `1...Nf6 (Anglo-Indian Defence)`
-- **English Opening, Orang-utan** — `1.c4 Nf6 2.b4`
-- **English Opening** — `1.c4 Nf6 2.Nf3`
+- **English Opening** — `1...Nf6 (Anglo-Indian Defence)` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A15_Anglo_Indian_Defense.md#_Nf6_)
+- **English Opening, Orang-utan** — `1.c4 Nf6 2.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A15_Anglo_Indian_Defense.md#_b4_)
+- **English Opening** — `1.c4 Nf6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A15_Anglo_Indian_Defense.md#_alt_)
 
 ## A16
 
 - **English Opening** — `1.c4 Nf6 2.Nc3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_Nc3_)
-- **English Opening, Anglo-Gruenfeld Defence** — `1.c4 Nf6 2.Nc3 d5`
-- **English Opening, Anglo-Gruenfeld Defence,  Smyslov Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3`
-- **English Opening, Anglo-Gruenfeld Defence,  Czech Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6`
-- **English Opening, Anglo-Gruenfeld Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3`
-- **English Opening, Anglo-Gruenfeld Defence,  Korchnoi Variation** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.g3 Bg7 6.Bg2 e5`
+- **English Opening, Anglo-Gruenfeld Defence** — `1.c4 Nf6 2.Nc3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_d5_)
+- **English Opening, Anglo-Gruenfeld Defence,  Smyslov Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_d5_)
+- **English Opening, Anglo-Gruenfeld Defence,  Czech Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.g3 g6 5.Bg2 Nb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_d5_)
+- **English Opening, Anglo-Gruenfeld Defence** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_d5_)
+- **English Opening, Anglo-Gruenfeld Defence,  Korchnoi Variation** — `1.c4 Nf6 2.Nc3 d5 3.cxd5 Nxd5 4.Nf3 g6 5.g3 Bg7 6.Bg2 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_d5_)
 
 ## A17
 
-- **English Opening** — `1.c4 Nf6 2.Nc3 e6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_e6_)
-- **English Opening, Queen's Indian formation** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 b6`
-- **English Opening, Queen's Indian,  Romanishin Variation** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3`
-- **English Opening, Nimzo-English Opening** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4`
+- **English Opening** — `1.c4 Nf6 2.Nc3 e6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md#_initial_move_)
+- **English Opening, Queen's Indian formation** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md#_Nf3_b6_)
+- **English Opening, Queen's Indian,  Romanishin Variation** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 b6 4.e4 Bb7 5.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md#_Nf3_b6_)
+- **English Opening, Nimzo-English Opening** — `1.c4 Nf6 2.Nc3 e6 3.Nf3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md#_Nf3_Bb4_)
 
 ## A18
 
-- **English Opening, Mikenas-Carls Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_e6_)
-- **English Opening, Mikenas-Carls,  Flohr Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5`
-- **English Opening, Mikenas-Carls,  Kevitz Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 Nc6`
+- **English Opening, Mikenas-Carls Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A18_Mikenas_Carls.md#_initial_move_)
+- **English Opening, Mikenas-Carls,  Flohr Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 d5 4.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A18_Mikenas_Carls.md#_d5_)
+- **English Opening, Mikenas-Carls,  Kevitz Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A18_Mikenas_Carls.md#_Nc6_)
 
 ## A19
 
-- **English Opening, Mikenas-Carls,  Sicilian Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 c5`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_e6_)
+- **English Opening, Mikenas-Carls,  Sicilian Variation** — `1.c4 Nf6 2.Nc3 e6 3.e4 c5`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A19_Mikenas_Carls_Sicilian.md#_initial_move_)
 
 ## A20
 
 - **English Opening** — `1.c4 e5`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A20_Kings_English_Variation.md#_e5_)
-- **English Opening, Nimzovich Variation** — `1.c4 e5 2.Nf3`
-- **English Opening, Nimzovich,  Flohr Variation** — `1.c4 e5 2.Nf3 e4`
+- **English Opening, Nimzovich Variation** — `1.c4 e5 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A20_Kings_English_Variation.md#_Nf3_)
+- **English Opening, Nimzovich,  Flohr Variation** — `1.c4 e5 2.Nf3 e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A20_Kings_English_Variation.md#_Nf3_)
 
 ## A21
 
 - **English Opening** — `1.c4 e5 2.Nc3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nc3_)
-- **English Opening, Troeger Defence** — `1.c4 e5 2.Nc3 d6 3.g3 Be6 4.Bg2 Nc6`
-- **English Opening, Keres Variation** — `1.c4 e5 2.Nc3 d6 3.g3 c6`
-- **English Opening** — `1.c4 e5 2.Nc3 d6 3.Nf3`
-- **English Opening, Smyslov Defence** — `1.c4 e5 2.Nc3 d6 3.Nf3 Bg4`
-- **English Opening, Kramnik-Shirov Counterattack** — `1.c4 e5 2.Nc3 Bb4`
+- **English Opening, Troeger Defence** — `1.c4 e5 2.Nc3 d6 3.g3 Be6 4.Bg2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_d6_)
+- **English Opening, Keres Variation** — `1.c4 e5 2.Nc3 d6 3.g3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_d6_)
+- **English Opening** — `1.c4 e5 2.Nc3 d6 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_d6_)
+- **English Opening, Smyslov Defence** — `1.c4 e5 2.Nc3 d6 3.Nf3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_d6_)
+- **English Opening, Kramnik-Shirov Counterattack** — `1.c4 e5 2.Nc3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Bb4_)
 
 ## A22
 
-- **English Opening** — `1.c4 e5 2.Nc3 Nf6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf6_)
-- **English Opening, Bellon Gambit** — `1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5`
-- **English Opening, Carls' Bremen System** — `1.c4 e5 2.Nc3 Nf6 3.g3`
-- **English Opening, Bremen System,  Reverse Dragon** — `1.c4 e5 2.Nc3 Nf6 3.g3 d5`
-- **English Opening, Bremen System,  Smyslov System** — `1.c4 e5 2.Nc3 Nf6 3.g3 Bb4`
+- **English Opening** — `1.c4 e5 2.Nc3 Nf6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md#_initial_move_)
+- **English Opening, Bellon Gambit** — `1.c4 e5 2.Nc3 Nf6 3.Nf3 e4 4.Ng5 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md#_Nf3_)
+- **English Opening, Carls' Bremen System** — `1.c4 e5 2.Nc3 Nf6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md#_g3_)
+- **English Opening, Bremen System,  Reverse Dragon** — `1.c4 e5 2.Nc3 Nf6 3.g3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md#_g3_d5_)
+- **English Opening, Bremen System,  Smyslov System** — `1.c4 e5 2.Nc3 Nf6 3.g3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md#_g3_Bb4_)
 
 ## A23
 
-- **English Opening, Bremen System,  Keres Variation** — `1.c4 e5 2.Nc3 Nf6 3.g3 c6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf6_)
+- **English Opening, Bremen System,  Keres Variation** — `1.c4 e5 2.Nc3 Nf6 3.g3 c6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A23_Bremen_Keres_Variation.md#_initial_move_)
 
 ## A24
 
-- **English Opening, Bremen System,  With ...g6** — `1.c4 e5 2.Nc3 Nf6 3.g3 g6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf6_)
+- **English Opening, Bremen System,  With ...g6** — `1.c4 e5 2.Nc3 Nf6 3.g3 g6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A24_Bremen_Fianchetto.md#_initial_move_)
 
 ## A25
 
-- **English Opening, Sicilian reversed** — `1.c4 e5 2.Nc3 Nc6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nc6_)
-- **English Opening, Closed** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7`
-- **English Opening, Closed,  Taimanov Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Nh6`
-- **English Opening, Closed,  Hort Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6`
-- **English Opening, Closed,  5.Rb1** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1`
-- **English Opening, Closed,  5.Rb1 Taimanov Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 Nh6`
-- **English Opening, Closed,  without ...d6** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3`
+- **English Opening, Sicilian reversed** — `1.c4 e5 2.Nc3 Nc6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_initial_move_)
+- **English Opening, Closed** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
+- **English Opening, Closed,  Taimanov Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Nh6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
+- **English Opening, Closed,  Hort Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 d6 6.Nge2 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
+- **English Opening, Closed,  5.Rb1** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
+- **English Opening, Closed,  5.Rb1 Taimanov Variation** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Rb1 Nh6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
+- **English Opening, Closed,  without ...d6** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A25_Reversed_Closed_Sicilian.md#_Closed_)
 
 ## A26
 
-- **English Opening, Closed** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nc6_)
-- **English Opening, Botvinnik System** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4`
+- **English Opening, Closed** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A26_Closed_System_Full_Symmetry.md#_initial_move_)
+- **English Opening, Botvinnik System** — `1.c4 e5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.d3 d6 6.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A26_Closed_System_Full_Symmetry.md#_e4_)
 
 ## A27
 
-- **English Opening, three Knights System** — `1.c4 e5 2.Nc3 Nc6 3.Nf3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nc6_)
+- **English Opening, three Knights System** — `1.c4 e5 2.Nc3 Nc6 3.Nf3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A27_Three_Knights_System.md#_initial_move_)
 
 ## A28
 
-- **English Opening, Four Knights System** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf3_)
-- **English Opening, Nenarokov Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Bg5 h6 7.Bh4 Bxc3 8.bxc3 Ne5`
-- **English Opening, Bradley Beach Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 e4`
-- **English Opening, Four Knights,  Nimzovich Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e4`
-- **English Opening, Four Knights,  Marini Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.a3`
-- **English Opening, Four Knights,  Capablanca Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d3`
-- **English Opening, Four Knights,  4.e3** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3`
-- **English Opening, Four Knights,  Stean Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 O-O 6.Nd5 Re8 7.Qf5`
-- **English Opening, Four Knights,  Romanishin Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 Bxc3`
+- **English Opening, Four Knights System** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_initial_move_)
+- **English Opening, Nenarokov Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 exd4 5.Nxd4 Bb4 6.Bg5 h6 7.Bh4 Bxc3 8.bxc3 Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_d4_)
+- **English Opening, Bradley Beach Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d4 e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_d4_)
+- **English Opening, Four Knights,  Nimzovich Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_e4_)
+- **English Opening, Four Knights,  Marini Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_a3_)
+- **English Opening, Four Knights,  Capablanca Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_d3_)
+- **English Opening, Four Knights,  4.e3** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_e3_)
+- **English Opening, Four Knights,  Stean Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 O-O 6.Nd5 Re8 7.Qf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_e3_)
+- **English Opening, Four Knights,  Romanishin Variation** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.e3 Bb4 5.Qc2 Bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md#_e3_)
 
 ## A29
 
-- **English Opening, Four Knights,  kingside Fianchetto** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf3_)
+- **English Opening, Four Knights,  kingside Fianchetto** — `1.c4 e5 2.Nc3 Nc6 3.Nf3 Nf6 4.g3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A29_Four_Knights_Fianchetto.md#_initial_move_)
 
 ## A30
 
 - **English Opening, Symmetrical Variation** — `1.c4 c5`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A30_Symmetrical_Variation.md#_c5_)
-- **English Opening, Symmetrical Variation,  hedgehog System** — `1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7`
-- **English Opening, Symmetrical Variation,  hedgehog,  flexible formation** — `1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6 9.Rd1 a6 10.b3 Nbd7`
+- **English Opening, Symmetrical Variation,  hedgehog System** — `1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A30_Symmetrical_Variation.md)
+- **English Opening, Symmetrical Variation,  hedgehog,  flexible formation** — `1.c4 c5 2.Nf3 Nf6 3.g3 b6 4.Bg2 Bb7 5.O-O e6 6.Nc3 Be7 7.d4 cxd4 8.Qxd4 d6 9.Rd1 a6 10.b3 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A30_Symmetrical_Variation.md)
 
 ## A31
 
-- **English Opening, Symmetrical Variation,  Benoni formation** — `1.c4 c5 2.Nf3 Nf6 3.d4`
+- **English Opening, Symmetrical Variation,  Benoni formation** — `1.c4 c5 2.Nf3 Nf6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A31_Anti_Benoni_Variation.md#_initial_move_)
 
 ## A32
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A32_Anti_Benoni_Spielmann_Defense.md#_initial_move_)
 
 ## A33
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6`
-- **English Opening, Symmetrical Variation,  Geller Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A33_Anti_Benoni_Spielmann_Defense.md#_initial_move_)
+- **English Opening, Symmetrical Variation,  Geller Variation** — `1.c4 c5 2.Nf3 Nf6 3.d4 cxd4 4.Nxd4 e6 5.Nc3 Nc6 6.g3 Qb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A33_Anti_Benoni_Spielmann_Defense.md#_Geller_)
 
 ## A34
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A30_Symmetrical_Variation.md#_Nc3_)
-- **English Opening, Symmetrical Variation,  three Knights System** — `1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5`
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nf6 3.g3`
-- **English Opening, Symmetrical Variation,  Rubinstein System** — `1.c4 c5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3`  ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A34_Symmetrical_Normal_Variation.md#_initial_move_)
+- **English Opening, Symmetrical Variation,  three Knights System** — `1.c4 c5 2.Nc3 Nf6 3.Nf3 d5 4.cxd5 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A34_Symmetrical_Normal_Variation.md#_Nf3_)
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nf6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A34_Symmetrical_Normal_Variation.md#_g3_)
+- **English Opening, Symmetrical Variation,  Rubinstein System** — `1.c4 c5 2.Nc3 Nf6 3.g3 d5 4.cxd5 Nxd5 5.Bg2 Nc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A34_Symmetrical_Normal_Variation.md#_g3_)
 
 ## A35
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6`
-- **English Opening, Symmetrical Variation,  Four Knights System** — `1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A35_Symmetrical_Two_Knights_Variation.md#_initial_move_)
+- **English Opening, Symmetrical Variation,  Four Knights System** — `1.c4 c5 2.Nc3 Nc6 3.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A35_Symmetrical_Two_Knights_Variation.md#_Nf3_)
 
 ## A36
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3`
-- **English Opening, ultra-symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7`
-- **English Opening, Symmetrical Variation,  Botvinnik System reversed** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e5`
-- **English Opening, Symmetrical Variation,  Botvinnik System** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A36_Symmetrical_Fianchetto_Variation.md#_initial_move_)
+- **English Opening, ultra-symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A36_Symmetrical_Fianchetto_Variation.md#_ultra_)
+- **English Opening, Symmetrical Variation,  Botvinnik System reversed** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A36_Symmetrical_Fianchetto_Variation.md#_e3_)
+- **English Opening, Symmetrical Variation,  Botvinnik System** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A36_Symmetrical_Fianchetto_Variation.md#_e4_)
 
 ## A37
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3`
-- **English Opening, Symmetrical Variation,  Botvinnik System reversed** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A37_Symmetrical_Three_Knights_Fianchetto.md#_initial_move_)
+- **English Opening, Symmetrical Variation,  Botvinnik System reversed** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A37_Symmetrical_Three_Knights_Fianchetto.md#_e5_)
 
 ## A38
 
-- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6`
-- **English Opening, Symmetrical Variation,  Main line With d3** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3`
-- **English Opening, Symmetrical Variation,  Main line With b3** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.b3`
+- **English Opening, Symmetrical Variation** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A38_Symmetrical_Full_Symmetry.md#_initial_move_)
+- **English Opening, Symmetrical Variation,  Main line With d3** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A38_Symmetrical_Full_Symmetry.md#_d3_)
+- **English Opening, Symmetrical Variation,  Main line With b3** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A38_Symmetrical_Full_Symmetry.md#_b3_)
 
 ## A39
 
-- **English Opening, Symmetrical Variation,  Main line With d4** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4`
+- **English Opening, Symmetrical Variation,  Main line With d4** — `1.c4 c5 2.Nc3 Nc6 3.g3 g6 4.Bg2 Bg7 5.Nf3 Nf6 6.O-O O-O 7.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A39_Symmetrical_Mecking_Variation.md#_initial_move_)
 
 ## A40
 

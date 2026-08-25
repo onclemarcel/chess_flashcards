@@ -26,13 +26,13 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 | c6 | 595 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 794 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/42/16 |  |
 | b6 | 174 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 93 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 
-*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 14.2 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**2... g6**](#_g6_) (+0.5): masters' top choice (28.7%) — a King's Indian-style fianchetto against the English, covered below
-* [**2... e6**](#_e6_) (+0.2): heads toward the **A17** Hedgehog System (19.3%) — covered in a NOTE below
+* [**2... e6**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md) (+0.2, 19.3% masters): the **A17** Hedgehog System — covered on its own card
 * [**2... e5**](#_e5_) (+0.2): the Two Knights Variation (22.4%) — transposes into **A22**, covered on [A21_Kings_English_Reversed_Sicilian.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md), the same tabiya reached from the other move order
 * [**2... c5**](#_c5_) (+0.2): transposes into **A34**, the Symmetrical Variation's own Three Knights tabiya, covered on [A30_Symmetrical_Variation.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A30_Symmetrical_Variation.md)
 * [**2... d5**](#_d5_) (+0.3): the Anglo-Grünfeld Defense (8.9% masters) — stays A16, covered in a NOTE below
@@ -42,24 +42,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 ---
 
 > [!NOTE]
-> **2... e6**, played 19.3% of the time at master level, immediately carries the **A17** tag (confirmed live) — the **Hedgehog System**, one of the English's most distinct strategic setups (Black keeps a small, elastic pawn chain and waits for White to overextend). White's 3rd move forks further: **3. Nf3** heads for a Queen's Indian-style formation (... b6/... Bb7) or a Nimzo-English (... Bb4); **3. e4** reaches the sharper **A18** Mikenas-Carls Variation, itself forking into **A19** (Mikenas-Carls, Sicilian Variation) after 3... c5.
->
-> <a name="_e6_"></a>
->
-> ### 2... e6 — Hedgehog System (A17)
->
-> [![1. c4 Nf6 2. Nc3 e6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR&lastMove=e7e6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_0_3)
->
-> *... 2... e6 — English Opening: Anglo-Indian Defense, Hedgehog System*
->
-> ```
-> rnbqkb1r/pppp1ppp/4pn2/8/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 0 3
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
-> | --- | --- |
->
-> Not built out further here (backlog).
+> **2... e6**, played 19.3% of the time at master level, is live-confirmed **A17** — the *Hedgehog System*, split off into its own card, [`A17_Anglo_Indian_Hedgehog.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A17_Anglo_Indian_Hedgehog.md) (which also covers **A18** Mikenas-Carls and **A19** Mikenas-Carls: Sicilian, both reached a few plies further down this same line, each split into their own cards too).
 >
 > [*Back to 2. Nc3*](#_Nc3_)
 > [*Back to TOP*](#_TOP_)
@@ -84,7 +67,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
 > | --- | --- |
 >
-> Not built out further here (backlog).
+> Not built out further here (backlog). Deeper named A16 sub-lines, all mention-only: after **3. cxd5 Nxd5**, White's **4. Nf3** (generic Anglo-Grünfeld, +0.2) meets a later ... g6/... Bg7/... e5 in the ***Korchnoi Variation*** (4. Nf3 g6 5. g3 Bg7 6. Bg2 e5, +0.4); **4. g3 g6 5. Bg2** forks into the ***Smyslov Defence*** (5... Nxc3, +0.5) and the ***Czech Defence*** (5... Nb6, +0.6).
 >
 > [*Back to 2. Nc3*](#_Nc3_)
 > [*Back to TOP*](#_TOP_)
@@ -92,7 +75,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 2 2
 ---
 
 > [!NOTE]
-> **2... e5**, the Two Knights Variation, is the second-most common try (22.4%) here — but it is the *exact same tabiya* as reached via 1. c4 e5 2. Nc3 Nf6 on the reversed-Sicilian side, tagged **A22**. See [A21_Kings_English_Reversed_Sicilian.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A21_Kings_English_Reversed_Sicilian.md#_Nf6_) for the actual coverage, kept in one place rather than duplicated.
+> **2... e5**, the Two Knights Variation, is the second-most common try (22.4%) here — but it is the *exact same tabiya* as reached via 1. c4 e5 2. Nc3 Nf6 on the reversed-Sicilian side, tagged **A22**. See [A22_Two_Knights_Variation.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md) for the actual coverage, kept in one place rather than duplicated.
 >
 > <a name="_e5_"></a>
 >

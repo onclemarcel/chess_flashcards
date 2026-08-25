@@ -29,7 +29,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2
 | a3 | 46 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 0 | — | ⚠ |
 | b4 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 23.0 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -37,6 +37,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2
 * [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md) (+0.1, 59.2% masters): the **A16** Queen's Knight Variation — White's clear favourite, covered on its own card
 * [**2. Nf3 / 2. g3**](#_alt_) (+0.1 each): quieter developing tries, each still a real 17-18% of masters games — both stay **A15**
 * **2. d4**: transposes straight out of the English into Indian Defense territory (Queen's Indian, King's Indian, Nimzo-Indian, ...) and is not covered here
+* [**2. b4!?**](#_b4_) (−0.3, mention-only): the *Orang-utan* — a real oddity, objectively slightly bad
 
 [*Back to TOP*](#_TOP_)
 
@@ -59,6 +60,31 @@ rnbqkb1r/pppppppp/5n2/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 1 2
 >
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 > | --- | --- |
+>
+> [*Back to 1. c4 Nf6*](#_Nf6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2. b4!?**, the *Orang-utan*, grabs queenside space at once instead of developing — a real, if eccentric, White try, and objectively slightly worse than the main tries above.
+>
+> <a name="_b4_"></a>
+>
+> ### 2. b4 — Orang-utan
+>
+> [![1. c4 Nf6 2. b4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppppppp/5n2/8/1PP5/8/P2PPPPP/RNBQKBNR&lastMove=b2b4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/1PP5/8/P2PPPPP/RNBQKBNR_b_KQkq_b3_0_2)
+>
+> *... 1. c4 Nf6 2. b4 — Orang-utan*
+>
+> ```
+> rnbqkb1r/pppppppp/5n2/8/1PP5/8/P2PPPPP/RNBQKBNR b KQkq b3 0 2
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.3 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
 >
 > [*Back to 1. c4 Nf6*](#_Nf6_)
 > [*Back to TOP*](#_TOP_)
