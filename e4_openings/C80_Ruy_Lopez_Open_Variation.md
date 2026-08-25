@@ -52,7 +52,7 @@ r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 b kq d3 0 6
 | Nxd4 | 805 (0.4%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 65/3/32 | 0 | — | ⚠ |
 | Nd6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 214 k games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_b_kq_d3_0_6#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 214 k games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_b_kq_d3_0_6#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -114,7 +114,7 @@ r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 w kq b6 0 7
 | Nxe5 | 278 (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 5 (0.1%) | — |  |
 | dxe5 | 101 (0.1%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/2/62 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 162 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_w_kq_b6_0_7#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 162 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_w_kq_b6_0_7#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **7. Bb3** is essentially forced (99.8% of masters games) — the bishop has to move off the a4-e8 diagonal before ... b4 could hit it again, and b3 keeps the long-term aim at f7 alive.
@@ -148,7 +148,7 @@ r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1 b kq - 1 7
 | d6 | 1.1 k (0.6%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 78/3/19 | 0 | — | ⚠ |
 | Nxd4 | 871 (0.5%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 71/2/27 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 190 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_b_kq_-_1_7#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 190 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_b_kq_-_1_7#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **7... d5** stakes out the centre while the knight is still solidly placed on e4 — the near-unanimous choice in masters play (99.4%).
@@ -182,7 +182,7 @@ r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1 w kq d6 0 8
 | a4 | 1.0 k (0.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 19 (0.3%) | — |  |
 | Nc3 | 787 (0.4%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 61/5/34 | 18 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 178 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_d6_0_8#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 178 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_d6_0_8#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 From here the game is essentially forced for several more moves: **8. dxe5** (98.2% masters) **Be6** (99.9%) reaches a real tabiya, and White's 9th move is a genuine four-way choice — **9. Nbd2** (46.7% masters, the top try — the knight heads for e4/c4 next), **9. c3** (27.7%, supporting a later d4 or Bc2-Nbd2 regrouping), **9. Be3** (14.9%) and **9. Qe2** (9.6%) are all played. After **9. Nbd2 Nc5** (75.0% masters), the position is named the ***Bernstein Variation*** (verified live via the explorer's own `opening` field) — Stockfish still calls it dead level (+0.1), a good summary of the whole Open Variation: Black's activity and structure genuinely compensate for White's extra central space and bishop pair, all the way through forced-looking main theory. Deeper Bernstein/9. c3 theory is its own body of work, not covered further here.

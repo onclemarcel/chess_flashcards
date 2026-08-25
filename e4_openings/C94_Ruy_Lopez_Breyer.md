@@ -44,7 +44,7 @@ rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10
 | a4 | 6.0 k (4.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 75 (0.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 19/60/21 |  |
 | Bc2 | 1.3 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/43 | 13 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 139 k games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 139 k games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/2p1bppp/p2p1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -79,7 +79,7 @@ rnbq1rk1/2p1bppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 b - d3 0 10
 | c5 | 488 (0.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/3/36 | 1 (0.0%) | — | ⚠ |
 | Re8 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 123 k games. Masters: 7.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/2p1bppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_b_-_d3_0_10#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 123 k games. Masters: 7.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/2p1bppp/p2p1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_b_-_d3_0_10#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **10... Nbd7** is essentially forced (99.9% of masters games) — the whole idea of 9... Nb8, finally completing the knight's reroute from c6 to a square where it doesn't block the c-pawn.

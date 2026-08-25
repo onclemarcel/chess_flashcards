@@ -46,7 +46,7 @@ r2q1rk1/1bp1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10
 | a4 | 3.3 k (3.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 21 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 29/62/10 |  |
 | Bc2 | 2.4 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 3 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 112 k games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/1bp1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 112 k games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/1bp1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -82,7 +82,7 @@ r2q1rk1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 b - d3 0 10
 | Nd7 | 5.9 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/49 | 469 (6.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/41/26 |  |
 | Qd7 | 0 | — | 63 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/29/19 |  |
 
-*Online: bullet/blitz, 1800+ — 96 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_b_-_d3_0_10#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 96 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_b_-_d3_0_10#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **10... Re8** is masters' clear main try (88.0%) — repositioning the rook off f8 so that after a future ... exd4/cxd4 exchange, it directly backs up the e5 pawn rather than sitting on a now-open f-file that doesn't matter yet. This is the move that actually defines the Zaitsev Variation; **10... Nd7** (6.9%) stays closer to the quieter Flohr System instead.
@@ -117,7 +117,7 @@ r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1 w - - 1 11
 | a4 | 0 | — | 370 (5.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/53/15 |  |
 | a3 | 0 | — | 233 (3.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 19/68/13 |  |
 
-*Online: bullet/blitz, 1800+ — 49 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_w_-_-_1_11#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 49 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qr1k1/1bp1bppp/p1np1n2/1p2p3/3PP3/1BP2N1P/PP3PP1/RNBQR1K1_w_-_-_1_11#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 **11. Nbd2** is masters' clear main try (86.8%), rerouting the knight toward f1-g3 or e3 while keeping the central tension unresolved.

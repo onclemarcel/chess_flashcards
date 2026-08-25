@@ -43,7 +43,7 @@ rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | Nc3 | 576 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 0 | — | ⚠ |
 | c4 | 0 | — | 833 (7.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/22 |  |
 
-*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -83,7 +83,7 @@ rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | Nb3 | 23 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 23 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/39/35 |  |
 | Be2 | 0 | — | 25 (1.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 20/48/32 |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 * **5. c4** (51.2% masters): the *Maroczy Bind* — clamps down on d5 for good with pawns on c4 and e4, the critical test of the whole Accelerated Dragon and the main reason some players prefer the slower ... d6 move order instead.

@@ -24,7 +24,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
 | e3 | 109 k (4.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/46 | 2.8 k (4.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/25 |  |
 | Bf4 | 27 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 928 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 
-*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-24*
+*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
