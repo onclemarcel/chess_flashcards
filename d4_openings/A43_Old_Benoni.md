@@ -2,30 +2,9 @@
 
 # A43 Benoni Defense: Old Benoni <br> 1. d4 c5 #
 
-Spun off from [A40's 1... c5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_c5_): Black strikes at the centre from the flank a tempo down compared with the Modern Benoni (which needs 1. d4 Nf6 2. c4 c5 3. d5 first). White isn't forced to advance the d-pawn at all, and simply enjoys a comfortable space advantage if it's declined — but **2. d5** is by far the most tested reply, and this card follows the resulting Old Benoni structure.
+Spun off from [A40's 1... c5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_c5_): Black strikes at the centre from the flank a tempo down compared with the Modern Benoni (which needs 1. d4 Nf6 2. c4 c5 3. d5 first). White isn't forced to advance the d-pawn at all, and simply enjoys a comfortable space advantage if it's declined — but **2. d5** is by far the most tested reply.
 
-### Overview
-
-*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. 2... Nf6/d6/g6 are discussed below but have no anchor of their own, so they're left off this map rather than pointing nowhere.*
-
-<!-- content-diagram:start -->
-```mermaid
-flowchart LR
-    classDef main stroke-width:3px;
-
-    c5["1. d4 c5"]
-    click c5 "#_initial_move_" "A43 · Benoni Defense: Old Benoni"
-
-    c5 --> d5[["2. d5 !<br/>+0.6"]]:::main
-    click d5 "#_d5_" "A43 · Benoni Defense: Old Benoni"
-
-    d5 --> e5[["2... e5 !<br/>+1.3"]]:::main
-    click e5 "#_e5_" "A44 · Benoni Defense: Old Benoni"
-
-    e5 --> e4[["3. e4 !<br/>+1.4"]]:::main
-    click e4 "#_e4_" "A44 · Benoni Defense: Old Benoni"
-```
-<!-- content-diagram:end -->
+**Corrected 2026-08-25**: this card used to follow **2... e5** as its main line — but that specific move is actually **A44**, not A43 (both codes happen to share the exact "Old Benoni" name, which is what hid the mismatch) — split off into [`A44_Old_Benoni.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A44_Old_Benoni.md), found via this repo's own Phase D ECO-code audit. **2... d6** turns out to be the position genuinely coded A43 · Old Benoni, so it's the new main line below; **2... Nf6** is also real A43 content under its own distinct name, the *Benoni-Indian Defense*.
 
 <a name="_initial_move_"></a>
 
@@ -90,43 +69,45 @@ rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2
 <!-- lichess-stats:end -->
 
 > [!NOTE]
-> Masters' most popular try, **2... e5** (35.0%), is the move that gives this line its "Old Benoni" name — but it's also the *worst* of Black's realistic options here per Stockfish (+1.3, a real 0.7-pawn swing worse than the alternatives below). **2... Nf6** (+0.6, 24.5% masters), **2... d6** (+0.6, 12.5%) and **2... g6** (+0.7, 12.8%) are all objectively sounder, keeping the option of a later ... e6 to challenge d5 without permanently locking the centre and burying the dark-squared bishop behind its own e5 pawn. A recurring pattern in this repository: the historically "classical" line and the engine's own preference don't always agree, even among masters.
+> Masters' most popular try, **2... e5** (35.0%), is the move that gives this whole line its "Old Benoni" name and is even coded A44 — but it's also the *worst* of Black's realistic options here per Stockfish (+1.3, a real 0.7-pawn swing worse than the alternatives below), covered on its own card, [`A44_Old_Benoni.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A44_Old_Benoni.md). **2... Nf6** (+0.6, 24.5% masters), **2... d6** (+0.6, 12.5%) and **2... g6** (+0.7, 12.8%) are all objectively sounder, keeping the option of a later ... e6 to challenge d5 without permanently locking the centre. A recurring pattern in this repository: the historically "classical" line and the engine's own preference don't always agree, even among masters.
 
-* [**2... e5**](#_e5_) (+1.3): the *Old Benoni* proper — masters' plurality choice (35.0%) despite being objectively the weakest — see the note above, and the section below.
-* **2... Nf6 / 2... d6 / 2... g6**: all objectively better (+0.6, +0.6, +0.7), none built out further here (backlog).
+* [**2... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A44_Old_Benoni.md) (+1.3, A44): the historically "classical" — but objectively weakest — try, covered on its own card.
+* [**2... d6**](#_d6_) (+0.6, 12.5% masters): the genuine A43, the line this card follows below.
+* [**2... Nf6**](#_Nf6_) (+0.6, 24.5% masters): also real A43 content, under its own name, the *Benoni-Indian Defense* — see the note below.
+* **2... g6** (+0.7, 12.8% masters): real and sound, not individually catalogued by the explorer — not built out further here (backlog).
 
 [*Back to 1. d4 c5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
 ---
 
-<a name="_e5_"></a>
+<a name="_d6_"></a>
 
-### 2... e5 — the Old Benoni proper
+## 2... d6 — Old Benoni
 
-[![2... e5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR&lastMove=e7e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3)
+[![2... d6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR&lastMove=d7d6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3)
 
-*... 2... e5 — locking the centre, the move the whole line is named for*
+*... 2... d6 — Old Benoni*
 
 ```
-rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3
+rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.3 |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+<!-- lichess-stats:start fen="rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| c4 | 911 k (48.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 449 (19.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/29/31 |  |
-| e4 | 419 k (22.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/46 | 1.7 k (71.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 54/26/20 |  |
-| dxe6 | 271 k (14.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 42 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/24 |  |
-| Nc3 | 250 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 173 (7.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/27/23 |  |
+| c4 | 3.7 M (68.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 317 (38.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/36/30 |  |
+| Nc3 | 717 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 68 (8.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/32/29 |  |
+| e4 | 679 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 422 (50.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/29/26 |  |
+| Nf3 | 160 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 20 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 834 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
-**3. e4** is masters' clear main try (71.0%) — completing a broad pawn centre while Black's own centre is already fixed and the dark-squared bishop stays boxed in behind the e5 pawn for a long time.
+**3. e4** is masters' clear main try (50.6%) — claiming the full centre before Black can put any more pressure on d5; **3. c4** (38.0%) is the other real try, transposing toward Modern-Benoni-flavoured structures a tempo down.
 
 [*Back to 2. d5*](#_d5_)
 [*Back to TOP*](#_TOP_)
@@ -137,18 +118,66 @@ rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3
 
 ### 3. e4
 
-[![3. e4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1p1ppp/8/2pPp3/4P3/8/PPP2PPP/RNBQKBNR&lastMove=e2e4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3)
+[![3. e4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR&lastMove=e2e4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3)
 
-*... 3. e4 — reaching the main Old Benoni tabiya*
+*... 3. e4*
 
 ```
-rnbqkbnr/pp1p1ppp/8/2pPp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
+rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.4 |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 | --- | --- |
 
-From here Black typically continues **... d6** and **... g6/... Nf6**, aiming for a King's-Indian-like setup with a permanently cramped position — playable at club level but rarely seen at the top today, which is exactly why the Modern Benoni (delaying ... e5, or avoiding it) superseded this line in serious practice. Deeper theory past this point is its own body of work, not covered further here.
+<!-- lichess-stats:start fen="rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Nf6 | 236 k (26.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 208 (48.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
+| e5 | 209 k (23.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 38 (8.9%) | ⬜⬜⬜⬜⬜⬜⬜🟫🟫⬛ 68/16/16 |  |
+| g6 | 164 k (18.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 170 (39.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/26/26 |  |
+| e6 | 160 k (18.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
+| a6 | 0 | — | 8 (1.9%) | — |  |
 
-[*Back to 2... e5*](#_e5_)
+*Online: bullet/blitz, 1800+ — 888 k games. Masters: 428 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-08-25*
+<!-- lichess-stats:end -->
+
+**3... Nf6** is masters' clear main try (48.6%) — developing before committing to a kingside setup; **3... g6** (39.7%) heads straight for a King's-Indian-style fianchetto instead. Deeper theory past this point is its own body of work, not covered further here.
+
+[*Back to 2... d6*](#_d6_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... Nf6** develops before committing a central pawn at all, keeping ... e5/... d6/... g6 all open a move longer.
+>
+> <a name="_Nf6_"></a>
+>
+> ### 2... Nf6 — Benoni-Indian Defense
+>
+> [![2... Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR&lastMove=g8f6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3)
+>
+> *... 2... Nf6 — Benoni-Indian Defense*
+>
+> ```
+> rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 1 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | c4 | 1.6 M (70.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 833 (50.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/31/26 |  |
+> | Nc3 | 480 k (21.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 596 (36.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/33/25 |  |
+> | Nf3 | 57 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 155 (9.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/26 |  |
+> | Bg5 | 31 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 30 (1.8%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 43/23/33 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> **3. c4** is masters' clear main try (50.9%) — transposing toward the Modern Benoni complex a tempo down; **3. Nc3** (36.4%) keeps options flexible a move longer. Not built out further here (backlog).
+>
+> [*Back to 2. d5*](#_d5_)
+> [*Back to TOP*](#_TOP_)

@@ -367,6 +367,21 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 > | --- | --- |
 >
+> <!-- lichess-stats:start fen="rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 2 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | g6 | 16.6 M (34.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/46 | 53 k (37.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/40/26 |  |
+> | e6 | 13.3 M (27.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 49 k (34.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/25 |  |
+> | d5 | 8.7 M (18.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 20 k (13.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/51/23 |  |
+> | c5 | 4.7 M (9.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 11 k (7.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/34/29 |  |
+> | d6 | 2.9 M (6.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 3.8 k (2.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
+> | b6 | 956 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 3.1 k (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/39/31 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 48.4 M games. Masters: 141 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_2_2#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> * [**2... b6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md): the [Pseudo Queen's Indian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md) — covered on its own card
+>
 > [*Back to 1... Nf6*](#_Nf6_)
 > [*Back to TOP*](#_TOP_)
 
@@ -406,6 +421,7 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 * [**2... g6**](#_Nf6_c4_g6_) (+0.3): a very close second (32.8% of masters games) — the King's Indian / Grünfeld family
 * **2... c5** (0.0, 8.3% masters): after 3. d5 (88.8% masters), forks hard into two real gambit/defence tries — the [**Benko Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md) (3... b5, actually masters' *more* popular pick here at 48.5%) and the [**Modern Benoni**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A60_Modern_Benoni.md) (3... e6, 26.5%) — both covered on their own cards
 * [**2... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) (+0.9, 0.7% masters): the [**Budapest Gambit**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit.md) — a real, named pawn sacrifice for quick piece activity, covered on its own card
+* [**2... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md) (+0.5, 4.8% masters): the [**Old Indian Defense**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md) — a solid, King's-Indian-flavoured setup without the fianchetto, covered on its own card
 
 [*Back to 1... Nf6*](#_Nf6_)
 [*Back to TOP*](#_TOP_)
@@ -430,7 +446,19 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
 > | --- | --- |
 >
-> White's near-automatic **3. Nc3** (80.0% of masters games) forks into the King's Indian (3... Bg7) and Grünfeld (3... d5) Defenses — see the [dedicated hub card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md).
+> <!-- lichess-stats:start fen="rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | Nc3 | 20.8 M (80.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 121 k (80.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/23 |  |
+> | Nf3 | 2.9 M (11.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 12 k (7.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/46/21 |  |
+> | g3 | 707 k (2.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/44 | 13 k (8.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/47/19 |  |
+> | e3 | 629 k (2.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
+> | f3 | 0 | — | 4.2 k (2.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/45/22 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
+> <!-- lichess-stats:end -->
+>
+> White's near-automatic **3. Nc3** (80.0% of masters games) forks into the King's Indian (3... Bg7) and Grünfeld (3... d5) Defenses — see the [dedicated hub card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md). **3. g3** (8.7%) is a real second choice, fianchettoing before committing the queen's knight — see the [Neo-Grünfeld Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D71_Neo_Grunfeld_Defense.md), covered on its own card.
 >
 > [*Back to 1... Nf6 2. c4*](#_Nf6_c4_)
 > [*Back to TOP*](#_TOP_)

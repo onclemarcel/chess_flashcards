@@ -4,6 +4,8 @@
 
 Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d5_): rather than commit to c4 immediately, White develops the queen's knight first, keeping options open between a quick e4 push or the sharper Bg5 pin that gives this line its name. A real sidestep for club and blitz players — sound, rarely faced, and often steering the game away from mainstream Queen's Gambit/Slav theory within two moves.
 
+**Naming precision, confirmed via this repo's own Phase D ECO audit**: the root position shown right below (2. Nc3, before Black replies) is itself live-tagged **D00 · Queen's Pawn Game: Chigorin Variation**, not D01 — the D01 code only starts once Black plays 2... Nf6 and White commits to 3. Bg5 specifically (the mermaid's own tooltips already reflect this correctly). This card keeps the D01/Richter-Veresov title since that's genuinely what its own main content is, the same "title the card after its real content, not the exact code of the shallowest diagram on the page" choice already made elsewhere in this repo (e.g. the Scotch Opening card) — noted explicitly here rather than left as a silent mismatch.
+
 ### Overview
 
 *Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
@@ -22,7 +24,7 @@ flowchart LR
     Nf6 --> Bg5[["3. Bg5 !<br/>-0.2"]]:::main
     click Bg5 "#_Bg5_" "D01 · Richter-Veresov Attack"
     Nf6 --> Bf4[["3. Bf4<br/>-0.1"]]
-    click Bf4 "#_Bf4_" "A45 · Queen's Pawn Game: Chigorin Variation"
+    click Bf4 "#_Bf4_" "D01 · Rapport-Jobava System"
 
     Bg5 --> Nbd7[["3... Nbd7 !<br/>-0.1"]]:::main
     click Nbd7 "#_Nbd7_" "D01 · Richter-Veresov Attack"
@@ -96,10 +98,10 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
 *Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-25*
 <!-- lichess-stats:end -->
 
-White's 3rd move here is a genuine near-even fork — **3. Bg5** (48.9% masters) and **3. Bf4** (47.4%) are essentially tied, unlike most of this repository's forks. Only 3. Bg5 carries the Veresov name.
+White's 3rd move here is a genuine near-even fork — **3. Bg5** (48.9% masters) and **3. Bf4** (47.4%) are essentially tied, unlike most of this repository's forks. Only 3. Bg5 carries the Veresov name; 3. Bf4 is its own distinctly-coded, distinctly-named system.
 
 * [**3. Bg5**](#_Bg5_) (-0.2): the *Richter-Veresov Attack* proper — pins the knight immediately, the line this card follows.
-* <a name="_Bf4_"></a>**3. Bf4** (-0.1): an equally common try (47.4% masters) that develops the bishop actively without committing to the pin — no distinct name attached to this exact position by the explorer, and not covered further here.
+* <a name="_Bf4_"></a>**3. Bf4** (-0.1): an equally common try (47.4% masters) that develops the bishop actively without committing to the pin — this is the **Rapport-Jobava System**, its own distinct D01-coded line (corrected 2026-08-25; a prior draft claimed the explorer left this position unnamed, which live-verification during this repo's own Phase D audit found to be wrong), not covered further here.
 
 [*Back to 1. d4 d5 2. Nc3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

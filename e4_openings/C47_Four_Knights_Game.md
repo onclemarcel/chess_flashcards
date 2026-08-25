@@ -4,6 +4,8 @@
 
 The most symmetrical and classical of White's tries against 2... Nc6: both sides simply develop knights toward the centre before committing to a plan. Solid and slightly drawish by reputation, but it transposes into some genuinely sharp territory once both sides bring their king's knights out too.
 
+**Naming precision, confirmed via this repo's own Phase D ECO audit**: the root position shown right below (3. Nc3, before Black replies) is itself live-tagged **C46 · Three Knights Opening**, not C47 — the C47 code only starts once Black actually plays 3... Nf6, reached one ply further down this same page. This card keeps the C47/Four Knights title since that's genuinely what its own main content is, the same choice already made on the Richter-Veresov Attack card for its own root/D00 mismatch — noted explicitly here rather than left as a silent one-ply-early label.
+
 ### Overview
 
 *Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*

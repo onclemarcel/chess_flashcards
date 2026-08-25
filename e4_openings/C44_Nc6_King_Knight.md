@@ -24,6 +24,8 @@ flowchart LR
     click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md" "C44 · Scotch Opening"
     Nc6 --> Nc3["3. Nc3<br/>+0.1"]
     click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md" "C47 · Four Knights Game"
+    Nc6 --> c3n["3. c3<br/>-0.1"]
+    click c3n "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md" "C44 · Ponziani Opening"
 ```
 <!-- content-diagram:end -->
 
@@ -63,5 +65,6 @@ None of White's main tries here is objectively much stronger than the others —
 * [**3. Bc4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md) (+0.1): the [Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), the most popular try online (39.6%) though second to the Ruy Lopez in masters play (19.3%). Develops actively toward f7 at once.
 * [**3. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md) (+0.1): the [Scotch Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md) — opens the centre immediately rather than building up slowly. Popular online (20.2%) but a clear third choice for masters (8.9%).
 * [**3. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) (+0.1): the [Four Knights Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md), developing symmetrically and keeping the position flexible; the least common of the four both online (7.7%) and in masters play (5.7%).
+* [**3. c3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md) (-0.1, 0.6% masters): the [Ponziani Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md) — a genuine rarity today, preparing an immediate d4, covered on its own card.
 
 [*Back to TOP*](#_TOP_)
