@@ -64,7 +64,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R b KQkq - 0 3
 | dxc4 | 24 k (7.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 42 (2.8%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/36/40 |  |
 | Bg4 | 19 k (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 532 (35.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/43/32 |  |
 
-*Online: bullet/blitz, 1800+ — 345 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 345 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **Naming note, verified against `eco.md` rather than assumed**: Lichess's own live opening-name field repeats "Bogoljubow Variation" for this bare position (per `start.md`'s documented convention, a position with no distinct name of its own just repeats its nearest *named* ancestor). `eco.md`'s own finer per-line naming shows that name really belongs to **3... Bg4** specifically — see below.
@@ -151,7 +151,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R w KQkq - 1 4
 | cxd5 | 3.7 k (1.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 3 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 246 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 246 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/P2PPPPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**4. Bb2**](#_Nf6_Bb2_) (0.0): masters' clear favourite (76.5%) — covered below
@@ -188,7 +188,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3NP1/P2PPP1P/RNBQKB1R b KQkq - 0 4
 | e6 | 10 k (14.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/40 | 0 | — | ⚠ |
 | dxc4 | 0 | — | 53 (6.1%) | ⬜⬜🟫🟫⬛⬛⬛⬛⬛⬛ 23/21/57 |  |
 
-*Online: bullet/blitz, 1800+ — 71 k games. Masters: 863 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3NP1/P2PPP1P/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 71 k games. Masters: 863 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3NP1/P2PPP1P/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**4... Bg4**](#_Nf6_g3_Bg4_) (0.0, 43.0% masters): the *Torre defensive System* — covered below
@@ -268,7 +268,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R b KQkq - 2 4
 | Bg4 | 44 k (18.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 355 (38.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/46/27 |  |
 | g6 | 36 k (15.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 74 (8.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 53/28/19 |  |
 
-*Online: bullet/blitz, 1800+ — 242 k games. Masters: 923 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R_b_KQkq_-_2_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 242 k games. Masters: 923 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2P5/1P3N2/PB1PPPPP/RN1QKB1R_b_KQkq_-_2_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**4... Bg4**](#_Nf6_Bb2_Bg4_) (0.0, 38.5% masters): *Capablanca's Variation* — covered below

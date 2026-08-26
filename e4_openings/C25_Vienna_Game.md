@@ -54,7 +54,7 @@ rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 | g6 | 0 | — | 6 (0.1%) | — |  |
 | Be7 | 0 | — | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 27.8 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 27.8 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -121,7 +121,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 | d4 | 267 k (2.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 274 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
 | a3 | 0 | — | 45 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/42/20 |  |
 
-*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 No White try dominates the masters statistics the way Nf6 itself did for Black: **3. g3** (35.1% masters), **3. Bc4** (24.2%), **3. f4** (18.4%, the sharp *Vienna Gambit*), and **3. Nf3** (17.0%, transposing back toward C40) are all seen regularly, and Stockfish rates all four within a few hundredths of a pawn of each other. Online, **3. Nf3** is the most reached-for (34.8%).

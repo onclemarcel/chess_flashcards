@@ -26,7 +26,7 @@ rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R w KQkq d6 0 2
 | e3 | 2.3 M (6.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 5.3 k (6.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
 | b3 | 2.0 M (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 3.7 k (4.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/42/27 |  |
 
-*Online: bullet/blitz, 1800+ — 36.0 M games. Masters: 89 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_d6_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 36.0 M games. Masters: 89 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_d6_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 A genuinely scattered choice for White — no single try clears 40% of masters games, and each leads somewhere structurally distinct.

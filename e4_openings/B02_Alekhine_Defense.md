@@ -49,7 +49,7 @@ rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2
 | d3 | 2.2 M (5.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 477 (2.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/31/38 |  |
 | Bc4 | 0 | — | 22 (0.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/9/50 |  |
 
-*Online: bullet/blitz, 1800+ — 37.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 37.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -83,7 +83,7 @@ rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2
 | Ng8 | 947 k (4.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 132 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 49/23/28 |  |
 | Ne4 | 438 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/3/45 | 14 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 20.3 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 20.3 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **2... Nd5** is essentially forced (99.2% of masters games) — the knight has nowhere else useful to go and every other retreat gives up the whole point of the opening.
@@ -116,7 +116,7 @@ rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3
 | Nf3 | 1.6 M (8.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 198 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/34/31 |  |
 | Nc3 | 1.2 M (6.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 702 (3.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/38/31 |  |
 
-*Online: bullet/blitz, 1800+ — 18.7 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 18.7 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3. d4** is masters' clear main try (84.3%) — building the broad pawn centre the whole opening is designed to provoke.
