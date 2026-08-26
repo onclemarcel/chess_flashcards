@@ -32,6 +32,28 @@ rnbqkb1r/pppppppp/7n/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2
 
 ### Candidate moves
 
-* **2. d4**: masters' clear main try (85.7% of a tiny sample) — White claims the centre while the knight sits awkwardly on the rim; not built out further here (backlog).
+* [**2. d4**](#_d4_): masters' clear main try (85.7% of a tiny sample) — White claims the centre while the knight sits awkwardly on the rim — covered below.
 
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d4_"></a>
+
+## 2. d4 g6 3. c4 f6 — the named Hippopotamus tabiya
+
+[![3... f6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR&lastMove=f7f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR_w_KQkq_-_0_4)
+
+*... 2. d4 g6 3. c4 f6 — Hippopotamus Defense*
+
+```
+rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.9 |
+| --- | --- |
+
+This is the exact sequence the "Hippopotamus" name is drawn from in `eco.md`'s own reference — Black builds the full pawn wall (b6/d6/e6/f6/g6/h6 behind fianchettoed bishops) that the system is named for, with the knight already committed to the rim on h6 rather than the more standard g8-e7 route. A genuine database curiosity at this exact move order (a single recorded masters game). Not built out further here (backlog).
+
+[*Back to 1... Nh6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

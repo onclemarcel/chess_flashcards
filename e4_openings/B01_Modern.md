@@ -129,7 +129,10 @@ rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
 > | --- | --- |
 >
-> Black usually answers with **... c6** (52.8% masters) or **... e6** (46.6% masters), both preparing to challenge the c4/d5 pawn duo.
+> Black usually answers with **... c6** (52.8% masters) or **... e6** (46.6% masters), both preparing to challenge the c4/d5 pawn duo — each carrying its own real name, live-verified rather than assumed from `eco.md`'s own generic labels:
+>
+> * **3... e6**, live-tagged the *Icelandic-Palme Gambit* (+0.4, mention-only — `eco.md` just says "Icelandic Gambit") — offers the pawn back for rapid development. **4. dxe6** is masters' clear main reply (65.9%), simply banking the material.
+> * **3... c6**, live-tagged the *Panov Transfer* (+0.2, mention-only — `eco.md` just says "Gambit", a generic and rather misleading label since no pawn is actually offered) — prepares ... cxd5, heading for genuine Panov-Attack-style structures a tempo down. Masters split between **4. d4** (48.9%) and **4. Nc3** (45.7%).
 >
 > ### 3. Nf3
 >
@@ -201,6 +204,9 @@ rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 * **3... Nxd5** (+0.7, 67.6% masters): the *Marshall Variation* — Black recaptures immediately, accepting an isolated-queen-pawn-style structure after a later c4
 * **3... Bg4** (+0.6, 30.5% masters): the *Portuguese Gambit* — pins Nf3 before it develops, postponing the recapture by one more move in exchange for a lead in development
 
+> [!NOTE]
+> **3... g6!?**, the *Richter Variation* (+1.0, mention-only), fianchettoes immediately instead of recapturing — a genuine database curiosity (a 5-game masters sample) that leaves Black simply down a pawn for very little.
+
 Following **3... Nxd5**, White most often plays **4. c4** (40.7% masters, kicking the knight and gaining space) or **4. Nf3** (51.5% masters, simple development). Both transpose into well-known Marshall Variation theory that deserves its own card.
 
 <a name="_Marshall_"></a>
@@ -229,6 +235,9 @@ rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 
 *Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
+
+> [!NOTE]
+> **4. c4 Nb4!?**, the *Kiel Variation* (+1.4, mention-only), retreats the knight to the rim rather than the more natural b6 — a genuine database curiosity (a 19-game masters sample) and, per Stockfish, a real structural concession. **5. a3** is masters' clear reply (78.9%), simply kicking the knight again.
 
 [*Back to 2... Nf6*](#_Nf6_)
 [*Back to TOP*](#_TOP_)

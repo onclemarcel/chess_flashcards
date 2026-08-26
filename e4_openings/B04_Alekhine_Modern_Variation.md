@@ -17,7 +17,7 @@ flowchart LR
     click Nf3 "#_initial_move_" "B04 · Alekhine Defense: Modern Variation"
 
     Nf3 --> Bg4[["4... Bg4<br/>+0.7"]]
-    click Bg4 "#_Bg4_" "B04 · Alekhine Defense: Modern Variation"
+    click Bg4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md" "B05 · Alekhine Defense: Modern Variation, Main Line"
     Nf3 --> dxe5[["4... dxe5 !<br/>+0.4"]]:::main
     click dxe5 "#_dxe5_" "B04 · Alekhine Defense: Modern Variation"
     Nf3 --> g6[["4... g6<br/>+0.9"]]
@@ -57,45 +57,20 @@ rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4
 
 ### Candidate moves
 
-* [**4... Bg4**](#_Bg4_) (+0.7): masters' single most popular try (34.0%) — pins the f3 knight immediately.
+* [**4... Bg4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md) (+0.7): masters' single most popular try (34.0%) — pins the f3 knight immediately. Live-confirmed its own code, the **B05** Modern Variation, Main Line — covered on its own card.
 * [**4... dxe5**](#_dxe5_) (+0.4): trades off the tension right away (26.8% masters) — the engine's preferred choice.
 * [**4... g6**](#_g6_) (+0.9): fianchettoes instead (24.1% masters) — the least accurate of the three per Stockfish, though still fully playable.
+* **4... Nb6** (mention-only): the *Schmid Variation* — covered below.
 
 [*Back to TOP*](#_TOP_)
 
 ---
 
-<a name="_Bg4_"></a>
-
-## 4... Bg4
-
-[![4... Bg4](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R&lastMove=c8g4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_2_5)
-
-*... 4... Bg4*
-
-```
-rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Be2 | 432 k (59.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 3.2 k (94.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
-| Bc4 | 84 k (11.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 27 (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/37 |  |
-| exd6 | 76 k (10.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 21 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 24/52/24 |  |
-| h3 | 58 k (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 85 (2.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 35/26/39 |  |
-| c4 | 51 k (7.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 47 (1.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
-
-*Online: bullet/blitz, 1800+ — 721 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_2_5#explorer) — updated 2026-08-26*
-<!-- lichess-stats:end -->
-
-**5. Be2** is masters' overwhelming choice (94.5%) — meeting the pin the simplest way, without weakening the kingside with an early h3. Deeper Alekhine Defense theory past this point is its own extensive body of work, not covered further here.
-
-[*Back to 4. Nf3*](#_initial_move_)
-[*Back to TOP*](#_TOP_)
+> [!NOTE]
+> **4... Nb6!?**, the *Schmid Variation* (+0.7, mention-only), retreats the knight before it can be kicked further — a real but distinctly minor try (7.0% masters). Masters split between **5. a4** (41.5%) and **5. Be2** (27.4%).
+>
+> [*Back to 4. Nf3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -148,7 +123,12 @@ rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5
 *Online: bullet/blitz, 1800+ — 422 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-**5. Bc4** — tagged the *Alburt Variation* by the explorer (named after GM Lev Alburt, a leading exponent of this whole 4... g6 setup) — is masters' clear main try (80.7%), eyeing the d5 knight and f7 before Black can consolidate with ... Bg7. Fianchettoing before resolving the central tension is playable for Black, but the least precise of the three main 4th-move tries per Stockfish. Deeper theory past this point is not covered further here.
+**5. Bc4** — tagged the *Alburt Variation* by the explorer (named after GM Lev Alburt, a leading exponent of this whole 4... g6 setup) — is masters' clear main try (80.7%), eyeing the d5 knight and f7 before Black can consolidate with ... Bg7. Fianchettoing before resolving the central tension is playable for Black, but the least precise of the three main 4th-move tries per Stockfish.
+
+> [!NOTE]
+> **5... Nb6 6. Bb3 Bg7 7. a4!?**, the *Keres Variation* (+0.4, mention-only), immediately stakes out queenside space to cramp the knight's own retreat square further. Masters split between **7... a5** (53.0%) and **7... dxe5** (31.0%).
+
+Not built out further here otherwise (backlog).
 
 [*Back to 4. Nf3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

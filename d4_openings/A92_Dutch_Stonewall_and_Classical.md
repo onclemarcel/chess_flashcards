@@ -14,7 +14,7 @@ Spun off from [A91_Dutch_Be7.md](https://github.com/onclemarcel/chess_flashcards
 rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 5 6
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | EVALPLACEHOLDER |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
 <!-- lichess-stats:start fen="rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 5 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
@@ -51,7 +51,7 @@ rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 5 6
 rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - d6 0 7
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | EVALPLACEHOLDER |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
 
 <!-- lichess-stats:start fen="rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - d6 0 7" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
@@ -91,7 +91,7 @@ Black commits to the firm d5/e6/f5 pawn chain — the classic Stonewall structur
 rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | EVALPLACEHOLDER |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
 
 **7... c6** is masters' overwhelming reply (90.8%), reinforcing d5 before choosing a further plan — advances into the **A95** continuation, covered on [`A95_Dutch_Stonewall_Nc3_c6.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A95_Dutch_Stonewall_Nc3_c6.md).

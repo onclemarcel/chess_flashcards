@@ -452,7 +452,7 @@ rnb1kbnr/ppp1pppp/8/3q4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 3
 > [!NOTE]
 > Online, **3... Qd8** is the single most popular retreat (43.9%), simply undoing the queen move. In masters games it drops to 9.5% — strong players prefer to keep the queen active on a5 or d6 rather than lose the extra tempo outright.
 
-* **3... Qa5** (+0.6, 51.7% masters): the *Main Line* — the queen eyes a5-e1 and pins Nc3 to the king once White plays d4, at the cost of being exposed to Nb5/Bd2 tricks later.
+* [**3... Qa5**](#_Qa5_d4_) (+0.6, 51.7% masters): the *Main Line* — the queen eyes a5-e1 and pins Nc3 to the king once White plays d4, at the cost of being exposed to Nb5/Bd2 tricks later — covered below.
 * **3... Qd6** (+0.5, 37.9% masters): the *Gubinsky-Melts Defense* — a flexible square that also guards e5 and c7, avoiding the pin themes of Qa5.
 * **3... Qd8** (+0.6, 9.5% masters, 43.9% online ⚠): the *Valencian Variation* — the safest retreat, but it gives back the tempo for nothing; both replies above score better in top-level play.
 
@@ -460,3 +460,125 @@ Both main tries continue **4. d4** (77.6% of masters after 3... Qa5, 89.5% after
 
 [*Back to 2... Qxd5*](#_Qxd5_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Qa5_d4_"></a>
+
+## 3... Qa5 4. d4
+
+[![4. d4](https://backscattering.de/web-boardimage/board.svg?fen=rnb1kbnr/ppp1pppp/8/q7/3P4/2N5/PPP2PPP/R1BQKBNR&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnb1kbnr/ppp1pppp/8/q7/3P4/2N5/PPP2PPP/R1BQKBNR_b_KQkq_d3_0_4)
+
+*... 3... Qa5 4. d4*
+
+```
+rnb1kbnr/ppp1pppp/8/q7/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq d3 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+### Candidate moves
+
+* [**4... Nf6**](#_Qa5_Nf6_) (74.1% masters): masters' overwhelming favourite — covered below.
+* **4... c6** (24.1% masters, mention-only): a real second try, shoring up the queen's own retreat square and preparing ... Nf6/... Bf5; no further named B01 sub-line — not built out further here (backlog).
+* [**4... e5**](#_Anderssen_) (0.9% masters, mention-only): the *Anderssen Counterattack* — covered below.
+* **4... Bf5** (0.6% masters, mention-only): a real minor try, developing before ... Nf6.
+
+[*Back to 3. Nc3*](#_Qxd5_Nc3_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Qa5_Nf6_"></a>
+
+### 4... Nf6 5. Nf3
+
+[![5. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R&lastMove=g1f3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5)
+
+*... 4... Nf6 5. Nf3*
+
+```
+rnb1kb1r/ppp1pppp/5n2/q7/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 2 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+Masters' actual top try, **5... c6** (40.5%), doesn't carry its own named B01 sub-line — the two that do (Bf5/Bg4) are both real but slightly less common.
+
+* **5... c6** (40.5% masters, mention-only): not built out further here (backlog).
+* [**5... Bf5**](#_Classical_) (29.8% masters): the *Classical Variation* — covered below.
+* [**5... Bg4**](#_Lasker_) (18.8% masters): the *Lasker Variation* — covered below.
+
+[*Back to 3... Qa5 4. d4*](#_Qa5_d4_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Classical_"></a>
+
+#### 5... Bf5 — Classical Variation
+
+[![5... Bf5](https://backscattering.de/web-boardimage/board.svg?fen=rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R&lastMove=c8f5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6)
+
+*... 5... Bf5 — Classical Variation*
+
+```
+rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+| --- | --- |
+
+Masters split between **6. Bc4** (41.8%) and **6. Ne5** (30.8%, heading toward the Gruenfeld Variation below).
+
+> [!NOTE]
+> **6. Ne5 c6 7. g4!?**, the *Gruenfeld Variation* (+0.2, mention-only — no relation to the D70-D99 Grünfeld Defense), immediately attacks the bishop with the king's own pawn cover thrown forward — a real, if minor, try (78 masters games). **7... Be6** is masters' clear reply (76.9%).
+
+Not built out further here otherwise (backlog).
+
+[*Back to 4... Nf6 5. Nf3*](#_Qa5_Nf6_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Lasker_"></a>
+
+#### 5... Bg4 — Lasker Variation
+
+[![5... Bg4](https://backscattering.de/web-boardimage/board.svg?fen=rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N2/PPP2PPP/R1BQKB1R&lastMove=c8g4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N2/PPP2PPP/R1BQKB1R_w_KQkq_-_2_6)
+
+*... 5... Bg4 — Lasker Variation*
+
+```
+rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+**6. h3** questions the bishop immediately (masters' actual overwhelming choice at this exact named tabiya). Masters split between **6... Bh5** (72.6%), keeping the pin, and **6... Bxf3** (26.2%), giving up the bishop pair to damage White's structure.
+
+Not built out further here (backlog).
+
+[*Back to 4... Nf6 5. Nf3*](#_Qa5_Nf6_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Anderssen_"></a>
+
+> [!NOTE]
+> **4... e5!?**, the *Anderssen Counterattack* (+0.9, mention-only), strikes back in the centre immediately instead of developing — a real but distinctly minor try (0.9% masters). Masters split between **5. dxe5** (56.1%) and **5. Nf3** (31.6%, the *Goteborg System*). Three deeper named sub-lines exist, all genuine database curiosities (4-18 masters games each): the **Orthodox Attack** (5. dxe5 Bb4 6. Bd2 Nc6 7. Nf3), the **Goteborg System** (5. Nf3) itself, and its own **Collijn Variation** (5. Nf3 Bg4) — none built out further here (backlog).
+>
+> [*Back to 3... Qa5 4. d4*](#_Qa5_d4_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. b4!?**, live-tagged the *Leonhardt Gambit* (−0.1, mention-only — `eco.md` calls this same position the *Mieses-Kotrvc Gambit*, a real name divergence between the two sources), offers a second pawn to deflect the queen further — a real but distinctly minor try. **4... Qxb4** is masters' overwhelming reply (91.2%).
+>
+> [*Back to 3... Qa5 4. d4*](#_Qa5_d4_)
+> [*Back to TOP*](#_TOP_)

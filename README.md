@@ -27,9 +27,9 @@ There are several ways to dive into the pages of this repository:
 - [**... e6**](./e4_openings/C00_French_Defense.md) the French Defense, built out to the [Winawer/Classical](./e4_openings/C00_French_Defense.md#_Nc3_) fork after 2. d4 d5 3. Nc3, or
 - [**... c6**](./e4_openings/B10_Caro_Kann.md) the Caro-Kann Defense, which keeps the light-squared bishop free. Masters' main try, 2. d4, is [B12](./e4_openings/B12_Caro_Kann.md), built out to the [Advance Variation](./e4_openings/B12_Caro_Kann.md#_e5_) tabiya after 2. d4 d5 3. e5.
 - **Black** may instead delay the centre entirely (hypermodern tries — rare, but sound and genuinely offbeat):
-- [**... d6**](./e4_openings/B07_Pirc_Defense.md) the Pirc Defense, forking into the [Austrian Attack](./e4_openings/B08_Pirc_Defense_Tabiya.md) (4. f4) / Classical (4. Nf3) / [150 Attack](./e4_openings/B08_Pirc_Defense_Tabiya.md#_Be3_) (4. Be3) after 2. d4 Nf6 3. Nc3 g6,
+- [**... d6**](./e4_openings/B07_Pirc_Defense.md) the Pirc Defense, forking into the [Austrian Attack](./e4_openings/B09_Pirc_Austrian_Attack.md) (4. f4) / [Classical](./e4_openings/B08_Pirc_Classical_System.md) (4. Nf3) / [150 Attack](./e4_openings/B07_Pirc_Defense.md#_Be3_) (4. Be3) after 2. d4 Nf6 3. Nc3 g6,
 - [**... g6**](./e4_openings/B06_Modern_Defense.md) the Modern (Robatsch) Defense, the same idea reached by fianchettoing first, or
-- [**... Nf6**](./e4_openings/B02_Alekhine_Defense.md) the Alekhine Defense, provoking White's centre forward instead of contesting it — leads to the [Four Pawns Attack](./e4_openings/B03_Alekhine_Defense.md#_f4_) if White pushes all the way.
+- [**... Nf6**](./e4_openings/B02_Alekhine_Defense.md) the Alekhine Defense, provoking White's centre forward instead of contesting it — leads to the [Four Pawns Attack](./e4_openings/B03_Alekhine_Defense.md#_f4_) if White pushes all the way, or to the [Modern Variation, Main Line](./e4_openings/B05_Alekhine_Modern_Bg4.md) (its own code, B05) after 3. d4 d6 4. Nf3 Bg4.
 
 ### From 1. e4 e5 ###
 - **White** may develop its pieces with :

@@ -61,6 +61,9 @@ rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 * [**4. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md) (+0.5): the *Modern Variation* — masters' clear main try (65.0%), developing naturally before deciding anything else — covered on its own card.
 * [**4. c4**](#_c4_) (+0.6): expands the centre further instead — a real second choice (29.9% masters), covered below.
 
+> [!NOTE]
+> **4. Bc4!?**, the *Balogh Variation* (0.0, mention-only), develops actively without committing the centre further — a real but distinctly minor try (2.7% masters). Masters split between **4... Nb6** (67.8%) and **4... c6** (26.5%).
+
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -121,7 +124,7 @@ rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5
 *Online: bullet/blitz, 1800+ — 6.3 M games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-* **5. exd6** (+0.5, 71.8% masters): simplifies immediately — White cashes in the space advantage for a simpler position rather than pushing further.
+* **5. exd6** (+0.5, 71.8% masters): the *Exchange Variation* — simplifies immediately, cashing in the space advantage for a simpler position rather than pushing further. Deeper still, the **Karpov Variation** — a long, near-forced sequence (5... cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5 11. Bf4) reaching a real, heavily-analysed tabiya — is its own extensive body of work, not built out further here (backlog).
 * [**5. f4**](#_f4_) (+0.6, 25.9% masters): the ***Four Pawns Attack*** — see below.
 
 [*Back to 4. c4*](#_c4_)
@@ -175,7 +178,66 @@ rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5
 > *Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n6/4p3/2PP1P2/8/PP4PP/RNBQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
-> **6. fxe5** is essentially forced (100% of masters games, 98.9% online) — recapturing to keep the d4/e5/c4 pawn front intact rather than let Black simplify further. Deeper Four Pawns Attack theory past this point is its own extensive body of work, not covered further here.
+> **6. fxe5** is essentially forced (100% of masters games, 98.9% online) — recapturing to keep the d4/e5/c4 pawn front intact rather than let Black simplify further.
+>
+> <a name="_fxe5_"></a>
+>
+> #### 6. fxe5
+>
+> [![6. fxe5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp1pppp/1n6/4P3/2PP4/8/PP4PP/RNBQKBNR&lastMove=f4e5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n6/4P3/2PP4/8/PP4PP/RNBQKBNR_b_KQkq_-_0_6)
+>
+> *... 6. fxe5*
+>
+> ```
+> rnbqkb1r/ppp1pppp/1n6/4P3/2PP4/8/PP4PP/RNBQKBNR b KQkq - 0 6
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+> | --- | --- |
+>
+> * [**6... Nc6**](#_Nc6_fpa_) (64.9% masters): masters' clear favourite — covered below.
+> * **6... Bf5** (19.5% masters, mention-only): the *Trifunovic Variation* — a real second try, developing before committing further; no further named B03 sub-line — not built out further here (backlog).
+> * **6... c5** (14.3% masters, mention-only): a real minor try, striking at d4 immediately.
+> * **6... g6!?** (1.3% masters, mention-only): the *Fianchetto Variation* — genuinely rare.
+>
+> Not built out further here otherwise (backlog) — **6... g5!?**, the *Planinc Variation*, is a genuine database curiosity with zero masters games recorded.
 >
 > [*Back to 4... Nb6*](#_Nb6_)
 > [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nc6_fpa_"></a>
+
+### 6... Nc6
+
+[![6... Nc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR&lastMove=b8c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR_w_KQkq_-_1_7)
+
+*... 6... Nc6*
+
+```
+r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 1 7
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| --- | --- |
+
+**7. Be3** is masters' near-unanimous continuation (97.6%), live-tagged the *Four Pawns Attack, Main Line* — a real name `eco.md`'s own generic "7.Be3" label doesn't carry.
+
+<a name="_Be3_fpa_"></a>
+
+[![7. Be3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR&lastMove=c1e3&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR_b_KQkq_-_2_7)
+
+*... 7. Be3 — Four Pawns Attack, Main Line*
+
+```
+r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR b KQkq - 2 7
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.8 |
+| --- | --- |
+
+**7... Bf5** is masters' overwhelming reply (99.2%). Deeper named tries at this exact tabiya — the **Korchnoi Variation** (7... Bf5, continuing 8. Nc3 e6 9. Nf3 Be7 10. Be2 O-O), the **Ilyin-Genevsky Variation** (8. e6 fxe6 9. c5), and the **Tartakower Variation** (a deeper still 11-ply sequence reaching a castled tabiya for both sides) — are each their own extensive body of work, not built out further here (backlog).
+
+[*Back to 6. fxe5*](#_fxe5_)
+[*Back to TOP*](#_TOP_)

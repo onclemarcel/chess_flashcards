@@ -34,6 +34,29 @@ rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 
 ### Candidate moves
 
-* **2. d4**: masters' overwhelming choice (92.5%) — White simply builds a full centre while Black's own centre pawns stay at home; not built out further here (backlog).
+* [**2. d4**](#_d4_): masters' overwhelming choice (92.5%) — White simply builds a full centre while Black's own centre pawns stay at home — covered below.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d4_"></a>
+
+## 2. d4
+
+[![2. d4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2)
+
+*... 2. d4*
+
+```
+rnbqkbnr/p1pppppp/1p6/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+| --- | --- |
+
+> [!NOTE]
+> **2... Ba6!?**, the *Guatemala Defense* (+1.7, mention-only), pins nothing and simply hangs the bishop's own retreat square — a genuine database curiosity (a 2-game masters sample) and, per Stockfish, objectively the worst try on this whole card: White is free to just develop while the bishop sits offside.
+>
+> [*Back to 1... b6*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)

@@ -55,7 +55,7 @@ Masters' two most popular tries, **4... d5** (31.1%, an early transposition into
 rnbqk2r/pppp2pp/4pn2/5p2/1bPP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 2 5
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | EVALPLACEHOLDER |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 | --- | --- |
 
 Pins the knight rather than developing the bishop modestly to e7. Masters split almost evenly between **5. Nd2** (49.4%) and **5. Bd2** (46.8%), the latter offering a trade of the dark-squared bishops.

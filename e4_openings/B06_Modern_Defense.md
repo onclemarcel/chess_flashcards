@@ -92,6 +92,12 @@ rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 
 **2... Bg7** is masters' near-unanimous choice (88.9%) — completing the fianchetto before deciding anything about the centre.
 
+* [**2... Bg7**](#_Bg7_) (88.9% masters): masters' clear main try — the line this card follows.
+* **2... d6** (7.0% masters, mention-only): a real second try, delaying the fianchetto by a move.
+
+> [!NOTE]
+> **2... Nf6 3. e5 Nh5 4. g4 Ng7!?**, the *Norwegian Defence* (+0.2, mention-only), reroutes the knight to an awkward square instead of fianchettoing directly — a genuine database curiosity (a 3-game masters sample), live-verified as untagged at this exact leaf.
+
 [*Back to 1. e4 g6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
@@ -114,8 +120,21 @@ rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3
 
 **3. Nc3** is masters' clear main try (64.7%) — developing naturally rather than committing to a specific plan (c4, f4, or Be3) just yet.
 
+* [**3. Nc3**](#_Nc3_) (64.7% masters): masters' clear main try — the line this card follows.
+* **3. f4** (mention-only): the *Three Pawns Attack* — covered below.
+
 [*Back to 2. d4*](#_d4_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3. f4!?**, the *Three Pawns Attack* (+0.4, mention-only), builds the broad pawn front immediately rather than developing the knight first. Masters split between **3... d6** (39.6%) and **3... d5** (27.3%).
+>
+> <a name="_f4_TPA_"></a>
+>
+> [*Back to 2. d4*](#_d4_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -154,9 +173,18 @@ rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 
 * [**3... d6**](#_d6_) (+0.5, 61.1% masters): the *Standard Line* — covered below.
 * [**3... c5**](#_c5_) (+0.7, 3.3% masters): the *Modern Pterodactyl* — see the note below.
+* **3... c6** (28.5% masters, mention-only): a real second try, preparing ... d5 — covered below.
 
 [*Back to 2... Bg7*](#_Bg7_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **3... c6 4. f4 d5 5. e5 h5!?**, the *Gurgenidze Defense* (+0.6, mention-only — `eco.md` calls it the *Gurgenidze Variation*), locks the centre before immediately fixing the kingside pawn structure with an early ... h5, discouraging g4 — a real, if secondary, try (726 masters games). Masters split between **6. Nf3** (65.0%) and **6. Be3** (29.9%).
+>
+> [*Back to 2... Bg7*](#_Bg7_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -200,12 +228,34 @@ rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
 
-White's most common follow-up is **4. Be3** (40.5% masters), preparing Qd2 and long castling for a kingside pawn storm — a setup nearly identical in spirit to the [Pirc Defense's 150 Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Defense_Tabiya.md#_Be3_), since the resulting structures are so similar once Black eventually adds ... Nf6.
+White's most common follow-up is **4. Be3** (40.5% masters), preparing Qd2 and long castling for a kingside pawn storm — a setup nearly identical in spirit to the [Pirc Defense's 150 Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_Be3_), since the resulting structures are so similar once Black eventually adds ... Nf6.
 
 * [**4. Be3**](#_Be3_) (+0.5): masters' clear preference (40.5%) — see below.
+* [**4. Nf3**](#_Nf3_TKV_) (mention-only): the *Two Knights Variation* — covered below.
+* [**4. f4**](#_f4_PAA_) (mention-only): the *Pseudo-Austrian Attack* — covered below.
 
 [*Back to 3. Nc3*](#_Nc3_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. Nf3!?**, the *Two Knights Variation* (+0.5, mention-only), develops naturally instead of committing to the Be3/Qd2 attacking setup — a real, well-tested try (5.5k masters games). Masters split between **4... Nf6** (51.8%) and **4... a6** (29.1%). Deeper still, **4... c6!?**, the *Suttles Variation* (+0.5, mention-only), delays ... Nf6 to prepare ... d5 or ... b5 instead — masters split between **5. Be3** (25.3%) and **5. Be2** (23.8%).
+>
+> <a name="_Nf3_TKV_"></a>
+>
+> [*Back to 3... d6*](#_d6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **4. f4!?**, the *Pseudo-Austrian Attack* (+0.4, mention-only — the same pawn-storm idea as the real [Pirc Austrian Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md), reached here a move without the king's knight committed to f6 first), is a real, well-tested try (5.4k masters games). Masters split between **4... Nf6** (42.9%) and **4... a6** (28.1%).
+>
+> <a name="_f4_PAA_"></a>
+>
+> [*Back to 3... d6*](#_d6_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
