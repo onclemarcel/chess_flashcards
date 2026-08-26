@@ -26,7 +26,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3
 | d6 | 446 k (11.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/43 | 62 (3.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/42/19 |  |
 | f5 | 0 | — | 57 (3.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 49/19/32 |  |
 
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -63,7 +63,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4
 | d3 | 319 k (18.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 158 (17.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 | Qc2 | 122 k (7.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 6 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 909 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 909 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **4. d4** is masters' clear main try (81.1%) — the whole point of 3. c3, claiming the centre now that it's supported. Black typically continues **4... Nxe4**, grabbing the pawn back before White can consolidate; deeper theory past this point is its own body of work, not covered further here.

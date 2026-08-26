@@ -25,7 +25,7 @@ rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2
 | Bb4 | 737 k (5.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 3.8 k (12.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/38/32 |  |
 | c5 | 0 | — | 123 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/46/20 |  |
 
-*Online: bullet/blitz, 1800+ — 14.1 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 14.1 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**2... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A22_Two_Knights_Variation.md) (+0.2, 57.1% masters): the **A22** Two Knights Variation — masters' clear main try, covered on its own card (also reachable from [A16_Anglo_Indian_Queens_Knight.md](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A16_Anglo_Indian_Queens_Knight.md#_e5_) via 1... Nf6 2. Nc3 e5)

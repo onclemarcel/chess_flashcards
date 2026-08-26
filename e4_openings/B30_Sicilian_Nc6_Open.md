@@ -46,7 +46,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | Nc3 | 4.3 M (6.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 12 k (8.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 | d3 | 1.5 M (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 1.1 k (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/31/40 |  |
 
-*Online: bullet/blitz, 1800+ — 66.8 M games. Masters: 135 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 66.8 M games. Masters: 135 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -86,7 +86,7 @@ r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 | Qb6 | 49 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 171 (0.4%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 36/26/37 |  |
 | h5 | 0 | — | 94 (0.2%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 26/28/47 |  |
 
-*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 47 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 47 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**5... e5**](#_e5_) (59.9% masters): the *Sveshnikov Variation* — see below.
@@ -123,7 +123,7 @@ r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 | Nf5 | 145 k (4.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 130 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/41/33 |  |
 | Nde2 | 35 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 130 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/48/23 |  |
 
-*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 Kicking the knight looks like it costs a tempo — and objectively it does give White a small structural target on d5 for later — but Black gets active, well-coordinated pieces in exchange, and this line has become one of the main Sicilian weapons at the very top level. **6. Ndb5** (98.1% of masters games!) is close to the only serious try — the knight heads back toward d6, and after **6... d6**, White pins the f6-knight with **7. Bg5** while eyeing the d5 outpost.
@@ -189,7 +189,7 @@ r1bqkb1r/1p3ppp/p1np1n2/1N2p1B1/4P3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 8
 > | e5 | 0 | — | 775 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/39/21 |  |
 > | Qb6 | 0 | — | 455 (1.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/31/26 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-08-25*
+> *Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
 > **3... g6** (50.0% masters) is the main reply, fianchettoing to meet a future Bxc6 recapture with the bishop rather than a pawn. **3... e6** (25.0%) and **3... d6** (12.1%) are also common, simply preparing to meet **4. Bxc6** with a pawn recapture and accept the doubled c-pawns for the bishop pair.

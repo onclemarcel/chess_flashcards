@@ -26,7 +26,7 @@ rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | g6 | 688 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 1.6 k (1.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/32/27 |  |
 | Na6 | 0 | — | 177 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/31/26 |  |
 
-*Online: bullet/blitz, 1800+ — 64.1 M games. Masters: 86 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 64.1 M games. Masters: 86 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -62,7 +62,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 | f3 | 2.6 M (4.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 2.5 k (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/32/30 |  |
 | Bd3 | 614 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 27 (0.0%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 41/22/37 |  |
 
-*Online: bullet/blitz, 1800+ — 59.2 M games. Masters: 84 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 59.2 M games. Masters: 84 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 Unlike the French, masters' top choice here is to gain space rather than develop first.
@@ -100,7 +100,7 @@ rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | e6 | 1.2 M (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/46 | 0 | — | ⚠ |
 | g6 | 0 | — | 216 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/26/25 |  |
 
-*Online: bullet/blitz, 1800+ — 18.4 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 18.4 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3... Bf5** (+0.2) is masters' clear main try (77.6%) — getting the light-squared bishop outside the pawn chain before ... e6 closes it in, the whole structural point of the Caro-Kann. From here White typically continues **4. Nf3**/**4. h4** (the sharper *Botvinnik-Carls* setup, gaining space on the kingside where Black's bishop just landed) and Black completes development with ... e6, ... Nd7 and ... c5, aiming to undermine White's space with a well-timed break. Deeper theory past this point is its own body of work, not covered further here.

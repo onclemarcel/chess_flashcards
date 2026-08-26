@@ -26,7 +26,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3
 | e6 | 242 k (13.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 11 (0.5%) | — |  |
 | e5 | 0 | — | 39 (1.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/26/41 |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3... g6** is overwhelmingly masters' choice (93.8%), mirroring White's own fianchetto plan.
@@ -65,7 +65,7 @@ r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 5
 | d3 | 191 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 1.2 k (13.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
 | a3 | 93 k (6.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/6/40 | 2.1 k (22.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/42/26 |  |
 
-*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 * [**5. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A37_Symmetrical_Three_Knights_Fianchetto.md) (35.5% masters): the **A37** Three Knights, Fianchetto Variation — masters' clear favourite, covered on its own card
