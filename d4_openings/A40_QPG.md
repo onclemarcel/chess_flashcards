@@ -21,7 +21,7 @@ flowchart LR
     d4 --> c5a["1... c5<br/>+0.6"]
     click c5a "#_c5_" "A43 · Benoni Defense: Old Benoni"
     d4 --> f5a["1... f5<br/>+0.5"]
-    click f5a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch.md" "A81 · Dutch Defense: Semi-Leningrad Variation"
+    click f5a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md" "A80 · Dutch Defense"
     d4 --> g6a["1... g6<br/>+0.6"]
     click g6a "#_g6_" "A40 · Queen's Pawn Game: Modern Defense"
     d4 --> e6a["1... e6<br/>+0.4"]
@@ -34,9 +34,9 @@ flowchart LR
     click d5a "#_d5_" "D00 · Queen's Pawn Game"
 
     d5a --> Nc3d["2. Nc3<br/>-0.1"]
-    click Nc3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md" "D01 · Richter-Veresov Attack"
+    click Nc3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md" "D00 · Queen's Pawn Game: Chigorin Variation"
     d5a --> Bf4d["2. Bf4<br/>0.0"]
-    click Bf4d "#_d5_" "D00 · Queen's Pawn Game: Accelerated London System"
+    click Bf4d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md" "D00 · Queen's Pawn Game: Accelerated London System"
     d5a --> Nf3d["2. Nf3<br/>+0.1"]
     click Nf3d "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md" "D02 · Queen's Pawn Game: Zukertort Variation"
     d5a --> c4d[["2. c4 !<br/>+0.2"]]:::main
@@ -170,7 +170,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 ---
 
 > [!NOTE]
-> **1... f5** — the Dutch Defense — fights for e4 immediately, at the cost of a permanent kingside light-square weakening (especially around e6/g6/h7 once the king castles short).
+> **1... f5** — the Dutch Defense — fights for e4 immediately, at the cost of a permanent kingside light-square weakening (especially around e6/g6/h7 once the king castles short). Its own **A80** root, and White's whole 2nd-move fork (online and masters diverge sharply: online reaches for **2. c4** first at 34.5%, while masters overwhelmingly prefer **2. g3** at 40.9%, the Fianchetto Attack), are covered on the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md) — not duplicated here.
 >
 > <a name="_f5_"></a>
 >
@@ -186,22 +186,6 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 >
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 > | --- | --- |
->
-> <!-- lichess-stats:start fen="rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | c4 | 5.2 M (34.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 4.4 k (15.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/39/25 |  |
-> | Nf3 | 2.9 M (19.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 4.5 k (15.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/26 |  |
-> | Bf4 | 1.5 M (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
-> | Nc3 | 1.2 M (7.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/44 | 3.3 k (11.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/26 |  |
-> | e3 | 988 k (6.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 0 | — | ⚠ |
-> | g3 | 0 | — | 12 k (40.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
-> | Bg5 | 0 | — | 2.6 k (9.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
-> 
-> *Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-26*
-> <!-- lichess-stats:end -->
->
-> **2. g3** (40.9% masters, but only 3.8% online — a sharp inversion) is masters' clear favourite here, the Fianchetto Attack — see the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch.md), built out to the Semi-Leningrad Variation.
 >
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)
@@ -310,7 +294,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 ---
 
 > [!NOTE]
-> **1... d5** opens the biggest single body of theory after 1. d4, on a par with the Sicilian after 1. e4 — this NOTE only covers White's second move; each reply below fans out into its own vast complex.
+> **1... d5** opens the biggest single body of theory after 1. d4, on a par with the Sicilian after 1. e4 — its own **D00** root and White's whole 2nd-move fork are covered on the [dedicated card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md), not duplicated here.
 >
 > <a name="_d5_"></a>
 >
@@ -327,23 +311,9 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
 > | --- | --- |
 >
-> <!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | c4 | 93.3 M (43.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 204 k (76.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/50/18 |  |
-> | Nf3 | 47.3 M (22.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 48 k (17.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/46/22 |  |
-> | Bf4 | 27.9 M (13.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 7.1 k (2.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/45/24 |  |
-> | e3 | 16.1 M (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/5/45 | 0 | — | ⚠ |
-> | Nc3 | 10.6 M (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 2.6 k (1.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
-> | Bg5 | 0 | — | 2.8 k (1.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/38/27 |  |
-> 
-> *Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-26*
-> <!-- lichess-stats:end -->
->
 > * [**2. c4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (+0.2): by far White's most tested try (76.9% of masters games) — the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), covered on its own card (Slav / Queen's Gambit Declined / Queen's Gambit Accepted)
 > * [**2. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md) (+0.1): a quieter developing move (17.9% of masters games) that mostly just delays c4 by a move — the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md), covered on its own card (Torre Attack / [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md))
-> * **2. Bf4** (0.0): the *Accelerated* London System — rare in masters (2.7%) but a real online favourite (13.0%), and likely under-represented even here since it is best known below the 1800+ rating floor these tables use, similarly to the Blackmar-Diemer Gambit. Transposes toward the same structures as the full [London System](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md) card if White follows up with Nf3 next.
-> * [**2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) (-0.1): the [Richter-Veresov Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md) — a minor, rarely-tested try (1.0% masters), covered on its own card
+> * [**2. Bf4 / 2. Bg5 / 2. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md) (0.0/EVALPLACEHOLDER/-0.1): the *Accelerated London System*, *Levitsky Attack*, and *Chigorin Variation* (forking into the [Richter-Veresov Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md)) — all covered on **D00**'s own card
 >
 > [*Back to 1. d4*](#_d4_)
 > [*Back to TOP*](#_TOP_)

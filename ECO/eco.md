@@ -536,114 +536,114 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A80
 
-- **Dutch Defence** — `1.d4 f5`
-- **Dutch Defence, Spielmann Gambit** — `1.d4 f5 2.Nc3 Nf6 3.g4`
-- **Dutch Defence, Manhattan (Alapin,  Ulvestad) Variation** — `1.d4 f5 2.Qd3`
-- **Dutch Defence, Von Pretzel Gambit** — `1.d4 f5 2.Qd3 e6 3.g4`
-- **Dutch Defence, Korchnoi Attack** — `1.d4 f5 2.h3`
-- **Dutch Defence, Krejcik Gambit** — `1.d4 f5 2.g4`
-- **Dutch Defence, 2.Bg5 Variation** — `1.d4 f5 2.Bg5`
+- **Dutch Defence** — `1.d4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_initial_move_)
+- **Dutch Defence, Spielmann Gambit** — `1.d4 f5 2.Nc3 Nf6 3.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_Nc3_g4_)
+- **Dutch Defence, Manhattan (Alapin,  Ulvestad) Variation** — `1.d4 f5 2.Qd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_Qd3_)
+- **Dutch Defence, Von Pretzel Gambit** — `1.d4 f5 2.Qd3 e6 3.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_Qd3_)
+- **Dutch Defence, Korchnoi Attack** — `1.d4 f5 2.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_h3_)
+- **Dutch Defence, Krejcik Gambit** — `1.d4 f5 2.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_g4_)
+- **Dutch Defence, 2.Bg5 Variation** — `1.d4 f5 2.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_Bg5_)
 
 ## A81
 
-- **Dutch Defence** — `1.d4 f5 2.g3`
-- **Dutch Defence, Blackburne Variation** — `1.d4 f5 2.g3 Nf6 3.Bg2 e6 4.Nh3`
-- **Dutch Defence** — `1.d4 f5 2.g3 Nf6 3.Bg2 g6`
-- **Dutch Defence, Leningrad,  Basman System** — `1.d4 f5 2.g3 g6 3.Bg2 Bg7 4.Nf3 c6 5.O-O Nh6`
-- **Dutch Defence, Leningrad,  Karlsbad Variation** — `1.d4 f5 2.g3 g6 3.Bg2 Bg7 4.Nh3`
+- **Dutch Defence** — `1.d4 f5 2.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch_Fianchetto_Attack.md#_g3_)
+- **Dutch Defence, Blackburne Variation** — `1.d4 f5 2.g3 Nf6 3.Bg2 e6 4.Nh3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch_Fianchetto_Attack.md#_e6_)
+- **Dutch Defence** — `1.d4 f5 2.g3 Nf6 3.Bg2 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch_Fianchetto_Attack.md#_g6_2_)
+- **Dutch Defence, Leningrad,  Basman System** — `1.d4 f5 2.g3 g6 3.Bg2 Bg7 4.Nf3 c6 5.O-O Nh6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch_Fianchetto_Attack.md#_Nh6_)
+- **Dutch Defence, Leningrad,  Karlsbad Variation** — `1.d4 f5 2.g3 g6 3.Bg2 Bg7 4.Nh3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A81_Dutch_Fianchetto_Attack.md#_Nh3_)
 
 ## A82
 
-- **Dutch Defence, Staunton Gambit** — `1.d4 f5 2.e4`
-- **Dutch Defence, Balogh Defence** — `1.d4 f5 2.e4 d6`
-- **Dutch Defence, Staunton Gambit** — `1.d4 f5 2.e4 fxe4`
-- **Dutch Defence, Staunton Gambit,  Tartakower Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4`
+- **Dutch Defence, Staunton Gambit** — `1.d4 f5 2.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A82_Dutch_Staunton_Gambit.md#_initial_move_)
+- **Dutch Defence, Balogh Defence** — `1.d4 f5 2.e4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A82_Dutch_Staunton_Gambit.md#_d6_)
+- **Dutch Defence, Staunton Gambit** — `1.d4 f5 2.e4 fxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A82_Dutch_Staunton_Gambit.md#_fxe4_)
+- **Dutch Defence, Staunton Gambit,  Tartakower Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A82_Dutch_Staunton_Gambit.md#_g4_)
 
 ## A83
 
-- **Dutch Defence, Staunton Gambit,  Staunton's line** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5`
-- **Dutch Defence, Staunton Gambit,  Alekhine Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 g6 5.h4`
-- **Dutch Defence, Staunton Gambit,  Lasker Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 g6 5.f3`
-- **Dutch Defence, Staunton Gambit,  Chigorin Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6`
-- **Dutch Defence, Staunton Gambit,  Nimzovich Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 b6`
+- **Dutch Defence, Staunton Gambit,  Staunton's line** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A83_Dutch_Staunton_Gambit_Bg5.md#_initial_move_)
+- **Dutch Defence, Staunton Gambit,  Alekhine Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 g6 5.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A83_Dutch_Staunton_Gambit_Bg5.md#_h4_)
+- **Dutch Defence, Staunton Gambit,  Lasker Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 g6 5.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A83_Dutch_Staunton_Gambit_Bg5.md#_f3_)
+- **Dutch Defence, Staunton Gambit,  Chigorin Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A83_Dutch_Staunton_Gambit_Bg5.md#_c6_)
+- **Dutch Defence, Staunton Gambit,  Nimzovich Variation** — `1.d4 f5 2.e4 fxe4 3.Nc3 Nf6 4.Bg5 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A83_Dutch_Staunton_Gambit_Bg5.md#_b6_)
 
 ## A84
 
-- **Dutch Defence** — `1.d4 f5 2.c4`
-- **Dutch Defence, Bladel Variation** — `1.d4 f5 2.c4 g6 3.Nc3 Nh6`
-- **Dutch Defence** — `1.d4 f5 2.c4 e6`
-- **Dutch Defence, Rubinstein Variation** — `1.d4 f5 2.c4 e6 3.Nc3`
-- **Dutch Defence, Staunton Gambit,  Deferred** — `1.d4 f5 2.c4 e6 3.e4`
-- **Dutch Defence** — `1.d4 f5 2.c4 Nf6`
+- **Dutch Defence** — `1.d4 f5 2.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_initial_move_)
+- **Dutch Defence, Bladel Variation** — `1.d4 f5 2.c4 g6 3.Nc3 Nh6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_g6_)
+- **Dutch Defence** — `1.d4 f5 2.c4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_e6_)
+- **Dutch Defence, Rubinstein Variation** — `1.d4 f5 2.c4 e6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_Nc3_)
+- **Dutch Defence, Staunton Gambit,  Deferred** — `1.d4 f5 2.c4 e6 3.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_e4_)
+- **Dutch Defence** — `1.d4 f5 2.c4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A84_Dutch_c4_Systems.md#_Nf6_)
 
 ## A85
 
-- **Dutch Defence, With c4 & Nc3** — `1.d4 f5 2.c4 Nf6 3.Nc3`
+- **Dutch Defence, With c4 & Nc3** — `1.d4 f5 2.c4 Nf6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A85_Dutch_Queens_Knight_Variation.md#_initial_move_)
 
 ## A86
 
-- **Dutch Defence, With c4 & g3** — `1.d4 f5 2.c4 Nf6 3.g3`
-- **Dutch Defence, Hort-Antoshin System** — `1.d4 f5 2.c4 Nf6 3.g3 d6 4.Bg2 c6 5.Nc3 Qc7`
-- **Dutch Defence, Leningrad Variation** — `1.d4 f5 2.c4 Nf6 3.g3 g6`
+- **Dutch Defence, With c4 & g3** — `1.d4 f5 2.c4 Nf6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A86_Dutch_Fianchetto_Variation.md#_initial_move_)
+- **Dutch Defence, Hort-Antoshin System** — `1.d4 f5 2.c4 Nf6 3.g3 d6 4.Bg2 c6 5.Nc3 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A86_Dutch_Fianchetto_Variation.md#_d6_)
+- **Dutch Defence, Leningrad Variation** — `1.d4 f5 2.c4 Nf6 3.g3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A86_Dutch_Fianchetto_Variation.md#_g6_)
 
 ## A87
 
-- **Dutch Defence, Leningrad,  main Variation** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3`
+- **Dutch Defence, Leningrad,  main Variation** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A87_Dutch_Leningrad_Variation.md#_initial_move_)
 
 ## A88
 
-- **Dutch Defence, Leningrad,  main Variation With c6** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6`
+- **Dutch Defence, Leningrad,  main Variation With c6** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A88_Dutch_Leningrad_Warsaw_Variation.md#_initial_move_)
 
 ## A89
 
-- **Dutch Defence, Leningrad,  main Variation With Nc6** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 Nc6`
+- **Dutch Defence, Leningrad,  main Variation With Nc6** — `1.d4 f5 2.c4 Nf6 3.g3 g6 4.Bg2 Bg7 5.Nf3 O-O 6.O-O d6 7.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A89_Dutch_Leningrad_Matulovic_Variation.md#_initial_move_)
 
 ## A90
 
-- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2`
-- **Dutch Defence, Dutch-Indian (Nimzo-Dutch) Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Bb4`
-- **Dutch Defence, Dutch-Indian,  Alekhine Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Bb4 5.Bd2 Be7`
+- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A90_Dutch_Classical_and_Stonewall.md#_initial_move_)
+- **Dutch Defence, Dutch-Indian (Nimzo-Dutch) Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A90_Dutch_Classical_and_Stonewall.md#_Bb4_)
+- **Dutch Defence, Dutch-Indian,  Alekhine Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Bb4 5.Bd2 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A90_Dutch_Classical_and_Stonewall.md#_Bb4_)
 
 ## A91
 
-- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7`
+- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A91_Dutch_Be7.md#_initial_move_)
 
 ## A92
 
-- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O`
-- **Dutch Defence, Alekhine Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O Ne4`
-- **Dutch Defence, Stonewall Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5`
-- **Dutch Defence, Stonewall With Nc3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3`
+- **Dutch Defence** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A92_Dutch_Stonewall_and_Classical.md#_initial_move_)
+- **Dutch Defence, Alekhine Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A92_Dutch_Stonewall_and_Classical.md#_Ne4_)
+- **Dutch Defence, Stonewall Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A92_Dutch_Stonewall_and_Classical.md#_d5_)
+- **Dutch Defence, Stonewall With Nc3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A92_Dutch_Stonewall_and_Classical.md#_Nc3_)
 
 ## A93
 
-- **Dutch Defence, Stonewall,  Botvinnik Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.b3`
+- **Dutch Defence, Stonewall,  Botvinnik Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A93_Dutch_Stonewall_Botvinnik_Variation.md#_initial_move_)
 
 ## A94
 
-- **Dutch Defence, Stonewall With Ba3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.b3 c6 8.Ba3`
+- **Dutch Defence, Stonewall With Ba3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.b3 c6 8.Ba3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A94_Dutch_Stonewall_Ba3_Variation.md#_initial_move_)
 
 ## A95
 
-- **Dutch Defence, Stonewall With Nc3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3 c6`
-- **Dutch Defence, Stonewall: Chekhover Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3 c6 8.Qc2 Qe8 9.Bg5`
+- **Dutch Defence, Stonewall With Nc3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A95_Dutch_Stonewall_Nc3_c6.md#_initial_move_)
+- **Dutch Defence, Stonewall: Chekhover Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d5 7.Nc3 c6 8.Qc2 Qe8 9.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A95_Dutch_Stonewall_Nc3_c6.md#_Qc2_)
 
 ## A96
 
-- **Dutch Defence, Classical Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6`
+- **Dutch Defence, Classical Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A96_Dutch_Classical_Variation.md#_initial_move_)
 
 ## A97
 
-- **Dutch Defence, Ilyin-Genevsky Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8`
-- **Dutch Defence, Ilyin-Genevsky,  Winter Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Re1`
+- **Dutch Defence, Ilyin-Genevsky Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A97_Dutch_Ilyin_Zhenevsky_Variation.md#_initial_move_)
+- **Dutch Defence, Ilyin-Genevsky,  Winter Variation** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Re1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A97_Dutch_Ilyin_Zhenevsky_Variation.md#_Re1_)
 
 ## A98
 
-- **Dutch Defence, Ilyin-Genevsky Variation With Qc2** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Qc2`
+- **Dutch Defence, Ilyin-Genevsky Variation With Qc2** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A98_Dutch_Ilyin_Zhenevsky_Alatortsev_Lisitsyn_Line.md#_initial_move_)
 
 ## A99
 
-- **Dutch Defence, Ilyin-Genevsky Variation With b3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3`
+- **Dutch Defence, Ilyin-Genevsky Variation With b3** — `1.d4 f5 2.c4 Nf6 3.g3 e6 4.Bg2 Be7 5.Nf3 O-O 6.O-O d6 7.Nc3 Qe8 8.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A99_Dutch_Ilyin_Zhenevsky_Modern_Main_Line.md#_initial_move_)
 
 ## B00
 

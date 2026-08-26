@@ -1,10 +1,8 @@
 <a name="_TOP_"></a>
 
-# D01 Richter-Veresov Attack <br> 1. d4 d5 2. Nc3 #
+# D01 Richter-Veresov Attack <br> 1. d4 d5 2. Nc3 Nf6 #
 
-Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d5_): rather than commit to c4 immediately, White develops the queen's knight first, keeping options open between a quick e4 push or the sharper Bg5 pin that gives this line its name. A real sidestep for club and blitz players — sound, rarely faced, and often steering the game away from mainstream Queen's Gambit/Slav theory within two moves.
-
-**Naming precision, confirmed via this repo's own Phase D ECO audit**: the root position shown right below (2. Nc3, before Black replies) is itself live-tagged **D00 · Queen's Pawn Game: Chigorin Variation**, not D01 — the D01 code only starts once Black plays 2... Nf6 and White commits to 3. Bg5 specifically (the mermaid's own tooltips already reflect this correctly). This card keeps the D01/Richter-Veresov title since that's genuinely what its own main content is, the same "title the card after its real content, not the exact code of the shallowest diagram on the page" choice already made elsewhere in this repo (e.g. the Scotch Opening card) — noted explicitly here rather than left as a silent mismatch.
+**Restructured 2026-08-26**: this card used to root at "1. d4 d5 2. Nc3" and explain the D00 mismatch as an inline caveat. Live-confirmed via the Lichess explorer's own `opening` field, cross-checked against [chessopenings.com's ECO reference](https://chessopenings.com/eco/D01): the bare 2. Nc3 position is properly **D00**'s own *Chigorin Variation*, now covered on its own card, [`D00_Queens_Pawn_Game.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md). This card now roots where its real content actually starts: **2... Nf6**, a position carrying its own genuine oddity — live-tagged **A45** (reusing the "Chigorin Variation" name from an unrelated branch of the ECO tree), one ply before White's 3rd move splits into two real, evenly-matched **D01**-coded systems.
 
 ### Overview
 
@@ -15,15 +13,12 @@ Spun off from [A40's 1... d5](https://github.com/onclemarcel/chess_flashcards/bl
 flowchart LR
     classDef main stroke-width:3px;
 
-    Nc3["1. d4 d5 2. Nc3"]
-    click Nc3 "#_initial_move_" "D00 · Queen's Pawn Game: Chigorin Variation"
-
-    Nc3 --> Nf6[["2... Nf6 !<br/>0.0"]]:::main
-    click Nf6 "#_Nf6_" "A45 · Queen's Pawn Game: Chigorin Variation"
+    Nf6["1. d4 d5 2. Nc3 Nf6"]
+    click Nf6 "#_initial_move_" "A45 · Queen's Pawn Game: Chigorin Variation"
 
     Nf6 --> Bg5[["3. Bg5 !<br/>-0.2"]]:::main
     click Bg5 "#_Bg5_" "D01 · Richter-Veresov Attack"
-    Nf6 --> Bf4[["3. Bf4<br/>-0.1"]]
+    Nf6 --> Bf4["3. Bf4<br/>-0.1"]
     click Bf4 "#_Bf4_" "D01 · Rapport-Jobava System"
 
     Bg5 --> Nbd7[["3... Nbd7 !<br/>-0.1"]]:::main
@@ -38,47 +33,9 @@ flowchart LR
 
 <a name="_initial_move_"></a>
 
-[![1. d4 d5 2. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2)
+[![1. d4 d5 2. Nc3 Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3)
 
-*... 1. d4 d5 2. Nc3*
-
-```
-rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.1 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Nf6 | 4.8 M (40.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/4/44 | 2.3 k (73.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/44/28 |  |
-| e6 | 2.5 M (21.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/43 | 192 (6.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/36/28 |  |
-| c6 | 2.1 M (17.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 192 (6.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/42/33 |  |
-| Bf5 | 730 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/44 | 264 (8.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/38/33 |  |
-| Nc6 | 641 k (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
-| c5 | 614 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 75 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
-| g6 | 0 | — | 42 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/29/19 |  |
-
-*Online: bullet/blitz, 1800+ — 11.9 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
-<!-- lichess-stats:end -->
-
-### Candidate moves
-
-* [**2... Nf6**](#_Nf6_) (0.0): develops naturally, keeping every central option open — masters' clear main try (73.3%).
-* **2... Bf5 / 2... c6 / 2... e6**: all sound minor alternatives (well under 10% masters each), each simply transposing toward other d4 structures a move or two later — not covered further here.
-
-[*Back to TOP*](#_TOP_)
-
----
-
-<a name="_Nf6_"></a>
-
-## 2... Nf6
-
-[![2... Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3)
-
-*... 2... Nf6*
+*... 1. d4 d5 2. Nc3 Nf6*
 
 ```
 rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
@@ -101,9 +58,8 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
 White's 3rd move here is a genuine near-even fork — **3. Bg5** (48.9% masters) and **3. Bf4** (47.4%) are essentially tied, unlike most of this repository's forks. Only 3. Bg5 carries the Veresov name; 3. Bf4 is its own distinctly-coded, distinctly-named system.
 
 * [**3. Bg5**](#_Bg5_) (-0.2): the *Richter-Veresov Attack* proper — pins the knight immediately, the line this card follows.
-* <a name="_Bf4_"></a>**3. Bf4** (-0.1): an equally common try (47.4% masters) that develops the bishop actively without committing to the pin — this is the **Rapport-Jobava System**, its own distinct D01-coded line (corrected 2026-08-25; a prior draft claimed the explorer left this position unnamed, which live-verification during this repo's own Phase D audit found to be wrong), not covered further here.
+* <a name="_Bf4_"></a>**3. Bf4** (-0.1): an equally common try (47.4% masters) that develops the bishop actively without committing to the pin — this is the **Rapport-Jobava System**, its own distinct D01-coded line, not covered further here.
 
-[*Back to 1. d4 d5 2. Nc3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -139,7 +95,7 @@ rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3
 
 **3... Nbd7** is masters' clear main try (50.2%) — a flexible developing move that avoids committing the light-squared bishop or the c-pawn just yet, and sidesteps 3... Ne4 tactics against the loose Bg5.
 
-[*Back to 2... Nf6*](#_Nf6_)
+[*Back to 2... Nf6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
 ---
