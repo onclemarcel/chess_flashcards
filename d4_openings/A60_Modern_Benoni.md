@@ -92,7 +92,13 @@ rnbqkb1r/pp1p1ppp/5n2/2pP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.9 |
 | --- | --- |
 
-Recapturing with the pawn is essentially automatic for White (99.8% masters over 4. Nxd5) — it's the entire point of the Modern Benoni structure: a protected, advanced passed d-pawn against Black's coming ... d6, ... g6, ... Bg7 fianchetto setup. Not built out further here (backlog) — from here Black almost always continues **5... d6**, **6... g6**, and **7... Bg7**, castling into a position where long-term piece pressure on the queenside and the e-file is the entire compensation for White's structural plus.
+Recapturing with the pawn is essentially automatic for White (99.8% masters over 4. Nxd5) — it's the entire point of the Modern Benoni structure: a protected, advanced passed d-pawn against Black's coming ... d6, ... g6, ... Bg7 fianchetto setup. From here Black almost always continues **5... d6**, reaching a genuine fork at White's 6th move between the two main systems:
+
+* [**6. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A61_Benoni_Nf3_Systems.md) (37.7% masters): the **A61** Nf3 systems — develops first, keeping options open about e4 — covered on its own card
+* [**6. e4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A65_Benoni_Kings_Pawn_Line.md) (58.2% masters, actually the more popular try): the **A65** King's Pawn Line — grabs the maximum centre immediately — covered on its own card
+
+[*Back to 4. Nc3*](#_Nc3_)
+[*Back to TOP*](#_TOP_)
 
 [*Back to 4. Nc3*](#_Nc3_)
 [*Back to TOP*](#_TOP_)

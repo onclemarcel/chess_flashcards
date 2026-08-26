@@ -1,6 +1,8 @@
 <a name="_TOP_"></a>
 
-# A51 Budapest Gambit <br> 1. d4 Nf6 2. c4 e5 #
+# A51 Indian Defense: Budapest Gambit, Declined <br> 1. d4 Nf6 2. c4 e5 #
+
+**Corrected 2026-08-26**: this card used to build its own "3... Ng4" branch (the real Budapest Gambit's main line) in place — but that position is live-confirmed **A52**, not A51, split off into [`A52_Budapest_Gambit_Accepted.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md). A51 itself stays the correct code for the root, the 3. dxe5 fork, and the Fajarowicz Variation (3... Ne4) below.
 
 Spun off from [A40's own 1... Nf6 2. c4 stats table](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_Nf6_c4_), where e5 sat unmentioned in the candidate-move list despite a real, named try (0.7% masters, 8.0% online) — the last of the audit's original nine gaps. Black offers the e-pawn immediately, betting on quick piece activity (... Ng4 hitting e5 and f2, a fast ... Nc6/... Bc5 setup) to make up for the material, rather than committing to a long-term structural bind the way the Benko Gambit or Modern Benoni do.
 
@@ -63,29 +65,32 @@ rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3
 *Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-**3... Ng4** is masters' clear main try (87.0%) — the real Budapest Gambit, immediately hopping back to attack the e5 pawn and eye f2. **3... Ne4** (13.0%, the *Fajarowicz Variation*) is a real but distinctly minor sibling, betting on the knight's activity on e4 instead of recovering the pawn quickly.
+* [**3... Ng4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md) (+0.5, 87.0% masters): the **A52** Budapest Gambit Accepted, Main Line — the real Budapest Gambit, immediately hopping back to attack the e5 pawn and eye f2 — covered on its own card
+* [**3... Ne4**](#_Ne4_) (+1.3, 13.0% masters): the *Fajarowicz Variation* — stays A51, covered below
 
 [*Back to 2... e5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
 ---
 
-<a name="_Ng4_"></a>
+<a name="_Ne4_"></a>
 
-## 3... Ng4 — Budapest Gambit Accepted, Main Line
+## 3... Ne4 — Fajarowicz Variation
 
-[![3... Ng4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR&lastMove=f6g4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_4)
+A real but distinctly minor sibling of the main 3... Ng4 (13.0% masters): Black bets on the knight's activity on e4 instead of recovering the pawn quickly.
 
-*... 3... Ng4 — Budapest Gambit Accepted, Main Line*
+[![3... Ne4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR&lastMove=f6e4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_4)
+
+*... 3... Ne4 — Fajarowicz Variation*
 
 ```
-rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4
+rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.3 |
 | --- | --- |
 
-Another online/masters inversion at White's 4th move: masters prefer **4. Bf4** (47.0%) — develops actively and keeps an eye on the long diagonal, while online **4. Nf3** leads instead (49.2%, only 32.8% masters), simply defending the extra pawn with a normal developing move. Not built out further here (backlog) — from here Black typically continues **4... Nc6** or **4... Bc5**, aiming to regain the e5 pawn with real piece activity rather than let White simply consolidate the extra material.
+Objectively worse than 3... Ng4 — most often continuing **4. a3** or **4. Qc2**, the ***Steiner Variation*** (+0.7, mention-only), guarding against ... Bb4+ before Black can add pressure. Not built out further here (backlog).
 
 [*Back to 3. dxe5*](#_dxe5_)
 [*Back to TOP*](#_TOP_)

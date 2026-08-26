@@ -363,11 +363,11 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A46
 
-- **Queen's Pawn Game** — `1.d4 Nf6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_initial_move_)
-- **Queen's Pawn Game, Torre Attack** — `1.d4 Nf6 2.Nf3 e6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Bg5_)
-- **Queen's Pawn Game, Torre Attack,  Wagner Gambit** — `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Bg5_)
-- **Queen's Pawn Game, Yusupov-Rubinstein System** — `1.d4 Nf6 2.Nf3 e6 3.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_e3_)
-- **Doery Defence** — `1.d4 Nf6 2.Nf3 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Ne4_)
+- **Queen's Pawn Game** — `1.d4 Nf6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Indian_Knights_Variation.md#_initial_move_)
+- **Queen's Pawn Game, Torre Attack** — `1.d4 Nf6 2.Nf3 e6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Indian_Knights_Variation.md#_Bg5_)
+- **Queen's Pawn Game, Torre Attack,  Wagner Gambit** — `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Indian_Knights_Variation.md#_Bg5_)
+- **Queen's Pawn Game, Yusupov-Rubinstein System** — `1.d4 Nf6 2.Nf3 e6 3.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Indian_Knights_Variation.md#_e3_)
+- **Doery Defence** — `1.d4 Nf6 2.Nf3 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Indian_Knights_Variation.md#_Ne4_)
 
 ## A47
 
@@ -387,152 +387,152 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A50
 
-- **Queen's Pawn Game** — `1.d4 Nf6 2.c4`
-- **Kevitz-Trajkovich Defence** — `1.d4 Nf6 2.c4 Nc6`
-- **Queen's Indian Defence, Accelerated** — `1.d4 Nf6 2.c4 b6`
+- **Queen's Pawn Game** — `1.d4 Nf6 2.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A50_Indian_Normal_Variation.md#_initial_move_)
+- **Kevitz-Trajkovich Defence** — `1.d4 Nf6 2.c4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A50_Indian_Normal_Variation.md#_Nc6_)
+- **Queen's Indian Defence, Accelerated** — `1.d4 Nf6 2.c4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A50_Indian_Normal_Variation.md#_b6_)
 
 ## A51
 
-- **Budapest Defence, Declined** — `1.d4 Nf6 2.c4 e5`
-- **Budapest Defence, Fajarowicz Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ne4`
-- **Budapest Defence, Fajarowicz Variation,  Steiner Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Qc2`
+- **Budapest Defence, Declined** — `1.d4 Nf6 2.c4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit_Declined.md#_initial_move_)
+- **Budapest Defence, Fajarowicz Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit_Declined.md#_Ne4_)
+- **Budapest Defence, Fajarowicz Variation,  Steiner Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ne4 4.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A51_Budapest_Gambit_Declined.md#_Ne4_)
 
 ## A52
 
-- **Budapest Defence** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4`
-- **Budapest Defence, Adler Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3`
-- **Budapest Defence, Rubinstein Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4`
-- **Budapest Defence, Alekhine Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4`
-- **Budapest Defence, Alekhine,  Abonyi Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 Nxe5 5.f4 Nec6`
-- **Budapest Defence, Alekhine Variation,  Balogh Gambit** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 d6`
+- **Budapest Defence** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_initial_move_)
+- **Budapest Defence, Adler Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_Nf3_)
+- **Budapest Defence, Rubinstein Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_Bf4_)
+- **Budapest Defence, Alekhine Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_e4_)
+- **Budapest Defence, Alekhine,  Abonyi Variation** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 Nxe5 5.f4 Nec6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_e4_)
+- **Budapest Defence, Alekhine Variation,  Balogh Gambit** — `1.d4 Nf6 2.c4 e5 3.dxe5 Ng4 4.e4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md#_e4_)
 
 ## A53
 
-- **Old Indian Defence** — `1.d4 Nf6 2.c4 d6`
-- **Old Indian Defence, Janowski Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 Bf5`
+- **Old Indian Defence** — `1.d4 Nf6 2.c4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md#_initial_move_)
+- **Old Indian Defence, Janowski Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md#_Bf5_)
 
 ## A54
 
-- **Old Indian Defence, Ukrainian Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5`
-- **Old Indian Defence, Dus-Khotimirsky Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.e3 Nbd7 5.Bd3`
-- **Old Indian Defence, Ukrainian Variation,  4.Nf3** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3`
+- **Old Indian Defence, Ukrainian Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A54_Old_Indian_Ukrainian_Variation.md#_initial_move_)
+- **Old Indian Defence, Dus-Khotimirsky Variation** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.e3 Nbd7 5.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A54_Old_Indian_Ukrainian_Variation.md#_e3_)
+- **Old Indian Defence, Ukrainian Variation,  4.Nf3** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A54_Old_Indian_Ukrainian_Variation.md#_Nf3_)
 
 ## A55
 
-- **Old Indian Defence, Main line** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4`
+- **Old Indian Defence, Main line** — `1.d4 Nf6 2.c4 d6 3.Nc3 e5 4.Nf3 Nbd7 5.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A55_Old_Indian_Normal_Variation.md#_initial_move_)
 
 ## A56
 
-- **Benoni Defence** — `1.d4 Nf6 2.c4 c5`
-- **Benoni Defence, Hromodka System** — `1.d4 Nf6 2.c4 c5 3.d5 d6`
-- **Vulture Defence** — `1.d4 Nf6 2.c4 c5 3.d5 Ne4`
-- **Benoni Defence, Czech Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e5`
-- **Benoni Defence, Czech Benoni Defence,  King's Indian System** — `1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 g6`
+- **Benoni Defence** — `1.d4 Nf6 2.c4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Benoni_Defense.md#_c5_)
+- **Benoni Defence, Hromodka System** — `1.d4 Nf6 2.c4 c5 3.d5 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Benoni_Defense.md#_d6_)
+- **Vulture Defence** — `1.d4 Nf6 2.c4 c5 3.d5 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Benoni_Defense.md#_Ne4_)
+- **Benoni Defence, Czech Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Benoni_Defense.md#_e5_)
+- **Benoni Defence, Czech Benoni Defence,  King's Indian System** — `1.d4 Nf6 2.c4 c5 3.d5 e5 4.Nc3 d6 5.e4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A56_Benoni_Defense.md#_e5_)
 
 ## A57
 
-- **Benko Defence, Gambit** — `1.d4 Nf6 2.c4 c5 3.d5 b5`
-- **Benko Defence, Gambit,  Half Accepted** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6`
-- **Benko Defence, Gambit,  Zaitsev System** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3`
-- **Benko Defence, Gambit,  Nescafe Frappe Attack** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5 d6 8.Bc4`
+- **Benko Defence, Gambit** — `1.d4 Nf6 2.c4 c5 3.d5 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md#_initial_move_)
+- **Benko Defence, Gambit,  Half Accepted** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md#_a6_)
+- **Benko Defence, Gambit,  Zaitsev System** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md#_Nc3_)
+- **Benko Defence, Gambit,  Nescafe Frappe Attack** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.Nc3 axb5 6.e4 b4 7.Nb5 d6 8.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A57_Benko_Gambit.md#_Nc3_)
 
 ## A58
 
-- **Benko Defence, Gambit,  Accepted** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6`
-- **Benko Defence, Gambit,  Nd2 Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3 g6 8.Nd2`
-- **Benko Defence, Gambit,  Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3 g6 8.g3`
+- **Benko Defence, Gambit,  Accepted** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A58_Benko_Gambit_Fully_Accepted.md#_initial_move_)
+- **Benko Defence, Gambit,  Nd2 Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3 g6 8.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A58_Benko_Gambit_Fully_Accepted.md#_Nd2_)
+- **Benko Defence, Gambit,  Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.Nf3 g6 8.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A58_Benko_Gambit_Fully_Accepted.md#_g3_)
 
 ## A59
 
-- **Benko Defence, Gambit,  7.e4** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4`
-- **Benko Defence, Gambit,  Ne2 Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.Nge2`
-- **Benko Defence, Gambit** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3`
-- **Benko Defence, Gambit,  Main line** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2 O-O 11.Nf3`
+- **Benko Defence, Gambit,  7.e4** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A59_Benko_Gambit_Yugoslav.md#_initial_move_)
+- **Benko Defence, Gambit,  Ne2 Variation** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.Nge2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A59_Benko_Gambit_Yugoslav.md#_Nge2_)
+- **Benko Defence, Gambit** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A59_Benko_Gambit_Yugoslav.md#_g3_)
+- **Benko Defence, Gambit,  Main line** — `1.d4 Nf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Bxa6 6.Nc3 d6 7.e4 Bxf1 8.Kxf1 g6 9.g3 Bg7 10.Kg2 O-O 11.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A59_Benko_Gambit_Yugoslav.md#_g3_)
 
 ## A60
 
-- **Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e6`
+- **Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A60_Modern_Benoni.md#_initial_move_)
 
 ## A61
 
-- **Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6`
-- **Benoni Defence, Uhlmann Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5`
-- **Benoni Defence, Nimzovich (knight's tour) Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2`
-- **Benoni Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3`
+- **Benoni Defence** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A61_Benoni_Nf3_Systems.md#_initial_move_)
+- **Benoni Defence, Uhlmann Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A61_Benoni_Nf3_Systems.md#_Bg5_)
+- **Benoni Defence, Nimzovich (knight's tour) Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A61_Benoni_Nf3_Systems.md#_Nd2_)
+- **Benoni Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A62_Benoni_Fianchetto_Variation.md#_initial_move_)
 
 ## A62
 
-- **Benoni Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O`
+- **Benoni Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A62_Benoni_Fianchetto_Variation.md#_initial_move_)
 
 ## A63
 
-- **Benoni Defence, Fianchetto,  9...Nbd7** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Nbd7`
+- **Benoni Defence, Fianchetto,  9...Nbd7** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A63_Benoni_Fianchetto_Hastings_Defense.md#_initial_move_)
 
 ## A64
 
-- **Benoni Defence, Fianchetto,  11...Re8** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Nbd7 10.Nd2 a6 11.a4 Re8`
+- **Benoni Defence, Fianchetto,  11...Re8** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.Nf3 g6 7.g3 Bg7 8.Bg2 O-O 9.O-O Nbd7 10.Nd2 a6 11.a4 Re8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A64_Benoni_Fianchetto_Hastings_Main_Line.md#_initial_move_)
 
 ## A65
 
-- **Benoni Defence, 6.e4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4`
+- **Benoni Defence, 6.e4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A65_Benoni_Kings_Pawn_Line.md#_initial_move_)
 
 ## A66
 
-- **Benoni Defence, pawn Storm Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4`
-- **Benoni Defence, Mikenas Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.e5`
+- **Benoni Defence, pawn Storm Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A66_Benoni_Pawn_Storm.md#_initial_move_)
+- **Benoni Defence, Mikenas Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A66_Benoni_Pawn_Storm.md#_e5_)
 
 ## A67
 
-- **Benoni Defence, Taimanov Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5`
+- **Benoni Defence, Taimanov Variation** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A67_Benoni_Taimanov_Variation.md#_initial_move_)
 
 ## A68
 
-- **Benoni Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O`
+- **Benoni Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A68_Benoni_Four_Pawns_Attack.md#_initial_move_)
 
 ## A69
 
-- **Benoni Defence, Four Pawns Attack,  Main line** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O 9.Be2 Re8`
+- **Benoni Defence, Four Pawns Attack,  Main line** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.f4 Bg7 8.Nf3 O-O 9.Be2 Re8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A69_Benoni_Four_Pawns_Main_Line.md#_initial_move_)
 
 ## A70
 
-- **Benoni Defence, Classical With e4 and Nf3** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3`
-- **Benoni Defence, Classical Without 9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2`
+- **Benoni Defence, Classical With e4 and Nf3** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A70_Benoni_Classical_Variation.md#_initial_move_)
+- **Benoni Defence, Classical Without 9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A70_Benoni_Classical_Variation.md#_Be2_)
 
 ## A71
 
-- **Benoni Defence, Classical,  8.Bg5** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5`
+- **Benoni Defence, Classical,  8.Bg5** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A71_Benoni_Averbakh_Grivas_Attack.md#_initial_move_)
 
 ## A72
 
-- **Benoni Defence, Classical Without 9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O`
+- **Benoni Defence, Classical Without 9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A72_Benoni_Classical_Both_Castled.md#_initial_move_)
 
 ## A73
 
-- **Benoni Defence, Classical,  9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O`
+- **Benoni Defence, Classical,  9.O-O** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A73_Benoni_Classical_Main_Line.md#_initial_move_)
 
 ## A74
 
-- **Benoni Defence, Classical,  9...a6,  10.a4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4`
+- **Benoni Defence, Classical,  9...a6,  10.a4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A74_Benoni_Classical_Full_Line.md#_initial_move_)
 
 ## A75
 
-- **Benoni Defence, Classical With ...a6 and 10...Bg4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 Bg4`
+- **Benoni Defence, Classical With ...a6 and 10...Bg4** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O a6 10.a4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A75_Benoni_Argentine_Counterattack.md#_initial_move_)
 
 ## A76
 
-- **Benoni Defence, Classical,  9...Re8** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8`
+- **Benoni Defence, Classical,  9...Re8** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A76_Benoni_Czerniak_Defense.md#_initial_move_)
 
 ## A77
 
-- **Benoni Defence, Classical,  9...Re8,  10.Nd2** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2`
+- **Benoni Defence, Classical,  9...Re8,  10.Nd2** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A77_Benoni_Czerniak_Tal_Line.md#_initial_move_)
 
 ## A78
 
-- **Benoni Defence, Classical With ...Re8 and ...Na6** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6`
+- **Benoni Defence, Classical With ...Re8 and ...Na6** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A78_Benoni_Czerniak_Na6.md#_initial_move_)
 
 ## A79
 
-- **Benoni Defence, Classical,  11.f3** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3`
+- **Benoni Defence, Classical,  11.f3** — `1.d4 Nf6 2.c4 c5 3.d5 e6 4.Nc3 exd5 5.cxd5 d6 6.e4 g6 7.Nf3 Bg7 8.Be2 O-O 9.O-O Re8 10.Nd2 Na6 11.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A79_Benoni_Czerniak_f3.md#_initial_move_)
 
 ## A80
 

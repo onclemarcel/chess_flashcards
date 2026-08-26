@@ -103,7 +103,32 @@ rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5
 *Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-**5. bxa6** is masters' clear main try (54.9%) — takes the second pawn, betting the resulting queenside structure genuinely favours White despite Black's coming piece activity down the open a- and b-files. **5. b6** (18.0%) instead returns the pawn immediately to simplify, and **5. e3** (15.3%) just declines further, developing calmly with an extra pawn already banked. Not built out further here (backlog) — the resulting middlegames (Black recaptures on a6, fianchettoes the dark bishop, and piles up on the queenside files for long-term compensation) are a whole body of theory in their own right.
+* [**5. bxa6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A58_Benko_Gambit_Fully_Accepted.md) (+0.5, 54.9% masters): the **A58** Fully Accepted Variation — takes the second pawn, betting the resulting queenside structure genuinely favours White despite Black's coming piece activity down the open a- and b-files — covered on its own card
+* [**5. Nc3**](#_Nc3_) (+0.3, 3.8% masters): the *Zaitsev System* — stays A57, covered below
+* **5. b6** (18.0% masters): instead returns the pawn immediately to simplify; not built out further here (backlog)
+* **5. e3** (15.3% masters): just declines further, developing calmly with an extra pawn already banked; not built out further here (backlog)
 
 [*Back to 4. cxb5*](#_cxb5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nc3_"></a>
+
+## 5. Nc3 — Zaitsev System
+
+[![5. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_5)
+
+*... 5. Nc3 — Zaitsev System*
+
+```
+rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+**5... axb5** (84.3% masters) transposes back toward similar structures a move later. Deeper, **6. e4 b4 7. Nb5 d6 8. Bc4**, the ***Nescafe Frappe Attack*** (−0.5, mention-only) — a real, sharp try where White's own advanced pieces end up objectively worse off despite the aggressive setup. Not built out further here otherwise (backlog).
+
+[*Back to 4... a6*](#_a6_)
 [*Back to TOP*](#_TOP_)

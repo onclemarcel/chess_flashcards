@@ -33,7 +33,7 @@ rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 ### Candidate moves
 
 * [**3. Nc3**](#_Nc3_) (+0.5, 67.1% masters): masters' clear main try — covered below
-* **3. Nf3** (+0.5, 31.8% masters): a real second choice, most often heading toward a King's-Indian-flavoured setup instead — see the note below
+* **3. Nf3** (+0.5, 31.8% masters): a real second choice, most often heading toward a King's-Indian-flavoured setup instead (3... g6) — or the **A54** *Tartakower-Indian* (3... Bg4), covered on [`A54_Old_Indian_Ukrainian_Variation.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A54_Old_Indian_Ukrainian_Variation.md)
 
 [*Back to TOP*](#_TOP_)
 
@@ -70,7 +70,7 @@ rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 **3... Nbd7** is masters' actual top choice (47.1%) — not the more central-looking 3... e5 (24.8%), which walks straight into a queen trade after 4. dxe5 dxe5 5. Qxd8+. Developing the knight first keeps that option closed.
 
 * [**3... Nbd7**](#_Nbd7_) (+0.7, 47.1% masters): the line this card follows.
-* **3... e5** (+0.5, 24.8% masters): also real, but only after preparing it — playing it immediately invites the queen trade above.
+* [**3... e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A54_Old_Indian_Ukrainian_Variation.md) (+0.4, 24.8% masters): the **A54** Ukrainian Variation — covered on its own card.
 * **3... g6** (+0.5, 15.9% masters): transposes toward a King's-Indian-style fianchetto instead.
 
 [*Back to 2... d6*](#_initial_move_)
@@ -80,33 +80,11 @@ rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 
 <a name="_Nbd7_"></a>
 
-### 3... Nbd7 4. e4 e5 5. Nf3 — Old Indian Defense: Normal Variation
+### 3... Nbd7 4. e4 e5 5. Nf3
 
-Masters' actual main line from here: **4. e4** claims the centre while the knight already guards e5, then **5. Nf3** develops naturally once Black has committed to the central break.
+**Corrected 2026-08-26**: this section used to build the resulting tabiya as if it stayed A53 — but the position reached (**Be7** the main try) is live-confirmed **A55**, the exact same tabiya reached by transposition via the different move order 3... e5 4. Nf3 Nbd7 5. e4 — split off into [`A55_Old_Indian_Normal_Variation.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A55_Old_Indian_Normal_Variation.md).
 
-[![5. Nf3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R&lastMove=g1f3&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_5)
-
-*... 3... Nbd7 4. e4 e5 5. Nf3 — Old Indian Defense: Normal Variation*
-
-```
-r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Be7 | 221 k (61.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/46 | 1.8 k (49.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/35/21 |  |
-| c6 | 60 k (16.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 585 (15.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/34/21 |  |
-| g6 | 41 k (11.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 1.3 k (34.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/36/29 |  |
-| exd4 | 28 k (7.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 38 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
-
-*Online: bullet/blitz, 1800+ — 361 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-26*
-<!-- lichess-stats:end -->
-
-**5... Be7** is masters' clear main try (49.1%), reaching the true Old Indian tabiya — a Philidor-like structure where Black's pieces stay modestly placed but the position is solid and hard to crack open. Not built out further here (backlog).
+**4. e4** claims the centre while the knight already guards e5, then **5. Nf3** develops naturally once Black has committed to the central break — see [A55](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A55_Old_Indian_Normal_Variation.md) for the tabiya itself.
 
 [*Back to 3. Nc3*](#_Nc3_)
 [*Back to TOP*](#_TOP_)
@@ -114,24 +92,24 @@ r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5
 ---
 
 > [!NOTE]
-> **3. Nf3**'s own main try, **3... g6** (50.8% masters), simply transposes toward a King's-Indian-style setup once Black adds ... Bg7 — not distinct Old Indian theory any more. The real, distinctly-coded continuation is the less popular **3... Bg4** (7.4% masters), pinning the knight immediately instead of fianchettoing.
+> **3. Nc3 Bf5!?**, the *Janowski Variation* (+0.7, mention-only), develops the bishop actively outside the pawn chain before committing to ... g6 or ... e5 — most often met by 4. f3 or 4. g3.
 >
-> <a name="_Nf3_Bg4_"></a>
+> <a name="_Bf5_"></a>
 >
-> ### 3. Nf3 Bg4 — Old Indian Defense: Tartakower-Indian
+> ### 3. Nc3 Bf5 — Janowski Variation
 >
-> [![3. Nf3 Bg4](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/5N2/PP2PPPP/RNBQKB1R&lastMove=c8g4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4)
+> [![3. Nc3 Bf5](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR&lastMove=c8f5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4)
 >
-> *... 3. Nf3 Bg4 — Old Indian Defense: Tartakower-Indian*
+> *... 3. Nc3 Bf5 — Janowski Variation*
 >
 > ```
-> rn1qkb1r/ppp1pppp/3p1n2/8/2PP2b1/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
+> rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
 > ```
 >
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
 > | --- | --- |
 >
-> **4. Nc3** (50.9% masters) is the natural main try; **4. Qb3** (27.5%) hits both b7 and the loose bishop at once, a real independent try worth knowing. Not built out further here (backlog).
+> Not built out further here (backlog).
 >
 > [*Back to 2... d6*](#_initial_move_)
 > [*Back to TOP*](#_TOP_)
