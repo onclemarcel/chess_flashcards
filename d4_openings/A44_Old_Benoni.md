@@ -25,7 +25,7 @@ rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3
 | dxe6 | 271 k (14.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 42 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/24 |  |
 | Nc3 | 250 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 173 (7.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/27/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -52,7 +52,7 @@ rnbqkbnr/pp1p1ppp/8/2pPp3/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.4 |
 | --- | --- |
 
-From here Black typically continues **... d6** and **... g6/... Nf6**, aiming for a King's-Indian-like setup with a permanently cramped position — playable at club level but rarely seen at the top today, which is exactly why the Modern Benoni (delaying ... e5, or avoiding it) superseded this line in serious practice. Deeper theory past this point is its own body of work, not covered further here.
+From here Black typically continues **... d6**, the ***Semi-Benoni*** (+1.3, mention-only, live-confirmed still A44), and **... g6/... Nf6**, aiming for a King's-Indian-like setup with a permanently cramped position — playable at club level but rarely seen at the top today, which is exactly why the Modern Benoni (delaying ... e5, or avoiding it) superseded this line in serious practice. Deeper theory past this point is its own body of work, not covered further here.
 
 [*Back to 2... e5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

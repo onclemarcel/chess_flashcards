@@ -28,7 +28,7 @@ rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 0 2
 | e4 | 2.8 M (9.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 8.5 k (30.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/36/26 |  |
 | g3 | 0 | — | 1.1 k (3.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/38/26 |  |
 
-*Online: bullet/blitz, 1800+ — 31.3 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 31.3 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -70,10 +70,10 @@ rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2
 | Bg4 | 474 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 4.9 k (28.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/37/26 |  |
 | f5 | 0 | — | 987 (5.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/27 |  |
 
-*Online: bullet/blitz, 1800+ — 9.6 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 9.6 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-A genuine three-way near-even fork with no dominant try at master level — **2... g6** (33.9%), **2... Bg4** (28.6%) and **2... Nf6** (28.0%) are all within six points of each other, each heading toward a different established complex (King's-Indian-style fianchetto, an active early bishop sortie, or a flexible knight-first move order). None built out further here (backlog) — matches this repository's established "present all real candidates, don't force one deeper" convention for near-even forks.
+A genuine three-way near-even fork with no dominant try at master level — **2... g6** (33.9%), **2... Bg4** (28.6%, live-tagged the ***Wade Defense*** — `eco.md`'s own fuller name is *Old Indian Defence, Tartakower (Wade) Variation*) and **2... Nf6** (28.0%) are all within six points of each other, each heading toward a different established complex (King's-Indian-style fianchetto, an active early bishop sortie, or a flexible knight-first move order). None built out further here (backlog) — matches this repository's established "present all real candidates, don't force one deeper" convention for near-even forks.
 
 [*Back to 1. d4 d6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -98,7 +98,9 @@ A genuine three-way near-even fork with no dominant try at master level — **2.
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 > | --- | --- |
 >
-> Black most often continues **2... Nf6**, reaching the exact same tabiya as [`A53_Old_Indian_Defense.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md)'s own root (1. d4 Nf6 2. c4 d6) by transposition — covered in full there rather than duplicated here.
+> Black most often continues **2... Nf6**, reaching the exact same tabiya as [`A53_Old_Indian_Defense.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A53_Old_Indian_Defense.md)'s own root (1. d4 Nf6 2. c4 d6) by transposition — covered in full there rather than duplicated here. **2... g6 3. Nc3 Bg7**, the ***Modern Defence*** (+0.5, mention-only, stays A41), instead fianchettoes the king's bishop rather than developing the knight first.
+>
+> This same A41 tabiya is also reachable starting **1. e4**: `eco.md` tags **1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c4 Bg4** the ***Robatsch Defense: Rossolimo Variation*** (mention-only) — the identical idea from the opposite move order.
 >
 > [*Back to 1. d4 d6*](#_initial_move_)
 > [*Back to TOP*](#_TOP_)

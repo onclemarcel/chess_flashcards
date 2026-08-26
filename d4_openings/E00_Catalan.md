@@ -63,7 +63,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3
 | Be7 | 51 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 149 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/59/10 |  |
 | c6 | 23 k (1.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/6/38 | 43 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/40/19 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -99,7 +99,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq d6 0 4
 | cxd5 | 20 k (1.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 13 (0.1%) | — |  |
 | Nc3 | 11 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 6 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **4. Bg2** (55.1% masters) is the natural completion of the fianchetto; **4. Nf3** (44.8%) simply delays it by a move and usually transposes back.
@@ -132,7 +132,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 1 4
 | dxc4 | 148 k (13.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/43 | 3.1 k (28.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/53/20 |  |
 | Bb4+ | 132 k (12.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/42 | 3.2 k (29.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 21/62/17 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 This is the point where the Catalan's three real branches split — the explorer itself tags this exact position "***E01 Catalan Opening: Open Defense***", covering the whole fork:
@@ -174,7 +174,7 @@ Each branch is its own extensive body of theory, on a par with the Nimzo-Indian 
 > | cxd5 | 20 k (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 0 | — | ⚠ |
 > | Qc2 | 0 | — | 4 (0.1%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 374 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-25*
+> *Online: bullet/blitz, 1800+ — 374 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
 > **5. Nf3** (+0.2) is close to automatic (98.8% of masters games) — completing development before deciding between the main plan (Qc2/Rd1, aiming to recapture on c4 profitably) and other tries. Deeper Closed Catalan theory past this point is its own extensive body of work, not covered further here.
@@ -209,7 +209,7 @@ Each branch is its own extensive body of theory, on a par with the Nimzo-Indian 
 > | Qa4+ | 23 k (12.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/44 | 513 (16.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 25/55/20 |  |
 > | Nc3 | 15 k (8.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 4 (0.1%) | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 175 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-25*
+> *Online: bullet/blitz, 1800+ — 175 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
 > **5. Nf3** (+0.2) is masters' clear main try (83.3%) — developing before regaining the pawn, since c4 can't be defended for long. **5. Qa4+** is a real second choice (16.4%), winning the pawn back immediately with check rather than trusting long-term compensation. Deeper Open Catalan theory past this point is its own extensive body of work, not covered further here.
@@ -244,7 +244,7 @@ Each branch is its own extensive body of theory, on a par with the Nimzo-Indian 
 > | Nd2 | 35 k (26.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/7/39 | 1.1 k (35.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 26/56/18 |  |
 > | Nc3 | 17 k (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 69 (2.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/23 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 132 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-25*
+> *Online: bullet/blitz, 1800+ — 132 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
 > **5. Bd2** (+0.2) is masters' clear main try (62.6%) — trading off the dark-squared bishops, since the Catalan's whole plan runs through the *light*-squared one on g2. **5. Nd2** is a real second choice (35.2%), keeping the bishops on and recapturing with the knight instead so the queenside pawn structure stays intact. (This position gets a genuinely different reply than the earlier 3... Bb4+ check, played before ... d5/Bg2 — there 4. Bd2 is close to automatic at 81.6% masters; move-order matters here.)

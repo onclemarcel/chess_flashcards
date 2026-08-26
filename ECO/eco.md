@@ -307,83 +307,83 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## A40
 
-- **Queen's Pawn Game** — `1.d4`
-- **Queen's Pawn Game, Lundin (Kevitz-Mikenas) Defence** — `1.d4 Nc6`
-- **Queen's Pawn Game, Charlick (Englund) Gambit** — `1.d4 e5`
-- **Queen's Pawn Game, Englund Gambit** — `1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Qd5 f6 5.exf6 Nxf6`
-- **Queen's Pawn Game, English Defence** — `1.d4 b6`
-- **Polish Defence** — `1.d4 b5`
-- **Queen's Pawn Game** — `1.d4 e6`
-- **Queen's Pawn Game, Keres Defence** — `1.d4 e6 2.c4 b6`
-- **Queen's Pawn Game, Franco-Indian (Keres) Defence** — `1.d4 e6 2.c4 Bb4`
-- **Modern Defence** — `1.d4 g6`
-- **Beefeater Defence** — `1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 Bxc3 5.bxc3 f5`
+- **Queen's Pawn Game** — `1.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_d4_)
+- **Queen's Pawn Game, Lundin (Kevitz-Mikenas) Defence** — `1.d4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Mikenas_Defense.md#_initial_move_)
+- **Queen's Pawn Game, Charlick (Englund) Gambit** — `1.d4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_e5_)
+- **Queen's Pawn Game, Englund Gambit** — `1.d4 e5 2.dxe5 Nc6 3.Nf3 Qe7 4.Qd5 f6 5.exf6 Nxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_e5_)
+- **Queen's Pawn Game, English Defence** — `1.d4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_b6_)
+- **Polish Defence** — `1.d4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_Polish_Defense.md#_initial_move_)
+- **Queen's Pawn Game** — `1.d4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_e6_)
+- **Queen's Pawn Game, Keres Defence** — `1.d4 e6 2.c4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_e6_)
+- **Queen's Pawn Game, Franco-Indian (Keres) Defence** — `1.d4 e6 2.c4 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_e6_)
+- **Modern Defence** — `1.d4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_g6_)
+- **Beefeater Defence** — `1.d4 g6 2.c4 Bg7 3.Nc3 c5 4.d5 Bxc3 5.bxc3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A40_QPG.md#_g6_)
 
 ## A41
 
-- **Queen's Pawn Game** — `1.d4 d6`
-- **Old Indian Defence, Tartakower (Wade) Variation** — `1.d4 d6 2.Nf3 Bg4`
-- **Old Indian Defence** — `1.d4 d6 2.c4`
-- **Modern Defence** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7`
-- **Robatsch Defence, Rossolimo Variation** — `1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.c4 Bg4`
+- **Queen's Pawn Game** — `1.d4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md#_initial_move_)
+- **Old Indian Defence, Tartakower (Wade) Variation** — `1.d4 d6 2.Nf3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md#_Nf3_)
+- **Old Indian Defence** — `1.d4 d6 2.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md#_c4_)
+- **Modern Defence** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md#_c4_)
+- **Robatsch Defence, Rossolimo Variation** — `1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.c4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md#_c4_)
 
 ## A42
 
-- **Modern Defence, Averbakh System** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4`
-- **Pterodactyl Defence** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 c5 5.Nf3 Qa5`
-- **Modern Defence, Averbakh System,  Randspringer Variation** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 f5`
-- **Modern Defence, Averbakh System,  Kotov Variation** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 Nc6`
+- **Modern Defence, Averbakh System** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A42_Modern_Averbakh_System.md#_initial_move_)
+- **Pterodactyl Defence** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 c5 5.Nf3 Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A42_Modern_Averbakh_System.md#_c5_)
+- **Modern Defence, Averbakh System,  Randspringer Variation** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A42_Modern_Averbakh_System.md#_f5_)
+- **Modern Defence, Averbakh System,  Kotov Variation** — `1.d4 d6 2.c4 g6 3.Nc3 Bg7 4.e4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A42_Modern_Averbakh_System.md#_Nc6_)
 
 ## A43
 
-- **Benoni Defence, Old Benoni Defence** — `1.d4 c5`
-- **Benoni Defence, Old Benoni Defence,  Franco-Benoni Defence** — `1.d4 c5 2.d5 e6 3.e4`
-- **Benoni Defence, Old Benoni Defence,  Mujannah formation** — `1.d4 c5 2.d5 f5`
-- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 Nf6`
-- **Woozle Defence** — `1.d4 c5 2.d5 Nf6 3.Nc3 Qa5`
-- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 Nf6 3.Nf3`
-- **Hawk Defence** — `1.d4 c5 2.d5 Nf6 3.Nf3 c4`
-- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 d6`
-- **Benoni Defence, Old Benoni Defence,  Schmid's System** — `1.d4 c5 2.d5 d6 3.Nc3 g6`
+- **Benoni Defence, Old Benoni Defence** — `1.d4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_initial_move_)
+- **Benoni Defence, Old Benoni Defence,  Franco-Benoni Defence** — `1.d4 c5 2.d5 e6 3.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_e6_)
+- **Benoni Defence, Old Benoni Defence,  Mujannah formation** — `1.d4 c5 2.d5 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_f5_)
+- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_Nf6_)
+- **Woozle Defence** — `1.d4 c5 2.d5 Nf6 3.Nc3 Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_Nf6_)
+- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 Nf6 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_Nf6_)
+- **Hawk Defence** — `1.d4 c5 2.d5 Nf6 3.Nf3 c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_Nf6_)
+- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_d6_)
+- **Benoni Defence, Old Benoni Defence,  Schmid's System** — `1.d4 c5 2.d5 d6 3.Nc3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A43_Old_Benoni.md#_d6_)
 
 ## A44
 
-- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 e5`
-- **Semi-Benoni** — `1.d4 c5 2.d5 e5 3.e4 d6`
+- **Benoni Defence, Old Benoni Defence** — `1.d4 c5 2.d5 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A44_Old_Benoni.md#_initial_move_)
+- **Semi-Benoni** — `1.d4 c5 2.d5 e5 3.e4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A44_Old_Benoni.md#_e4_)
 
 ## A45
 
-- **Queen's Pawn Game** — `1.d4 Nf6`
-- **Queen's Pawn Game, Bronstein Gambit** — `1.d4 Nf6 2.g4`
-- **Canard Opening** — `1.d4 Nf6 2.f4`
-- **Paleface Attack** — `1.d4 Nf6 2.f3`
-- **Blackmar-Diemer Gambit** — `1.d4 Nf6 2.f3 d5 3.e4`
-- **Gedult Attack** — `1.d4 Nf6 2.f3 d5 3.g4`
-- **Trompowsky Attack** — `1.d4 Nf6 2.Bg5`
+- **Queen's Pawn Game** — `1.d4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md)
+- **Queen's Pawn Game, Bronstein Gambit** — `1.d4 Nf6 2.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_g4_)
+- **Canard Opening** — `1.d4 Nf6 2.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_f4_)
+- **Paleface Attack** — `1.d4 Nf6 2.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_f3_)
+- **Blackmar-Diemer Gambit** — `1.d4 Nf6 2.f3 d5 3.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_f3_)
+- **Gedult Attack** — `1.d4 Nf6 2.f3 d5 3.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_f3_)
+- **Trompowsky Attack** — `1.d4 Nf6 2.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A45_Trompowsky_Attack.md#_initial_move_)
 
 ## A46
 
-- **Queen's Pawn Game** — `1.d4 Nf6 2.Nf3`
-- **Queen's Pawn Game, Torre Attack** — `1.d4 Nf6 2.Nf3 e6 3.Bg5`
-- **Queen's Pawn Game, Torre Attack,  Wagner Gambit** — `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4`
-- **Queen's Pawn Game, Yusupov-Rubinstein System** — `1.d4 Nf6 2.Nf3 e6 3.e3`
-- **Doery Defence** — `1.d4 Nf6 2.Nf3 Ne4`
+- **Queen's Pawn Game** — `1.d4 Nf6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_initial_move_)
+- **Queen's Pawn Game, Torre Attack** — `1.d4 Nf6 2.Nf3 e6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Bg5_)
+- **Queen's Pawn Game, Torre Attack,  Wagner Gambit** — `1.d4 Nf6 2.Nf3 e6 3.Bg5 c5 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Bg5_)
+- **Queen's Pawn Game, Yusupov-Rubinstein System** — `1.d4 Nf6 2.Nf3 e6 3.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_e3_)
+- **Doery Defence** — `1.d4 Nf6 2.Nf3 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A46_Dory_Defense.md#_Ne4_)
 
 ## A47
 
-- **Queen's Indian Defence** — `1.d4 Nf6 2.Nf3 b6`
-- **Queen's Indian Defence, Marienbad System** — `1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5`
-- **Queen's Indian Defence, Marienbad System,  Berg Variation** — `1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5 5.c4 cxd4 6.Qxd4`
+- **Queen's Indian Defence** — `1.d4 Nf6 2.Nf3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md#_initial_move_)
+- **Queen's Indian Defence, Marienbad System** — `1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md#_c5_)
+- **Queen's Indian Defence, Marienbad System,  Berg Variation** — `1.d4 Nf6 2.Nf3 b6 3.g3 Bb7 4.Bg2 c5 5.c4 cxd4 6.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A47_Pseudo_Queens_Indian.md#_c5_)
 
 ## A48
 
-- **King's Indian Defence, East Indian Defence** — `1.d4 Nf6 2.Nf3 g6`
-- **King's Indian Defence, Torre Attack** — `1.d4 Nf6 2.Nf3 g6 3.Bg5`
-- **King's Indian Defence, London System** — `1.d4 Nf6 2.Nf3 g6 3.Bf4`
+- **King's Indian Defence, East Indian Defence** — `1.d4 Nf6 2.Nf3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A48_East_Indian_Defense.md#_initial_move_)
+- **King's Indian Defence, Torre Attack** — `1.d4 Nf6 2.Nf3 g6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A48_East_Indian_Defense.md#_Bg5_)
+- **King's Indian Defence, London System** — `1.d4 Nf6 2.Nf3 g6 3.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A48_East_Indian_Defense.md#_Bf4_)
 
 ## A49
 
-- **King's Indian Defence, Fianchetto Without c4** — `1.d4 Nf6 2.Nf3 g6 3.g3`
+- **King's Indian Defence, Fianchetto Without c4** — `1.d4 Nf6 2.Nf3 g6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A49_Indian_Przepiorka_Variation.md#_initial_move_)
 
 ## A50
 

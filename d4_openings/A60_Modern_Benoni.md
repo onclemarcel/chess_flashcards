@@ -28,7 +28,7 @@ rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4
 | g3 | 0 | — | 47 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/23 |  |
 | f3 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 9.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 9.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -67,7 +67,7 @@ rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 4
 | g6 | 32 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 34 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 | Bd6 | 0 | — | 12 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/2pP4/2P5/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **4... exd5** is masters' near-forced reply (97.8%) — trading off the tension is essentially the only way to justify Black's whole setup; leaving it closed just hands White a free structural bind.

@@ -30,7 +30,7 @@ rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2
 | dxc5 | 0 | — | 331 (3.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/34/34 |  |
 | e4 | 0 | — | 183 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
 
-*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -65,7 +65,7 @@ rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2
 | e5 | 1.9 M (14.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 2.3 k (35.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 51/27/23 |  |
 | g6 | 564 k (4.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 857 (12.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/31/28 |  |
 
-*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -75,6 +75,8 @@ rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2
 * [**2... d6**](#_d6_) (+0.6, 12.5% masters): the genuine A43, the line this card follows below.
 * [**2... Nf6**](#_Nf6_) (+0.6, 24.5% masters): also real A43 content, under its own name, the *Benoni-Indian Defense* — see the note below.
 * **2... g6** (+0.7, 12.8% masters): real and sound, not individually catalogued by the explorer — not built out further here (backlog).
+* [**2... e6**](#_e6_) (+0.5, 9.7% masters): the *French Benoni* (after 3. e4) — covered below.
+* [**2... f5**](#_f5_) (+1.3, mention-only): the *Mujannah Formation* — covered below.
 
 [*Back to 1. d4 c5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -104,10 +106,10 @@ rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3
 | e4 | 679 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 422 (50.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/29/26 |  |
 | Nf3 | 160 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 20 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 834 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 834 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-**3. e4** is masters' clear main try (50.6%) — claiming the full centre before Black can put any more pressure on d5; **3. c4** (38.0%) is the other real try, transposing toward Modern-Benoni-flavoured structures a tempo down.
+**3. e4** is masters' clear main try (50.6%) — claiming the full centre before Black can put any more pressure on d5; **3. c4** (38.0%) is the other real try, transposing toward Modern-Benoni-flavoured structures a tempo down. **3. Nc3 g6**, the ***Schmid Variation*** (+0.6, mention-only), fianchettoes instead, most often continuing 4. e4 (96.2% masters).
 
 [*Back to 2. d5*](#_d5_)
 [*Back to TOP*](#_TOP_)
@@ -138,7 +140,7 @@ rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 | e6 | 160 k (18.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | a6 | 0 | — | 8 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 888 k games. Masters: 428 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-08-25*
+*Online: bullet/blitz, 1800+ — 888 k games. Masters: 428 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
 **3... Nf6** is masters' clear main try (48.6%) — developing before committing to a kingside setup; **3... g6** (39.7%) heads straight for a King's-Indian-style fianchetto instead. Deeper theory past this point is its own body of work, not covered further here.
@@ -174,10 +176,62 @@ rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 > | Nf3 | 57 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 155 (9.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/26 |  |
 > | Bg5 | 31 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 30 (1.8%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 43/23/33 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-25*
+> *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-26*
 > <!-- lichess-stats:end -->
 >
 > **3. c4** is masters' clear main try (50.9%) — transposing toward the Modern Benoni complex a tempo down; **3. Nc3** (36.4%) keeps options flexible a move longer. Not built out further here (backlog).
+>
+> Two more named A43 sub-lines branch here, both mention-only: **3. Nc3 Qa5!?**, the ***Woozle*** (+0.9), pins the check-free knight against nothing in particular but pressures d5/a2 early; **3. Nf3** (also live-tagged its own sub-name, *Kingside Move Order*, +0.4) is met by **3... c4!?**, the ***Hawk Variation*** (+1.1) — a real, sharp, objectively dubious try grabbing queenside space at once.
+>
+> [*Back to 2. d5*](#_d5_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... e6**, the *French Benoni*, strikes at d5 from a different angle — most often met by **3. e4** (the position that carries the name), transposing toward genuine French-Defense-flavoured structures a tempo down.
+>
+> <a name="_e6_"></a>
+>
+> ### 2... e6 3. e4 — French Benoni
+>
+> [![2... e6 3. e4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR&lastMove=e2e4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3)
+>
+> *... 2... e6 3. e4 — French Benoni*
+>
+> ```
+> rnbqkbnr/pp1p1ppp/4p3/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+> | --- | --- |
+>
+> Not built out further here (backlog) — most often continues 3... exd5 (74.0% masters).
+>
+> [*Back to 2. d5*](#_d5_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **2... f5!?**, the *Mujannah Formation*, stakes out kingside space at once instead of challenging d5 directly — a real, sharp try, but objectively worse than the sounder options above.
+>
+> <a name="_f5_"></a>
+>
+> ### 2... f5 — Mujannah Formation
+>
+> [![2... f5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR&lastMove=f7f5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_3)
+>
+> *... 2... f5 — Mujannah Formation*
+>
+> ```
+> rnbqkbnr/pp1pp1pp/8/2pP1p2/8/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 3
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.3 |
+> | --- | --- |
+>
+> Not built out further here (backlog).
 >
 > [*Back to 2. d5*](#_d5_)
 > [*Back to TOP*](#_TOP_)
