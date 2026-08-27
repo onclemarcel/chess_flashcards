@@ -55,7 +55,7 @@ rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | f4 | 2.5 M (4.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/49 | 0 | — | ⚠ |
 | h4 | 0 | — | 173 (0.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/24/43 |  |
 
-*Online: bullet/blitz, 1800+ — 54.3 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 54.3 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2. d4** is masters' overwhelming choice (95.1%) — grabbing the centre while Black hasn't contested it at all yet.
@@ -87,7 +87,7 @@ rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | Nf6 | 534 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 242 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 44/24/32 |  |
 | c6 | 267 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 1.4 k (3.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 29.9 M games. Masters: 41 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 29.9 M games. Masters: 41 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2... Bg7** is masters' near-unanimous choice (88.9%) — completing the fianchetto before deciding anything about the centre.
@@ -166,7 +166,7 @@ rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 | d5 | 0 | — | 497 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/38/22 |  |
 | Nc6 | 0 | — | 171 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/35/20 |  |
 
-*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3... d6** is masters' clear main try (61.1%) — the *Standard Line*, finally contesting e5/c5 while keeping the king's knight's development flexible (Nf6 or Ne7/Nh6 depending on White's setup).
@@ -284,7 +284,7 @@ rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 1 4
 | c6 | 309 k (9.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 2.0 k (24.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/31/29 |  |
 | e6 | 100 k (3.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 18 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 8.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 8.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 > [!NOTE]

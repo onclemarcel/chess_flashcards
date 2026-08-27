@@ -26,7 +26,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3
 | d3 | 367 k (9.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 0 | — | ⚠ |
 | a3 | 0 | — | 28 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/25/32 |  |
 
-*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -63,7 +63,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3
 | f5 | 281 k (18.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 742 (15.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 34/34/31 |  |
 | g6 | 167 k (10.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 2.6 k (54.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/42/24 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 4.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 4.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3... g6** is masters' clear main try (54.7%), completing the mirror-image Closed Sicilian setup; **3... f5** (15.9%) is a real, more aggressive second try, not covered further here.

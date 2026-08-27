@@ -26,7 +26,7 @@ r1bqk2r/pp1p1ppp/2n1pn2/2P5/1bP5/1QN5/PP2PPPP/R1B1KBNR w KQkq - 1 6
 | Bg5 | 892 (4.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/48 | 35 (19.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/60/9 |  |
 | Bd2 | 0 | — | 3 (1.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 20 k games. Masters: 177 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1p1ppp/2n1pn2/2P5/1bP5/1QN5/PP2PPPP/R1B1KBNR_w_KQkq_-_1_6#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 20 k games. Masters: 177 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1p1ppp/2n1pn2/2P5/1bP5/1QN5/PP2PPPP/R1B1KBNR_w_KQkq_-_1_6#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **6. Nf3** is masters' clear main try (75.7%), developing before deciding how to meet ... Ne4. **6... Ne4** follows naturally (75.8% masters), reaching a tabiya where White's 7th move splits into two named lines.

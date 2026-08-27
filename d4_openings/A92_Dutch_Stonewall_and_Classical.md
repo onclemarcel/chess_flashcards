@@ -26,7 +26,7 @@ rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 5 6
 | b6 | 17 k (5.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/38 | 0 | — | ⚠ |
 | Ne4 | 0 | — | 277 (12.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/23 |  |
 
-*Online: bullet/blitz, 1800+ — 315 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_5_6#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 315 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppppb1pp/4pn2/5p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_5_6#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -63,7 +63,7 @@ rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - d6 0 7
 | Nbd2 | 4.5 k (6.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 79 (13.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/43/20 |  |
 | Qc2 | 0 | — | 84 (14.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/23 |  |
 
-*Online: bullet/blitz, 1800+ — 67 k games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_d6_0_7#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 67 k games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1b1pp/4pn2/3p1p2/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_d6_0_7#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Black commits to the firm d5/e6/f5 pawn chain — the classic Stonewall structure, trading the light-squared bishop's scope for a permanent grip on e4.

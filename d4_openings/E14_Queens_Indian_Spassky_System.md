@@ -26,7 +26,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4
 | Be7 | 2.7 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 14 (0.5%) | — |  |
 | d5 | 0 | — | 49 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/39/24 |  |
 
-*Online: bullet/blitz, 1800+ — 276 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 276 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... Bb7** is masters' overwhelming reply (94.4%), completing the fianchetto before deciding on a central plan.

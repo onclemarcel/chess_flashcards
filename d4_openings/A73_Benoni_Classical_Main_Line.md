@@ -26,7 +26,7 @@ rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 5 9
 | Nbd7 | 9.2 k (4.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/4/42 | 0 | — | ⚠ |
 | Na6 | 0 | — | 68 (5.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 34/28/38 |  |
 
-*Online: bullet/blitz, 1800+ — 193 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_5_9#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 193 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3p1np1/2pP4/4P3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_5_9#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Black's own plans fork sharply here — queenside expansion or immediate central pressure on e4:

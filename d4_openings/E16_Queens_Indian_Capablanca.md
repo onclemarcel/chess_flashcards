@@ -24,7 +24,7 @@ rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 3 6
 | Nbd2 | 43 k (18.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 317 (11.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/41/26 |  |
 | Nc3 | 16 k (7.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/47 | 18 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 230 k games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_3_6#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 230 k games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbpp1ppp/1p2pn2/8/1bPP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_3_6#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **6. Bd2** is masters' clear main try (87.9%), offering to trade the dark-squared bishops rather than block with the knight.

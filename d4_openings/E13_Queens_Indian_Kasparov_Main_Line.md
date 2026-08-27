@@ -27,7 +27,7 @@ rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R w KQkq - 2 7
 | Rc1 | 1.4 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/46 | 3 (0.5%) | — | ⚠ |
 | Nd2 | 0 | — | 170 (29.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/28/26 |  |
 
-*Online: bullet/blitz, 1800+ — 39 k games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_2_7#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 39 k games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbpp1pp1/1p2pn1p/8/1bPP3B/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_2_7#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **7. e3** is masters' clear main try (56.8%), a solid, unhurried follow-up; **7. Nd2** (29.6%) is a real secondary choice, sidestepping ... Ne4 ideas. Deeper theory past this point is its own extensive body of work, not covered further here.

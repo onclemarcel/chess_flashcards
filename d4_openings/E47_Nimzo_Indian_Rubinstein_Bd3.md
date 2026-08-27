@@ -26,7 +26,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR b KQ - 2 5
 | d6 | 14 k (4.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 0 | — | ⚠ |
 | Re8 | 0 | — | 267 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/35/29 |  |
 
-*Online: bullet/blitz, 1800+ — 354 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR_b_KQ_-_2_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 354 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2NBP3/PP3PPP/R1BQK1NR_b_KQ_-_2_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5... d5** is masters' clear main try (72.7%), fighting for the centre immediately.

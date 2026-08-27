@@ -24,7 +24,7 @@ rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 2 5
 | Nc3 | 47 k (31.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 196 (14.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/40/25 |  |
 | Nh3 | 19 k (13.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 125 (9.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 47/34/18 |  |
 
-*Online: bullet/blitz, 1800+ — 148 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 148 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppb1pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5. Nf3** is masters' clear main try (73.7%) — completing kingside development, over the immediate 5. Nc3 (14.3%).

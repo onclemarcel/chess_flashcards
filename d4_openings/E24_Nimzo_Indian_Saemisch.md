@@ -28,7 +28,7 @@ rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR b KQkq - 0 5
 | d6 | 0 | — | 143 (7.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 34/29/36 |  |
 | Nc6 | 0 | — | 125 (6.6%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 24/32/44 |  |
 
-*Online: bullet/blitz, 1800+ — 729 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 729 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Not itself named at this exact leaf; Black's own 5th move forks into a genuine multi-way split:

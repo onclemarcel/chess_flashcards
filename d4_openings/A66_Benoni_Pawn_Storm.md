@@ -26,7 +26,7 @@ rnbqkb1r/pp3p1p/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR b KQkq f3 0 7
 | Bg4 | 3.6 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 4 (0.2%) | — | ⚠ |
 | Qe7 | 0 | — | 24 (1.0%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 58/25/17 |  |
 
-*Online: bullet/blitz, 1800+ — 405 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR_b_KQkq_f3_0_7#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 405 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/4PP2/2N5/PP4PP/R1BQKBNR_b_KQkq_f3_0_7#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **7... Bg7** is masters' near-unanimous reply (98.1%), fianchettoing before White's centre advances any further. From there, White's 8th move forks hard:

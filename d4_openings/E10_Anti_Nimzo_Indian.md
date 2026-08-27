@@ -29,7 +29,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | a6 | 0 | — | 875 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/38/31 |  |
 | Nc6 | 0 | — | 557 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
 
-*Online: bullet/blitz, 1800+ — 11.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 11.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Black's own 3rd move is a genuine four-way split, none dominant:
@@ -90,7 +90,7 @@ rnbqkb1r/p2p1ppp/4pn2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R w KQkq b6 0 5
 | Bf4 | 0 | — | 38 (1.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 47/32/21 |  |
 | a4 | 0 | — | 21 (0.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/38/33 |  |
 
-*Online: bullet/blitz, 1800+ — 136 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2p1ppp/4pn2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R_w_KQkq_b6_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 136 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2p1ppp/4pn2/1ppP4/2P5/5N2/PP2PPPP/RNBQKB1R_w_KQkq_b6_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -126,7 +126,7 @@ rnbqkb1r/p2p1ppp/4pn2/1ppP2B1/2P5/5N2/PP2PPPP/RN1QKB1R b KQkq - 1 5
 | Qa5+ | 2.5 k (11.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 230 (20.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/31/30 |  |
 | b4 | 0 | — | 146 (12.9%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/27/40 |  |
 
-*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2p1ppp/4pn2/1ppP2B1/2P5/5N2/PP2PPPP/RN1QKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p2p1ppp/4pn2/1ppP2B1/2P5/5N2/PP2PPPP/RN1QKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Pins the f6-knight before either side resolves the central tension, keeping the option of dxe6 or cxb5 in reserve. Live-tagged the *Duz-Khotimirsky Variation* (`eco.md`'s own spelling: "Dus-Khotimirsky," a minor divergence). **5... exd5** is masters' clear main reply (51.0%).

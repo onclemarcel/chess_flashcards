@@ -25,7 +25,7 @@ r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR w KQkq - 4 5
 | a3 | 4.7 k (4.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/55 | 0 | — | ⚠ |
 | Bg5 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 110 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_-_4_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 110 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n1pn2/8/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_-_4_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5. Nf3** is masters' overwhelming reply (92.8%), developing before deciding on a central plan.

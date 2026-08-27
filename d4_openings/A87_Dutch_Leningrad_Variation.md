@@ -24,7 +24,7 @@ rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5
 | d6 | 39 k (21.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 444 (16.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/21 |  |
 | c6 | 4.5 k (2.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 11 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 186 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 186 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5... O-O** is masters' clear favourite (83.1%) — castling before committing the centre further, over the immediate 5... d6 (16.4%).

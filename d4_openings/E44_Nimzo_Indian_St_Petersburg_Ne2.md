@@ -25,7 +25,7 @@ rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R b KQkq - 1 5
 | Ne4 | 6.4 k (7.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 727 (22.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/41/26 |  |
 | c5 | 6.0 k (6.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 733 (22.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/41/27 |  |
 
-*Online: bullet/blitz, 1800+ — 91 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 91 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Black's own 5th move is a genuine three-way spread, no dominant single try:

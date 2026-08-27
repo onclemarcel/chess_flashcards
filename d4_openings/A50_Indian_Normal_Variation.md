@@ -53,7 +53,7 @@ rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | e3 | 17 k (2.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
 | g3 | 0 | — | 28 (1.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/43/32 |  |
 
-*Online: bullet/blitz, 1800+ — 701 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 701 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3. Nc3**: masters' clear main try (62.0%) — develops naturally, ready to meet ... Bb7 with a solid centre; not built out further here (backlog).
@@ -85,7 +85,7 @@ r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3
 | Nf3 | 183 k (25.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 1.6 k (78.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/27 |  |
 | d5 | 120 k (17.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 49 (2.4%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/35/43 |  |
 
-*Online: bullet/blitz, 1800+ — 710 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 710 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppppppp/2n2n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3. Nf3** is masters' clear main try (78.1%), developing before committing further; **3. Nc3** (18.3%) is a real second try. Not built out further here (backlog) — a genuinely minor sideline overall.

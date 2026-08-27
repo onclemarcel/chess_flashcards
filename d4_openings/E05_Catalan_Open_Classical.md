@@ -26,7 +26,7 @@ rnbqk2r/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 2 6
 | Nc3 | 6.0 k (3.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 8 (1.5%) | — |  |
 | Qc2 | 0 | — | 16 (3.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 187 k games. Masters: 540 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_2_6#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 187 k games. Masters: 540 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_2_6#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **6. O-O** is masters' clear main try (63.5%), castling before deciding how to regain the pawn; **6. Qa4+** (29.4%) wins it back immediately with check instead. Not built out further here (backlog) — deeper Classical Line theory is its own extensive body of work.

@@ -25,7 +25,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 4
 | Bb4+ | 32 k (3.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 1.9 k (5.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/53/19 |  |
 | c6 | 5.3 k (0.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/9/50 | 230 (0.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 24/51/25 |  |
 
-*Online: bullet/blitz, 1800+ — 976 k games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 976 k games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Masters' actual main try, **4... Ba6** (61.1%), is a real online/masters inversion: the natural-looking **4... Bb7** dominates online instead (67.2% online, only 32.4% masters).
@@ -69,7 +69,7 @@ rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R w KQkq - 1 5
 | Bd2 | 0 | — | 3 (0.0%) | — |  |
 | b3 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 822 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 822 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pbpp1ppp/1p2pn2/8/2PP4/5NP1/PP2PP1P/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5. Bg2** is close to automatic (99.8% masters), completing the fianchetto on the other side. Black's own reply is a genuine three-way split:

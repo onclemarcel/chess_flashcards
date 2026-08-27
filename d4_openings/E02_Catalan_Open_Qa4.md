@@ -25,7 +25,7 @@ rnbqkb1r/ppp2ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR b KQkq - 1 5
 | c6 | 5.1 k (22.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/43 | 53 (10.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/51/19 |  |
 | Nc6 | 2.2 k (9.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 14 (2.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23 k games. Masters: 513 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR_b_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 23 k games. Masters: 513 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/Q1pP4/6P1/PP2PPBP/RNB1K1NR_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5... Nbd7** is masters' clear main try (63.7%), blocking the check while developing — **5... Bd7** (23.0%) blocks with the bishop instead, and **5... c6** (10.3%) interposes the pawn. Not itself named at this exact leaf; White's own 6th move (6. Qxc4, essentially the only try that matters here) advances to **E03**.

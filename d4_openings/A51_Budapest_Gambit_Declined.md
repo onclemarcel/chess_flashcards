@@ -28,7 +28,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq e6 0 3
 | e3 | 354 k (5.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 38 (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/16/37 |  |
 | Nf3 | 331 k (4.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 13 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 6.7 M games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 6.7 M games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_e6_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -62,7 +62,7 @@ rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR b KQkq - 0 3
 | Bb4+ | 8.6 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | Ng8 | 8.4 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/5/38 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4P3/2P5/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3... Ng4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A52_Budapest_Gambit_Accepted.md) (+0.5, 87.0% masters): the **A52** Budapest Gambit Accepted, Main Line — the real Budapest Gambit, immediately hopping back to attack the e5 pawn and eye f2 — covered on its own card

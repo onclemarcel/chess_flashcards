@@ -27,7 +27,7 @@ rnbqk2r/pppp1ppp/4pn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4
 | d5 | 0 | — | 43 (2.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/49/16 |  |
 | b6 | 0 | — | 23 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/48/26 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/6B1/1bPP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... h6** is masters' narrow plurality (52.3%), questioning the bishop immediately; **4... c5** (42.8%) strikes at the centre instead. **5. Bh4 c5 6. d5** reaches the tabiya where Black's own 6th move splits into two real named branches.

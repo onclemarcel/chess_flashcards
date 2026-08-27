@@ -25,7 +25,7 @@ rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8
 | Nc6 | 1.9 k (14.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 17 (7.0%) | — |  |
 | a5 | 0 | — | 123 (50.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/30/21 |  |
 
-*Online: bullet/blitz, 1800+ — 13 k games. Masters: 244 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 13 k games. Masters: 244 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Masters split between **8... a5** (50.4%), gaining queenside space and preparing ... a4, and **8... Qh5** (23.4%), continuing the standard attacking rerouting.

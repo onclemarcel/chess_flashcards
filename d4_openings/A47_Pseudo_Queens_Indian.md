@@ -27,7 +27,7 @@ rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3
 | Bg5 | 109 k (11.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 530 (17.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/41/27 |  |
 | Nc3 | 36 k (3.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 29 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/31/21 |  |
 
-*Online: bullet/blitz, 1800+ — 968 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 968 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -69,7 +69,7 @@ rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3
 | g6 | 591 (0.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 0 | — | ⚠ |
 | c5 | 0 | — | 5 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 190 k games. Masters: 981 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 190 k games. Masters: 981 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppppp/1p3n2/8/3P4/5NP1/PPP1PP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 White fianchettoes to match Black's own setup, heading toward a calm double-fianchetto middlegame.
@@ -106,7 +106,7 @@ rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R w KQkq c6 0 5
 | c3 | 2.5 k (9.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 52 (15.7%) | ⬜🟫🟫🟫🟫⬛⬛⬛⬛⬛ 15/38/46 |  |
 | c4 | 1.4 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 81 (24.4%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 20/40/41 |  |
 
-*Online: bullet/blitz, 1800+ — 28 k games. Masters: 332 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R_w_KQkq_c6_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 332 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pb1ppppp/1p3n2/2p5/3P4/5NP1/PPP1PPBP/RNBQK2R_w_KQkq_c6_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 A genuinely scattered choice for White at move 5 — **5. O-O** (28.9% masters), **5. dxc5** (25.9%), **5. c4** (24.4%) and **5. c3** (15.7%) are all real, no dominant try. **5. c4 cxd4 6. Qxd4**, the ***Berg Variation*** (+0.1, mention-only), recaptures with the queen immediately rather than a piece. Not built out further here (backlog) — a genuinely minor system overall, not worth chasing deeper.

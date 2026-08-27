@@ -51,7 +51,7 @@ rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2
 | f5 | 221 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 0 | — | ⚠ |
 | Qf6 | 0 | — | 9 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -92,7 +92,7 @@ rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3
 | Qf3 | 18 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/44 | 12 (0.4%) | — |  |
 | Be2 | 0 | — | 20 (0.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/30/40 |  |
 
-*Online: bullet/blitz, 1800+ — 10.4 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 10.4 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * **3. Nf3** (the *King's Knight Gambit*): by far the most common try in both populations (71.8% masters, 88.0% online) — preventing ... Qh4+ and preparing to meet ... g5 (the classical way Black tries to hold the extra pawn) with h4 or d4-based play.

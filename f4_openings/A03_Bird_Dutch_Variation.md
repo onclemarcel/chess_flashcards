@@ -28,7 +28,7 @@ rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq d6 0 2
 | g3 | 158 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 100 (2.8%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 25/39/36 |  |
 | c4 | 0 | — | 6 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2. Nf3** is masters' clear main try (87.7%) — developing before committing the kingside structure.
@@ -68,7 +68,7 @@ rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R b KQkq - 1 2
 | g6 | 0 | — | 1.4 k (46.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/43/35 |  |
 | Bg4 | 0 | — | 246 (7.9%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 25/33/42 |  |
 
-*Online: bullet/blitz, 1800+ — 7.3 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 7.3 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/5P2/5N2/PPPPP1PP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**2... g6**](#_g6_) (-0.2): masters' narrow main try (46.3%), fianchettoing to match White's own eventual g3 — covered below.

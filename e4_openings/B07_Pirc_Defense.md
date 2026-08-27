@@ -60,7 +60,7 @@ rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | Nc3 | 6.4 M (10.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 1.1 k (2.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/34/29 |  |
 | f4 | 2.7 M (4.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/48 | 356 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
 
-*Online: bullet/blitz, 1800+ — 63.2 M games. Masters: 45 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 63.2 M games. Masters: 45 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2. d4** is masters' overwhelming choice (95.0%). The same position is also reachable by the opposite move order, 1. d4 d6 2. e4 — see [`A41_Queens_Pawn_Game.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A41_Queens_Pawn_Game.md).
@@ -93,7 +93,7 @@ rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | Nd7 | 2.7 M (7.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/48 | 0 | — | ⚠ |
 | e5 | 0 | — | 570 (1.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/35/19 |  |
 
-*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/3p4/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2... Nf6** is masters' clear main try (83.4%) — developing before committing the kingside pawns.
@@ -148,7 +148,7 @@ rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3
 | c6 | 1.9 M (12.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 3.8 k (9.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/30/28 |  |
 | e5 | 1.8 M (11.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 13 k (33.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/39/25 |  |
 
-*Online: bullet/blitz, 1800+ — 15.5 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 15.5 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_2_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -189,7 +189,7 @@ rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4
 | Bd3 | 684 k (6.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/50 | 0 | — | ⚠ |
 | g3 | 0 | — | 1.6 k (7.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/38/26 |  |
 
-*Online: bullet/blitz, 1800+ — 10.1 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 10.1 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 White's 4th move here is a genuine three-way near-even split, each leading to a completely different kind of game — masters split 25.0% / 23.2% / 21.4% between the three main tries.
@@ -233,7 +233,7 @@ White's 4th move here is a genuine three-way near-even split, each leading to a 
 > | a6 | 33 k (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 491 (11.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/41/25 |  |
 > | Nbd7 | 0 | — | 21 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/52/14 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 4.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
+> *Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 4.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N1B3/PPP2PPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
 > <!-- lichess-stats:end -->
 >
 > A genuine "sound-but-not-learned" club-level weapon: simple to play, doesn't require deep theory, and punishes an opponent who doesn't react quickly with their own queenside counterplay. Masters' preference here is a real online/masters inversion: **4... c6** (57.1% masters), preparing ... Qa5/... b5 counterplay before completing development, is the more sophisticated master-level answer — while online play instead defaults to the natural-looking **4... Bg7** (77.7% online, only 30.4% masters), completing the fianchetto immediately. Deeper 150 Attack theory is its own extensive body of work, not covered further here.

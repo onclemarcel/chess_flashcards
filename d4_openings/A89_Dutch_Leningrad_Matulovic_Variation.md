@@ -25,7 +25,7 @@ r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8
 | b3 | 21 k (9.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/49 | 117 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/42/32 |  |
 | Qc2 | 0 | — | 32 (1.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 25/34/41 |  |
 
-*Online: bullet/blitz, 1800+ — 213 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 213 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **8. d5** is masters' overwhelming continuation (88.7%), gaining a tempo on the knight and clamping down on e6 before Black can build further pressure.

@@ -104,7 +104,7 @@ rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
 | d6 | 0 | — | 7 (3.9%) | — |  |
 | g6 | 0 | — | 5 (2.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 181 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR_b_KQkq_g3_0_1#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -145,7 +145,7 @@ rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1
 > | d6 | 710 (5.4%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 26/3/72 | 0 | — | ⚠ |
 > | Bc5 | 472 (3.6%) | ⬜⬜⬛⬛⬛⬛⬛⬛⬛⬛ 22/1/78 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-26*
+> *Online: bullet/blitz, 1800+ — 13 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/5P2/PPPPP2P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-27*
 > <!-- lichess-stats:end -->
 >
 > A mirror-image version of this exact trap — reached by the opposite move order, **1. f3 e5 2. g4??**, the same mate-in-1 position — appears on the [Barnes Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/A00_openings/Barnes.md) card.
@@ -182,7 +182,7 @@ rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2
 | c5 | 138 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 3 (4.3%) | — | ⚠ |
 | Nc6 | 123 k (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/47 | 2 (2.9%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 69 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 69 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/6P1/8/PPPPPPBP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -248,7 +248,7 @@ rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq c3 0 3
 | Bc8 | 24 k (2.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
 | d4 | 0 | — | 1 (9.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 855 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_b_KQkq_c3_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 855 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_b_KQkq_c3_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Stockfish confirms this is a real gambit, not a swindle: down two pawns for real compensation, but not full equality — White is playing for practical chances rather than an objective edge. That character holds all the way through every branch below: **declining is more common online than accepting further material** (c6/e6/Be6 combined comfortably outweigh dxc4), and in every single declined branch, the single *most popular* Lichess reply turns out to be a real mistake.
@@ -334,7 +334,7 @@ rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4
 | Nc3 | 6.2 k (3.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/3/45 | 0 | — | ⚠ |
 | c5 | 3.2 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/3/53 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 180 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 180 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4. Qb3** is the move that causes most of the damage in this whole branch: it eyes b7 *and* the still-undefended d5 pawn at once.
@@ -361,7 +361,7 @@ rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 1 4
 | Nc6 | 5.2 k (6.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/3/35 | 0 | — | ⚠ |
 | dxc4 | 3.3 k (3.8%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 79/3/18 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 86 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/1Q6/PP1PPPBP/RNB1K1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 86 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp2ppp/4p3/3p4/2P3b1/1Q6/PP1PPPBP/RNB1K1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**4... b6??**](#_Fritz_e6_b6_) — Black's single *most popular* reply here (31.0% online) — and a real blunder. See the TIP below.
@@ -443,7 +443,7 @@ rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4
 | Qa4 | 2.6 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
 | c5 | 739 (0.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/3/61 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 457 k games. Masters: 8 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 457 k games. Masters: 8 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4. cxd5 cxd5** leaves the d5 pawn isolated.
@@ -464,7 +464,7 @@ rn1qkbnr/pp2pppp/8/3p4/6b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 5
 | Qa4+ | 12 k (4.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | d4 | 335 (0.1%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 39/4/56 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 286 k games. Masters: 4 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/8/3p4/6b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 286 k games. Masters: 4 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/8/3p4/6b1/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 White's own most popular follow-up here is actually **5. Qb3** (77.3% online, transposing toward the same b7/d5 pressure already seen in the 3... e6 and 3... Be6 branches above) — not built out separately here. **5. Nc3** (18.2% online) is a real, well-tested alternative move order, and it's the one this card's educational example follows: it develops a piece first, and this is where the sharpest trap on the whole card lives.
@@ -490,7 +490,7 @@ rn1qkbnr/pp2pppp/8/3p4/6b1/2N5/PP1PPPBP/R1BQK1NR b KQkq - 1 5
 | d4 | 759 (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | Bd7 | 506 (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 52 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/8/3p4/6b1/2N5/PP1PPPBP/R1BQK1NR_b_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 52 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/8/3p4/6b1/2N5/PP1PPPBP/R1BQK1NR_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**5... e6??**](#_Fritz_c6_e6_) — Black's single *most popular* reply here (48.1% online), and by far the worst mistake on this whole card. See the TIP below.
@@ -574,7 +574,7 @@ rn1qkbnr/ppp1pppp/4b3/3p4/2P5/8/PP1PPPBP/RNBQK1NR w KQkq - 1 4
 | Qa4+ | 1.0 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | d4 | 129 (0.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 152 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/4b3/3p4/2P5/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_1_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 152 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/4b3/3p4/2P5/8/PP1PPPBP/RNBQK1NR_w_KQkq_-_1_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 This is the one branch of the four where holding onto the extra pawn actually costs Black the advantage — Stockfish already prefers White slightly. **4. Qb3** repeats the exact same idea as the 3... e6 branch above, attacking b7 and d5 at once.
@@ -600,7 +600,7 @@ rn1qkbnr/ppp1pppp/4b3/3p4/2P5/1Q6/PP1PPPBP/RNB1K1NR b KQkq - 2 4
 | Qc8 | 13 k (9.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/3/37 | 0 | — | ⚠ |
 | Nf6 | 8.4 k (6.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/3/35 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 130 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/4b3/3p4/2P5/1Q6/PP1PPPBP/RNB1K1NR_b_KQkq_-_2_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 130 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/ppp1pppp/4b3/3p4/2P5/1Q6/PP1PPPBP/RNB1K1NR_b_KQkq_-_2_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 [**4... b6??**](#_Fritz_Be6_b6_) is once again the single *most popular* reply online (26.9%) — the exact same idea recurring for a third time in this gambit. See the TIP below.
@@ -663,7 +663,7 @@ rnbqkbnr/pppp1ppp/8/4p3/6P1/8/PPPPPPBP/RNBQK1NR b KQkq - 1 2
 | h5 | 17 k (2.4%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/4/55 | 6 (37.5%) | — |  |
 | Ne7 | 0 | — | 2 (12.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 717 k games. Masters: 16 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/8/PPPPPPBP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 717 k games. Masters: 16 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/6P1/8/PPPPPPBP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**2... Nf6?**](#_e5_Nf6_) (+0.7, 2.1% online): natural-looking development that actually walks into a tactical trick — see [IS-6] below.

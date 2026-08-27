@@ -27,7 +27,7 @@ rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR w KQkq - 0 2
 | d3 | 200 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 5 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 13.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/8/PP1PPPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -91,7 +91,7 @@ rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq - 1 2
 | c6 | 86 k (3.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | g5 | 0 | — | 21 (0.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/29/38 |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**2... d5**](#_Nf3_d5_) (+0.3): the *Agincourt Variation* — masters' clear main try (59.4%) — covered below
@@ -136,7 +136,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3
 | Nc3 | 100 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 7 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3. g3**](#_Nf3_d5_g3_) (0.0): masters' clear favourite (42.4%) — covered below
@@ -170,7 +170,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R b KQkq - 0 3
 | dxc4 | 95 k (10.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/39 | 1.2 k (18.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/45/28 |  |
 | c5 | 50 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/40 | 308 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/33/24 |  |
 
-*Online: bullet/blitz, 1800+ — 902 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 902 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2P5/5NP1/PP1PPP1P/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3... Nf6**, the *Neo-Catalan*, is masters' clear main try (63.1%) — feeding straight into the [A14 Neo-Catalan Declined](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A14_Neo_Catalan_Declined.md) card above once White adds Bg2/O-O (that card's own **Symmetrical: Keres Defence** NOTE covers the deeper 5... c5 sideline too), or the ***Neo-Catalan Accepted*** (4. Bg2 dxc4, +0.1, mention-only) if Black instead grabs the pawn a move later. **3... dxc4** (18.8%) takes it immediately instead, and **3... c6**, the ***Kurajica Defence*** (5.8% masters, mention-only), reinforces d5 before committing the king's knight.

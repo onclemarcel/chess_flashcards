@@ -24,7 +24,7 @@ rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1 b - - 3 8
 | Qg6 | 3.3 k (21.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/5/55 | 28 (22.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/39/32 |  |
 | Nc6 | 2.9 k (18.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 10 (8.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 124 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1_b_-_-_3_8#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 124 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/2N2NP1/PPQ1PPBP/R1B2RK1_b_-_-_3_8#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Masters split between **8... Qh5** (61.3%), continuing the queen's own attacking rerouting a different way, and **8... Qg6** (22.6%), the more standard square.

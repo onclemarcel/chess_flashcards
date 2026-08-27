@@ -27,7 +27,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 | g6 | 0 | — | 1.0 k (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/36/28 |  |
 | b5 | 0 | — | 109 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/32/30 |  |
 
-*Online: bullet/blitz, 1800+ — 17.4 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 17.4 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3... dxe4** is masters' overwhelming reply (93.4%), the whole point of White's move — trading favourably rather than let the tension sit.
@@ -80,7 +80,7 @@ rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4
 | h6 | 0 | — | 87 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/37/23 |  |
 | g6 | 0 | — | 30 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 
-*Online: bullet/blitz, 1800+ — 15.9 M games. Masters: 30 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 15.9 M games. Masters: 30 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 > [!NOTE]

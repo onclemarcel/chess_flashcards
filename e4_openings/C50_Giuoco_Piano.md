@@ -49,7 +49,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Nc3 | 1.7 M (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 397 (1.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/53/21 |  |
 | d4 | 777 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 99 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 17/66/17 |  |
 
-*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4
 | Qe7 | 0 | — | 266 (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/28/24 |  |
 | Bb6 | 0 | — | 97 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/26/27 |  |
 
-*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' near-unanimous reply (96.0%) — develops with tempo on e4, reaching the *Classical Variation*.
@@ -125,7 +125,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5
 | Qb3 | 22 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Ng5 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Another sharp online/masters inversion: masters strongly prefer **5. d3** (75.7%) — the quiet *Giuoco Pianissimo* setup, keeping the centre closed and playing for a slow manoeuvring game — over **5. d4** (21.1%, the sharper central break, sometimes called the *Möller Attack* after 5... exd4 6. cxd4). Online it flips: d4 leads (54.3%) over d3 (32.1%), the more forcing try being the online favourite as usual. Not built out further here (backlog).

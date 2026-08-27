@@ -49,7 +49,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3
 | Be7 | 181 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | g6 | 0 | — | 552 (3.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/30/30 |  |
 
-*Online: bullet/blitz, 1800+ — 14.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 14.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -90,7 +90,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4
 | g3 | 0 | — | 1.9 k (11.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/24 |  |
 | Nd5 | 0 | — | 98 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/52/21 |  |
 
-*Online: bullet/blitz, 1800+ — 12.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_4_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 12.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_4_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 Masters are genuinely split between two main tries here, with a third real option behind them:

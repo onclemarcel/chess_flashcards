@@ -26,7 +26,7 @@ rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4
 | d4 | 131 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 202 (3.9%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 25/48/28 |  |
 | d3 | 24 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 10 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4. h3** is masters' overwhelming choice (90.6%), immediately questioning the bishop.
@@ -58,7 +58,7 @@ rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N1P/PPPP1PP1/R1BQKB1R b KQkq - 0 4
 | dxe4 | 7.0 k (0.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/39 | 0 | — | ⚠ |
 | e6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 997 k games. Masters: 4.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N1P/PPPP1PP1/R1BQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 997 k games. Masters: 4.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N1P/PPPP1PP1/R1BQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... Bxf3** is masters' clear main try (88.5%), giving up the bishop pair rather than retreat — **4... Bh5** (11.5%) keeps the pin alive instead.

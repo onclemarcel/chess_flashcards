@@ -56,7 +56,7 @@ rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 | e6 | 272 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 3 (13.0%) | — | ⚠ |
 | e5 | 0 | — | 1 (4.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 11.6 M games. Masters: 23 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 11.6 M games. Masters: 23 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -98,7 +98,7 @@ rnbqkbnr/ppp1pppp/8/6N1/4p3/8/PPPP1PPP/RNBQKB1R b KQkq - 1 3
 | Nc6 | 246 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/50 | 0 | — | ⚠ |
 | e3 | 0 | — | 1 (8.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 12 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/6N1/4p3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 12 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/6N1/4p3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3... Nf6**](#_Trap_) (-0.4, 55.1% online): the natural developing move — but it walks straight into the trap below if Black then plays carelessly

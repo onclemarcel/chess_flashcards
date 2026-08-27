@@ -25,7 +25,7 @@ rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq c6 0 5
 | Nf3 | 73 k (20.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 443 (6.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
 | a3 | 39 k (10.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 241 (3.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/34/36 |  |
 
-*Online: bullet/blitz, 1800+ — 360 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 360 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5. Bd3** is masters' narrow plurality (49.9%), developing naturally before deciding on the centre; **5. Ne2** (39.6%) is a real second choice.

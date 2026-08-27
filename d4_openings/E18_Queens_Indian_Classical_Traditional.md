@@ -26,7 +26,7 @@ rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 6 7
 | c5 | 57 k (9.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 0 | — | ⚠ |
 | Na6 | 0 | — | 418 (6.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/28 |  |
 
-*Online: bullet/blitz, 1800+ — 575 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_6_7#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 575 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pbppbppp/1p2pn2/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_6_7#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **7... Ne4** is masters' overwhelming reply (83.8%), immediately challenging the c3 knight's own support of a central e4 push. **8. Qc2** follows naturally, attacking the knight and preparing to recapture toward the centre.

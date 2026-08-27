@@ -24,7 +24,7 @@ rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/P1N5/1PQ1PPPP/R1B1KBNR b KQkq - 0 5
 | Be7 | 9.3 k (11.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 73 (3.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 | Bd6 | 766 (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 2 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 80 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/P1N5/1PQ1PPPP/R1B1KBNR_b_KQkq_-_0_5#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 80 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/P1N5/1PQ1PPPP/R1B1KBNR_b_KQkq_-_0_5#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **5... Bxc3+** is masters' overwhelming reply (96.0%), forced by the a3 push. **6. Qxc3** recaptures naturally, reaching a tabiya where Black's 6th move is a genuine two-way split.

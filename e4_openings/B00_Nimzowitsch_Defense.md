@@ -47,7 +47,7 @@ r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2
 | d3 | 453 k (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 23 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/39/35 |  |
 | Bb5 | 0 | — | 50 (0.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/32/22 |  |
 
-*Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -85,7 +85,7 @@ r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2
 | Nf6 | 381 k (5.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 162 (4.0%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/25/28 |  |
 | e6 | 376 k (5.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 144 (3.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 51/30/19 |  |
 
-*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_2_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_2_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * **2... d6** (53.8% masters): the main try, keeping the position flexible and preparing ... Nf6/... e5 or ... g6, often transposing toward Pirc- or Philidor-like structures with the knight already developed.
@@ -134,7 +134,7 @@ r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | b6 | 78 k (1.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/3/40 | 0 | — | ⚠ |
 | g6 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 7.3 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 7.3 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**2... d5**](#_d5_Scandi_) (54.9% masters): the main try — White's own 3rd move is a genuine three-way spread — covered below.
@@ -170,7 +170,7 @@ r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 | exd5 | 826 k (31.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 133 (12.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/31/31 |  |
 | Nc3 | 265 k (10.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 451 (41.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/32/29 |  |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * **3. e5** (45.6% masters): masters' clear favourite — Black's knight has already committed to c6 rather than the more flexible d7 square a real Scandinavian Defense would allow, so White gains a comfortable space advantage while Black looks to undermine e5 with ... f6 or ... Bf5/... e6 plans. Not built out further here (backlog).

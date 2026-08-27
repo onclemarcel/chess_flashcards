@@ -33,7 +33,7 @@ rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | Ne2 | 0 | — | 427 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
 | b3 | 0 | — | 68 (0.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/28/43 |  |
 
-*Online: bullet/blitz, 1800+ — 124.7 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 124.7 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -80,7 +80,7 @@ rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 | g6 | 178 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 138 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/36/28 |  |
 | e5 | 0 | — | 14 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 14.6 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 14.6 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2... d5** is essentially automatic (97.6% masters), reaching the *Two Knights Attack* family once White follows up with 3. Nf3 — usually transposing back toward the same structures as 2. d4, just with the king's knight developed a move earlier and White's own d-pawn not yet committed.
@@ -120,7 +120,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3
 | g6 | 0 | — | 332 (3.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 | a6 | 0 | — | 194 (2.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/32/36 |  |
 
-*Online: bullet/blitz, 1800+ — 9.0 M games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 9.0 M games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3... Bg4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B11_Caro_Kann_Two_Knights_Mindeno.md) (+0.2, 56.6% masters): the *Mindeno Variation* — masters' clear main try. Live-confirmed its own code, **B11** — covered on its own card.

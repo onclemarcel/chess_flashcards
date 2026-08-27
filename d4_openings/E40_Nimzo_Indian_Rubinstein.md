@@ -26,7 +26,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR b KQkq - 0 4
 | Bxc3+ | 243 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/47 | 0 | — | ⚠ |
 | d5 | 0 | — | 898 (2.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 36 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 36 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... O-O** is masters' clear main try (62.6%) — castling into safety before choosing between ... c5 and ... d5 next.

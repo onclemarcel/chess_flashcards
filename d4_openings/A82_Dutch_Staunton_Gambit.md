@@ -25,7 +25,7 @@ rnbqkbnr/ppppp1pp/8/5p2/3PP3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 2
 | d6 | 53 k (5.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 3 (0.3%) | — | ⚠ |
 | e6 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 905 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 905 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **2... fxe4** is masters' near-unanimous reply (99.3%) — declining just hands White a free tempo and a big centre with nothing to show for it.
@@ -62,7 +62,7 @@ rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3
 | Qh5+ | 15 k (2.1%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 39/3/57 | 0 | — | ⚠ |
 | c4 | 12 k (1.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 748 k games. Masters: 899 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 748 k games. Masters: 899 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/8/3Pp3/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **3. Nc3** is masters' near-unanimous continuation (98.9%), preparing to recapture the pawn with the knight or gain further tempo with Bg5.

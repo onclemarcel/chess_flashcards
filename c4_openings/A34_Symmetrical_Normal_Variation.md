@@ -27,7 +27,7 @@ rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2
 | g6 | 0 | — | 1.5 k (23.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/46/27 |  |
 | b6 | 0 | — | 277 (4.4%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/32/35 |  |
 
-*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -90,7 +90,7 @@ rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3
 | e4 | 266 k (13.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 330 (5.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/38/30 |  |
 | e3 | 179 k (9.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 43 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/37/21 |  |
 
-*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3. Nf3**](#_Nf3_) (0.0): masters' favourite — the *Three Knights Variation*, covered below

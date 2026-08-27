@@ -51,7 +51,7 @@ rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq d6 0 3
 | Bc4 | 232 k (3.7%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 32/3/66 | 0 | — | ⚠ |
 | Be2 | 0 | — | 2 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 6.3 M games. Masters: 268 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_d6_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 6.3 M games. Masters: 268 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3pp3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_d6_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ rnbqkbnr/ppp2ppp/8/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 | c6 | 47 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 0 | — | ⚠ |
 | Bg4 | 17 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 121 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 121 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**3... e4**](#_e4_) (57.0% masters): the actual point of the gambit — attacks the f3-knight and grabs central space before White can develop comfortably.
@@ -126,7 +126,7 @@ rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 4
 | Ng5 | 24 k (1.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 34/3/63 | 0 | — | ⚠ |
 | Bb5+ | 0 | — | 3 (4.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 69 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 69 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 * [**4. Qe2**](#_Qe2_) (+1.0): masters' clear main choice (75.4%) — pins the e4 pawn to Black's own king along the e-file — **4... exf3??** would open the e-file straight into a check — while preparing to meet a properly supported ... exf3 with Qxf3.
@@ -162,7 +162,7 @@ rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPPQPPP/RNB1KB1R b KQkq - 1 4
 | Be7 | 39 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/4/52 | 1 (1.9%) | — | ⚠ |
 | Bf5 | 4.7 k (0.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/42 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 52 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPPQPPP/RNB1KB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 52 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4p3/5N2/PPPPQPPP/RNB1KB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 **4... Nf6** (65.2% online) is Black's most natural try, defending d5's recapture and developing, but White simply continues **5. d3**, chipping away at the e4 pawn while keeping the extra material — Black's compensation here is real in practical terms but not, by engine assessment, quite enough.

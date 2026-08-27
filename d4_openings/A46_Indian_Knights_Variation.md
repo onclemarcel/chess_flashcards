@@ -128,7 +128,7 @@ Not built out further here (backlog) — most often continues 3... b6 (55.1% mas
 > | Bg5 | 3.6 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 53/3/44 | 0 | — | ⚠ |
 > | Nfd2 | 0 | — | 2 (14.3%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 48 k games. Masters: 14 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/8/3Pn3/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_3_3#explorer) — updated 2026-08-26*
+> *Online: bullet/blitz, 1800+ — 48 k games. Masters: 14 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/8/3Pn3/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_3_3#explorer) — updated 2026-08-27*
 > <!-- lichess-stats:end -->
 >
 > **3. g3** is masters' choice in a tiny sample — fianchettoes while keeping an eye on the knight; not built out further here (backlog).

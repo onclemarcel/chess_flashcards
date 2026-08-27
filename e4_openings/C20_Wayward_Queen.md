@@ -53,7 +53,7 @@ rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 1 2
 | Bc5 | 9.7 k (0.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 0 | — | ⚠ |
 | Bd6 | 0 | — | 1 (2.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 48 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 48 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -92,7 +92,7 @@ r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3
 | c3 | 6.1 k (0.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/55 | 0 | — | ⚠ |
 | Nc3 | 3.1 k (0.4%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/4/56 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 710 k games. Masters: 43 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 710 k games. Masters: 43 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 > [!TIP]
@@ -123,7 +123,7 @@ r1bqkbnr/pppp1ppp/2n5/4p2Q/4P3/8/PPPP1PPP/RNB1KBNR w KQkq - 2 3
 > | Nh6 | 15 k (1.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/3/42 | 0 | — | ⚠ |
 > | Bc5 | 12 k (0.9%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 99/0/1 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 44 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR_b_KQkq_-_3_3#explorer) — updated 2026-08-26*
+> *Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 44 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR_b_KQkq_-_3_3#explorer) — updated 2026-08-27*
 > <!-- lichess-stats:end -->
 >
 > Almost every reply that meets the threat is fine for Black; the only real trap is missing it entirely. The most natural is **3... g6**, gaining a tempo by attacking the queen while blocking the diagonal:

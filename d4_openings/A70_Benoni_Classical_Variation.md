@@ -25,7 +25,7 @@ rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7
 | Bg4 | 27 k (4.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 24 (0.7%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 58/33/8 |  |
 | Nbd7 | 3.2 k (0.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 2 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 576 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_7#explorer) — updated 2026-08-26*
+*Online: bullet/blitz, 1800+ — 576 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/4P3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_7#explorer) — updated 2026-08-27*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
