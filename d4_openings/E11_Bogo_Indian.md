@@ -32,9 +32,43 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 ### Candidate moves
 
 * **4. Bd2**: masters' clear main try (57.5%) — offers to trade off the dark-squared bishop rather than block the check with a piece, the line this card follows.
-* **4. Nbd2**: the other real try (38.6%) — blocks with the knight instead, keeping the bishop pair contested a little longer at the cost of a slightly awkward piece.
+* [**4. Nbd2**](#_Nbd2_): the *Gruenfeld Variation* (38.6%) — blocks with the knight instead, keeping the bishop pair contested a little longer at the cost of a slightly awkward piece — covered below.
 * **4. Nc3**: rare at master level (3.9%) — transposes toward Nimzo-Indian ideas since the knight was going to c3 eventually anyway.
 
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nbd2_"></a>
+
+## 4. Nbd2 — Gruenfeld Variation
+
+[![4. Nbd2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R&lastMove=b1d2&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4)
+
+*... 4. Nbd2 — Gruenfeld Variation*
+
+```
+rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| O-O | 161 k (36.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 3.5 k (38.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/41/23 |  |
+| b6 | 83 k (18.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 3.6 k (39.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/43/19 |  |
+| d5 | 57 k (13.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 1.2 k (13.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/38/22 |  |
+| c5 | 48 k (11.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/7/41 | 0 | — | ⚠ |
+| d6 | 0 | — | 273 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/36/25 |  |
+
+*Online: bullet/blitz, 1800+ — 436 k games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-26*
+<!-- lichess-stats:end -->
+
+Named for Ernst Grünfeld, not related to the D80-D99 Grünfeld Defense. Masters split between **4... b6** (39.3%, completing the fianchetto) and **4... O-O** (38.0%), essentially even. Not built out further here (backlog).
+
+[*Back to 3... Bb4+*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -66,7 +100,12 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R b KQkq - 3 4
 *Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-26*
 <!-- lichess-stats:end -->
 
-Masters' clear main try is **4... Qe7** (45.8%) — keeps the bishop check unresolved for now, ready to meet Bxb4 with Qxb4 or play ... Bxd2+ on Black's own terms later. **4... a5** (24.2%) and **4... c5** (17.4%) are both real independent tries; only **4... Bxd2+** (10.5%) resolves the tension immediately, trading off the dark-squared bishop pair right away for a slightly simpler game. Not built out further here (backlog).
+Masters' clear main try is **4... Qe7**, live-tagged the *Nimzowitsch Variation* (45.8%) — keeps the bishop check unresolved for now, ready to meet Bxb4 with Qxb4 or play ... Bxd2+ on Black's own terms later. **5. g3** is masters' clear main reply (78.6%). **4... a5** (24.2%) and **4... c5** (17.4%) are both real independent tries; only **4... Bxd2+** (10.5%) resolves the tension immediately, trading off the dark-squared bishop pair right away for a slightly simpler game.
+
+> [!NOTE]
+> **4... Bxd2+ 5. Qxd2 b6 6. g3 Bb7 7. Bg2 O-O 8. Nc3 Ne4 9. Qc2 Nxc3 10. Ng5!?**, the *Monticelli Trap* (+0.2, mention-only), sets a genuine tactical snare instead of simply recapturing the knight. **10... Qxg5** (41.2% masters, live-verified via engine — a real, played try, not a rare blunder) walks into **11. Bxb7**, since the queen leaving d8 opens the long diagonal for White's own fianchettoed bishop to win Black's own — a genuine, if modest, edge (+0.5) rather than anything immediately decisive. **10... Ne4** (58.8% masters) sidesteps the whole idea by retreating the knight instead of grabbing it.
+
+Not built out further here otherwise (backlog).
 
 [*Back to 3... Bb4+*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
