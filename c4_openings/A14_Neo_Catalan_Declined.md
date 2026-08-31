@@ -26,7 +26,7 @@ rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 b kq - 4 5
 | c5 | 16 k (1.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 56/6/38 | 56 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/29/25 |  |
 | d4 | 0 | — | 61 (0.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 46/26/28 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1_b_kq_-_4_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1_b_kq_-_4_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -64,7 +64,7 @@ rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1 w - - 5 6
 | d3 | 37 k (3.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 298 (3.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/41/20 |  |
 | Qc2 | 0 | — | 307 (3.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/39/27 |  |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 9.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1_w_-_-_5_6#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 9.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p4/2P5/5NP1/PP1PPPBP/RNBQ1RK1_w_-_-_5_6#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White's 6th move is a genuine near-even fork with no distinct name of its own for either branch: **6. b3** (46.3% masters) fianchettoes the queen's bishop, while **6. d4** (45.9% masters) grabs the centre directly. Neither is built out further here (backlog) — the resulting middlegames are their own extensive body of theory.

@@ -25,7 +25,7 @@ rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1PBP3/5PPP/R1BQK1NR b KQ - 0 7
 | b6 | 5.2 k (13.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 68 (4.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/43/21 |  |
 | c6 | 2.5 k (6.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 81 (4.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/26 |  |
 
-*Online: bullet/blitz, 1800+ — 38 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1PBP3/5PPP/R1BQK1NR_b_KQ_-_0_7#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 38 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/2PP4/P1PBP3/5PPP/R1BQK1NR_b_KQ_-_0_7#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **7... dxc4** is masters' overwhelming reply (76.0%), grabbing the pawn immediately since White's own bishop just moved off the a6-f1 diagonal and can't easily recapture it favourably. Deeper Botvinnik System theory past this point is its own extensive body of work, not covered further here — this is the natural end of the whole E40-E49 Rubinstein System sweep as covered across this card set.

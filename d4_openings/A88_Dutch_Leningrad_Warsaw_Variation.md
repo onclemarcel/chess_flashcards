@@ -27,7 +27,7 @@ rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8
 | Rb1 | 0 | — | 805 (19.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/61/15 |  |
 | Qb3 | 0 | — | 334 (8.3%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 19/63/18 |  |
 
-*Online: bullet/blitz, 1800+ — 271 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 271 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **8. d5** is masters' clear favourite (34.5%), fixing the centre before Black gets a chance to challenge it, with **8. Rb1** (19.9%) a real, quieter alternative.

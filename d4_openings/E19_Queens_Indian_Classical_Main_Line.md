@@ -26,7 +26,7 @@ rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2Q2NP1/PP2PPBP/R1B2RK1 b - - 0 9
 | c5 | 12 k (16.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/9/46 | 986 (48.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 20/68/12 |  |
 | Bf6 | 5.8 k (8.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 46/10/45 | 71 (3.5%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/56/20 |  |
 
-*Online: bullet/blitz, 1800+ — 72 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2Q2NP1/PP2PPBP/R1B2RK1_b_-_-_0_9#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 72 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pbppbppp/1p2p3/8/2PP4/2Q2NP1/PP2PPBP/R1B2RK1_b_-_-_0_9#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Black's own 9th move is a genuine multi-way split, no dominant single try:

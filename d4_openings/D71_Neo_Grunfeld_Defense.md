@@ -27,7 +27,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq d6 0 4
 | Nf3 | 5.6 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/44 | 5 (1.8%) | — |  |
 | Nc3 | 1.5 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 96 k games. Masters: 280 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 96 k games. Masters: 280 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -64,7 +64,7 @@ rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR w KQkq - 2 6
 | Nc3 | 12 k (20.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 63 (2.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 22/44/33 |  |
 | e3 | 1.2 k (2.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/48 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 56 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_6#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 56 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_6#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Masters split almost evenly between **6. e4** (49.9%, claiming the centre immediately, kicking the knight) and **6. Nf3** (47.5%, developing first and keeping the e-pawn flexible) — a genuine near-even fork with no dominant try. Not built out further here (backlog) — each branch is its own extensive body of theory, and this card's job was closing the zero-coverage gap, not exhausting the family.

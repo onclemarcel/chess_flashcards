@@ -26,7 +26,7 @@ rnbq1rk1/pp1p1ppp/4pn2/2P5/1bP5/2N5/PPQ1PPPP/R1B1KBNR w KQ - 1 6
 | e3 | 1.1 k (2.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/46 | 0 | — | ⚠ |
 | Bf4 | 0 | — | 73 (3.1%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 26/47/27 |  |
 
-*Online: bullet/blitz, 1800+ — 43 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2P5/1bP5/2N5/PPQ1PPPP/R1B1KBNR_w_KQ_-_1_6#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 43 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2P5/1bP5/2N5/PPQ1PPPP/R1B1KBNR_w_KQ_-_1_6#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **6. a3** is masters' clear main try (66.7%), forcing the bishop to decide before it can be recaptured for free; **6. Nf3** (26.5%) develops instead. Deeper Pirc Variation theory past this point is its own extensive body of work, not covered further here.

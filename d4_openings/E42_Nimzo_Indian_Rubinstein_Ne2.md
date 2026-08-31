@@ -27,7 +27,7 @@ rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP2NPPP/R1BQKB1R b KQkq - 1 5
 | b6 | 0 | — | 528 (19.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/36/30 |  |
 | d6 | 0 | — | 96 (3.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/41/28 |  |
 
-*Online: bullet/blitz, 1800+ — 106 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 106 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **5... cxd4** is masters' clear main try (57.9%), resolving the central tension immediately since the knight on e2 can recapture cleanly. **5... b6** (19.6%) and **5... d5** (14.8%) are both real alternatives. Deeper Rubinstein Variation theory is its own extensive body of work, not covered further here.

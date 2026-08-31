@@ -26,7 +26,7 @@ rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5
 | b6 | 41 k (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/6/40 | 0 | — | ⚠ |
 | Ne4 | 0 | — | 96 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/40/33 |  |
 
-*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **5... O-O** is masters' overwhelming reply (96.8%), completing kingside development before deciding on a central plan. **6. O-O** follows naturally, reaching the tabiya from which the whole rest of the Closed Catalan's main theory branches.

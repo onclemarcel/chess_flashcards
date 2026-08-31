@@ -53,7 +53,7 @@ r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 1 9
 | Bc2 | 1.8 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/49 | 0 | — | ⚠ |
 | a3 | 0 | — | 91 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/44/25 |  |
 
-*Online: bullet/blitz, 1800+ — 685 k games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_-_1_9#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 685 k games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_-_1_9#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -91,7 +91,7 @@ r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 b - - 0 9
 | Re8 | 20 k (2.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 1.3 k (4.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 26/61/13 |  |
 | Nd7 | 0 | — | 990 (3.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/44/21 |  |
 
-*Online: bullet/blitz, 1800+ — 722 k games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_b_-_-_0_9#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 722 k games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_b_-_-_0_9#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Black's three main tries here are a genuine three-way split, each its own named system with its own dedicated card:

@@ -26,7 +26,7 @@ r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 6 7
 | cxd5 | 33 k (11.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | b3 | 0 | — | 147 (8.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/51/22 |  |
 
-*Online: bullet/blitz, 1800+ — 288 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_6_7#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 288 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_6_7#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White's own 7th move is a genuine multi-way split:

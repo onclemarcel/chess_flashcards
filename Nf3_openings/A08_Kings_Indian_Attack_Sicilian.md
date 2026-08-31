@@ -28,7 +28,7 @@ rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPPBP/RNBQK2R b KQkq - 1 3
 | g6 | 0 | — | 153 (5.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/44/27 |  |
 | f6 | 0 | — | 16 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPPBP/RNBQK2R_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/2pp4/8/5NP1/PPPPPPBP/RNBQK2R_b_KQkq_-_1_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -63,7 +63,7 @@ r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R w KQkq - 2 4
 | d3 | 340 k (13.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/4/44 | 95 (4.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/42/27 |  |
 | c4 | 65 k (2.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 125 (5.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/34/30 |  |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R_w_KQkq_-_2_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp2pppp/2n5/2pp4/8/5NP1/PPPPPPBP/RNBQK2R_w_KQkq_-_2_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **4. d4** is masters' clear main try (56.0%) — staking a claim in the centre now that Black's own centre isn't fully mobilised. **4. O-O** (33.9%) is a real second choice, castling first and deciding on d4 a move later. Not built out further here (backlog) — the resulting middlegames are their own extensive body of theory.

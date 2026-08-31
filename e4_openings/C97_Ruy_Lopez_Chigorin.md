@@ -47,7 +47,7 @@ r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10
 | a4 | 141 (0.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 345 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 345 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -82,7 +82,7 @@ r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1 b - - 2 10
 | Nc4 | 1.6 k (0.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/3/37 | 0 | — | ⚠ |
 | c6 | 0 | — | 8 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 346 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1_b_-_-_2_10#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 346 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1_b_-_-_2_10#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **10... c5** is close to automatic (96.8% of masters games) — the whole point of ... Na5, gaining queenside space and preparing ... Qc7/... Nc6 or ... Bb7 setups.
@@ -140,7 +140,7 @@ r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1 b - d3 0 11
 | Nd7 | 24 k (8.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 1.9 k (20.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 | Bb7 | 0 | — | 249 (2.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
 
-*Online: bullet/blitz, 1800+ — 291 k games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 291 k games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **11... Qc7** is masters' clear main try (67.8%) — connecting the rooks and eyeing a later ... Rd8 or ... Bd7/... Rfe8 regrouping, while the tension on d4/e5 stays unresolved. Deeper Chigorin theory past this point (the resulting piece-vs-space middlegame) is its own extensive body of work, not covered further here.

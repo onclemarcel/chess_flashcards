@@ -70,7 +70,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2
 | e5 | 87 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | Bg4 | 67 k (0.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/3/55 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 301 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 301 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -168,7 +168,7 @@ rnbqkbnr/ppp1pppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 | c6 | 0 | — | 3 (1.4%) | — |  |
 | g6 | 0 | — | 2 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 219 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 219 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/3Pp3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Black should develop the knight while defending the e4 pawn. That said, several other options are worth mentioning since White may be less prepared for those:
@@ -352,7 +352,7 @@ rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4
 | c6 | 19 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 11 (3.6%) | — |  |
 | Nbd7 | 0 | — | 2 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 305 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 305 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 The pawn-taking move represents 78% of masters games, but Black still has counterplay in refusing the f3 pawn:
@@ -508,7 +508,7 @@ rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R b KQkq - 0 5
 | b6 | 14 k (0.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/3/42 | 0 | — | ⚠ |
 | a6 | 0 | — | 1 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 237 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 237 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/3P4/2N2N2/PPP3PP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Not less than five Black moves are played in masters games — **... g6** (-0.5, Bogoljubow Defense), **... Bg4** (-0.2, Teichmann Defense), **... e6** (-0.3, Euwe Variation), **... Bf5** (-0.3, Gunderam Defense), and **... c6** (-0.5, Ziegler Defense) — each *pending its own dedicated card*. Some players' games also involve [**5... Nc6**](#_5_Nxf3_Nc6_) (-0.2), the Pietrowsky Defense.

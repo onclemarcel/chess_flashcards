@@ -24,7 +24,7 @@ rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR b KQkq - 0 2
 | d6 | 10 k (1.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 81 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/33/26 |  |
 | c6 | 2.2 k (0.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/42 | 11 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 573 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 573 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/6P1/PPP1PP1P/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Meets Black's kingside space grab with a long-diagonal bishop of its own rather than contesting the centre directly — masters' most tested reply to the Dutch overall (40.9% — see [A80 Dutch Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md)).
@@ -79,7 +79,7 @@ rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4
 | Nd2 | 8.6 k (4.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/8/42 | 183 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/41/21 |  |
 | b3 | 6.8 k (3.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/8/44 | 289 (3.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/37/21 |  |
 
-*Online: bullet/blitz, 1800+ — 184 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 184 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp2p/5np1/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **4. Nf3** is masters' clear main try (51.3%) — completing kingside development before committing to c4 or a slower c3/Nd2 build-up. Deeper Semi-Leningrad theory past this point is its own extensive body of work, not covered further here.
@@ -120,7 +120,7 @@ rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR w KQkq - 0 4
 | Nh3 | 36 k (12.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 55/6/40 | 222 (8.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
 | Nd2 | 11 k (3.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 77 (2.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/30 |  |
 
-*Online: bullet/blitz, 1800+ — 281 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 281 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp2pp/4pn2/5p2/3P4/6P1/PPP1PPBP/RNBQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White's 4th move is a real two-way split: **4. c4** (47.5% masters) grabs more central space, while **4. Nf3** (39.7%) simply develops.

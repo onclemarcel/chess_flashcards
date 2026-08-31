@@ -25,7 +25,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 1 4
 | dxc4 | 148 k (13.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/43 | 3.1 k (28.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/53/20 |  |
 | Bb4+ | 132 k (12.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/42 | 3.2 k (29.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 21/62/17 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 This is the point where the Catalan's three real branches split:
@@ -110,7 +110,7 @@ rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 0 5
 | Qa4+ | 23 k (12.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/44 | 513 (16.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 25/55/20 |  |
 | Nc3 | 15 k (8.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 4 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 175 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 175 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Grabs the c4 pawn immediately, betting that holding onto it (or trading it back on White's terms) is worth more than leaving the long diagonal totally uncontested. Not a blunder: White's compensation is famous but not close to forced, and this remains a fully respected, heavily analysed choice at the top level. Live-confirmed this exact leaf already carries its own code, **E02** — White's own 5th-move reply then forks further into deeper codes:

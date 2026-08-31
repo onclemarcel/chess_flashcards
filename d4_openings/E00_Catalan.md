@@ -51,7 +51,7 @@ rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3
 | Be7 | 51 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 149 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/59/10 |  |
 | c6 | 23 k (1.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/6/38 | 43 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/40/19 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/4pn2/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -95,7 +95,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq d6 0 4
 | cxd5 | 20 k (1.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 13 (0.1%) | — |  |
 | Nc3 | 11 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 6 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **4. Bg2** (+0.1, 55.1% masters) is the natural completion of the fianchetto; **4. Nf3** (44.8%) simply delays it by a move and usually transposes back. Live-confirmed **4. Bg2** already reaches its own code, **E01** — [covered on its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E01_Catalan_Open_Defense.md).

@@ -25,7 +25,7 @@ rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR b KQkq - 0 6
 | d6 | 12 k (12.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 69 (9.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/30/28 |  |
 | b6 | 12 k (12.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 133 (18.0%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/38/40 |  |
 
-*Online: bullet/blitz, 1800+ — 99 k games. Masters: 739 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 99 k games. Masters: 739 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/2PP4/P1P1P3/5PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **6... Nc6** is masters' narrow plurality (40.3%), developing naturally; **6... O-O** (28.0%) and **6... b6** (18.0%) are both real alternatives.

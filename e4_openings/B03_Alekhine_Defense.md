@@ -53,7 +53,7 @@ rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 | f4 | 625 k (10.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | Bc4 | 0 | — | 404 (2.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/33/30 |  |
 
-*Online: bullet/blitz, 1800+ — 5.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 5.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4
 | Nb6 | 2.4 M (99.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 4.4 k (100.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 | dxe5 | 3.5 k (0.1%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 63/4/33 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR_b_KQkq_c3_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR_b_KQkq_c3_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **4... Nb6** is completely forced (100% of masters games) — the c4 pawn attacks the d5 knight directly and there's nowhere else useful for it to go.
@@ -121,7 +121,7 @@ rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5
 | f4 | 2.0 M (32.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 1.4 k (25.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 | Nf3 | 548 k (8.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/51 | 120 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/43/31 |  |
 
-*Online: bullet/blitz, 1800+ — 6.3 M games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 6.3 M games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * **5. exd6** (+0.5, 71.8% masters): the *Exchange Variation* — simplifies immediately, cashing in the space advantage for a simpler position rather than pushing further. Deeper still, the **Karpov Variation** — a long, near-forced sequence (5... cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5 11. Bf4) reaching a real, heavily-analysed tabiya — is its own extensive body of work, not built out further here (backlog).
@@ -175,7 +175,7 @@ rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5
 > | Nf3 | 4.0 k (0.3%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/4/56 | 0 | — | ⚠ |
 > | c5 | 1.8 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/3/42 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n6/4p3/2PP1P2/8/PP4PP/RNBQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/1n6/4p3/2PP1P2/8/PP4PP/RNBQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > **6. fxe5** is essentially forced (100% of masters games, 98.9% online) — recapturing to keep the d4/e5/c4 pawn front intact rather than let Black simplify further.

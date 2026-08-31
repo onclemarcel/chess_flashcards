@@ -28,7 +28,7 @@ rnbqkb1r/pppp2pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 1 4
 | Nc6 | 12 k (2.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | g6 | 0 | — | 27 (0.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 19/56/26 |  |
 
-*Online: bullet/blitz, 1800+ — 427 k games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp2pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 427 k games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp2pp/4pn2/5p2/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_1_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Masters' two most popular tries, **4... d5** (31.1%, an early transposition into Stonewall structures) and **4... c6** (29.2%, preparing d5 with extra support), don't carry their own named ECO sub-line here — the two that do are both real but slightly less common.

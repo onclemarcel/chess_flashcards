@@ -51,7 +51,7 @@ rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | b3 | 0 | — | 4.3 k (3.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | g3 | 0 | — | 3.5 k (3.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -95,7 +95,7 @@ rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Qc7 | 72 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 30 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/43/17 |  |
 | Bb4+ | 0 | — | 11 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**4... a6**](#_a6_) (39.8% masters): the *Kan Variation* (also called the Paulsen) — keeps the knight home a move longer, ruling out Nb5 ideas immediately, similar in spirit to the Najdorf but with ... e6 already played instead of ... d6. See below.
@@ -133,7 +133,7 @@ rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
 | Be3 | 229 k (3.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 | Be2 | 0 | — | 975 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/33/30 |  |
 
-*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -169,7 +169,7 @@ r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | c4 | 634 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 0 | — | ⚠ |
 | Nb5 | 0 | — | 3.4 k (9.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
 
-*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **5. Nc3** is masters' overwhelming choice (85.5%) — developing naturally before deciding on a plan, with **5. Nb5** (9.7%) a real second choice, immediately probing the d6 square the way it does against the Sveshnikov and Najdorf. Deeper Taimanov theory (Black's typical ... Qc7/... a6/... Nf6 set-up) is its own extensive body of work, not covered further here.

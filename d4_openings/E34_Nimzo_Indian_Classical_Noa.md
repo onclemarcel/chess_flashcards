@@ -26,7 +26,7 @@ rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N5/PPQ1PPPP/R1B1KBNR w KQkq d6 0 5
 | Bg5 | 71 k (15.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | Nf3 | 0 | — | 97 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/37/31 |  |
 
-*Online: bullet/blitz, 1800+ — 451 k games. Masters: 5.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_d6_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 451 k games. Masters: 5.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_d6_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White's own 5th move is a genuine two-way split:

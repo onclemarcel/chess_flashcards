@@ -25,7 +25,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQ - 1 5
 | Nf3 | 101 k (13.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 856 (3.8%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 25/50/25 |  |
 | Bd2 | 58 k (7.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 1.6 k (7.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/44/25 |  |
 
-*Online: bullet/blitz, 1800+ — 774 k games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQ_-_1_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 774 k games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQ_-_1_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **5. Bd3** is masters' clear main try (63.9%), developing before deciding how to meet a future ... d5.

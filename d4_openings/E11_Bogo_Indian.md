@@ -26,7 +26,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 | Qd2 | 2.7 k (0.1%) | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ 12/3/85 | 0 | — | ⚠ |
 | Nfd2 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -63,7 +63,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4
 | c5 | 48 k (11.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/7/41 | 0 | — | ⚠ |
 | d6 | 0 | — | 273 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 436 k games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 436 k games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Named for Ernst Grünfeld, not related to the D80-D99 Grünfeld Defense. Masters split between **4... b6** (39.3%, completing the fianchetto) and **4... O-O** (38.0%), essentially even. Not built out further here (backlog).
@@ -97,7 +97,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R b KQkq - 3 4
 | Be7 | 125 k (10.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 277 (2.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/45/22 |  |
 | c5 | 109 k (8.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 2.3 k (17.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/47/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/5N2/PP1BPPPP/RN1QKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... Qe7**, live-tagged the *Nimzowitsch Variation* (45.8%) — keeps the bishop check unresolved for now, ready to meet Bxb4 with Qxb4 or play ... Bxd2+ on Black's own terms later. **5. g3** is masters' clear main reply (78.6%). **4... a5** (24.2%) and **4... c5** (17.4%) are both real independent tries; only **4... Bxd2+** (10.5%) resolves the tension immediately, trading off the dark-squared bishop pair right away for a slightly simpler game.

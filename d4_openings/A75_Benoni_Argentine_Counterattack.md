@@ -24,7 +24,7 @@ rn1q1rk1/1p3pbp/p2p1np1/2pP4/P3P1b1/2N2N2/1P2BPPP/R1BQ1RK1 w - - 1 11
 | h3 | 6.4 k (24.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 61 (17.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/31/33 |  |
 | Bf4 | 4.0 k (15.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 156 (43.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/33/28 |  |
 
-*Online: bullet/blitz, 1800+ — 26 k games. Masters: 356 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/1p3pbp/p2p1np1/2pP4/P3P1b1/2N2N2/1P2BPPP/R1BQ1RK1_w_-_-_1_11#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 26 k games. Masters: 356 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/1p3pbp/p2p1np1/2pP4/P3P1b1/2N2N2/1P2BPPP/R1BQ1RK1_w_-_-_1_11#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **11. Bf4** (43.8% masters) develops actively, ignoring the pin for now; **11. Nd2** (23.9%) breaks it immediately, ready to meet ... Bxe2 with Qxe2.

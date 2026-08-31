@@ -51,7 +51,7 @@ r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 w - d6 0 9
 | d4 | 29 k (4.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 303 (5.5%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 22/66/12 |  |
 | h3 | 6.2 k (1.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/4/60 | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 619 k games. Masters: 5.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_d6_0_9#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 619 k games. Masters: 5.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n2n2/1p1pp3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_d6_0_9#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -86,7 +86,7 @@ r1bq1rk1/2p1bppp/p1n2n2/1p1Pp3/8/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 9
 | Na5 | 289 (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 0 | — | ⚠ |
 | Qxd5 | 14 (0.0%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 549 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n2n2/1p1Pp3/8/1BP2N2/PP1P1PPP/RNBQR1K1_b_-_-_0_9#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 549 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n2n2/1p1Pp3/8/1BP2N2/PP1P1PPP/RNBQR1K1_b_-_-_0_9#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **9... Nxd5** recaptures with the knight (99.3% of masters games) rather than the f6-knight or the queen — keeping the f6 knight free to swing toward the kingside attack later.
@@ -120,7 +120,7 @@ r1bq1rk1/2p1bppp/p1n5/1p1np3/8/1BP2N2/PP1P1PPP/RNBQR1K1 w - - 0 10
 | d3 | 18 k (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 10 (0.2%) | — |  |
 | a4 | 0 | — | 38 (0.7%) | ⬜🟫🟫🟫🟫🟫🟫🟫⬛⬛ 11/74/16 |  |
 
-*Online: bullet/blitz, 1800+ — 503 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n5/1p1np3/8/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_-_0_10#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 503 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p1n5/1p1np3/8/1BP2N2/PP1P1PPP/RNBQR1K1_w_-_-_0_10#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **10. Nxe5** is masters' near-unanimous choice (98.6%) — the d5 knight no longer defends e5, so White simply collects the second pawn back rather than trying to hold on to material some other way.
@@ -191,7 +191,7 @@ r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 b - - 0 11
 | Bd6 | 942 (0.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/4/34 | 0 | — | ⚠ |
 | Nb6 | 0 | — | 5 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 374 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_b_-_-_0_11#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 374 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p7/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_b_-_-_0_11#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **11... c6** is masters' clear main try (96.0%) — securing the d5 knight once and for all before starting the kingside build-up (... Bd6, ... Qh4, ... Bg4/... Ng4 and more), the true tabiya of the whole gambit.
@@ -215,7 +215,7 @@ r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1 w - - 0 12
 | Bxd5 | 30 k (10.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/6/53 | 106 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/55/17 |  |
 | Re1 | 12 k (4.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/53 | 922 (18.9%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫🟫 9/86/5 |  |
 
-*Online: bullet/blitz, 1800+ — 286 k games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_w_-_-_0_12#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 286 k games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p1p5/1p1nR3/8/1BP5/PP1P1PPP/RNBQ2K1_w_-_-_0_12#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 This exact position is tagged live by the explorer as the ***Marshall Attack, Modern Variation***, and Stockfish still calls it close to level (+0.1) despite Black's permanent pawn deficit — a good summary of the whole gambit. White's 12th move is a real choice: **12. d4** (53.6% masters) is the main try, heading for the classical **12... Bd6 13. Re1 Qh4** kingside build-up, with **12. d3** (24.6%) and **12. Re1** (18.9%) both real alternatives. Deeper Marshall theory past this point is its own extensive body of work, not covered further here.

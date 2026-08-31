@@ -65,7 +65,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 | Bf5 | 2.7 M (2.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 1.1 k (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/37/19 |  |
 | c5 | 2.0 M (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 385 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/45/17 |  |
 
-*Online: bullet/blitz, 1800+ — 93.6 M games. Masters: 204 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 93.6 M games. Masters: 204 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -108,7 +108,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | e4 | 1.8 M (15.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 6.2 k (25.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 > | Qa4+ | 110 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 82 (0.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 26/37/38 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > [*Back to 1. d4 d5 2. c4*](#_c4_)
@@ -143,7 +143,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | e3 | 2.3 M (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/45 | 131 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/28 |  |
 > | g3 | 613 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 815 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/52/20 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > **3. Nc3** is masters' main try (58.9%), developing naturally before deciding between e4 and e3 setups; **3. Nf3** (38.9%) keeps similar flexibility while ruling out an early Nc3-... Bb4 pin.
@@ -172,7 +172,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | Be7 | 0 | — | 8.7 k (16.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/48/17 |  |
 > | a6 | 0 | — | 1.9 k (3.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/41/25 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 28.8 M games. Masters: 52 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 28.8 M games. Masters: 52 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > **3... Nf6** is masters' clear main try (40.7%), heading toward the Orthodox/Classical Queen's Gambit Declined — not built out further here (backlog, a genuinely vast body of theory of its own). **3... c5** (10.0%) is the real second-most-tested try worth its own name.
@@ -213,7 +213,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | Qc2 | 0 | — | 69 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/54/17 |  |
 | Nd2 | 0 | — | 33 (0.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/36 |  |
 
-*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**3. Nf3**](#_c6_Nf3_) (+0.2): masters' clear favourite (64.7%) — covered below
@@ -272,7 +272,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | Bf5 | 872 k (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 66 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/33/17 |  |
 | dxc4 | 615 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 1.1 k (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
 
-*Online: bullet/blitz, 1800+ — 12.6 M games. Masters: 75 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 12.6 M games. Masters: 75 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **3... Nf6** is close to automatic (91.7% of masters games) — completing development before deciding on a structure, the same logical order as 2... c6 itself.
@@ -308,7 +308,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 | cxd5 | 1.1 M (9.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 3.7 k (3.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 18/66/16 |  |
 | Qc2 | 0 | — | 5.1 k (5.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 
-*Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White's 4th move splits the whole rest of Slav theory in two: **4. Nc3** develops naturally and heads toward the Semi-Slav or the main-line Slav Accepted, while **4. e3** (the *Quiet Variation*, also called the Chameleon or Central Slav in older sources) keeps the structure flexible a move longer.
@@ -349,7 +349,7 @@ White's 4th move splits the whole rest of Slav theory in two: **4. Nc3** develop
 > | a6 | 0 | — | 10 k (16.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 > | g6 | 0 | — | 1.2 k (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 47/41/13 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 13.9 M games. Masters: 63 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 13.9 M games. Masters: 63 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > **4... e6** (+0.2) is masters' clear main try (51.7%) — the **Semi-Slav**, combining the Slav's ... c6 with the QGD's ... e6 for one of the most solid (and most heavily analysed) structures in all of chess. **4... dxc4** is a real second choice (29.2%), the *Slav Accepted*, while **4... a6** (16.4%, the *Chebanenko Variation*) delays the decision another move. Each of these is its own extensive body of theory, not covered further here.
@@ -386,7 +386,7 @@ White's 4th move splits the whole rest of Slav theory in two: **4. Nc3** develop
 > | g6 | 345 k (10.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/45 | 1.9 k (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 37/48/16 |  |
 > | a6 | 177 k (5.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 3.2 k (10.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/47/19 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > This is where the classical **main-line Slav** actually lives: **4... Bf5** (+0.2) is masters' clear main try (36.0%) — developing the light-squared bishop outside the pawn chain before it gets shut in, the single defining idea of the whole Slav complex. **4... e6** (31.9%) transposes toward Semi-Slav-flavoured structures instead, and **4... Bg4** (14.7%) develops the bishop actively rather than solidly. Each branch is its own extensive body of theory, not covered further here.

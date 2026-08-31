@@ -56,7 +56,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3
 | g6 | 195 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 129 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/30 |  |
 | a6 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -102,7 +102,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | c3 | 562 k (2.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 75 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/27/33 |  |
 
-*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 White has several options to defend the e4 pawn:

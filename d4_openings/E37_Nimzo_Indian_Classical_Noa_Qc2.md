@@ -26,7 +26,7 @@ rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P7/1PQ1PPPP/R1B1KBNR b KQkq - 2 7
 | Qf6 | 1.3 k (8.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | e5 | 0 | — | 48 (6.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 706 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P7/1PQ1PPPP/R1B1KBNR_b_KQkq_-_2_7#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 706 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4p3/3p4/2PPn3/P7/1PQ1PPPP/R1B1KBNR_b_KQkq_-_2_7#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **7... c5** is masters' clear main try (74.6%), striking at the centre while White's queen is momentarily tied down. **7... Nc6** (12.9%) develops instead.

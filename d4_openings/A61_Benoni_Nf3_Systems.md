@@ -27,7 +27,7 @@ rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 7
 | Bg5 | 97 k (12.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 437 (4.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/30/29 |  |
 | h3 | 60 k (7.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 1.1 k (11.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/23 |  |
 
-*Online: bullet/blitz, 1800+ — 767 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_7#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 767 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3p1p/3p1np1/2pP4/8/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_7#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Masters' actual most popular try here, **7. Bf4** (25.8%), doesn't carry its own named ECO sub-line within A61 — nor does the second-favourite **7. e4** (23.0%), which is live-confirmed to advance straight into the **A70** Classical Variation complex, not duplicated here (next batch). What's left genuinely A61-coded lives on this card.

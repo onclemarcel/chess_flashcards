@@ -26,7 +26,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3
 | d3 | 630 k (10.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 134 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/43/24 |  |
 | e3 | 557 k (9.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/46 | 838 (3.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/47/23 |  |
 
-*Online: bullet/blitz, 1800+ — 6.2 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 6.2 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -64,7 +64,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 3 3
 | Bb4 | 106 k (6.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | Qe7 | 0 | — | 3 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **3... Nc6** is overwhelmingly masters' choice (95.8%) — but that reply is where the code actually advances again: the resulting position (all four knights developed) is live-confirmed **[A28, the Four Knights System](https://github.com/onclemarcel/chess_flashcards/blob/main/c4_openings/A28_Four_Knights_System.md)**, not still A22, covered on its own card.
@@ -103,7 +103,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3
 | Bc5 | 370 k (15.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 144 (2.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 | Nc6 | 350 k (14.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 507 (7.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/37/24 |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**3... Bb4**](#_g3_Bb4_) (0.0, 45.3% masters): the *Smyslov System* — masters' clear main try, stays A22, covered below

@@ -25,7 +25,7 @@ rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N5/PPQ1PPPP/R1B1KBNR w KQkq c6 0 5
 | Nf3 | 68 k (13.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/47 | 53 (1.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/38/36 |  |
 | a3 | 52 k (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/48 | 36 (0.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/31/39 |  |
 
-*Online: bullet/blitz, 1800+ — 513 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_c6_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 513 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2p5/1bPP4/2N5/PPQ1PPPP/R1B1KBNR_w_KQkq_c6_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **5. dxc5** is masters' overwhelming reply (97.2%), grabbing the pawn immediately.

@@ -25,7 +25,7 @@ rnbqk2r/pp3pbp/3p1np1/2pP2B1/4P3/2N2N2/PP3PPP/R2QKB1R b KQkq - 3 8
 | Bg4 | 9.7 k (7.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
 | a6 | 0 | — | 30 (9.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/27/30 |  |
 
-*Online: bullet/blitz, 1800+ — 131 k games. Masters: 323 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pbp/3p1np1/2pP2B1/4P3/2N2N2/PP3PPP/R2QKB1R_b_KQkq_-_3_8#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 131 k games. Masters: 323 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pbp/3p1np1/2pP2B1/4P3/2N2N2/PP3PPP/R2QKB1R_b_KQkq_-_3_8#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **8... h6** is masters' clear main reply (67.5%) — directly questioning the bishop before it can add more pressure — ahead of the more committal 8... O-O (22.6%), which lets White keep the pin a while longer.

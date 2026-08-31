@@ -30,7 +30,7 @@ rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR w KQkq f6 0 2
 | g3 | 567 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 12 k (40.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 | h3 | 0 | — | 163 (0.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 34/34/32 |  |
 
-*Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 15.0 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_f6_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Online and masters diverge sharply here: online players reach for **2. c4** first (34.5%), while masters overwhelmingly prefer **2. g3** (40.9%, against c4's own 15.5%) — the same inversion already documented on this repo's other Dutch card.

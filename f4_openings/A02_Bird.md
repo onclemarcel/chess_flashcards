@@ -31,7 +31,7 @@ rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq f3 0 1
 | g6 | 0 | — | 654 (9.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/33/40 |  |
 | d6 | 0 | — | 105 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/26/32 |  |
 
-*Online: bullet/blitz, 1800+ — 31.0 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR_b_KQkq_f3_0_1#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 31.0 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR_b_KQkq_f3_0_1#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves

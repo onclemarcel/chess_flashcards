@@ -27,7 +27,7 @@ rnbqkb1r/ppppp1pp/5n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR b KQkq - 3 4
 | c6 | 37 k (8.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 112 (14.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/30/30 |  |
 | b6 | 6.7 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 14 (1.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 420 k games. Masters: 769 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp1pp/5n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 420 k games. Masters: 769 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp1pp/5n2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Masters' actual top try, **4... Nc6** (60.2%), doesn't carry its own named A83 sub-line — the two that do are both real but distinctly secondary tries.

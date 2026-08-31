@@ -24,7 +24,7 @@ rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | Nf6 | 218 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 2 (0.0%) | — | ⚠ |
 | Qxd5 | 196 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 45 (0.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/36/40 |  |
 
-*Online: bullet/blitz, 1800+ — 20.3 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 20.3 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **3... cxd5** is essentially automatic (99.7% masters), recapturing toward the centre.
@@ -57,7 +57,7 @@ rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 | Nc3 | 1.7 M (7.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 | c3 | 0 | — | 410 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/44/28 |  |
 
-*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**4. c4**](#_c4_) (0.0, 57.0% masters): the *Panov-Botvinnik Attack* — masters' main try — covered below.
@@ -138,7 +138,7 @@ rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4
 | e6 | 739 k (10.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 209 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/44/22 |  |
 | dxc4 | 584 k (8.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 45 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
 
-*Online: bullet/blitz, 1800+ — 6.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR_b_KQkq_c3_0_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 6.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR_b_KQkq_c3_0_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 One of the sharpest ways to meet the Caro-Kann: White challenges Black's own d5 pawn with the c-pawn instead of developing quietly, aiming for an isolated-queen's-pawn structure with active piece play. **4... Nf6** is masters' overwhelming reply (97.1%), and **5. Nc3** is next to forced (98.8%), reaching the real Panov-Botvinnik tabiya.
@@ -178,7 +178,7 @@ rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5
 | Be6 | 0 | — | 87 (0.7%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 26/37/37 |  |
 | a6 | 0 | — | 9 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR_b_KQkq_-_2_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR_b_KQkq_-_2_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 A genuine three-way split, none dominant:
@@ -241,7 +241,7 @@ r1bqkb1r/pp2pppp/2n2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR b KQkq - 4 6
 | Qa5 | 7.2 k (1.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/11/48 | 213 (11.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/49/12 |  |
 | Qb6 | 0 | — | 22 (1.1%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 59/23/18 |  |
 
-*Online: bullet/blitz, 1800+ — 379 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2n2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR_b_KQkq_-_4_6#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 379 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2n2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR_b_KQkq_-_4_6#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Not itself named at this exact leaf (the generic B13 "Panov Attack" tag carries through), but every one of Black's real replies from here does carry its own name:

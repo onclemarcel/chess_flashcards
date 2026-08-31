@@ -26,7 +26,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 | Bxc3+ | 398 k (16.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 131 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/32/27 |  |
 | d5 | 250 k (10.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 913 (11.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/46/22 |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 A genuine spread at Black's own 4th move, no dominant single try:
@@ -64,7 +64,7 @@ rnbqk2r/pp1p1ppp/4pn2/2pP4/1bP5/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5
 | Bxc3+ | 5.6 k (8.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 12 (23.5%) | — |  |
 | Ne4 | 0 | — | 9 (17.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 68 k games. Masters: 51 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2pP4/1bP5/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 68 k games. Masters: 51 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/2pP4/1bP5/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 Live-tagged the *Korchnoi Variation*, pushing through the centre immediately — a genuine database rarity (only 51 masters games at this exact fork). Masters split between **5... d6** (37.3%) and **5... Bxc3+** (23.5%).

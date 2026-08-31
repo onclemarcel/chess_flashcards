@@ -25,7 +25,7 @@ r1bqr1k1/pp3pbp/n2p1np1/2pP4/4P3/2N2P2/PP1NB1PP/R1BQ1RK1 b - - 0 11
 | Nh5 | 134 (2.7%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 62/6/32 | 0 | — | ⚠ |
 | Nd7 | 0 | — | 12 (3.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.9 k games. Masters: 360 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqr1k1/pp3pbp/n2p1np1/2pP4/4P3/2N2P2/PP1NB1PP/R1BQ1RK1_b_-_-_0_11#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 4.9 k games. Masters: 360 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqr1k1/pp3pbp/n2p1np1/2pP4/4P3/2N2P2/PP1NB1PP/R1BQ1RK1_b_-_-_0_11#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **11... Nc7** is masters' near-unanimous reply (94.4%) — completing the knight's rerouting toward b5/e6, eyeing the queenside and central breaks alike.

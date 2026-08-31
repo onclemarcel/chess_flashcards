@@ -29,7 +29,7 @@ rnbqkb1r/ppp2ppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 1 5
 | Bd7 | 28 k (3.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 822 (5.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/42/26 |  |
 | Nbd7 | 22 k (3.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 423 (2.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/40/29 |  |
 
-*Online: bullet/blitz, 1800+ — 716 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_1_5#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 716 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_1_5#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 A wide, genuine spread of real tries at Black's own 5th move — no single dominant choice:

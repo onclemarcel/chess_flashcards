@@ -59,7 +59,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | Qe2 | 0 | — | 32 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/25/28 |  |
 | h3 | 0 | — | 11 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 21.2 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 21.2 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -98,7 +98,7 @@ rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 | d5 | 161 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 11 (0.0%) | — |  |
 | Bc5 | 133 k (1.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/41 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 7.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 7.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * **3... d6** (+0.3, 98.0% of masters games): chasing the knight back before doing anything else — the only fully correct move, and the point of the whole trap below.
@@ -219,7 +219,7 @@ Builds the centre before resolving the tension on e4/e5. After **3... Nxe4**, Wh
 > | d3 | 147 k (9.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 5 (4.1%) | — |  |
 > | d4 | 85 k (5.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > Unlike the similar-looking Italian/Four Knights "Center Fork Trick" (**2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4**), there is no knight fork to win the pawn back here — White simply has nothing better than **4. Nc3**, hitting the knight and hoping for compensation from the bishop's diagonal, but engines still favour Black by roughly half a pawn (-0.5) after best play. Masters who reach 3. Bc4 punish it with 3... Nxe4 68.9% of the time; online, only 31.3% find it, and 34.7% play the more natural-looking (but pointless) 3... Nc6 instead.

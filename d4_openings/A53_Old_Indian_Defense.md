@@ -27,7 +27,7 @@ rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | Bg5 | 52 k (0.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 3 (0.0%) | — | ⚠ |
 | f3 | 0 | — | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -64,7 +64,7 @@ rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 | Bg4 | 173 k (2.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 0 | — | ⚠ |
 | Bf5 | 0 | — | 634 (8.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/33/26 |  |
 
-*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 7.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 7.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **3... Nbd7** is masters' actual top choice (47.1%) — not the more central-looking 3... e5 (24.8%), which walks straight into a queen trade after 4. dxe5 dxe5 5. Qxd8+. Developing the knight first keeps that option closed.

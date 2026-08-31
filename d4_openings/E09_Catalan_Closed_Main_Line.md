@@ -27,7 +27,7 @@ r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/5NP1/PPQNPPBP/R1B2RK1 b - - 1 8
 | b5 | 0 | — | 94 (5.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/41/17 |  |
 | c5 | 0 | — | 46 (2.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫🟫 41/54/4 |  |
 
-*Online: bullet/blitz, 1800+ — 355 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/5NP1/PPQNPPBP/R1B2RK1_b_-_-_1_8#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 355 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p4/2PP4/5NP1/PPQNPPBP/R1B2RK1_b_-_-_1_8#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 **8... b6** is masters' overwhelming reply (85.2%), fianchettoing the last piece to complete Black's own setup — the natural continuation of the same b6/Bb7 plan already seen throughout this whole E06-E09 tree.

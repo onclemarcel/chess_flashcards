@@ -26,7 +26,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq c3 0 2
 | e6 | 1.1 M (17.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 5.9 k (33.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
 | Nf6 | 757 k (12.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 97 (0.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 51/38/11 |  |
 
-*Online: bullet/blitz, 1800+ — 6.2 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_c3_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 6.2 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_c3_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork with no dominant try — masters split almost evenly between two structurally different replies.

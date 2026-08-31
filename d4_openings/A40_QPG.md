@@ -81,7 +81,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 | b6 | 13.8 M (2.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 987 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/30/26 |  |
 | Nc6 | 0 | — | 1.7 k (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/30/26 |  |
 
-*Online: bullet/blitz, 1800+ — 684.3 M games. Masters: 1.0 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_d3_0_1#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 684.3 M games. Masters: 1.0 M games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR_b_KQkq_d3_0_1#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -136,7 +136,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e4 | 0 | — | 2 (1.7%) | — |  |
 > | g3 | 0 | — | 2 (1.7%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 31.1 M games. Masters: 115 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 31.1 M games. Masters: 115 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_e6_0_2#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > `eco.md` itself reserves the plain name **Englund Gambit** for one specific deeper continuation: **2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6** (+0.6, mention-only — essentially untested at master level, just 7 games) — the queen recaptures the sacrificed pawn and Black hopes for quick development to compensate for the lost tempo.
@@ -245,7 +245,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e3 | 2.8 M (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 0 | — | ⚠ |
 > | g3 | 0 | — | 684 (2.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppppp1p/6p1/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > Much deeper, **2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5**, the ***Beefeater Defence*** (+0.6, mention-only), trades the dark-squared bishop for the knight and strikes back at White's centre with the f-pawn instead.
@@ -283,7 +283,7 @@ rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq d3 0 1
 > | e4 | 4.7 M (7.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 4.4 k (10.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/48/20 |  |
 > | g3 | 0 | — | 953 (2.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/41/24 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 67.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 67.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > Two named tries branch from **2. c4** here, both mention-only (deeper than this card's own build-out): **2... b6**, the ***Keres Defence*** (+0.4), fianchettoes the queen's bishop before committing further; **2... Bb4+**, live-tagged the ***Kangaroo Defense*** by Lichess (+0.3, `eco.md` itself calls it the *Franco-Indian (Keres) Defence* — a real name divergence between the two sources), pins the check in at once, most often met by 3. Bd2.
@@ -346,7 +346,7 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 | c3 | 3.8 M (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.2 k (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/37/35 |  |
 | g3 | 1.3 M (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 3.6 k (0.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/39/25 |  |
 
-*Online: bullet/blitz, 1800+ — 182.9 M games. Masters: 627 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 182.9 M games. Masters: 627 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**2. c4**](#_Nf6_c4_) (+0.2): by far White's most tested try (72.4% of masters games) — covered below
@@ -386,7 +386,7 @@ rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2
 > | d6 | 2.9 M (6.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 3.8 k (2.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 > | b6 | 956 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 3.1 k (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/39/31 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 48.4 M games. Masters: 141 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_2_2#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 48.4 M games. Masters: 141 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_2_2#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > * [**2... g6**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A48_East_Indian_Defense.md) (+0.2, 37.8% masters): masters' actual top choice here — the **A48** East Indian Defense, forking further into the **A49** Przepiorka Variation (3. g3) and the Torre Attack/London System (3. Bg5/Bf4), all covered on their own cards
@@ -425,7 +425,7 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 | b6 | 679 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.8 k (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/31/33 |  |
 | Nc6 | 0 | — | 2.0 k (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/33/28 |  |
 
-*Online: bullet/blitz, 1800+ — 82.4 M games. Masters: 457 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-27*
+*Online: bullet/blitz, 1800+ — 82.4 M games. Masters: 457 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-31*
 <!-- lichess-stats:end -->
 
 * [**2... e6**](#_Nf6_c4_e6_) (+0.1): masters' top choice (54.2%) — Queen's Gambit Declined / Nimzo-Indian / Queen's Indian family, covered below
@@ -467,7 +467,7 @@ rnbqkb1r/pppppppp/5n2/8/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 > | e3 | 629 k (2.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 > | f3 | 0 | — | 4.2 k (2.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/45/22 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-27*
+> *Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
 > <!-- lichess-stats:end -->
 >
 > White's near-automatic **3. Nc3** (80.0% of masters games) forks into the King's Indian (3... Bg7) and Grünfeld (3... d5) Defenses — see the [dedicated hub card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md). **3. g3** (8.7%) is a real second choice, fianchettoing before committing the queen's knight — see the [Neo-Grünfeld Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D71_Neo_Grunfeld_Defense.md), covered on its own card.
