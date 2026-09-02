@@ -1297,7 +1297,7 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C00
 
-- **French Defence** — `1.e4 e6`
+- **French Defence** — `1.e4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
 - **French Defence, Steiner Variation** — `1.e4 e6 2.c4`
 - **French Defence, Reti Variation** — `1.e4 e6 2.b3`
 - **French Defence, Steinitz Attack** — `1.e4 e6 2.e5`
@@ -1310,165 +1310,165 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 - **French Defence, Chigorin Variation** — `1.e4 e6 2.Qe2`
 - **French Defence, King's Indian Attack** — `1.e4 e6 2.d3`
 - **French Defence, Reversed Philidor formation** — `1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.Be2`
-- **French Defence** — `1.e4 e6 2.d4`
+- **French Defence** — `1.e4 e6 2.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
 - **French Defence, Lengfellner System** — `1.e4 e6 2.d4 d6`
 - **French Defence, St. George Defence** — `1.e4 e6 2.d4 a6`
-- **French Defence** — `1.e4 e6 2.d4 d5`
+- **French Defence** — `1.e4 e6 2.d4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
 - **French Defence, Schlechter Variation** — `1.e4 e6 2.d4 d5 3.Bd3`
 - **French Defence, Alapin Variation** — `1.e4 e6 2.d4 d5 3.Be3`
 
 ## C01
 
-- **French Defence, Exchange Variation** — `1.e4 e6 2.d4 d5 3.exd5`
-- **French Defence, Exchange Variation,  Svenonius Variation** — `1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Bg5`
-- **French Defence, Exchange Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Bg5 Nc6`
+- **French Defence, Exchange Variation** — `1.e4 e6 2.d4 d5 3.exd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md#_initial_move_)
+- **French Defence, Exchange Variation,  Svenonius Variation** — `1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md#_Svenonius_)
+- **French Defence, Exchange Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nc3 Nf6 5.Bg5 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md#_Svenonius_)
 
 ## C02
 
-- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5`
-- **French Defence, Advance Variation,  Steinitz Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5`
-- **French Defence, Advance Variation,  Nimzovich Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4`
-- **French Defence, Advance Variation,  Nimzovich System** — `1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3`
-- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3`
-- **French Defence, Advance Variation,  Wade Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7`
-- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6`
-- **French Defence, Advance Variation,  Paulsen Attack** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3`
-- **French Defence, Advance Variation,  Milner-Barry Gambit** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3`
-- **French Defence, Advance Variation,  Euwe Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7`
+- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_initial_move_)
+- **French Defence, Advance Variation,  Steinitz Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.dxc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_afterc5_)
+- **French Defence, Advance Variation,  Nimzovich Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_afterc5_)
+- **French Defence, Advance Variation,  Nimzovich System** — `1.e4 e6 2.d4 d5 3.e5 c5 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_afterc5_)
+- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_c3_)
+- **French Defence, Advance Variation,  Wade Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Qb6 5.Nf3 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_Wade_)
+- **French Defence, Advance Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_c3_)
+- **French Defence, Advance Variation,  Paulsen Attack** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_PaulsenAttack_)
+- **French Defence, Advance Variation,  Milner-Barry Gambit** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_PaulsenAttack_)
+- **French Defence, Advance Variation,  Euwe Variation** — `1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md#_PaulsenAttack_)
 
 ## C03
 
-- **French Defence, Tarrasch** — `1.e4 e6 2.d4 d5 3.Nd2`
-- **French Defence, Tarrasch,  Haberditz Variation** — `1.e4 e6 2.d4 d5 3.Nd2 f5`
-- **French Defence, Tarrasch,  Guimard Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nc6`
+- **French Defence, Tarrasch** — `1.e4 e6 2.d4 d5 3.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md#_initial_move_)
+- **French Defence, Tarrasch,  Haberditz Variation** — `1.e4 e6 2.d4 d5 3.Nd2 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md#_Haberditz_)
+- **French Defence, Tarrasch,  Guimard Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md#_Guimard_)
 
 ## C04
 
-- **French Defence, Tarrasch,  Guimard Main line** — `1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6`
+- **French Defence, Tarrasch,  Guimard Main line** — `1.e4 e6 2.d4 d5 3.Nd2 Nc6 4.Ngf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C04_French_Tarrasch_Guimard.md#_initial_move_)
 
 ## C05
 
-- **French Defence, Tarrasch,  closed Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6`
-- **French Defence, Tarrasch,  Botvinnik Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 b6`
-- **French Defence, Tarrasch,  closed Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6`
+- **French Defence, Tarrasch,  closed Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C05_French_Tarrasch_Closed.md#_initial_move_)
+- **French Defence, Tarrasch,  Botvinnik Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C05_French_Tarrasch_Closed.md#_Botvinnik_)
+- **French Defence, Tarrasch,  closed Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C05_French_Tarrasch_Closed.md#_after6c3_)
 
 ## C06
 
-- **French Defence, Tarrasch,  closed Variation,  Main line** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4`
-- **French Defence, Tarrasch,  Leningrad Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 Nb6`
+- **French Defence, Tarrasch,  closed Variation,  Main line** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C06_French_Tarrasch_Closed_Main_Line.md#_initial_move_)
+- **French Defence, Tarrasch,  Leningrad Variation** — `1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.Bd3 c5 6.c3 Nc6 7.Ne2 cxd4 8.cxd4 Nb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C06_French_Tarrasch_Closed_Main_Line.md#_initial_move_)
 
 ## C07
 
-- **French Defence, Tarrasch,  open Variation** — `1.e4 e6 2.d4 d5 3.Nd2 c5`
-- **French Defence, Tarrasch,  Eliskases Variation** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd8`
+- **French Defence, Tarrasch,  open Variation** — `1.e4 e6 2.d4 d5 3.Nd2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C07_French_Tarrasch_Open.md#_initial_move_)
+- **French Defence, Tarrasch,  Eliskases Variation** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 Qxd5 5.Ngf3 cxd4 6.Bc4 Qd8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C07_French_Tarrasch_Open.md#_Eliskases_)
 
 ## C08
 
-- **French Defence, Tarrasch,  open,  4.ed ed** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5`
+- **French Defence, Tarrasch,  open,  4.ed ed** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C08_French_Tarrasch_Open_Exchange.md#_initial_move_)
 
 ## C09
 
-- **French Defence, Tarrasch,  open Variation,  Main line** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6`
+- **French Defence, Tarrasch,  open Variation,  Main line** — `1.e4 e6 2.d4 d5 3.Nd2 c5 4.exd5 exd5 5.Ngf3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C09_French_Tarrasch_Open_Main_Line.md#_initial_move_)
 
 ## C10
 
-- **French Defence, Paulsen Variation** — `1.e4 e6 2.d4 d5 3.Nc3`
-- **French Defence, Marshall Variation** — `1.e4 e6 2.d4 d5 3.Nc3 c5`
-- **French Defence, Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4`
-- **French Defence, Fort Knox Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6`
-- **French Defence, Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7`
-- **French Defence, Rubinstein,  Capablanca line** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6 Nxf6 7.Ne5`
-- **French Defence, Frere Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Qd5`
+- **French Defence, Paulsen Variation** — `1.e4 e6 2.d4 d5 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_initial_move_)
+- **French Defence, Marshall Variation** — `1.e4 e6 2.d4 d5 3.Nc3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_initial_move_)
+- **French Defence, Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_Rubinstein_)
+- **French Defence, Fort Knox Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bd7 5.Nf3 Bc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_FortKnox_)
+- **French Defence, Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_Nd7_)
+- **French Defence, Rubinstein,  Capablanca line** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Nxf6 Nxf6 7.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_Nd7_)
+- **French Defence, Frere Variation** — `1.e4 e6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Qd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C10_French_Paulsen.md#_Rubinstein_)
 
 ## C11
 
-- **French Defence** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6`
-- **French Defence, Swiss Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3`
-- **French Defence, Henneberger Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Be3`
-- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5`
-- **French Defence, Steinitz Variation,  Bradford Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Bxc5 7.Qg4`
-- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6`
-- **French Defence, Steinitz Variation,  Brodsky-Jones Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6 7.a3 Bxc5 8.Qg4 O-O 9.Nf3 f6`
-- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3`
-- **French Defence, Steinitz Variation,  Boleslavsky Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3`
-- **French Defence, Steinitz Variation,  Gledhill Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Qg4`
-- **French Defence, Burn Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4`
+- **French Defence** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_initial_move_)
+- **French Defence, Swiss Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_initial_move_)
+- **French Defence, Henneberger Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_initial_move_)
+- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation,  Bradford Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Bxc5 7.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation,  Brodsky-Jones Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.dxc5 Nc6 7.a3 Bxc5 8.Qg4 O-O 9.Nf3 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation,  Boleslavsky Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Steinitz Variation,  Gledhill Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_Steinitz_)
+- **French Defence, Burn Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 dxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md#_initial_move_)
 
 ## C12
 
-- **French Defence, MacCutcheon Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4`
-- **French Defence, MacCutcheon Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5 Qxd5 6.Bxf6 gxf6 7.Qd2 Qa5`
-- **French Defence, MacCutcheon Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5`
-- **French Defence, MacCutcheon Variation,  Chigorin Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6`
-- **French Defence, MacCutcheon Variation,  Grigoriev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6 hxg5 7.fxg7 Rg8 8.h4 gxh4 9.Qg4`
-- **French Defence, MacCutcheon Variation,  Bernstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bh4`
-- **French Defence, MacCutcheon Variation,  Janowski Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3`
-- **French Defence, MacCutcheon Variation,  Dr. Olland (Dutch) Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1`
-- **French Defence, MacCutcheon Variation,  Tartakower Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Nfd7`
-- **French Defence, MacCutcheon Variation,  Lasker Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3`
-- **French Defence, MacCutcheon Variation,  Duras Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bc1`
-- **French Defence, MacCutcheon Variation,  Lasker Variation,  8...g6** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 g6`
+- **French Defence, MacCutcheon Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_initial_move_)
+- **French Defence, MacCutcheon Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.exd5 Qxd5 6.Bxf6 gxf6 7.Qd2 Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_initial_move_)
+- **French Defence, MacCutcheon Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Chigorin Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Grigoriev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.exf6 hxg5 7.fxg7 Rg8 8.h4 gxh4 9.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Bernstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Janowski Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Dr. Olland (Dutch) Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bc1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Tartakower Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Nfd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Lasker Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Duras Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 Kf8 9.Bc1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
+- **French Defence, MacCutcheon Variation,  Lasker Variation,  8...g6** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Bb4 5.e5 h6 6.Bd2 Bxc3 7.bxc3 Ne4 8.Qg4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md#_Advance_)
 
 ## C13
 
-- **French Defence, Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7`
-- **French Defence, Classical Variation,  Anderssen Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6`
-- **French Defence, Classical Variation,  Anderssen-Richter Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.e5 Be7 7.Qg4`
-- **French Defence, Classical Variation,  Vistaneckis (Nimzovich) Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ng8`
-- **French Defence, Classical Variation,  Frankfurt Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ng8 6.Be3 b6`
-- **French Defence, Classical Variation,  Tartakower Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ne4`
-- **French Defence, Albin-Alekhine-Chatard Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4`
-- **French Defence, Albin-Alekhine-Chatard Attack,  Maroczy Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 a6`
-- **French Defence, Albin-Alekhine-Chatard Attack,  Breyer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 c5`
-- **French Defence, Albin-Alekhine-Chatard Attack,  Teichmann Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 f6`
-- **French Defence, Albin-Alekhine-Chatard Attack,  Spielmann Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 O-O`
+- **French Defence, Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_initial_move_)
+- **French Defence, Classical Variation,  Anderssen Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_initial_move_)
+- **French Defence, Classical Variation,  Anderssen-Richter Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.e5 Be7 7.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_initial_move_)
+- **French Defence, Classical Variation,  Vistaneckis (Nimzovich) Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ng8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_after5e5_)
+- **French Defence, Classical Variation,  Frankfurt Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ng8 6.Be3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_after5e5_)
+- **French Defence, Classical Variation,  Tartakower Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_after5e5_)
+- **French Defence, Albin-Alekhine-Chatard Attack** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_Chatard_)
+- **French Defence, Albin-Alekhine-Chatard Attack,  Maroczy Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_Chatard_)
+- **French Defence, Albin-Alekhine-Chatard Attack,  Breyer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_Chatard_)
+- **French Defence, Albin-Alekhine-Chatard Attack,  Teichmann Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_Chatard_)
+- **French Defence, Albin-Alekhine-Chatard Attack,  Spielmann Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.h4 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md#_Chatard_)
 
 ## C14
 
-- **French Defence, Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7`
-- **French Defence, Classical Variation,  Tarrasch Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Bd3`
-- **French Defence, Classical Variation,  Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2`
-- **French Defence, Classical Variation,  Alapin Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Nb5`
-- **French Defence, Classical Variation,  Pollock Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Qg4`
-- **French Defence, Classical Variation,  Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4`
-- **French Defence, Classical Variation,  Stahlberg Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 O-O 8.Nf3 c5 9.Qd2 Nc6 10.O-O-O c4`
+- **French Defence, Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_initial_move_)
+- **French Defence, Classical Variation,  Tarrasch Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_initial_move_)
+- **French Defence, Classical Variation,  Rubinstein Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_initial_move_)
+- **French Defence, Classical Variation,  Alapin Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Nb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_initial_move_)
+- **French Defence, Classical Variation,  Pollock Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_initial_move_)
+- **French Defence, Classical Variation,  Steinitz Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_Steinitz_)
+- **French Defence, Classical Variation,  Stahlberg Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 O-O 8.Nf3 c5 9.Qd2 Nc6 10.O-O-O c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C14_French_Classical_Main_Line.md#_Steinitz_)
 
 ## C15
 
-- **French Defence, Winawer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4`
-- **French Defence, Winawer Variation,  Kondratiyev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 Qxd5 6.Bd2`
-- **French Defence, Winawe Variationr,  Fingerslip Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2`
-- **French Defence, Winawer Variation,  Alekhine Gambit** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2`
-- **French Defence, Winawer Variation,  Alekhine Gambit,  Alatortsev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Be7 6.Nxe4 Nf6 7.N2g3 O-O 8.Be2 Nc6`
-- **French Defence, Winawer Variation,  Alekhine Gambit** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3`
-- **French Defence, Winawer Variation,  Alekhine Gambit,  Kan Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3 6.Nxc3 Nc6`
+- **French Defence, Winawer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_initial_move_)
+- **French Defence, Winawer Variation,  Kondratiyev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd3 c5 5.exd5 Qxd5 6.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_initial_move_)
+- **French Defence, Winawe Variationr,  Fingerslip Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_initial_move_)
+- **French Defence, Winawer Variation,  Alekhine Gambit** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_Ne2_)
+- **French Defence, Winawer Variation,  Alekhine Gambit,  Alatortsev Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Be7 6.Nxe4 Nf6 7.N2g3 O-O 8.Be2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_Ne2_)
+- **French Defence, Winawer Variation,  Alekhine Gambit** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_Ne2_)
+- **French Defence, Winawer Variation,  Alekhine Gambit,  Kan Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.Ne2 dxe4 5.a3 Bxc3 6.Nxc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md#_Kan_)
 
 ## C16
 
-- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5`
-- **French Defence, Winawer Variation,  Petrosian Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7`
+- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C16_French_Winawer_Advance.md#_initial_move_)
+- **French Defence, Winawer Variation,  Petrosian Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 Qd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C16_French_Winawer_Advance.md#_initial_move_)
 
 ## C17
 
-- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5`
-- **French Defence, Winawer Variation,  Advance Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2`
-- **French Defence, Winawer Variation,  Advance Variation,  Russian Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Qg4`
-- **French Defence, Winawer Variation,  Advance Variation,  5.a3** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3`
-- **French Defence, Winawer Variation,  Advance Variation,  Rauzer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 cxd4 6.axb4 dxc3 7.Nf3`
+- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C17_French_Winawer_Advance_c5.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  Bogolyubov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C17_French_Winawer_Advance_c5.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  Russian Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C17_French_Winawer_Advance_c5.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  5.a3** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C17_French_Winawer_Advance_c5.md#_a3fork_)
+- **French Defence, Winawer Variation,  Advance Variation,  Rauzer Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 cxd4 6.axb4 dxc3 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C17_French_Winawer_Advance_c5.md#_a3fork_)
 
 ## C18
 
-- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3`
-- **French Defence, Winawer Variation,  Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Qc7`
+- **French Defence, Winawer Variation,  Advance Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C18_French_Winawer_Advance_Classical.md#_initial_move_)
+- **French Defence, Winawer Variation,  Classical Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C18_French_Winawer_Advance_Classical.md#_Classical_)
 
 ## C19
 
-- **French Defence, Winawer Variation,  Advance Variation,  6...Ne7** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7`
-- **French Defence, Winawer Variation,  Advance Variation,  Smyslov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.a4`
-- **French Defence, Winawer Variation,  Advance Variation,  positional Main line** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Nf3`
-- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4`
-- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn,  Euwe-Gligoric Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Kd1`
-- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn,  Konstantinopolsky Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2`
+- **French Defence, Winawer Variation,  Advance Variation,  6...Ne7** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  Smyslov Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  positional Main line** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_initial_move_)
+- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_PoisonedPawn_)
+- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn,  Euwe-Gligoric Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Kd1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_PoisonedPawn_)
+- **French Defence, Winawer Variation,  Advance Variation,  poisoned Pawn,  Konstantinopolsky Variation** — `1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 5.a3 Bxc3 6.bxc3 Ne7 7.Qg4 Qc7 8.Qxg7 Rg8 9.Qxh7 cxd4 10.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C19_French_Winawer_Advance_Main_Line.md#_PoisonedPawn_)
 
 ## C20
 

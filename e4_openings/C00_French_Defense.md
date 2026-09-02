@@ -99,9 +99,9 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 White now decides how to resolve the central tension.
 
 * [**3. Nc3**](#_Nc3_) (+0.3, 50.5% masters): develops naturally, keeping the tension — masters' clear main try, covered below.
-* **3. Nd2** (+0.3, 31.3% masters): the *Tarrasch Variation*, avoiding the pin that 3... Bb4 would otherwise place on the knight, at the cost of blocking the c1-bishop's most natural diagonal for a while.
-* **3. e5** (+0.5, 11.4% masters): the *Advance Variation* — gains space immediately and locks the centre, giving Black a clear target on d4 to attack with ... c5.
-* **3. exd5** (+0.1, 5.9% masters, 29.3% online): the *Exchange Variation* — trades off the central tension for a symmetrical pawn structure. Simple and drawish, and correspondingly far more common in casual play than at master level.
+* [**3. Nd2**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md) (+0.3, 31.3% masters): the *Tarrasch Variation*, avoiding the pin that 3... Bb4 would otherwise place on the knight, at the cost of blocking the c1-bishop's most natural diagonal for a while. Already live-tagged **C03**, fully built out through C09.
+* [**3. e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md) (+0.5, 11.4% masters): the *Advance Variation* — gains space immediately and locks the centre, giving Black a clear target on d4 to attack with ... c5. Already live-tagged **C02**.
+* [**3. exd5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md) (+0.1, 5.9% masters, 29.3% online): the *Exchange Variation* — trades off the central tension for a symmetrical pawn structure. Simple and drawish, and correspondingly far more common in casual play than at master level. Already live-tagged **C01**.
 
 [*Back to 1... e6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -137,10 +137,10 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 
 A genuine near-even fork — neither try is presented as dominant:
 
-* **3... Bb4** (+0.4, 44.6% masters): the ***Winawer Variation*** — pins the knight immediately, accepting a damaged pawn structure later in exchange for the bishop pair and active piece play. Considered the French's most theoretically critical line.
-* **3... Nf6** (+0.3, 43.6% masters): the ***Classical Variation*** — develops naturally, keeping the position more solid at the cost of some of the Winawer's sharper chances.
+* [**3... Bb4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C15_French_Winawer.md) (+0.4, 44.6% masters): the ***Winawer Variation*** — pins the knight immediately, accepting a damaged pawn structure later in exchange for the bishop pair and active piece play. Considered the French's most theoretically critical line. Already live-tagged **C15**, fully built out onward through C19.
+* [**3... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C11_French_Classical.md) (+0.3, 43.6% masters): the ***Classical Variation*** — develops naturally, keeping the position more solid at the cost of some of the Winawer's sharper chances. Already live-tagged **C11**, fully built out onward through C14.
 
-Each is its own extensive body of theory, on a par with the Nimzo-Indian or Grünfeld covered elsewhere in this repository — neither built out further here (backlog).
+Each is its own extensive body of theory, on a par with the Nimzo-Indian or Grünfeld covered elsewhere in this repository — see those cards for the full depth, not repeated here.
 
 [*Back to 2. d4 d5*](#_d4_)
 [*Back to TOP*](#_TOP_)
