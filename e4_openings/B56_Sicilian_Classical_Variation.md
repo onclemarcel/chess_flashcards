@@ -17,7 +17,7 @@ flowchart LR
     click Nc3 "#_initial_move_" "B56 · Sicilian Defense: Classical Variation"
 
     Nc3 --> a6["5... a6<br/>71.1% masters"]
-    click a6 "#_a6_" "B90 · Sicilian Defense: Najdorf Variation (out of B50-B59 range)"
+    click a6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B90_Sicilian_Najdorf.md" "B90 · Sicilian Defense: Najdorf Variation"
     Nc3 --> Nc6n[["5... Nc6 !<br/>+0.3"]]:::main
     click Nc6n "#_Nc6_" "B56 · Sicilian Defense: Classical Variation"
     Nc3 --> g6n["5... g6<br/>11.1% masters"]
@@ -63,7 +63,7 @@ rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 
 ### Candidate moves
 
-* **5... a6** (+0.3, 71.1% masters): the *Najdorf Variation* — by far masters' main choice, and arguably the single most respected system in the whole Sicilian. Already live-tagged **B90**, well out of this card's own B50-B59 range — its own built-out theory (English Attack, Classical Main Line, Opocensky, Adams Attack, Lipnitsky Attack) is kept here for now (see the flagged section below) rather than discarded, but deserves its own proper B90-rooted card in a future B90-B99 batch.
+* [**5... a6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B90_Sicilian_Najdorf.md) (+0.3, 71.1% masters): the *Najdorf Variation* — by far masters' main choice, and arguably the single most respected system in the whole Sicilian. Already live-tagged **B90** — see `B90_Sicilian_Najdorf.md`, not built out further here.
 * [**5... Nc6**](#_Nc6_) (+0.3, 13.8% masters): the *Classical Variation* — stays B56. See below.
 * **5... g6** (+0.5, 11.1% masters): the *Dragon Variation* — already live-tagged **B70**, out of range; kept here for now (flagged below), deserves its own B70-rooted card in a future batch.
 * **5... e6** (+0.5, 3.0% masters): the *Scheveningen Variation* — already live-tagged **B80**, out of range; kept here for now (flagged below), deserves its own B80-rooted card in a future batch.
@@ -135,219 +135,7 @@ r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
 ---
 
 > [!NOTE]
-> **Out of this card's own B50-B59 range, flagged rather than restructured today** (matching the same "note the mismatch, don't force a rewrite outside today's scope" precedent used throughout this project): the **5... a6** (Najdorf, live-tagged **B90**), **5... g6** (Dragon, live-tagged **B70**), and **5... e6** (Scheveningen, live-tagged **B80**) branches below were already fully built out on the old `B50_Sicilian_d6_Open.md` before this fix, with correct live-verified codes already sitting in their own mermaid tooltips. Rather than delete good, already-verified content, it's kept here for now — but each of these three branches deserves its own proper B90-/B70-/B80-rooted card (and, for the Najdorf, likely several — English Attack, Classical Main Line, Opocensky, Adams Attack, and Lipnitsky Attack are each themselves a whole further B9x code) once a future batch reaches that decade.
-
----
-
-<a name="_a6_"></a>
-
-### 5... a6 — Najdorf Variation *(B90 — out of range, see note above)*
-
-[![5... a6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R&lastMove=a7a6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6)
-
-*... 5... a6 — Najdorf Variation*
-
-```
-rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Bg5 | 3.8 M (24.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/47 | 26 k (20.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/50/23 |  |
-| Be3 | 3.2 M (20.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 42 k (33.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 25/59/17 |  |
-| Bc4 | 2.0 M (12.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 7.7 k (6.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/35/34 |  |
-| Be2 | 1.8 M (11.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 16 k (12.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/46/25 |  |
-| f3 | 1.2 M (7.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 8.2 k (6.5%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/58/18 |  |
-| Bd3 | 943 k (6.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/51 | 0 | — | ⚠ |
-| h3 | 0 | — | 11 k (8.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/57/18 |  |
-
-*Online: bullet/blitz, 1800+ — 15.6 M games. Masters: 127 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-02*
-<!-- lichess-stats:end -->
-
-The point of **5... a6** is prophylactic: it rules out **Nb5** ideas for good, so Black can follow up with ... e5 or ... b5 without a knight jumping into d6 or c7. White has a genuinely wide choice of set-ups here, none of them overwhelmingly dominant:
-
-* [**6. Be3**](#_Be3_) (33.2% masters): the *English Attack* — the modern main line, preparing f3, Qd2, and long castling for an all-out kingside pawn storm. See below.
-* [**6. Bg5**](#_Bg5_) (20.1% masters): the *Classical* main line, pinning the f6-knight before Black can play ... e5. See below.
-* [**6. Be2**](#_Be2_) (12.9% masters): the *Opocensky Variation* — a quieter, more restrained set-up. See below.
-* [**6. h3**](#_h3_) (8.9% masters): the *Adams Attack* — a flexible waiting move, avoiding ... Bg4/... Ng4 ideas before committing the bishop. See below.
-* [**6. f3**](#_f3_) (6.5% masters): supports a future e4-e5 or Be3/Qd2 English-Attack-style build-up while ruling out ... Ng4. See below.
-* [**6. Bc4**](#_Bc4_) (6.1% masters): the *Lipnitsky Attack* (also called the Fischer-Sozin), aiming the bishop straight at f7. See below.
-
-Each of these six tries is itself the gateway to a huge, independent body of Najdorf theory.
-
-[*Back to 5. Nc3*](#_initial_move_)
-[*Back to TOP*](#_TOP_)
-
----
-
-<a name="_Be3_"></a>
-
-### 6. Be3 — English Attack
-
-[![6. Be3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R&lastMove=c1e3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_1_6)
-
-*... 6. Be3 — English Attack*
-
-```
-rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| e5 | 1.7 M (53.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 30 k (70.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 22/63/15 |  |
-| e6 | 801 k (25.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 8.0 k (18.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 34/43/23 |  |
-| Ng4 | 235 k (7.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 3.9 k (9.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 25/60/15 |  |
-| b5 | 128 k (4.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 0 | — | ⚠ |
-| Nc6 | 0 | — | 296 (0.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/36/28 |  |
-
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
-<!-- lichess-stats:end -->
-
-**6... e5** is masters' clear main try (70.9%) — striking back in the centre immediately, the sharpest and most theoretical answer to the English Attack. Deeper theory (7. Nb3, the resulting opposite-side-castling races) is its own extensive body of work, not covered further here.
-
-[*Back to 5... a6*](#_a6_)
-[*Back to TOP*](#_TOP_)
-
----
-
-<a name="_Bg5_"></a>
-
-### 6. Bg5 — Classical Main Line
-
-[![6. Bg5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R&lastMove=c1g5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6)
-
-*... 6. Bg5 — Classical Main Line*
-
-```
-rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| e6 | 2.7 M (70.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 20 k (78.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/50/22 |  |
-| Nbd7 | 558 k (14.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 4.9 k (19.3%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 25/48/26 |  |
-| e5 | 384 k (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 0 | — | ⚠ |
-| Nc6 | 0 | — | 561 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/42/31 |  |
-
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
-<!-- lichess-stats:end -->
-
-**6... e6** is masters' clear main try (78.2%) — the classical response, preparing ... Be7/... Nbd7 and accepting the pin rather than breaking with ... e5 immediately. Deeper theory (7. f4, the Poisoned Pawn Variation after ... Qb6, and more) is its own extensive body of work, not covered further here.
-
-[*Back to 5... a6*](#_a6_)
-[*Back to TOP*](#_TOP_)
-
----
-
-> [!NOTE]
-> **6. Be2**, the Opocensky Variation, develops solidly without committing to either the English Attack's pawn storm or the Classical's pin.
->
-> <a name="_Be2_"></a>
->
-> ### 6. Be2 — Opocensky Variation
->
-> [![6. Be2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R&lastMove=f1e2&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6)
->
-> *... 6. Be2 — Opocensky Variation*
->
-> ```
-> rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
-> | --- | --- |
->
-> **6... e5** (69.8% masters) is the clear main try, same central break as against the English Attack. Deeper Opocensky theory is its own extensive body of work, not covered further here.
->
-> [*Back to 5... a6*](#_a6_)
-> [*Back to TOP*](#_TOP_)
-
----
-
-> [!NOTE]
-> **6. h3**, the Adams Attack, rules out ... Bg4/... Ng4 tricks before deciding on a plan — a flexible waiting move that can transpose into English Attack structures a move later.
->
-> <a name="_h3_"></a>
->
-> ### 6. h3 — Adams Attack
->
-> [![6. h3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R&lastMove=h2h3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R_b_KQkq_-_0_6)
->
-> *... 6. h3 — Adams Attack*
->
-> ```
-> rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N4P/PPP2PP1/R1BQKB1R b KQkq - 0 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
-> | --- | --- |
->
-> **6... e5** (56.9% masters) is again the main try, with **6... e6** (32.8%) a real second choice. Deeper Adams Attack theory is its own extensive body of work, not covered further here.
->
-> [*Back to 5... a6*](#_a6_)
-> [*Back to TOP*](#_TOP_)
-
----
-
-> [!NOTE]
-> **6. f3**, un-named by the explorer at this exact position, supports an eventual e4-e5 push or an English-Attack-style Be3/Qd2 build-up while ruling out ... Ng4 in one move.
->
-> <a name="_f3_"></a>
->
-> ### 6. f3
->
-> [![6. f3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R&lastMove=f2f3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R_b_KQkq_-_0_6)
->
-> *... 6. f3*
->
-> ```
-> rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N2P2/PPP3PP/R1BQKB1R b KQkq - 0 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
-> | --- | --- |
->
-> **6... e5** (75.1% masters) is masters' clear main try — often simply transposing into English Attack structures once White follows up with Be3/Qd2. Deeper theory past this point is its own extensive body of work, not covered further here.
->
-> [*Back to 5... a6*](#_a6_)
-> [*Back to TOP*](#_TOP_)
-
----
-
-> [!NOTE]
-> **6. Bc4**, the Lipnitsky Attack (also called the Fischer-Sozin Attack), aims straight at f7 — the same idea as the Italian Game, but a full move faster since Black hasn't played ... e5 or ... e6 yet.
->
-> <a name="_Bc4_"></a>
->
-> ### 6. Bc4 — Lipnitsky Attack
->
-> [![6. Bc4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R&lastMove=f1c4&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R_b_KQkq_-_1_6)
->
-> *... 6. Bc4 — Lipnitsky Attack*
->
-> ```
-> rnbqkb1r/1p2pppp/p2p1n2/8/2BNP3/2N5/PPP2PPP/R1BQK2R b KQkq - 1 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
-> | --- | --- |
->
-> **6... e6** is close to automatic (96.1% of masters games) — shielding f7 and preparing ... b5 next, since the bishop on c4 makes ... e5 far riskier than against White's other 6th-move tries. Deeper Lipnitsky Attack theory is its own extensive body of work, not covered further here.
->
-> [*Back to 5... a6*](#_a6_)
-> [*Back to TOP*](#_TOP_)
+> **5... a6**, the *Najdorf Variation*, is already live-tagged **B90** — by far masters' main choice at this fork (71.1%), and arguably the single most respected system in the whole Sicilian. This whole position is now properly re-rooted and built out at [`B90_Sicilian_Najdorf.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B90_Sicilian_Najdorf.md) onward (B90-B99) — not duplicated here.
 
 ---
 
@@ -387,7 +175,7 @@ rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 
 <a name="_e6_"></a>
 
-### 5... e6 — Scheveningen Variation *(B80 — out of range, see note above)*
+### 5... e6 — Scheveningen Variation *(B80 — out of range, now built as its own card, see below)*
 
 [![5... e6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R&lastMove=e7e6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6)
 
@@ -415,7 +203,7 @@ rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 > [!NOTE]
 > Masters' actual main try, **6. g4** (30.3%), the *Keres Attack*, is a real surprise — a sharp, immediate kingside pawn thrust rather than the quieter developing moves (**6. Be2** 26.2%, **6. Be3** 18.3%) that dominate online play. It's a genuine reminder that the flexible-looking Scheveningen invites some of the sharpest White tries in the whole Sicilian, not just quiet positional play.
 
-**6. g4** — the Keres Attack — is masters' actual top choice (30.3%), gaining space and preparing g5 to kick the f6-knight before Black finishes developing. Deeper Scheveningen theory (including the quieter Be2/Be3 set-ups) is its own extensive body of work, not covered further here.
+This whole "5... e6" position is now properly re-rooted and built out at [`B80_Sicilian_Scheveningen.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B80_Sicilian_Scheveningen.md) onward (B80-B89) — not duplicated here.
 
 [*Back to 5. Nc3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
