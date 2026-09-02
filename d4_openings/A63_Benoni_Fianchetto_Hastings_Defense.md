@@ -27,7 +27,7 @@ r1bq1rk1/pp1n1pbp/3p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 10
 | h3 | 2.6 k (11.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 59 (13.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/47/24 |  |
 | Re1 | 2.1 k (9.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 24 (5.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 21/54/25 |  |
 
-*Online: bullet/blitz, 1800+ — 22 k games. Masters: 437 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/3p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_5_10#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 22 k games. Masters: 437 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/3p1np1/2pP4/8/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_5_10#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Masters spread widely at White's 10th move: **Bf4** (41.9%) develops actively before committing further; **Nd2** (18.8%) reroutes toward c4/e4, matching the eco.md-named continuation this card follows onward; **a4** (17.4%) and **h3** (13.5%) are both real, quieter tries.

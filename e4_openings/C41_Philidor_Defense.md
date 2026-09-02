@@ -47,7 +47,7 @@ rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | d3 | 291 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 0 | — | ⚠ |
 | g3 | 0 | — | 7 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23.9 M games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 23.9 M games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3
 | Qe7 | 0 | — | 86 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/31/21 |  |
 | f5 | 0 | — | 45 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/27/24 |  |
 
-*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 10.7 M games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/3p4/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 * **3... exd4** (+0.5, 65.6% masters): the *Exchange Variation* — simplest, trading off the central tension. After **4. Nxd4**, White keeps a small, safe space advantage typical of this whole opening.

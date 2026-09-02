@@ -25,7 +25,7 @@ rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4
 | Bg4 | 17 k (0.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/4/42 | 0 | — | ⚠ |
 | c5 | 0 | — | 9 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR_b_KQkq_f3_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR_b_KQkq_f3_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4... Bg7** is close to automatic (98.7% of masters games) — completing development before deciding how to meet the further e5 or f5 push.
@@ -83,7 +83,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 2 5
 | c6 | 70 k (3.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/41 | 60 (0.9%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 57/20/23 |  |
 | Nc6 | 52 k (2.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 21 (0.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/29/38 |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **5... O-O** is masters' clear main try (70.3%) — castling into safety before choosing between the sharper ...c5 counterstrike and quieter plans. **5... c5** (27.9% masters) is the sharper alternative, striking at White's centre immediately rather than castling first, live-tagged the *Dragon formation*.

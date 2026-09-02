@@ -26,7 +26,7 @@ rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6
 | Be3 | 37 k (5.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 0 | — | ⚠ |
 | Ne2 | 0 | — | 93 (4.9%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/24/29 |  |
 
-*Online: bullet/blitz, 1800+ — 726 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 726 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Doubles Black's own f-pawns but opens the g-file for the rook and keeps the extra centre pawn's shadow over e5 — a real structural trade-off, not just a mistake. **6. c3** (50.0% masters) is White's main try, with **6. Nf3** (22.7%) close behind. Not built out further here (backlog) — deeper Bronstein-Larsen theory past this point is its own extensive body of work.

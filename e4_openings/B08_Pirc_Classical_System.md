@@ -25,7 +25,7 @@ rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4
 | Bg4 | 49 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | a6 | 0 | — | 17 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4... Bg7** is close to automatic (97.5% of masters games) — completing the fianchetto before deciding on a central plan, exactly as against 4. f4.

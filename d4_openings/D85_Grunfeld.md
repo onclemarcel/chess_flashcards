@@ -25,7 +25,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq d6 0 4
 | e4 | 289 k (4.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 | Qb3 | 0 | — | 539 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/51/15 |  |
 
-*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4. cxd5** is masters' most common try (53.1%) — the Exchange Variation, resolving the central tension immediately and inviting Black to recapture with the knight.
@@ -63,7 +63,7 @@ rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 5
 | Nb4 | 367 (0.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/4/35 | 0 | — | ⚠ |
 | Qd6 | 191 (0.0%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 81/3/16 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3n4/3PP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -111,7 +111,7 @@ rnbqkb1r/ppp1pp1p/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR b KQkq - 0 6
 | c6 | 1.3 k (0.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | b6 | 0 | — | 3 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6... Bg7** is close to automatic (97.3% of masters games) — completing the fianchetto that gives the whole opening its point, pressuring d4 down the long diagonal before deciding on ... c5 or ... c6.
@@ -134,7 +134,7 @@ rnbqk2r/ppp1ppbp/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR w KQkq - 1 7
 | Nf3 | 550 k (28.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/46 | 6.6 k (35.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 26/58/16 |  |
 | Be3 | 273 k (13.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 2.3 k (12.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/52/18 |  |
 
-*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR_w_KQkq_-_1_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/8/3PP3/2P5/P4PPP/R1BQKBNR_w_KQkq_-_1_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 White's 7th move is a genuine three-way split: **7. Bc4** (38.5% masters) develops actively toward f7, **7. Nf3** (35.6%) simply completes development, and **7. Be3** (12.4%) prepares Qd2 while supporting d4 directly. Each branch is its own extensive body of theory (the Classical, the Russian System's Qb3-adjacent tries, and more), not covered further here.

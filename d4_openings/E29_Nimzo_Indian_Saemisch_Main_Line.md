@@ -26,7 +26,7 @@ r1bq1rk1/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/5PPP/R1BQK1NR w KQ - 2 8
 | f4 | 268 (1.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | Rb1 | 0 | — | 68 (10.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 37/47/16 |  |
 
-*Online: bullet/blitz, 1800+ — 17 k games. Masters: 642 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/5PPP/R1BQK1NR_w_KQ_-_2_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 17 k games. Masters: 642 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1p1ppp/2n1pn2/2p5/2PP4/P1PBP3/5PPP/R1BQK1NR_w_KQ_-_2_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8. Ne2** is masters' overwhelming reply (77.1%), routing the knight toward g3 or the kingside rather than blocking the f-pawn on f3.

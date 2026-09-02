@@ -26,7 +26,7 @@ rnbqk2r/pp3pp1/3ppn1p/2pP4/1bP4B/2N5/PP2PPPP/R2QKBNR w KQkq - 0 7
 | f3 | 0 | — | 19 (4.1%) | — |  |
 | Rc1 | 0 | — | 6 (1.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 6.8 k games. Masters: 459 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pp1/3ppn1p/2pP4/1bP4B/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_0_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 6.8 k games. Masters: 459 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pp1/3ppn1p/2pP4/1bP4B/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_0_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **7. e3** is masters' overwhelming reply (92.8%), preparing to develop the king's bishop before castling. Deeper Leningrad Variation theory past this point is its own extensive body of work, not covered further here.

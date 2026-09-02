@@ -51,7 +51,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R b KQkq - 1 2
 | c5 | 3.9 M (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 2.5 k (3.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/44/23 |  |
 | Bf5 | 3.9 M (6.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 1.6 k (2.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/22 |  |
 
-*Online: bullet/blitz, 1800+ — 57.3 M games. Masters: 74 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 57.3 M games. Masters: 74 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -88,7 +88,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 2 3
 | Bg5 | 3.3 M (10.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 1.8 k (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/43/28 |  |
 | c3 | 1.1 M (3.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 1.4 k (1.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/44/24 |  |
 
-*Online: bullet/blitz, 1800+ — 30.2 M games. Masters: 73 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 30.2 M games. Masters: 73 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/5N2/PPP1PPPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 * **3. c4** (+0.2, 70.4% masters): by far White's most common choice — transposes straight into the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md) (2... c6/e6 there), the "known path" this whole card exists to sidestep from.

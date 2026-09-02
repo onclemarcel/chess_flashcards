@@ -26,7 +26,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
 | e3 | 109 k (4.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/46 | 2.8 k (4.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/25 |  |
 | Bf4 | 27 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 928 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 
-*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.3 M games. Masters: 57 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
@@ -75,7 +75,7 @@ rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4
 | Be7 | 7.3 k (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | d5 | 0 | — | 27 (0.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 52/37/11 |  |
 
-*Online: bullet/blitz, 1800+ — 956 k games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 956 k games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pp1ppp/1p2pn2/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Allows ... Bb4, transposing toward Nimzo-Indian-flavoured structures rather than sidestepping the pin. A genuine near-even fork: **4... Bb7** (54.6% masters) develops naturally, while **4... Bb4** (44.8%) pins the knight immediately. **5. Bg5 h6 6. Bh4** is the natural follow-up after 4... Bb7, reaching a tabiya where Black's own 6th move forks three ways — **6... Be7** (49.1%, stays generic) / **6... g5** (25.3%, toward the Botvinnik Attack) / **6... Bb4** (21.7%, delayed check, live-confirmed its own code, **E13** — [covered on its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E13_Queens_Indian_Kasparov_Main_Line.md)).

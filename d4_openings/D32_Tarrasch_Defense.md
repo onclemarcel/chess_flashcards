@@ -25,7 +25,7 @@ rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4
 | e3 | 354 k (18.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 674 (13.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
 | dxc5 | 134 k (7.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 14 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4. cxd5** is masters' clear main try (84.1%) — trading immediately before Black can support the centre further. **4. e3** (13.0%) declines the trade for now, keeping options flexible a move longer. Not built out further here.
@@ -63,7 +63,7 @@ rnbqkbnr/pp3ppp/8/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 5
 | Nf6 | 183 k (27.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 326 (6.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/47/15 |  |
 | cxd4 | 72 k (10.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 15 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 663 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 663 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **5... Nc6** is masters' overwhelming choice (92.8%) — developing the queenside knight to its most natural square before committing the kingside one, matching the isolated-pawn plan of active piece play over structural purity.
@@ -97,7 +97,7 @@ r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 6
 | c4 | 14 k (6.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 294 (8.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 | cxd4 | 11 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/40 | 17 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 203 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 203 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6... Nf6** is masters' overwhelming choice (90.4%) — completing development before deciding on the bishop's diagonal.
@@ -131,7 +131,7 @@ r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 3 8
 | dxc5 | 10 k (6.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 28 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/50/11 |  |
 | Bg5 | 4.5 k (2.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 168 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R_w_KQkq_-_3_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 168 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R_w_KQkq_-_3_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8. O-O** is essentially forced (98.7% masters). Not built out further here (backlog) — the isolated-queen's-pawn middlegame from here is its own vast body of theory.

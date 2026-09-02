@@ -26,7 +26,7 @@ r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5
 | Ng5 | 177 k (8.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 2.4 k (34.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/43/20 |  |
 | Bd3 | 0 | — | 392 (5.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/41/22 |  |
 
-*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Prepares ... Ngf6 without blocking the queen's own diagonal to a5/b6. White's 5th move is a genuine three-way near-even split: **5. Ng5** (34.8%), **5. Nf3** (32.8%), **5. Bc4** (23.9%). Not built out further here (backlog) — deeper Karpov Variation theory is its own extensive body of work.

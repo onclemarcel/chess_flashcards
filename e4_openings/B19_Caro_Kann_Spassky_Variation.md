@@ -25,7 +25,7 @@ r2qkbnr/pp1nppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R w KQkq - 2 8
 | Bc4 | 49 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Bf4 | 0 | — | 22 (0.3%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/64/14 |  |
 
-*Online: bullet/blitz, 1800+ — 964 k games. Masters: 8.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkbnr/pp1nppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R_w_KQkq_-_2_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 964 k games. Masters: 8.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkbnr/pp1nppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R_w_KQkq_-_2_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8. h5** is masters' overwhelming choice (94.0%), the *Spassky Variation* — covered below.

@@ -27,7 +27,7 @@ rnbqkbnr/ppppp1pp/8/5p2/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 | c6 | 26 k (0.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 6 (0.1%) | — |  |
 | b6 | 18 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 2 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppppp1pp/8/5p2/2PP4/8/PP2PPPP/RNBQKBNR_b_KQkq_c3_0_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -65,7 +65,7 @@ rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3
 | e3 | 162 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 31 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/23 |  |
 | Bg5 | 78 k (1.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -105,7 +105,7 @@ rnbqkbnr/pppp2pp/4p3/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | a3 | 42 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 48 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/23 |  |
 | g4 | 0 | — | 15 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 5.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp2pp/4p3/5p2/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.7 M games. Masters: 5.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp2pp/4p3/5p2/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Masters' clear favourite, **3. g3** (57.6%), most often transposes toward the same Classical/Stonewall complex covered on [`A90_Dutch_Classical_and_Stonewall.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A90_Dutch_Classical_and_Stonewall.md) once ... Nf6 is added — not duplicated here.

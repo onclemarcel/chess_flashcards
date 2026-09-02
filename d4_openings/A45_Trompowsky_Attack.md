@@ -34,7 +34,7 @@ rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2
 | c5 | 767 k (9.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 2.8 k (12.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/32/32 |  |
 | d6 | 301 k (3.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/45 | 314 (1.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/39/24 |  |
 
-*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_2_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_2_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -76,7 +76,7 @@ rnbqkb1r/pppppppp/8/6B1/3Pn3/8/PPP1PPPP/RN1QKBNR w KQkq - 3 3
 | Be3 | 17 k (0.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 23 (0.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 17/39/43 |  |
 | Bc1 | 0 | — | 3 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/6B1/3Pn3/8/PPP1PPPP/RN1QKBNR_w_KQkq_-_3_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/6B1/3Pn3/8/PPP1PPPP/RN1QKBNR_w_KQkq_-_3_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **3. Bf4** is masters' clear main try (79.1%) — retreats to a safe, active square rather than committing to a trade, keeping the bishop pair. **3. Bh4** (10.3%) tries to hang onto the pin-adjacent pressure a little longer, betting Black won't easily kick it with ... g5 without weakening the kingside. Not built out further here (backlog).

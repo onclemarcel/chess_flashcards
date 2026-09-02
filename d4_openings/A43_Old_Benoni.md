@@ -30,7 +30,7 @@ rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR w KQkq c6 0 2
 | dxc5 | 0 | — | 331 (3.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/34/34 |  |
 | e4 | 0 | — | 183 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/35/25 |  |
 
-*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 46.5 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_c6_0_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -65,7 +65,7 @@ rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR b KQkq - 0 2
 | e5 | 1.9 M (14.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 2.3 k (35.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 51/27/23 |  |
 | g6 | 564 k (4.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 857 (12.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/31/28 |  |
 
-*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 13.2 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2pP4/8/8/PPP1PPPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -106,7 +106,7 @@ rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR w KQkq - 0 3
 | e4 | 679 k (12.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 422 (50.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/29/26 |  |
 | Nf3 | 160 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 20 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 834 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 834 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **3. e4** is masters' clear main try (50.6%) — claiming the full centre before Black can put any more pressure on d5; **3. c4** (38.0%) is the other real try, transposing toward Modern-Benoni-flavoured structures a tempo down. **3. Nc3 g6**, the ***Schmid Variation*** (+0.6, mention-only), fianchettoes instead, most often continuing 4. e4 (96.2% masters).
@@ -140,7 +140,7 @@ rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 | e6 | 160 k (18.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | a6 | 0 | — | 8 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 888 k games. Masters: 428 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 888 k games. Masters: 428 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **3... Nf6** is masters' clear main try (48.6%) — developing before committing to a kingside setup; **3... g6** (39.7%) heads straight for a King's-Indian-style fianchetto instead. Deeper theory past this point is its own body of work, not covered further here.
@@ -176,7 +176,7 @@ rnbqkbnr/pp2pppp/3p4/2pP4/4P3/8/PPP2PPP/RNBQKBNR b KQkq e3 0 3
 > | Nf3 | 57 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 155 (9.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/26 |  |
 > | Bg5 | 31 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 30 (1.8%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 43/23/33 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-08-31*
+> *Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2pP4/8/8/PPP1PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-09-02*
 > <!-- lichess-stats:end -->
 >
 > **3. c4** is masters' clear main try (50.9%) — transposing toward the Modern Benoni complex a tempo down; **3. Nc3** (36.4%) keeps options flexible a move longer. Not built out further here (backlog).

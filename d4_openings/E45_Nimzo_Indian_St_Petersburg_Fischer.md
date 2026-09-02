@@ -25,7 +25,7 @@ rn1qk2r/p1pp1ppp/bp2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R w KQkq - 2 6
 | Qb3 | 202 (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 42 (3.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/55/7 |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/p1pp1ppp/bp2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/p1pp1ppp/bp2pn2/8/1bPP4/2N1P3/PP2NPPP/R1BQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6. a3** is masters' clear main try (63.8%), forcing the bishop to decide before Black can complete the plan; **6. Ng3** (32.3%) develops instead. Deeper Fischer Variation theory past this point is its own extensive body of work, not covered further here.

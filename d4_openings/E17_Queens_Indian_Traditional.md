@@ -25,7 +25,7 @@ rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R w KQkq - 3 6
 | Nh4 | 3.9 k (1.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/5/37 | 0 | — | ⚠ |
 | d5 | 0 | — | 28 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/39/32 |  |
 
-*Online: bullet/blitz, 1800+ — 389 k games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_3_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 389 k games. Masters: 9.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQK2R_w_KQkq_-_3_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 White's own 6th move is a genuine two-way split:
@@ -87,7 +87,7 @@ rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b kq - 4 6
 | c5 | 14 k (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/6/40 | 0 | — | ⚠ |
 | c6 | 0 | — | 48 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/46/25 |  |
 
-*Online: bullet/blitz, 1800+ — 700 k games. Masters: 9.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_kq_-_4_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 700 k games. Masters: 9.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pbppbppp/1p2pn2/8/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_kq_-_4_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6... O-O** is masters' overwhelming reply (96.4%), completing kingside development before deciding on a central plan.
