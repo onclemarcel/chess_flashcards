@@ -125,7 +125,7 @@ r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
 *Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-**6. Bg5** is masters' clear main try (57.4%) — pinning the f6-knight before Black can consolidate, with **6. Bc4** (19.1%, already live-tagged **B57** — the *Sozin Attack*, see [`B57_Sicilian_Sozin_Attack.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md), not built out further here) a real second choice aiming at f7. If Black meets either with a later ... e5 rather than ... e6, the game transposes into the same Sveshnikov-family theory reached via 2... Nc6 — see the [dedicated Sveshnikov section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md#_Bb5_). Deeper Classical Variation theory (the non-transposing ... e6 lines, and the 6. Bg5 main line itself) is its own extensive body of work, not covered further here.
+**6. Bg5** is masters' clear main try (57.4%) — already live-tagged **B60**, the whole *Richter-Rauzer Variation* complex, see [`B60_Sicilian_Richter_Rauzer.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B60_Sicilian_Richter_Rauzer.md), not built out further here — with **6. Bc4** (19.1%, already live-tagged **B57** — the *Sozin Attack*, see [`B57_Sicilian_Sozin_Attack.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md), not built out further here) a real second choice aiming at f7. If Black meets either with a later ... e5 rather than ... e6, the game transposes into the same Sveshnikov-family theory reached via 2... Nc6 — see the [dedicated Sveshnikov section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md#_Bb5_). Deeper Classical Variation theory (the non-transposing ... e6 lines) is its own extensive body of work, not covered further here.
 
 *This exact position is also reachable via the "Nc6-first" move order, **2... Nc6** instead of ...d6, once White plays 6. Be2 — see [`B58_Sicilian_Classical_System.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B58_Sicilian_Classical_System.md) for that own branch's own coding (a different code from this one, per `eco.md`'s own per-move-order table, even where the resulting position transposes).*
 
@@ -353,7 +353,7 @@ rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6
 
 <a name="_g6_"></a>
 
-### 5... g6 — Dragon Variation *(B70 — out of range, see note above)*
+### 5... g6 — Dragon Variation *(B70 — out of range, now built as its own card, see below)*
 
 [![5... g6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R&lastMove=g7g6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6)
 
@@ -378,7 +378,7 @@ rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 *Online: bullet/blitz, 1800+ — 5.9 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-**6. Be3** is masters' overwhelming choice (73.3%) — heading for the *Yugoslav Attack*, White's own opposite-side-castling pawn-storm answer to Black's fianchetto (Qd2, O-O-O, and h4-h5 against Black's own ... Bg7/... O-O and queenside counterplay). Deeper Yugoslav Attack theory — one of the most sharply forcing systems in all of chess — is its own extensive body of work, not covered further here.
+**6. Be3** is masters' overwhelming choice (73.3%) — heading for the *Yugoslav Attack*, White's own opposite-side-castling pawn-storm answer to Black's fianchetto. This whole "5... g6" position is now properly re-rooted and built out at [`B70_Sicilian_Dragon.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B70_Sicilian_Dragon.md) onward (B70-B79) — not duplicated here.
 
 [*Back to 5. Nc3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

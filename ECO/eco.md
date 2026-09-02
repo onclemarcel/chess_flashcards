@@ -1089,107 +1089,107 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## B60
 
-- **Sicilian Defence, Richter-Rauzer** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5`
-- **Sicilian Defence, Richter-Rauzer,  Bondarevsky Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6`
-- **Sicilian Defence, Richter-Rauzer,  Larsen Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7`
+- **Sicilian Defence, Richter-Rauzer** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B60_Sicilian_Richter_Rauzer.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Bondarevsky Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B60_Sicilian_Richter_Rauzer.md#_g6_)
+- **Sicilian Defence, Richter-Rauzer,  Larsen Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B60_Sicilian_Richter_Rauzer.md#_Bd7_)
 
 ## B61
 
-- **Sicilian Defence, Richter-Rauzer,  Larsen Variation,  7.Qd2** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2`
+- **Sicilian Defence, Richter-Rauzer,  Larsen Variation,  7.Qd2** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 Bd7 7.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B61_Sicilian_Richter_Rauzer_Larsen.md#_initial_move_)
 
 ## B62
 
-- **Sicilian Defence, Richter-Rauzer,  6...e6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6`
-- **Sicilian Defence, Richter-Rauzer,  Podvebrady Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nb3`
-- **Sicilian Defence, Richter-Rauzer,  Margate Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5`
-- **Sicilian Defence, Richter-Rauzer,  Richter Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nxc6`
-- **Sicilian Defence, Richter-Rauzer,  Keres Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3`
+- **Sicilian Defence, Richter-Rauzer,  6...e6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B62_Sicilian_Richter_Rauzer_e6.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Podvebrady Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B62_Sicilian_Richter_Rauzer_e6.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Margate Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B62_Sicilian_Richter_Rauzer_e6.md#_Margate_)
+- **Sicilian Defence, Richter-Rauzer,  Richter Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Nxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B62_Sicilian_Richter_Rauzer_e6.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Keres Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B62_Sicilian_Richter_Rauzer_e6.md#_Keres_)
 
 ## B63
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2`
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B63_Sicilian_Richter_Rauzer_Traditional.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B63_Sicilian_Richter_Rauzer_Traditional.md#_Be7_)
 
 ## B64
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9.f4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4`
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  Geller Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 e5`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9.f4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B64_Sicilian_Richter_Rauzer_f4.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  Geller Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B64_Sicilian_Richter_Rauzer_f4.md#_Geller_)
 
 ## B65
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9...Nxd4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4`
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9...Nxd4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9...Nxd4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B65_Sicilian_Richter_Rauzer_Nxd4.md#_initial_move_)
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...Be7 Defence,  9...Nxd4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 Be7 8.O-O-O O-O 9.f4 Nxd4 10.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B65_Sicilian_Richter_Rauzer_Nxd4.md#_initial_move_)
 
 ## B66
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B66_Sicilian_Richter_Rauzer_Neo_Modern.md#_initial_move_)
 
 ## B67
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  8...Bd7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  8...Bd7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B67_Sicilian_Richter_Rauzer_a6_Bd7.md#_initial_move_)
 
 ## B68
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  9...Be7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  9...Be7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B68_Sicilian_Richter_Rauzer_a6_f4.md#_initial_move_)
 
 ## B69
 
-- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  11.Bxf6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6`
+- **Sicilian Defence, Richter-Rauzer,  Rauzer Attack,  7...a6 Defence,  11.Bxf6** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.O-O-O Bd7 9.f4 Be7 10.Nf3 b5 11.Bxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B69_Sicilian_Richter_Rauzer_Bxf6.md#_initial_move_)
 
 ## B70
 
-- **Sicilian Defence, Dragon Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6`
+- **Sicilian Defence, Dragon Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B70_Sicilian_Dragon.md#_initial_move_)
 
 ## B71
 
-- **Sicilian Defence, Dragon Variation,  Levenfish Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4`
-- **Sicilian Defence, Dragon Variation,  Levenfish; Flohr Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 Nbd7`
+- **Sicilian Defence, Dragon Variation,  Levenfish Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B71_Sicilian_Dragon_Levenfish.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Levenfish; Flohr Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.f4 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B71_Sicilian_Dragon_Levenfish.md#_Flohr_)
 
 ## B72
 
-- **Sicilian Defence, Dragon Variation,  6.Be3** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3`
-- **Sicilian Defence, Dragon Variation,  Classical Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Amsterdam Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Grigoriev Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 O-O 9.O-O-O`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Nottingham Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Nb3`
+- **Sicilian Defence, Dragon Variation,  6.Be3** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B72_Sicilian_Dragon_Be3.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B72_Sicilian_Dragon_Be3.md#_Be2_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Amsterdam Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B72_Sicilian_Dragon_Be3.md#_Amsterdam_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Grigoriev Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Qd2 O-O 9.O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B72_Sicilian_Dragon_Be3.md#_Grigoriev_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Nottingham Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.Nb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B72_Sicilian_Dragon_Be3.md#_Nottingham_)
 
 ## B73
 
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  8.O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Zollner Gambit** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.f4 Qb6 10.e5`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Richter Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Qd2`
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  8.O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B73_Sicilian_Dragon_Classical_OO.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Zollner Gambit** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.f4 Qb6 10.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B73_Sicilian_Dragon_Classical_OO.md#_afterOO_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Richter Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B73_Sicilian_Dragon_Classical_OO.md#_afterOO_)
 
 ## B74
 
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  9.Nb3** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Stockholm Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Nxa5 Bxe2 13.Qxe2 Qxa5 14.g4`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Spielmann Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Bernard Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3 Bxd3 13.cxd3 d5`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Reti-Tartakower Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Qc8`
-- **Sicilian Defence, Dragon Variation,  Classical Attack,  Alekhine Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 a5`
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  9.Nb3** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Stockholm Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Nxa5 Bxe2 13.Qxe2 Qxa5 14.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_afterBe6_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Spielmann Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_afterBe6_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Bernard Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Na5 11.f5 Bc4 12.Bd3 Bxd3 13.cxd3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_afterBe6_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Reti-Tartakower Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 Be6 10.f4 Qc8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_afterBe6_)
+- **Sicilian Defence, Dragon Variation,  Classical Attack,  Alekhine Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.Be2 Nc6 8.O-O O-O 9.Nb3 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md#_initial_move_)
 
 ## B75
 
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3`
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B75_Sicilian_Dragon_Yugoslav.md#_initial_move_)
 
 ## B76
 
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  7...O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O`
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  Rauser Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O`
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  7...O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B76_Sicilian_Dragon_Yugoslav_OO.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  Rauser Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B76_Sicilian_Dragon_Yugoslav_OO.md#_Rauser_)
 
 ## B77
 
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  9.Bc4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4`
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  Byrne Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 a5`
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  9...Bd7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7`
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  9.Bc4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B77_Sicilian_Dragon_Yugoslav_Bc4.md#_initial_move_)
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  Byrne Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B77_Sicilian_Dragon_Yugoslav_Bc4.md#_Byrne_)
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  9...Bd7** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B77_Sicilian_Dragon_Yugoslav_Bc4.md#_Bd7_)
 
 ## B78
 
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  10.O-O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O`
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  10.O-O-O** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B78_Sicilian_Dragon_Yugoslav_OOO.md#_initial_move_)
 
 ## B79
 
-- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  12.h4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Qa5 11.Bb3 Rfc8 12.h4`
+- **Sicilian Defence, Dragon Variation,  Yugoslav Attack,  12.h4** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 O-O 8.Qd2 Nc6 9.Bc4 Bd7 10.O-O-O Qa5 11.Bb3 Rfc8 12.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B79_Sicilian_Dragon_Yugoslav_h4.md#_initial_move_)
 
 ## B80
 
