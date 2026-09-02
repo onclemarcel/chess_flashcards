@@ -26,7 +26,7 @@ rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5
 | Nc5 | 72 k (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 681 (4.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/46/22 |  |
 | Qf3 | 0 | — | 153 (0.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/55/22 |  |
 
-*Online: bullet/blitz, 1800+ — 5.5 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 5.5 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **5. Ng3** is masters' overwhelming choice (94.8%), attacking the bishop; **5... Bg6** is essentially forced in reply (99.9%).

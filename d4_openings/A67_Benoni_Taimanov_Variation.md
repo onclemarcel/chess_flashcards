@@ -24,7 +24,7 @@ rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR b KQkq - 2 8
 | Bd7 | 42 k (25.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 59/4/37 | 19 (1.0%) | — |  |
 | Nbd7 | 12 k (7.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 140 (7.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 51/26/23 |  |
 
-*Online: bullet/blitz, 1800+ — 166 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR_b_KQkq_-_2_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 166 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3pbp/3p1np1/1BpP4/4PP2/2N5/PP4PP/R1BQK1NR_b_KQkq_-_2_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 The check forces a concession before Black can castle: **8... Nfd7** is masters' clear main reply (91.7%) — blocking with the knight, ready to challenge back with ... a6 or ... Qh4+ ideas — over the less common 8... Nbd7 (7.2%), which blocks the other knight's own natural development instead.

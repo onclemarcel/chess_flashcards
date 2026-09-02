@@ -123,7 +123,7 @@ Almost always continues **4. Nc3** (99.0% masters). Deeper, **4... d6 5. e4 g6**
 > | Nd2 | 6.2 k (7.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/50 | 16 (13.0%) | — |  |
 > | Qd3 | 0 | — | 6 (4.9%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 78 k games. Masters: 123 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_4#explorer) — updated 2026-08-31*
+> *Online: bullet/blitz, 1800+ — 78 k games. Masters: 123 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_4#explorer) — updated 2026-09-02*
 > <!-- lichess-stats:end -->
 >
 > **4. Qc2**: masters' clear main try (53.7%) — attacks the knight directly, asking an immediate question rather than letting Black consolidate; not built out further here (backlog).

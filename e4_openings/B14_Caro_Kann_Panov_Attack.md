@@ -25,7 +25,7 @@ rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6
 | c5 | 129 k (8.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 236 (4.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/31/34 |  |
 | cxd5 | 116 k (7.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/47 | 76 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/46/25 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 5.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 5.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Solid and slightly passive compared to 5... Nc6, keeping the structure flexible rather than pinning down the bishop's own development plan yet. **6. Nf3** is masters' overwhelming reply (91.9%). Not built out further here (backlog) — deeper Panov-Botvinnik theory past this point is its own extensive body of work.

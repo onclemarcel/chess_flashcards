@@ -25,7 +25,7 @@ rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/BP3NP1/P3PPBP/RN1Q1RK1 b - - 1 8
 | Ne4 | 7.8 k (23.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/8/39 | 0 | — | ⚠ |
 | Bd7 | 0 | — | 41 (19.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/39/24 |  |
 
-*Online: bullet/blitz, 1800+ — 33 k games. Masters: 212 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/BP3NP1/P3PPBP/RN1Q1RK1_b_-_-_1_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 33 k games. Masters: 212 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2b1pp/2p1pn2/3p1p2/2PP4/BP3NP1/P3PPBP/RN1Q1RK1_b_-_-_1_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Masters split between **8... Bxa3** (36.3%), simplifying immediately, and **8... Nbd7** (27.4%), developing before deciding whether to trade.

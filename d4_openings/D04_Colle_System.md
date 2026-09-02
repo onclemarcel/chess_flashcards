@@ -30,7 +30,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R b KQkq - 0 3
 | Nc6 | 680 k (8.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | g6 | 0 | — | 518 (9.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 24/44/32 |  |
 
-*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -69,7 +69,7 @@ rnbqkb1r/pp2pppp/5n2/2pp4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq c6 0 4
 | dxc5 | 154 k (9.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 333 (15.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/47/27 |  |
 | Nbd2 | 0 | — | 304 (14.0%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 24/46/29 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P4/4PN2/PPP2PPP/RNBQKB1R_w_KQkq_c6_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P4/4PN2/PPP2PPP/RNBQKB1R_w_KQkq_c6_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Another genuinely scattered choice for White, matching the "system opening" character of the whole card: **4. c4** (22.6% masters) strikes back in the centre immediately, **4. c3** (18.6%) keeps the Colle structure intact, and **4. dxc5** (15.3%) simplifies early — none clears even a quarter of masters games, and White's own plan (Bd3/Nbd2/O-O/e3-e4) barely changes regardless of which is chosen. Not built out further here (backlog) — matches this card's own established pattern of not forcing a single line where none dominates.

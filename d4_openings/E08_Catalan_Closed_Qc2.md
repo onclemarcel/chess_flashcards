@@ -27,7 +27,7 @@ r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PPQ1PPBP/RNB2RK1 b - - 7 7
 | a5 | 0 | — | 75 (5.1%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/44/33 |  |
 | Ne4 | 0 | — | 41 (2.8%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 56/29/15 |  |
 
-*Online: bullet/blitz, 1800+ — 90 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PPQ1PPBP/RNB2RK1_b_-_-_7_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 90 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p4/2PP4/5NP1/PPQ1PPBP/RNB2RK1_b_-_-_7_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **7... c6** is masters' overwhelming reply (79.4%), reinforcing d5 before deciding on the queenside plan. White's 8th move here is a genuine three-way split, each with its own name:

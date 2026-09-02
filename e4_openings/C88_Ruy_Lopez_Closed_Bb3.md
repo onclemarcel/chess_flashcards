@@ -56,7 +56,7 @@ r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 b kq - 1 7
 | Na5 | 3.5 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/5/38 | 3 (0.0%) | — | ⚠ |
 | h6 | 1.5 k (0.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 2 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_b_kq_-_1_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_b_kq_-_1_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -94,7 +94,7 @@ r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w kq - 0 8
 | d3 | 15 k (1.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 43 (0.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/58/19 |  |
 | a3 | 0 | — | 53 (0.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 26/34/40 |  |
 
-*Online: bullet/blitz, 1800+ — 836 k games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_w_kq_-_0_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 836 k games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_w_kq_-_0_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8. c3** is masters' near-unanimous reply (95.6%), preparing d4 while keeping the option of Bc2 or Nbd2 regroupings behind it.
@@ -128,7 +128,7 @@ r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b kq - 0 8
 | Bb7 | 6.6 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | h6 | 0 | — | 17 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 659 k games. Masters: 27 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_b_kq_-_0_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 659 k games. Masters: 27 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/2p1bppp/p1np1n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_b_kq_-_0_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8... O-O** (+0.3, 98.3% of masters games) reaches the [main Closed Ruy Lopez tabiya](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C90_Ruy_Lopez_Closed_Tabiya.md), where White's 9th move and Black's own reply fan out into the Chigorin, Breyer and Zaitsev systems.
@@ -164,7 +164,7 @@ r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1 w - - 1 8
 | Nc3 | 6.3 k (0.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 0 | — | ⚠ |
 | a3 | 0 | — | 75 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/48/21 |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_w_-_-_1_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1B3N2/PPPP1PPP/RNBQR1K1_w_-_-_1_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -200,7 +200,7 @@ r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1 b - - 0 8
 | Bb7 | 14 k (1.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 23 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/52/17 |  |
 | Na5 | 11 k (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 91 (0.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 20/67/13 |  |
 
-*Online: bullet/blitz, 1800+ — 866 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_b_-_-_0_8#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 866 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2ppbppp/p1n2n2/1p2p3/4P3/1BP2N2/PP1P1PPP/RNBQR1K1_b_-_-_0_8#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **8... d5!?** (+0.2), the [***Marshall Attack***](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C89_Ruy_Lopez_Marshall_Attack.md), is actually masters' *more* popular reply here (54.6% vs 44.1% for the quieter 8... d6, which transposes back into the 7... d6 tabiya above) — a real gambit with a dedicated card, not a sideline.

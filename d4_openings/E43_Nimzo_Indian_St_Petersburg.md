@@ -25,7 +25,7 @@ rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQkq - 0 5
 | Nf3 | 59 k (19.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 169 (3.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/36/35 |  |
 | Bd2 | 21 k (7.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/48 | 143 (2.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/33/35 |  |
 
-*Online: bullet/blitz, 1800+ — 305 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 305 k games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/p1pp1ppp/1p2pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **5. Ne2** is masters' clear main try (62.8%), preparing to recapture on c3 cleanly if Black ever takes.

@@ -56,7 +56,7 @@ rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3
 | Nbd7 | 0 | — | 143 (7.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/38/22 |  |
 | c5 | 0 | — | 124 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 24/43/33 |  |
 
-*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -92,7 +92,7 @@ rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R w KQkq - 4 4
 | e3 | 31 k (5.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | Be3 | 0 | — | 12 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 591 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_4_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 591 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/8/3p2B1/3Pn3/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_4_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4. Bf4** is masters' clear main choice (61.9%) — retreating to a square where the bishop still eyes the long diagonal and supports a later e3/c3 structure, rather than trading it off with 4. Bh4 (which invites ... g5 ideas).
@@ -153,7 +153,7 @@ From here Black typically continues **... c5** or **... Bf5**, while White fills
 > | Nbd2 | 8.4 k (7.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 11 (2.3%) | — |  |
 > | dxc5 | 4.3 k (4.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 45 (9.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/40/29 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 108 k games. Masters: 473 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_5#explorer) — updated 2026-08-31*
+> *Online: bullet/blitz, 1800+ — 108 k games. Masters: 473 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/8/2pp4/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_5#explorer) — updated 2026-09-02*
 > <!-- lichess-stats:end -->
 >
 > **5. e3** (58.1% masters) is White's clear main try — a solid, flexible structure over the sharper **5. c3** (28.5% masters). Deeper Gossip Variation theory past this point is its own extensive body of work, not covered further here.
@@ -188,7 +188,7 @@ From here Black typically continues **... c5** or **... Bf5**, while White fills
 > | Nbd2 | 8.3 k (28.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/9/47 | 21 (26.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/48/24 |  |
 > | c3 | 2.7 k (9.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/10/47 | 2 (2.6%) | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 29 k games. Masters: 78 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_6_5#explorer) — updated 2026-08-31*
+> *Online: bullet/blitz, 1800+ — 29 k games. Masters: 78 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/8/3p1b2/3PnB2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_-_6_5#explorer) — updated 2026-09-02*
 > <!-- lichess-stats:end -->
 >
 > **5. e3** (65.4% masters) is again White's clear main try, with **5. Nbd2** (26.9%) a real second choice. Deeper theory past this point is its own extensive body of work, not covered further here.

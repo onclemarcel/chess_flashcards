@@ -26,7 +26,7 @@ rnbqk2r/pppp1ppp/4pn2/8/1bPP4/1QN5/PP2PPPP/R1B1KBNR b KQkq - 3 4
 | a5 | 34 k (8.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 38 (8.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/29/32 |  |
 | Qe7 | 0 | — | 7 (1.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 403 k games. Masters: 469 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/1QN5/PP2PPPP/R1B1KBNR_b_KQkq_-_3_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 403 k games. Masters: 469 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppp1ppp/4pn2/8/1bPP4/1QN5/PP2PPPP/R1B1KBNR_b_KQkq_-_3_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4... c5** is masters' overwhelming reply (81.9%), striking back in the centre immediately rather than retreating the bishop.

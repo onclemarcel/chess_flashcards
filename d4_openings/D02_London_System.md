@@ -50,7 +50,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3
 | Bg4 | 684 k (6.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 44 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/48/25 |  |
 | g6 | 0 | — | 371 (4.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/47/25 |  |
 
-*Online: bullet/blitz, 1800+ — 10.0 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 10.0 M games. Masters: 8.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P1B2/5N2/PPP1PPPP/RN1QKB1R_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -93,7 +93,7 @@ rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R w KQkq c6 0 4
 | Bxb8 | 0 | — | 6 (0.1%) | — |  |
 | Nc3 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/5N2/PPP1PPPP/RN1QKB1R_w_KQkq_c6_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4. e3** is masters' clear main try (84.6%) — supports the Bf4 bishop and opens the f1-bishop's diagonal, the classic London setup move.
@@ -128,7 +128,7 @@ rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R b KQkq - 0 4
 | Bg4 | 28 k (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 18 (0.4%) | — |  |
 | Bf5 | 26 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/2pp4/3P1B2/4PN2/PPP2PPP/RN1QKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **4... Nc6** is masters' clear main try (85.3%) — simple development, preparing ... Bd6/... Be7 and eyeing the d4 pawn.

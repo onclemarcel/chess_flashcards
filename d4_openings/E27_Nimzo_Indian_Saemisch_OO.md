@@ -26,7 +26,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR w KQ - 1 6
 | Bg5 | 27 k (14.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/50 | 9 (3.5%) | — |  |
 | Qc2 | 0 | — | 6 (2.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 185 k games. Masters: 259 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 185 k games. Masters: 259 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P5/4PPPP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6. f3** is actually masters' clear main try (61.8%), preparing e4 — but this exact continuation carries no further named E2x code within this range (transposes toward deeper theory past this batch's own scope). **6. e3** (31.3%) is the real second choice.

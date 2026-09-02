@@ -30,7 +30,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2
 | c3 | 4.5 M (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 262 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/40/31 |  |
 | g3 | 0 | — | 393 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/45/25 |  |
 
-*Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 214.1 M games. Masters: 266 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR_w_KQkq_d6_0_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Masters overwhelmingly commit to the centre at once — **2. c4** (76.9%) opens the [Queen's Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md), **2. Nf3** (17.9%) the [Zukertort Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md) — both already covered elsewhere, not duplicated here. What's left genuinely D00-coded (2.7% masters combined) lives on this card.
@@ -70,7 +70,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2
 | Bf5 | 2.9 M (10.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/44 | 0 | — | ⚠ |
 | c5 | 0 | — | 2.1 k (29.4%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/50/26 |  |
 
-*Online: bullet/blitz, 1800+ — 27.9 M games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 27.9 M games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P1B2/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Mason Variation*; Lichess's own live tag is the *Accelerated London System* — the same London setup (Bf4 before Nf3/e3/c3) reached a move earlier than usual, before Black's own reply commits the position further. Masters play **2... Nf6** (57.6%) most often, developing naturally, over **2... c5** (29.4%), the *Steinitz Countergambit*, which strikes at the centre immediately (89.5% masters then continue **3. e3**).
@@ -105,7 +105,7 @@ rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 1 2
 | c6 | 822 k (14.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/46 | 659 (23.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/40/25 |  |
 | f6 | 553 k (9.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 355 (12.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/34/36 |  |
 
-*Online: bullet/blitz, 1800+ — 5.7 M games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 5.7 M games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p2B1/3P4/8/PPP1PPPP/RN1QKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Pins nothing yet but eyes the same h4-d8 diagonal as [A80's own Hopton Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/A80_Dutch_Defense.md#_Bg5_) does against the Dutch — a move earlier here, before Black has committed to any particular set-up. Masters split between **2... h6** (34.2%), questioning the bishop immediately, and **2... c6** (23.6%), a quieter developing try.
@@ -143,7 +143,7 @@ rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR b KQkq - 1 2
 | c5 | 614 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 75 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/41/31 |  |
 | g6 | 0 | — | 42 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/29/19 |  |
 
-*Online: bullet/blitz, 1800+ — 11.9 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 11.9 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Develops the queen's knight before committing to c4 or e4, keeping the option of a quick Bg5 pin (the Richter-Veresov idea) or an eventual e4 push (the Blackmar-Diemer idea) open. **2... Nf6** is masters' clear main try (73.3%) — a real curiosity in the live data: this exact position (before White's 3rd move) carries the code **A45** rather than D00 or D01, reusing the "Chigorin Variation" name from a totally different branch of the ECO tree, live-verified rather than assumed. It resolves immediately into the [**A45/D01** Richter-Veresov complex](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md), covered on its own card — not duplicated here.

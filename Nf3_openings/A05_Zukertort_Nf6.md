@@ -30,7 +30,7 @@ rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2
 | e4 | 370 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | b4 | 0 | — | 208 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/45/26 |  |
 
-*Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 136 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_-_2_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 136 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R_w_KQkq_-_2_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 * [**2. c4**](#_c4_) (+0.1): masters' clear favourite (59.6%) — transposes toward English/Indian territory, covered below
@@ -91,7 +91,7 @@ rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R b KQkq c3 0 2
 | b6 | 175 k (2.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/43 | 6.1 k (6.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/49/22 |  |
 | Nc6 | 155 k (2.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 285 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/33/26 |  |
 
-*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 91 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_c3_0_2#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 91 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/5n2/8/2P5/5N2/PP1PPPPP/RNBQKB1R_b_KQkq_c3_0_2#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 * [**2... e6**](#_c4_e6_) (+0.2): masters' top choice, virtually tied with g6 (35.4% vs 34.6%) — covered below

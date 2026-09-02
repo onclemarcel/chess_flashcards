@@ -25,7 +25,7 @@ r1bqkb1r/pppn1ppp/4pn2/8/2QP4/6P1/PP2PPBP/RNB1K1NR b KQkq - 0 6
 | Be7 | 741 (14.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
 | e5 | 0 | — | 4 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 5.1 k games. Masters: 206 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/8/2QP4/6P1/PP2PPBP/RNB1K1NR_b_KQkq_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 5.1 k games. Masters: 206 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/8/2QP4/6P1/PP2PPBP/RNB1K1NR_b_KQkq_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6... a6** is masters' narrow plurality (55.8%), preparing ... b5 to gain queenside space and hit the queen with tempo; **6... c5** (39.8%) strikes at the centre instead.
@@ -59,7 +59,7 @@ r1bqkb1r/1ppn1ppp/p3pn2/8/3P4/6P1/PPQ1PPBP/RNB1K1NR b KQkq - 1 7
 | Rb8 | 101 (17.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/13/47 | 5 (9.3%) | — |  |
 | Be7 | 37 (6.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 1 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 575 games. Masters: 54 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppn1ppp/p3pn2/8/3P4/6P1/PPQ1PPBP/RNB1K1NR_b_KQkq_-_1_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 575 games. Masters: 54 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppn1ppp/p3pn2/8/3P4/6P1/PPQ1PPBP/RNB1K1NR_b_KQkq_-_1_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 Retreats the queen off the a6-f1 diagonal before Black can gain further tempo with ... b5, named the *Alekhine Variation*. **7... c5** is masters' overwhelming reply (88.9%), striking at the centre immediately. Not built out further here (backlog) — deeper Alekhine Variation theory is its own extensive body of work.

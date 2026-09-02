@@ -25,7 +25,7 @@ rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBP3/PP3PPP/R1BQK1NR w KQ d6 0 6
 | cxd5 | 33 k (15.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 1.4 k (13.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 | a3 | 30 k (13.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 2.1 k (19.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/46/22 |  |
 
-*Online: bullet/blitz, 1800+ — 219 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBP3/PP3PPP/R1BQK1NR_w_KQ_d6_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 219 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBP3/PP3PPP/R1BQK1NR_w_KQ_d6_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6. Nf3** is masters' clear main try (59.4%), developing naturally rather than committing to a5-pawn structure yet.

@@ -26,7 +26,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P1P3/5PPP/R1BQKBNR b KQ - 0 6
 | d6 | 7.8 k (13.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 132 (20.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/33/34 |  |
 | Nc6 | 0 | — | 48 (7.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 
-*Online: bullet/blitz, 1800+ — 58 k games. Masters: 654 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P1P3/5PPP/R1BQKBNR_b_KQ_-_0_6#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 58 k games. Masters: 654 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/2PP4/P1P1P3/5PPP/R1BQKBNR_b_KQ_-_0_6#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **6... c5** is masters' narrow plurality (43.7%), striking at the centre immediately. **7. Bd3** follows naturally, developing before deciding on a kingside plan.

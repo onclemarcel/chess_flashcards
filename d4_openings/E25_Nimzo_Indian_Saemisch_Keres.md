@@ -26,7 +26,7 @@ rnbqk2r/pp3ppp/4pn2/2pP4/3P4/P1P2P2/4P1PP/R1BQKBNR b KQkq - 0 7
 | Qxd5 | 483 (1.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/6/39 | 0 | — | ⚠ |
 | O-O | 0 | — | 3 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 49 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3ppp/4pn2/2pP4/3P4/P1P2P2/4P1PP/R1BQKBNR_b_KQkq_-_0_7#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 49 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp3ppp/4pn2/2pP4/3P4/P1P2P2/4P1PP/R1BQKBNR_b_KQkq_-_0_7#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 **7... Nxd5** is masters' clear main try (74.1%), recapturing with the knight to keep the structure flexible. **8. dxc5** follows naturally, striking at the extra tempo the centre offered.
