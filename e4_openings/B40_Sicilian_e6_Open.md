@@ -2,7 +2,7 @@
 
 # B40 Sicilian Defense, 2... e6 <br> 1. e4 c5 2. Nf3 e6 #
 
-The most flexible of the main Sicilian tries: Black delays committing the queenside knight or the kingside setup, keeping the option of a Taimanov-style ... Nc6, a Kan-style ... a6, or even a French-like ... d5 all available. The trade-off is a slightly slower pace than the more direct 2... d6 and 2... Nc6 lines.
+The most flexible of the main Sicilian tries: Black delays committing the queenside knight or the kingside setup, keeping the option of a Taimanov-style ... Nc6, a Kan-style ... a6, or even a French-like ... d5 all available. The trade-off is a slightly slower pace than the more direct 2... d6 and 2... Nc6 lines. Live-tagged the *French Variation* throughout this whole range (`eco.md`'s own root entry just says "Sicilian Defence").
 
 ### Overview
 
@@ -19,10 +19,14 @@ flowchart LR
     e6 --> d4[["3. d4 !<br/>+0.3"]]:::main
     click d4 "#_d4_" "B40 · Sicilian Defense, 2... e6: Open"
 
-    d4 --> a6k[["4... a6 !<br/>+0.4"]]:::main
-    click a6k "#_a6_" "B41 · Sicilian Defense: Kan Variation"
-    d4 --> Nc6t[["4... Nc6<br/>+0.3"]]
-    click Nc6t "#_Nc6_" "B44 · Sicilian Defense: Taimanov Variation"
+    d4 --> d5["3... d5<br/>0.1% masters"]
+    click d5 "#_Marshall_" "B40 · Sicilian Defense: Marshall Counterattack"
+    d4 --> a6k["4... a6<br/>39.8% masters"]
+    click a6k "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md" "B41 · Sicilian Defense: Kan Variation"
+    d4 --> Nc6t["4... Nc6<br/>36.8% masters"]
+    click Nc6t "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md" "B44 · Sicilian Defense: Taimanov Variation"
+    d4 --> Nf6t[["4... Nf6 !<br/>+0.4"]]:::main
+    click Nf6t "#_Nf6_" "B40 · Sicilian Defense: Pin Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -51,7 +55,7 @@ rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | b3 | 0 | — | 4.3 k (3.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | g3 | 0 | — | 3.5 k (3.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -61,7 +65,31 @@ rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 * **3. Nc3** (masters 6.3%): keeps options flexible, similar in spirit to a Closed Sicilian.
 * **3. d3** (masters 5.2%): a quiet King's-Indian-Attack-style set-up.
 
+Black's own reply to 3. d4 is close to automatic — [**3... cxd4**](#_d4_) (99.8% masters) — but [**3... d5**](#_Marshall_) (a real database rarity, 0.1%) is a genuine independent try, the *Marshall Counterattack*. See below.
+
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Marshall_"></a>
+
+> [!NOTE]
+> **3... d5**, the *Marshall Counterattack* (`eco.md`: "Marshall Variation"), strikes back in the centre immediately rather than taking on d4 first — a genuine database rarity (0.1% masters) with a sharp, gambit-like point.
+>
+> [![3... d5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/5N2/PPP2PPP/RNBQKB1R&lastMove=d7d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_d6_0_4)
+>
+> *... 3... d5 — Marshall Counterattack*
+>
+> ```
+> rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/5N2/PPP2PPP/RNBQKB1R w KQkq d6 0 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+> | --- | --- |
+>
+> **4. exd5** (82.5% of the small sample) is close to automatic — Black gets open lines and quick development for the pawn, similar in spirit to other Scandinavian-adjacent gambit ideas, but Stockfish rates White's extra pawn as a real, if modest, practical plus. Deeper theory not covered further here.
+>
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -95,12 +123,12 @@ rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Qc7 | 72 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 30 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/43/17 |  |
 | Bb4+ | 0 | — | 11 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-* [**4... a6**](#_a6_) (39.8% masters): the *Kan Variation* (also called the Paulsen) — keeps the knight home a move longer, ruling out Nb5 ideas immediately, similar in spirit to the Najdorf but with ... e6 already played instead of ... d6. See below.
-* [**4... Nc6**](#_Nc6_) (36.8% masters): the *Taimanov Variation* — develops naturally, often following up with ... Qc7 and ... a6, keeping the option of ... d6 or ... d5 open. See below.
-* **4... Nf6** (21.6% masters): the *Four Knights Sicilian* — attacks e4 directly; after **5. Nc3 Nc6**, both knight pairs face off in the centre. Not covered further here.
+* [**4... a6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md) (39.8% masters): the *Kan Variation* (also called the Paulsen) — already live-tagged **B41**, see `B41_Sicilian_Kan_Variation.md`, not built out further here.
+* [**4... Nc6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md) (36.8% masters): the *Taimanov Variation* — already live-tagged **B44**, see `B44_Sicilian_Taimanov_Szen.md`, not built out further here.
+* [**4... Nf6**](#_Nf6_) (21.6% masters, +0.4): the *Four Knights Sicilian*, forking further into the *Pin Variation* — stays genuinely B40. See below.
 
 Each of these three systems is a substantial independent body of theory in its own right.
 
@@ -109,70 +137,116 @@ Each of these three systems is a substantial independent body of theory in its o
 
 ---
 
-<a name="_a6_"></a>
+> [!NOTE]
+> **4... a6** (39.8% masters) is already live-tagged **B41**, the *Kan Variation* — see [`B41_Sicilian_Kan_Variation.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md), not built out further here. **4... Nc6** (36.8% masters) is already live-tagged **B44**, the *Taimanov Variation* — see [`B44_Sicilian_Taimanov_Szen.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md), not built out further here.
 
-### 4... a6 — Kan Variation
+---
 
-[![4... a6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=a7a6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5)
+<a name="_Nf6_"></a>
 
-*... 4... a6 — Kan Variation*
+### 4... Nf6 — Pin Variation
+
+[![4... Nf6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5)
+
+*... 4... Nf6 — the Four Knights Sicilian*
 
 ```
-rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
+rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 ```
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+<!-- lichess-stats:start fen="rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| Nc3 | 4.0 M (53.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 11 k (33.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/33/34 |  |
-| c4 | 1.4 M (18.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 4.2 k (12.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/35/29 |  |
-| Bd3 | 903 k (12.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 16 k (48.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
-| Be3 | 229 k (3.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
-| Be2 | 0 | — | 975 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/33/30 |  |
+| Nc3 | 3.1 M (78.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/50 | 17 k (93.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
+| Bd3 | 485 k (12.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/49 | 1.1 k (6.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/37/31 |  |
+| e5 | 118 k (3.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/4/57 | 0 | — | ⚠ |
+| f3 | 110 k (2.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 9 (0.1%) | — |  |
+| Nd2 | 0 | — | 34 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/35/24 |  |
 
-*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 4.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-> [!NOTE]
-> Masters' actual main try, **5. Bd3** (48.6%), is a real online/masters inversion: online play instead favours the more natural-looking **5. Nc3** (53.4% online, only 33.2% masters). Bd3 aims straight at the kingside while keeping the knight flexible between c3 and d2 — a more subtle try that takes some experience to prefer over simply developing the queen's knight.
+**5. Nc3** is masters' overwhelming choice (93.6%). Rather than the symmetrical **5... Nc6** (transposing toward the regular Taimanov/B44 tabiya), Black's other real try is **5... Bb4**, pinning the c3-knight immediately — the *Pin Variation*, which stays genuinely B40 despite sitting three plies past the card's own root.
 
-**5. Bd3** is masters' clear main try (48.6%) — see the note above. Deeper Kan theory (Black's flexible ... Qc7/... Nc6/... b5 setups) is its own extensive body of work, not covered further here.
+<a name="_Pin_"></a>
 
-[*Back to 3. d4*](#_d4_)
+[![5. Nc3 Bb4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R&lastMove=f8b4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6)
+
+*... 5. Nc3 Bb4 — Pin Variation*
+
+```
+rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.7 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| Bd3 | 397 k (40.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 72 (13.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/28/32 |  |
+| e5 | 176 k (17.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 429 (82.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/28/23 |  |
+| f3 | 118 k (11.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/4/54 | 0 | — | ⚠ |
+| Bg5 | 91 k (9.1%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 33/4/64 | 0 | — | ⚠ |
+| Nb5 | 0 | — | 12 (2.3%) | — |  |
+| Qd3 | 0 | — | 5 (1.0%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 993 k games. Masters: 521 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-02*
+<!-- lichess-stats:end -->
+
+**A genuine finding, worth stating plainly rather than assumed from `eco.md`'s own naming order alone**: masters' actual main try here is **6. e5** (82.3%, the *Koch Variation*), pushing the e-pawn to gain space and hit the f6-knight — well ahead of **6. Bd3** (13.8%, the *Jaffe Variation*, `eco.md`'s own first-listed name).
+
+* [**6. e5**](#_Koch_): the *Koch Variation* — see below.
+* [**6. Bd3**](#_Jaffe_): the *Jaffe Variation* — see below.
+
+[*Back to 4... Nf6*](#_Nf6_)
 [*Back to TOP*](#_TOP_)
 
 ---
 
-<a name="_Nc6_"></a>
+<a name="_Koch_"></a>
 
-### 4... Nc6 — Taimanov Variation
+> [!NOTE]
+> **6. e5** — the *Koch Variation* — kicks the f6-knight immediately.
+>
+> [![6. e5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R&lastMove=e4e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_0_6)
+>
+> *... 6. e5 — Koch Variation*
+>
+> ```
+> rnbqk2r/pp1p1ppp/4pn2/4P3/1b1N4/2N5/PPP2PPP/R1BQKB1R b KQkq - 0 6
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.8 |
+> | --- | --- |
+>
+> **6... Nd5** is masters' clear main try (92.1%), heading for a strong central outpost. Deeper theory not covered further here.
+>
+> [*Back to 5. Nc3 Bb4*](#_Pin_)
+> [*Back to TOP*](#_TOP_)
 
-[![4... Nc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=b8c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5)
+---
 
-*... 4... Nc6 — Taimanov Variation*
+<a name="_Jaffe_"></a>
 
-```
-r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Nc3 | 4.4 M (52.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 30 k (85.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/26 |  |
-| Nxc6 | 1.6 M (18.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 584 (1.7%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/35/43 |  |
-| c4 | 634 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/48 | 0 | — | ⚠ |
-| Nb5 | 0 | — | 3.4 k (9.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
-
-*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
-<!-- lichess-stats:end -->
-
-**5. Nc3** is masters' overwhelming choice (85.5%) — developing naturally before deciding on a plan, with **5. Nb5** (9.7%) a real second choice, immediately probing the d6 square the way it does against the Sveshnikov and Najdorf. Deeper Taimanov theory (Black's typical ... Qc7/... a6/... Nf6 set-up) is its own extensive body of work, not covered further here.
-
-[*Back to 3. d4*](#_d4_)
-[*Back to TOP*](#_TOP_)
+> [!NOTE]
+> **6. Bd3 e5** is the *Jaffe Variation* — Black strikes back in the centre immediately, right after White develops the bishop rather than pushing e5.
+>
+> [![6. Bd3 e5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/pp1p1ppp/5n2/4p3/1b1NP3/2NB4/PPP2PPP/R1BQK2R&lastMove=e6e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/5n2/4p3/1b1NP3/2NB4/PPP2PPP/R1BQK2R_w_KQkq_-_0_7)
+>
+> *... 6. Bd3 e5 — Jaffe Variation*
+>
+> ```
+> rnbqk2r/pp1p1ppp/5n2/4p3/1b1NP3/2NB4/PPP2PPP/R1BQK2R w KQkq - 0 7
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
+> | --- | --- |
+>
+> A genuine database rarity (only 19 masters games) — White's knight must retreat, most often to f5 or e2. Deeper theory not covered further here.
+>
+> [*Back to 5. Nc3 Bb4*](#_Pin_)
+> [*Back to TOP*](#_TOP_)

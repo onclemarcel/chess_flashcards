@@ -22,7 +22,7 @@ flowchart LR
     Nc3 --> e5[["5... e5 !<br/>+0.3"]]:::main
     click e5 "#_e5_" "B33 · Sicilian Defense: Lasker-Pelikan Variation"
     Nc3 --> d6["5... d6<br/>33.9% masters"]
-    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md" "B50 · Sicilian Defense: Najdorf/Classical/Dragon family"
+    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B56_Sicilian_Classical_Variation.md" "B56 · Sicilian Defense: Najdorf/Classical/Dragon family"
 
     e5 --> tabiya["8. Na3<br/>+0.2"]
     click tabiya "#_tabiya_" "B33 · Sicilian Defense: Lasker-Pelikan Variation"
@@ -95,7 +95,7 @@ r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 <!-- lichess-stats:end -->
 
 * [**5... e5**](#_e5_) (59.9% masters): the *Lasker-Pelikan Variation* — see below.
-* [**5... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md) (33.9% masters): transposes into the same Najdorf/Classical/Dragon family reached via 2... d6.
+* [**5... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B56_Sicilian_Classical_Variation.md) (33.9% masters): transposes into the same Najdorf/Classical/Dragon family reached via 2... d6.
 * **5... e6** (4.2% masters): the *Taimanov*-adjacent set-up, no further named code in this range.
 
 [*Back to 4... Nf6*](#_initial_move_)

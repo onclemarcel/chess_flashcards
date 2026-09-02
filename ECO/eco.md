@@ -983,109 +983,109 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## B40
 
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6`
-- **Sicilian Defence, Marshall Variation** — `1.e4 c5 2.Nf3 e6 3.d4 d5`
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4`
-- **Sicilian Defence, Anderssen Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6`
-- **Sicilian Defence, Pin Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4`
-- **Sicilian Defence, Pin Variation,  Jaffe Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 e5`
-- **Sicilian Defence, Pin Variation,  Koch Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5`
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_initial_move_)
+- **Sicilian Defence, Marshall Variation** — `1.e4 c5 2.Nf3 e6 3.d4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_Marshall_)
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_d4_)
+- **Sicilian Defence, Anderssen Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_Nf6_)
+- **Sicilian Defence, Pin Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_Pin_)
+- **Sicilian Defence, Pin Variation,  Jaffe Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.Bd3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_Jaffe_)
+- **Sicilian Defence, Pin Variation,  Koch Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Bb4 6.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B40_Sicilian_e6_Open.md#_Koch_)
 
 ## B41
 
-- **Sicilian Defence, Kan Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6`
-- **Sicilian Defence, Kan Variation,  Maroczy bind** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4`
-- **Sicilian Defence, Kan Variation,  Maroczy bind,  Bronstein Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3 Nc6 8.Bc2`
+- **Sicilian Defence, Kan Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md#_initial_move_)
+- **Sicilian Defence, Kan Variation,  Maroczy bind** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md#_c4_)
+- **Sicilian Defence, Kan Variation,  Maroczy bind,  Bronstein Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.c4 Nf6 6.Nc3 Bb4 7.Bd3 Nc6 8.Bc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md#_c4_)
 
 ## B42
 
-- **Sicilian Defence, Kan Variation,  5.Bd3** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3`
-- **Sicilian Defence, Kan Variation,  Gipslis Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 g6`
-- **Sicilian Defence, Kan Variation,  Polugaievsky Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5`
-- **Sicilian Defence, Kan Variation,  Swiss cheese Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6`
+- **Sicilian Defence, Kan Variation,  5.Bd3** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B42_Sicilian_Kan_Modern_Variation.md#_initial_move_)
+- **Sicilian Defence, Kan Variation,  Gipslis Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Nf6 6.O-O d6 7.c4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B42_Sicilian_Kan_Modern_Variation.md#_initial_move_)
+- **Sicilian Defence, Kan Variation,  Polugaievsky Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B42_Sicilian_Kan_Modern_Variation.md#_initial_move_)
+- **Sicilian Defence, Kan Variation,  Swiss cheese Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Bd3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B42_Sicilian_Kan_Modern_Variation.md#_initial_move_)
 
 ## B43
 
-- **Sicilian Defence, Kan Variation,  5.Nc3** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3`
+- **Sicilian Defence, Kan Variation,  5.Nc3** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 a6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B43_Sicilian_Kan_Knight_Variation.md#_initial_move_)
 
 ## B44
 
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6`
-- **Sicilian Defence, Szen Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5`
-- **Sicilian Defence, Szen Variation,  Hedgehog Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6`
-- **Sicilian Defence, Szen Variation,  Dely-Kasparov Gambit** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5`
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md#_initial_move_)
+- **Sicilian Defence, Szen Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md#_Nb5_)
+- **Sicilian Defence, Szen Variation,  Hedgehog Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 Be7 9.Be2 O-O 10.O-O b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md#_Nb5_)
+- **Sicilian Defence, Szen Variation,  Dely-Kasparov Gambit** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nb5 d6 6.c4 Nf6 7.N1c3 a6 8.Na3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B44_Sicilian_Taimanov_Szen.md#_Nb5_)
 
 ## B45
 
-- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3`
-- **Sicilian Defence, Taimanov Variation,  American Attack** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Ndb5 Bb4 7.Nd6`
+- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B45_Sicilian_Taimanov_Nc3.md#_initial_move_)
+- **Sicilian Defence, Taimanov Variation,  American Attack** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Nf6 6.Ndb5 Bb4 7.Nd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B45_Sicilian_Taimanov_Nc3.md#_Nf6_)
 
 ## B46
 
-- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6`
+- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B46_Sicilian_Taimanov_a6.md#_initial_move_)
 
 ## B47
 
-- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7`
+- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B47_Sicilian_Taimanov_Bastrikov.md#_initial_move_)
 
 ## B48
 
-- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3`
+- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B48_Sicilian_Taimanov_English_Attack.md#_initial_move_)
 
 ## B49
 
-- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2`
+- **Sicilian Defence, Taimanov Variation** — `1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B49_Sicilian_Taimanov_a6_Be2.md#_initial_move_)
 
 ## B50
 
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6`
-- **Sicilian Defence, Wing Gambit,  Deferred** — `1.e4 c5 2.Nf3 d6 3.b4`
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md#_initial_move_)
+- **Sicilian Defence, Wing Gambit,  Deferred** — `1.e4 c5 2.Nf3 d6 3.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B50_Sicilian_d6_Open.md#_b4_)
 
 ## B51
 
-- **Sicilian Defence, Canal-Sokolsky Attack** — `1.e4 c5 2.Nf3 d6 3.Bb5`
+- **Sicilian Defence, Canal-Sokolsky Attack** — `1.e4 c5 2.Nf3 d6 3.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B51_Sicilian_Moscow_Variation.md#_initial_move_)
 
 ## B52
 
-- **Sicilian Defence, Canal-Sokolsky Attack,  3...Bd7** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7`
-- **Sicilian Defence, Canal-Sokolsky Attack,  Bronstein Gambit** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7 4.Bxd7 Qxd7 5.O-O Nc6 6.c3 Nf6 7.d4`
-- **Sicilian Defence, Canal-Sokolsky Attack,  Sokolsky Variation** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7 4.Bxd7 Qxd7 5.c4`
+- **Sicilian Defence, Canal-Sokolsky Attack,  3...Bd7** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B52_Sicilian_Moscow_Bd7.md#_initial_move_)
+- **Sicilian Defence, Canal-Sokolsky Attack,  Bronstein Gambit** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7 4.Bxd7 Qxd7 5.O-O Nc6 6.c3 Nf6 7.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B52_Sicilian_Moscow_Bd7.md#_OO_)
+- **Sicilian Defence, Canal-Sokolsky Attack,  Sokolsky Variation** — `1.e4 c5 2.Nf3 d6 3.Bb5 Bd7 4.Bxd7 Qxd7 5.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B52_Sicilian_Moscow_Bd7.md#_c4_)
 
 ## B53
 
-- **Sicilian Defence, Chekhover Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4`
-- **Sicilian Defence, Chekhover Variation,  Zaitsev Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Qd7`
+- **Sicilian Defence, Chekhover Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B53_Sicilian_Chekhover.md#_initial_move_)
+- **Sicilian Defence, Chekhover Variation,  Zaitsev Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Qxd4 Nc6 5.Bb5 Qd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B53_Sicilian_Chekhover.md#_Zaitsev_)
 
 ## B54
 
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4`
-- **Sicilian Defence, Prins Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3`
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B54_Sicilian_d6_Modern_Main_Line.md#_initial_move_)
+- **Sicilian Defence, Prins Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B54_Sicilian_d6_Modern_Main_Line.md#_Nf6_)
 
 ## B55
 
-- **Sicilian Defence, Prins Variation,  Venice Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Bb5`
+- **Sicilian Defence, Prins Variation,  Venice Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.f3 e5 6.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B55_Sicilian_Prins_Venice_Attack.md#_initial_move_)
 
 ## B56
 
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3`
-- **Sicilian Defence, Venice Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5`
-- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6`
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B56_Sicilian_Classical_Variation.md#_initial_move_)
+- **Sicilian Defence, Venice Attack** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B56_Sicilian_Classical_Variation.md#_e5_)
+- **Sicilian Defence** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B56_Sicilian_Classical_Variation.md#_Nc6_)
 
 ## B57
 
-- **Sicilian Defence, Sozin** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4`
-- **Sicilian Defence, Magnus Smith trap** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 g6 7.Nxc6 bxc6 8.e5`
-- **Sicilian Defence, Sozin,  Benko Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6`
+- **Sicilian Defence, Sozin** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md#_initial_move_)
+- **Sicilian Defence, Magnus Smith trap** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 g6 7.Nxc6 bxc6 8.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md#_MagnusSmith_)
+- **Sicilian Defence, Sozin,  Benko Variation** — `1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bc4 Qb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md#_Qb6_)
 
 ## B58
 
-- **Sicilian Defence, Classical** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2`
-- **Sicilian Defence, Boleslavsky Variation** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5`
-- **Sicilian Defence, Boleslavsky Variation,  Louma Variation** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nxc6`
+- **Sicilian Defence, Classical** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B58_Sicilian_Classical_System.md#_initial_move_)
+- **Sicilian Defence, Boleslavsky Variation** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B58_Sicilian_Classical_System.md#_e5_)
+- **Sicilian Defence, Boleslavsky Variation,  Louma Variation** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B58_Sicilian_Classical_System.md#_Louma_)
 
 ## B59
 
-- **Sicilian Defence, Boleslavsky Variation,  7.Nb3** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3`
+- **Sicilian Defence, Boleslavsky Variation,  7.Nb3** — `1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 d6 6.Be2 e5 7.Nb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B59_Sicilian_Boleslavsky_Nb3.md#_initial_move_)
 
 ## B60
 
