@@ -1,8 +1,10 @@
 <a name="_TOP_"></a>
 
-# B34 Sicilian Defense: Accelerated Dragon <br> 1. e4 c5 2. Nf3 g6 #
+# B34 Sicilian Defense: Accelerated Dragon, Exchange / Modern Variations <br> 1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 #
 
-Black fianchettoes at once, heading for a Dragon-style setup a full tempo faster than the ... d6/... g6 move order allows — the point being that Black hasn't committed the d-pawn yet, keeping the option of a quick ... d5 in one go later. The cost is that White gets an extra option not available against the regular Dragon: clamping down on d5 immediately with the Maroczy Bind.
+**Root fixed 2026-09-02**, correcting the naming caveat flagged during the B20-B29 batch: this card used to be rooted at the bare "2... g6" (a different, genuinely **B27**-coded position — the *Hyperaccelerated Dragon*, see [`B27_Sicilian_Open.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B27_Sicilian_Open.md#_g6_)). The real Accelerated Dragon/"Accelerated Fianchetto" complex — the one `eco.md` actually assigns codes B34-B39 to — is reached by developing the queen's knight *first*: **2... Nc6 3. d4 cxd4 4. Nxd4 g6**. Even this move itself stays **B32** (confirmed live) — Black hasn't earned a B34 tag yet. It's only White's own 5th move that splits the position into the two named B34 lines.
+
+Spun off from [`B32_Sicilian_Open.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B32_Sicilian_Open.md)'s own "4... g6" branch (15.3% of masters' replies at that fork) — Black fianchettoes at once, heading for a Dragon-style set-up a tempo faster than the ... d6/... g6 move order allows.
 
 ### Overview
 
@@ -13,146 +15,103 @@ Black fianchettoes at once, heading for a Dragon-style setup a full tempo faster
 flowchart LR
     classDef main stroke-width:3px;
 
-    g6["1. e4 c5 2. Nf3 g6"]
-    click g6 "#_initial_move_" "B34 · Sicilian Defense: Accelerated Dragon"
+    g6["1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6"]
+    click g6 "#_initial_move_" "B32 · Sicilian Defense: Accelerated Dragon"
 
-    g6 --> d4[["3. d4 !<br/>+0.3"]]:::main
-    click d4 "#_d4_" "B34 · Sicilian Defense: Accelerated Dragon"
-
-    d4 --> c4m[["5. c4 !<br/>+0.5"]]:::main
-    click c4m "#_c4_" "B37 · Sicilian Defense: Accelerated Dragon, Maróczy Bind"
-    c4m --> Nc6m[["5... Nc6 !<br/>+0.3"]]:::main
-    click Nc6m "#_c4_" "B37 · Sicilian Defense: Accelerated Dragon, Maróczy Bind"
+    g6 --> c4["5. c4<br/>56.2% masters"]
+    click c4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B36_Sicilian_Accelerated_Dragon_Maroczy.md" "B36 · Sicilian Defense: Accelerated Dragon, Maroczy Bind"
+    g6 --> Nc3[["5. Nc3 !<br/>+0.2"]]:::main
+    click Nc3 "#_Nc3_" "B34 · Sicilian Defense: Accelerated Dragon, Modern Variation"
+    g6 --> Nxc6["5. Nxc6<br/>+0.0"]
+    click Nxc6 "#_Nxc6_" "B34 · Sicilian Defense: Accelerated Dragon, Exchange Variation"
 ```
 <!-- content-diagram:end -->
 
 <a name="_initial_move_"></a>
 
-[![1. e4 c5 2. Nf3 g6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R&lastMove=g7g6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3)
+[![4... g6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=g7g6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5)
 
-*... 1. e4 c5 2. Nf3 g6 — Accelerated Dragon*
-
-```
-rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| d4 | 5.3 M (59.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 7.0 k (64.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/40/24 |  |
-| c3 | 1.3 M (14.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 2.1 k (19.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/23 |  |
-| Bc4 | 897 k (10.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 366 (3.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/32/30 |  |
-| Nc3 | 576 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 0 | — | ⚠ |
-| c4 | 0 | — | 833 (7.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/22 |  |
-
-*Online: bullet/blitz, 1800+ — 8.9 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppp1p/6p1/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-08-31*
-<!-- lichess-stats:end -->
-
-### Candidate moves
-
-* [**3. d4**](#_d4_) (+0.3): the Open Sicilian — masters' main choice (64.6%).
-* **3. c3** (masters 19.3%): an Alapin-style approach, side-stepping Open Sicilian theory while the fianchetto is still in progress.
-
-[*Back to TOP*](#_TOP_)
-
----
-
-<a name="_d4_"></a>
-
-### 3. d4 — Open Sicilian
-
-As usual, **3... cxd4 4. Nxd4** follows almost automatically, and Black completes the fianchetto with **4... Bg7**, reaching the true starting point of Accelerated Dragon theory.
-
-[![3. d4 cxd4 4. Nxd4 Bg7](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R&lastMove=f8g7&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5)
-
-*... 3. d4 cxd4 4. Nxd4 Bg7*
+*... 3. d4 cxd4 4. Nxd4 g6 — Accelerated Dragon*
 
 ```
-rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
+r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
 ```
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
+<!-- lichess-stats:start fen="r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
-| Nc3 | 1.1 M (50.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 700 (43.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/36/29 |  |
-| Be3 | 486 k (22.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 31 (1.9%) | ⬜🟫🟫🟫🟫🟫⬛⬛⬛⬛ 13/45/42 |  |
-| c4 | 323 k (14.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 831 (51.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/38/19 |  |
-| c3 | 132 k (6.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 0 | — | ⚠ |
-| Bc4 | 61 k (2.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/51 | 5 (0.3%) | — |  |
-| Nb3 | 23 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 23 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/39/35 |  |
-| Be2 | 0 | — | 25 (1.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 20/48/32 |  |
+| Nc3 | 3.7 M (47.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 5.3 k (37.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/39/27 |  |
+| Nxc6 | 1.5 M (19.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 110 (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/26/42 |  |
+| c4 | 1.1 M (14.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 7.8 k (56.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/46/19 |  |
+| Be3 | 835 k (10.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/49 | 258 (1.9%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 26/35/38 |  |
+| Bc4 | 170 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/51 | 0 | — | ⚠ |
+| c3 | 169 k (2.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 0 | — | ⚠ |
+| Be2 | 0 | — | 252 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
+| Nb3 | 0 | — | 91 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/34/26 |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-08-31*
+*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-* [**5. c4**](#_c4_) (51.2% masters): the *Maroczy Bind* — clamps down on d5 for good with pawns on c4 and e4, the critical test of the whole Accelerated Dragon and the main reason some players prefer the slower ... d6 move order instead. See below.
-* **5. Nc3** (43.1% masters): develops naturally and transposes toward regular Dragon structures once Black plays ... d6 and ... Nf6 — not covered further here.
+**A genuine finding, worth stating plainly rather than assumed from the two named B34 entries alone**: masters' actual most popular try here is **5. c4** (56.2%, the Maróczy Bind — see [`B36_Sicilian_Accelerated_Dragon_Maroczy.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B36_Sicilian_Accelerated_Dragon_Maroczy.md)), well ahead of either of this card's own two named lines, **5. Nc3** (37.9%, the *Modern Variation*) and **5. Nxc6** (0.8%, the *Exchange Variation*).
 
-Both are considered fully critical; which one a Black player fears more is largely a matter of preparation.
+### Candidate moves
 
-[*Back to 1... g6*](#_initial_move_)
+* **5. c4** (56.2% masters): the Maróczy Bind — see `B36_Sicilian_Accelerated_Dragon_Maroczy.md`, not built out further here.
+* [**5. Nc3**](#_Nc3_) (37.9% masters, +0.2): the *Modern Variation* — see below.
+* [**5. Nxc6**](#_Nxc6_) (0.8% masters, +0.0): the *Exchange Variation* — see below.
+
 [*Back to TOP*](#_TOP_)
 
 ---
 
-<a name="_c4_"></a>
+<a name="_Nxc6_"></a>
 
-### 5. c4 — Maróczy Bind
+### 5. Nxc6 — Exchange Variation
 
-[![5. c4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R&lastMove=c2c4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5)
+[![5. Nxc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1ppp1p/2N3p1/8/4P3/8/PPP2PPP/RNBQKB1R&lastMove=d4c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2N3p1/8/4P3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_5)
 
-*... 5. c4 — Maróczy Bind*
+*... 5. Nxc6 — Exchange Variation*
 
 ```
-rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5
+r1bqkbnr/pp1ppp1p/2N3p1/8/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 0 5
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.0 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Nc6 | 489 k (83.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 2.4 k (88.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/40/17 |  |
-| Nf6 | 29 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 128 (4.7%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 46/39/15 |  |
-| d6 | 28 k (4.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 0 | — | ⚠ |
-| Qb6 | 21 k (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 116 (4.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
-| b6 | 0 | — | 29 (1.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 34/28/38 |  |
+Trading immediately off the queenside knight before Black's fianchetto is even complete — a real database rarity (0.8% masters) and, per Stockfish, dead level. Play continues **5... dxc6**, and White has given up the centre-space fight almost entirely in exchange for simplification.
 
-*Online: bullet/blitz, 1800+ — 586 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp1pppbp/6p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-08-31*
-<!-- lichess-stats:end -->
+[*Back to 4... g6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
 
-**5... Nc6** is masters' clear main try (88.6%) — developing naturally and pressuring d4 before White can consolidate the bind.
+---
 
-[![5... Nc6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R&lastMove=b8c6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6)
+<a name="_Nc3_"></a>
 
-*... 5... Nc6 — reaching the main Maróczy Bind tabiya*
+### 5. Nc3 — Modern Variation
+
+[![5. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R&lastMove=b1c3&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_1_5)
+
+*... 5. Nc3 — Modern Variation*
 
 ```
-r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6
+r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5
 ```
 
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
-<!-- lichess-stats:start fen="r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| Be3 | 1.4 M (86.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 6.8 k (93.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/41/19 |  |
-| Nc2 | 104 k (6.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/42 | 469 (6.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/32/24 |  |
-| Nxc6 | 73 k (4.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
-| Nb3 | 0 | — | 12 (0.2%) | — |  |
+Developing naturally, keeping the c-pawn back for now. Black completes the fianchetto with **5... Bg7 6. Be3 Nf6 7. Bc4**, reaching the *Modern Bc4 Variation* — its own code, **B35**.
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 7.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-08-31*
-<!-- lichess-stats:end -->
+[*Back to 4... g6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
 
-**6. Be3** is masters' overwhelming choice (93.1%) — completing development and eyeing a later Qd2/Rc1 or Nb3 plan while the bind's queenside space advantage does its slow work. Deeper Maróczy Bind theory (Black's ... Ng4/... Nxd4 exchanging tries, and White's own Nc2/Nb3 regrouping ideas) is its own extensive body of work, not covered further here.
+---
 
-[*Back to 1... g6*](#_initial_move_)
+> [!NOTE]
+> **5. Nc3 Bg7 6. Be3 Nf6 7. Bc4** is [**B35**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B35_Sicilian_Accelerated_Dragon_Bc4.md), not built out on this card — a real independent try (the *Modern Bc4 Variation*, eyeing f7 the way the regular Dragon's own Yugoslav Attack does), not just a transposition. See `B35_Sicilian_Accelerated_Dragon_Bc4.md`.
+
 [*Back to TOP*](#_TOP_)
