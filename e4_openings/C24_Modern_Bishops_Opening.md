@@ -1,8 +1,8 @@
 <a name="_TOP_"></a>
 
-# C23 Modern Bishop's Opening <br> 1. e4 e5 2. Bc4 Nf6 3. d3 #
+# C24 Modern Bishop's Opening <br> 1. e4 e5 2. Bc4 Nf6 3. d3 #
 
-Spun off from a NOTE duplicated across both [C23 Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Nf6_) and [C50 Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), previously flagged "pending its own dedicated card" in both places — the two openings converge on this exact tabiya whenever Black meets either move order with ... Nf6: 3. d3 quietly defends e4, keeping the position flexible and delaying any commitment in the centre. This position doesn't carry its own distinct name in the Lichess explorer's ECO data (it stays generically "C23"), reflecting how transpositional it really is.
+Spun off from a NOTE duplicated across both [C24 Bishop's Opening: Berlin Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_) and [C50 Italian Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md), previously flagged "pending its own dedicated card" in both places — the two openings converge on this exact tabiya whenever Black meets either move order with ... Nf6: 3. d3 quietly defends e4, keeping the position flexible and delaying any commitment in the centre. **A filename fix**: this card was previously prefixed C23, but the position itself returns no ECO tag at all from the live explorer (`opening=None`, not "generically C23" as once assumed) — its own most immediate live-tagged ancestor is 2... Nf6 itself, already **C24**, not the bare C23 root two plies back. Renamed to match.
 
 <a name="_initial_move_"></a>
 
@@ -28,7 +28,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3
 | h6 | 127 k (5.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/44 | 0 | — | ⚠ |
 | d6 | 0 | — | 34 (0.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 44/44/12 |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR_b_KQkq_-_0_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 6.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR_b_KQkq_-_0_3#explorer) — updated 2026-09-03*
 <!-- lichess-stats:end -->
 
 > [!NOTE]

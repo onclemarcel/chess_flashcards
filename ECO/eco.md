@@ -1472,112 +1472,112 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C20
 
-- **King's Pawn Game** — `1.e4 e5`
+- **King's Pawn Game** — `1.e4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_)
 - **King's Pawn Game, Indian Opening** — `1.e4 e5 2.d3`
 - **King's Pawn Game, Mengarini's Opening** — `1.e4 e5 2.a3`
 - **King's Pawn Game, King's head Opening** — `1.e4 e5 2.f3`
-- **King's Pawn Game, Patzer Opening** — `1.e4 e5 2.Qh5`
+- **King's Pawn Game, Patzer Opening** — `1.e4 e5 2.Qh5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_Qh5_)
 - **King's Pawn Game, Napoleon's Opening** — `1.e4 e5 2.Qf3`
 - **King's Pawn Game, Lopez Opening** — `1.e4 e5 2.c3`
 - **Alapin Opening** — `1.e4 e5 2.Ne2`
 
 ## C21
 
-- **Centre Game** — `1.e4 e5 2.d4 exd4`
-- **Centre Game, Kieseritsky Variation** — `1.e4 e5 2.d4 exd4 3.Nf3 c5 4.Bc4 b5`
-- **Halasz Gambit** — `1.e4 e5 2.d4 exd4 3.f4`
-- **Danish Gambit** — `1.e4 e5 2.d4 exd4 3.c3`
-- **Danish Gambit, Collijn Defence** — `1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 Qe7`
-- **Danish Gambit, Schlechter Defence** — `1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5`
-- **Danish Gambit, Soerensen Defence** — `1.e4 e5 2.d4 exd4 3.c3 d5`
-- **Centre Game** — `1.e4 e5 2.d4 exd4 3.Qxd4`
+- **Centre Game** — `1.e4 e5 2.d4 exd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_initial_move_)
+- **Centre Game, Kieseritsky Variation** — `1.e4 e5 2.d4 exd4 3.Nf3 c5 4.Bc4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_initial_move_)
+- **Halasz Gambit** — `1.e4 e5 2.d4 exd4 3.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_initial_move_)
+- **Danish Gambit** — `1.e4 e5 2.d4 exd4 3.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_c3_)
+- **Danish Gambit, Collijn Defence** — `1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_c3_)
+- **Danish Gambit, Schlechter Defence** — `1.e4 e5 2.d4 exd4 3.c3 dxc3 4.Bc4 cxb2 5.Bxb2 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_c3_)
+- **Danish Gambit, Soerensen Defence** — `1.e4 e5 2.d4 exd4 3.c3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_c3_)
+- **Centre Game** — `1.e4 e5 2.d4 exd4 3.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C21_Center_Game_Accepted.md#_Qxd4_)
 
 ## C22
 
-- **Centre Game** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6`
-- **Centre Game, Paulsen Attack** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3`
-- **Centre Game, Charousek Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Bb4 5.c3 Be7`
-- **Centre Game, l'Hermet Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 f5`
-- **Centre Game, Berger Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6`
-- **Centre Game, Kupreichik Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 8.Bc4 d6 9.Nh3`
-- **Centre Game, Hall Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qc4`
+- **Centre Game** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_initial_move_)
+- **Centre Game, Paulsen Attack** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_PaulsenAttack_)
+- **Centre Game, Charousek Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Bb4 5.c3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_PaulsenAttack_)
+- **Centre Game, l'Hermet Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_PaulsenAttack_)
+- **Centre Game, Berger Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_Berger_)
+- **Centre Game, Kupreichik Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qe3 Nf6 5.Nc3 Bb4 6.Bd2 O-O 7.O-O-O Re8 8.Bc4 d6 9.Nh3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_Berger_)
+- **Centre Game, Hall Variation** — `1.e4 e5 2.d4 exd4 3.Qxd4 Nc6 4.Qc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C22_Center_Game_Normal_Variation.md#_Hall_)
 
 ## C23
 
-- **Bishop's Opening** — `1.e4 e5 2.Bc4`
-- **Bishop's Opening, Philidor Counter-attack** — `1.e4 e5 2.Bc4 c6`
-- **Bishop's Opening, Lisitsyn Variation** — `1.e4 e5 2.Bc4 c6 3.d4 d5 4.exd5 cxd5 5.Bb5 Bd7 6.Bxd7 Nxd7 7.dxe5 Nxe5 8.Ne2`
-- **Bishop's Opening, Calabrese Counter-Gambit** — `1.e4 e5 2.Bc4 f5`
-- **Bishop's Opening, Calabrese Counter-Gambit,  Jaenisch Variation** — `1.e4 e5 2.Bc4 f5 3.d3`
-- **Bishop's Opening, Classical Variation** — `1.e4 e5 2.Bc4 Bc5`
-- **Bishop's Opening, Lopez Gambit** — `1.e4 e5 2.Bc4 Bc5 3.Qe2 Nc6 4.c3 Nf6 5.f4`
-- **Bishop's Opening, Philidor Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3`
-- **Bishop's Opening, Pratt Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3 Nf6 4.d4 exd4 5.e5 d5 6.exf6 dxc4 7.Qh5 O-O`
-- **Bishop's Opening, Lewis Counter-Gambit** — `1.e4 e5 2.Bc4 Bc5 3.c3 d5`
-- **Bishop's Opening, del Rio Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3 Qg5`
-- **Bishop's Opening, Lewis Gambit** — `1.e4 e5 2.Bc4 Bc5 3.d4`
-- **Bishop's Opening, Wing Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4`
-- **Bishop's Opening, MacDonnell double Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4`
-- **Bishop's Opening, Four Pawns' Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 exf4 5.Nf3 Be7 6.d4 Bh4 7.g3 fxg3 8.O-O gxh2 9.Kh1`
+- **Bishop's Opening** — `1.e4 e5 2.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_initial_move_)
+- **Bishop's Opening, Philidor Counter-attack** — `1.e4 e5 2.Bc4 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_PhilidorCA_)
+- **Bishop's Opening, Lisitsyn Variation** — `1.e4 e5 2.Bc4 c6 3.d4 d5 4.exd5 cxd5 5.Bb5 Bd7 6.Bxd7 Nxd7 7.dxe5 Nxe5 8.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_PhilidorCA_)
+- **Bishop's Opening, Calabrese Counter-Gambit** — `1.e4 e5 2.Bc4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Calabrese_)
+- **Bishop's Opening, Calabrese Counter-Gambit,  Jaenisch Variation** — `1.e4 e5 2.Bc4 f5 3.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Calabrese_)
+- **Bishop's Opening, Classical Variation** — `1.e4 e5 2.Bc4 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Lopez Gambit** — `1.e4 e5 2.Bc4 Bc5 3.Qe2 Nc6 4.c3 Nf6 5.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Philidor Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Pratt Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3 Nf6 4.d4 exd4 5.e5 d5 6.exf6 dxc4 7.Qh5 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Lewis Counter-Gambit** — `1.e4 e5 2.Bc4 Bc5 3.c3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, del Rio Variation** — `1.e4 e5 2.Bc4 Bc5 3.c3 Qg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Lewis Gambit** — `1.e4 e5 2.Bc4 Bc5 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Wing Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, MacDonnell double Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
+- **Bishop's Opening, Four Pawns' Gambit** — `1.e4 e5 2.Bc4 Bc5 3.b4 Bxb4 4.f4 exf4 5.Nf3 Be7 6.d4 Bh4 7.g3 fxg3 8.O-O gxh2 9.Kh1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md#_Bc5_)
 
 ## C24
 
-- **Bishop's Opening, Berlin Defence** — `1.e4 e5 2.Bc4 Nf6`
-- **Bishop's Opening, Greco Gambit** — `1.e4 e5 2.Bc4 Nf6 3.f4`
-- **Bishop's Opening, Ponziani Gambit** — `1.e4 e5 2.Bc4 Nf6 3.d4`
-- **Bishop's Opening, Urusov Gambit** — `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3`
-- **Bishop's Opening, Urusov Gambit,  Panov Variation** — `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 d5 5.exd5 Bb4 6.c3 Qe7`
+- **Bishop's Opening, Berlin Defence** — `1.e4 e5 2.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_)
+- **Bishop's Opening, Greco Gambit** — `1.e4 e5 2.Bc4 Nf6 3.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_)
+- **Bishop's Opening, Ponziani Gambit** — `1.e4 e5 2.Bc4 Nf6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_)
+- **Bishop's Opening, Urusov Gambit** — `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_)
+- **Bishop's Opening, Urusov Gambit,  Panov Variation** — `1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 d5 5.exd5 Bb4 6.c3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_initial_move_)
 
 ## C25
 
-- **Vienna Game** — `1.e4 e5 2.Nc3`
-- **Vienna Game, Zhuravlev CounterGambit** — `1.e4 e5 2.Nc3 Bb4 3.Qg4 Nf6`
-- **Vienna Game, Max Lange Defence** — `1.e4 e5 2.Nc3 Nc6`
-- **Vienna Game, Paulsen Variation** — `1.e4 e5 2.Nc3 Nc6 3.g3`
-- **Vienna Game, Fyfe Gambit** — `1.e4 e5 2.Nc3 Nc6 3.d4`
-- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4`
-- **Vienna Game, Steinitz Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4`
-- **Vienna Game, Steinitz Gambit,  Zukertort Defence** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4 5.Ke2 d5`
-- **Vienna Game, Steinitz Gambit,  Fraser-Minckwitz Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4 5.Ke2 b6`
-- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3`
-- **Vienna Game, Hamppe-Allgaier Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5`
-- **Vienna Game, Hamppe-Allgaier Gambit,  Alapin Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5 d6`
-- **Vienna Game, Hamppe-Muzio Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.O-O`
-- **Vienna Game, Hamppe-Muzio,  Dubois Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.O-O gxf3 7.Qxf3 Ne5 8.Qxf4 Qf6`
-- **Vienna Game, Pierce Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4`
-- **Vienna Game, Pierce Gambit,  Rushmere Attack** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4 g4 6.Bc4 gxf3 7.O-O d5 8.exd5 Bg4 9.dxc6`
+- **Vienna Game** — `1.e4 e5 2.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_initial_move_)
+- **Vienna Game, Zhuravlev CounterGambit** — `1.e4 e5 2.Nc3 Bb4 3.Qg4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_Bb4_)
+- **Vienna Game, Max Lange Defence** — `1.e4 e5 2.Nc3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_Nc6_)
+- **Vienna Game, Paulsen Variation** — `1.e4 e5 2.Nc3 Nc6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_g3_)
+- **Vienna Game, Fyfe Gambit** — `1.e4 e5 2.Nc3 Nc6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_d4_)
+- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_f4_)
+- **Vienna Game, Steinitz Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_SteinitzGambit_)
+- **Vienna Game, Steinitz Gambit,  Zukertort Defence** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4 5.Ke2 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_SteinitzGambit_)
+- **Vienna Game, Steinitz Gambit,  Fraser-Minckwitz Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.d4 Qh4 5.Ke2 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_SteinitzGambit_)
+- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Hamppe-Allgaier Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Hamppe-Allgaier Gambit,  Alapin Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.h4 g4 6.Ng5 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Hamppe-Muzio Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Hamppe-Muzio,  Dubois Variation** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.Bc4 g4 6.O-O gxf3 7.Qxf3 Ne5 8.Qxf4 Qf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Pierce Gambit** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
+- **Vienna Game, Pierce Gambit,  Rushmere Attack** — `1.e4 e5 2.Nc3 Nc6 3.f4 exf4 4.Nf3 g5 5.d4 g4 6.Bc4 gxf3 7.O-O d5 8.exd5 Bg4 9.dxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C25_Vienna_Game.md#_4Nf3_)
 
 ## C26
 
-- **Vienna Game, Falkbeer Variation** — `1.e4 e5 2.Nc3 Nf6`
-- **Vienna Game, Mengarini Variation** — `1.e4 e5 2.Nc3 Nf6 3.a3`
-- **Vienna Game, Paulsen-Mieses Variation** — `1.e4 e5 2.Nc3 Nf6 3.g3`
-- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4`
+- **Vienna Game, Falkbeer Variation** — `1.e4 e5 2.Nc3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C26_Vienna_Falkbeer_Variation.md#_initial_move_)
+- **Vienna Game, Mengarini Variation** — `1.e4 e5 2.Nc3 Nf6 3.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C26_Vienna_Falkbeer_Variation.md#_a3_)
+- **Vienna Game, Paulsen-Mieses Variation** — `1.e4 e5 2.Nc3 Nf6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C26_Vienna_Falkbeer_Variation.md#_g3_)
+- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C26_Vienna_Falkbeer_Variation.md#_Bc4_)
 
 ## C27
 
-- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4`
-- **Vienna Game, 'Frankenstein-Dracula' Variation** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7 9.Nxc7 Kd8 10.Nxa8 b6`
-- **Vienna Game, Adams' Gambit** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.d4`
-- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Be7`
-- **Vienna Game, Alekhine Variation** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Be7 6.Nf3 Nc6 7.Nxe5`
-- **Petrov's Defence** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Nf3`
-- **Petrov's Defence, Lichtenhein Defence** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Nf3 d5`
+- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_initial_move_)
+- **Vienna Game, 'Frankenstein-Dracula' Variation** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.Nb5 g6 7.Qf3 f5 8.Qd5 Qe7 9.Nxc7 Kd8 10.Nxa8 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_Nc6_)
+- **Vienna Game, Adams' Gambit** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Nc6 6.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_Nc6_)
+- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_Bb3_)
+- **Vienna Game, Alekhine Variation** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Qh5 Nd6 5.Bb3 Be7 6.Nf3 Nc6 7.Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_Bb3_)
+- **Petrov's Defence** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_initial_move_) — **name divergence**: live-tagged "Bishop's Opening: Boden-Kieseritzky Gambit" and stays C27, not Petrov's own code
+- **Petrov's Defence, Lichtenhein Defence** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nxe4 4.Nf3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C27_Vienna_Frankenstein_Dracula.md#_initial_move_)
 
 ## C28
 
-- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6`
+- **Vienna Game** — `1.e4 e5 2.Nc3 Nf6 3.Bc4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C28_Vienna_Stanley_Three_Knights.md#_initial_move_)
 
 ## C29
 
-- **Vienna Game, Gambit,  Kaufmann Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Bg4 6.Qe2`
-- **Vienna Game, Gambit,  Breyer Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7`
-- **Vienna Game, Gambit,  Paulsen Attack** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3`
-- **Vienna Game, Gambit,  Bardeleben Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5`
-- **Vienna Game, Gambit,  Heyde Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d4`
-- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3`
-- **Vienna Game, Gambit,  Wurzburger trap** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3 Qh4 6.g3 Nxg3 7.Nf3 Qh5 8.Nxd5`
-- **Vienna Game, Gambit,  Steinitz Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3`
+- **Vienna Game, Gambit,  Kaufmann Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Bg4 6.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_5Nf3_)
+- **Vienna Game, Gambit,  Breyer Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_5Nf3_)
+- **Vienna Game, Gambit,  Paulsen Attack** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_PaulsenAttack_)
+- **Vienna Game, Gambit,  Bardeleben Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_PaulsenAttack_)
+- **Vienna Game, Gambit,  Heyde Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Qf3 f5 6.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_PaulsenAttack_)
+- **Vienna Game, Gambit** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_Wurzburger_)
+- **Vienna Game, Gambit,  Wurzburger trap** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.d3 Qh4 6.g3 Nxg3 7.Nf3 Qh5 8.Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_Wurzburger_)
+- **Vienna Game, Gambit,  Steinitz Variation** — `1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C29_Vienna_Gambit.md#_Steinitz_)
 
 ## C30
 
