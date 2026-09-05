@@ -401,6 +401,12 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 - **Wiring**: all 90 B01-B09 `eco.md` entries now `✅ [covered]`, both real name divergences found along the way stated inline. `check_diagram.py` clean (82 files) after both fixes.
 - **Worth remembering for the next codes down this list (B10 onward)**: this confirms the "unmarked ≠ missing" pattern holds broadly for B00-B09 (they predate the checkmark convention), but checking by hand still surfaced two real, previously-latent bugs — so "spot-check, don't just assume the pattern holds" remains the right approach each time a user asks about a specific unmarked range.
 
+**C00 completed, same session — user directly flagged it as "partly covered."** Unlike B00-B09 (which turned out almost fully covered already), C00 was a real, substantial gap: `C00_French_Defense.md` only ever built the "2. d4 d5" main line in depth (3. Nc3/Nd2/e5/exd5, each spun off to its own C01-C19 card) — 16 of its 19 `eco.md` entries had zero coverage anywhere. Added, all live-verified:
+- Eight real alternate 2nd moves as a single consolidated NOTE (Steiner c4, *Horwitz Attack* b3 — a real name divergence from `eco.md`'s own "Reti Variation" — Steinitz Attack e5, La Bourdonnais f4, Knight Variation Nf3 with its own Wing Gambit sideline, Queen's Knight Nc3 with its own Pelikan/Two Knights sideline fork, Chigorin Qe2 — another online/masters inversion, masters actually preferring 2...c5 over 2...d5 here — and King's Indian Attack d3 with its own Reversed Philidor Formation sideline).
+- Two siblings at the "2. d4" fork: St. George Defence (2...a6) and, more interestingly, 2...d6 — live-tagged **Rat Defense: Small Center Defense**, a genuine divergence not just of name but of *family* (Lichess treats this move order as transposing out of the French entirely, into the Rat/Modern complex), where `eco.md` calls it the French's own "Lengfellner System."
+- Two bishop sidesteps at the "2...d5" fork: Schlechter Variation (3. Bd3) and the *Alapin Gambit* (3. Be3, `eco.md`'s own "Alapin Variation" name doesn't carry the gambit label the live explorer gives it).
+- All 19 C00 entries now `✅ [covered]`. `check_diagram.py` clean (82 files) after the edit — no wrong-root-code bugs found this time, just the coverage gap.
+
 ---
 
 ## File naming convention (established 2026-08-25, repo-wide cleanup)

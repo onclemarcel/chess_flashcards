@@ -63,6 +63,17 @@ rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 
 * [**2. d4**](#_d4_) (+0.2): occupies the centre and is masters' overwhelming preference (89.5%) — Black answers almost automatically with **2... d5**, completing the point of 1... e6.
 
+Eight further real C00 tries sit in the stats table above with no candidate bullet — a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit. None built out past this ply (all backlog), but every one is live-confirmed and named:
+
+* **2. c4** (−0.1, 0.2% masters): the *Steiner Variation*.
+* **2. b3** (−0.2, 0.5% masters): live-tagged the *Horwitz Attack* — `eco.md`'s own name here is the *Reti Variation*, a real name divergence.
+* **2. e5** (−0.2, 0% masters): the *Steinitz Attack*.
+* **2. f4** (−0.2, 0.2% masters): the *La Bourdonnais Variation*.
+* **2. Nf3** (+0.1, 1.6% masters): the *Knight Variation*. Deeper, **2... d5 3. e5 c5 4. b4!?**, the *Wing Gambit* (−0.3, a genuine database curiosity), offers a queenside pawn to divert Black's own c-pawn.
+* **2. Nc3** (+0.3, 0.7% masters): live-tagged the *Queen's Knight*. Two further named lines follow **2... d5**: **3. f4!?**, the *Pelikan Variation* (−0.2, a real database curiosity), and **3. Nf3**, the *Two Knights Variation* (−0.1, the best-tested of the two, 1.8k masters games).
+* **2. Qe2** (−0.1, 1.4% masters): the *Chigorin Variation* — masters' main reply is **2... c5** (65.4%), not the more natural-looking **2... d5** that dominates online play (52.2%), another real online/masters inversion.
+* **2. d3** (0.0, 5.8% masters): the *King's Indian Attack*. Deeper still, **2... d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. Be2!?**, the *Reversed Philidor Formation* (0.0, a real database curiosity), reaches a fully symmetric-in-spirit tabiya a tempo down for Black.
+
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -98,10 +109,15 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 
 White now decides how to resolve the central tension.
 
+> [!NOTE]
+> Two further real C00 tries share this same "2. d4" fork, both very rare at master level: **2... d6!?** (masters: negligible sample) is live-tagged the ***Rat Defense: Small Center Defense*** — a genuine name AND family divergence from `eco.md`'s own *French Defence, Lengfellner System* label, since Lichess treats this specific move order as transposing into the Rat/Modern complex rather than staying French-flavoured. **2... a6!?** (+0.5, 254 masters games) is the *St. George Defence*, delaying the central break by a move to prepare ... b5 first. Neither built out further here (backlog).
+
 * [**3. Nc3**](#_Nc3_) (+0.3, 50.5% masters): develops naturally, keeping the tension — masters' clear main try, covered below.
 * [**3. Nd2**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md) (+0.3, 31.3% masters): the *Tarrasch Variation*, avoiding the pin that 3... Bb4 would otherwise place on the knight, at the cost of blocking the c1-bishop's most natural diagonal for a while. Already live-tagged **C03**, fully built out through C09.
 * [**3. e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md) (+0.5, 11.4% masters): the *Advance Variation* — gains space immediately and locks the centre, giving Black a clear target on d4 to attack with ... c5. Already live-tagged **C02**.
 * [**3. exd5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md) (+0.1, 5.9% masters, 29.3% online): the *Exchange Variation* — trades off the central tension for a symmetrical pawn structure. Simple and drawish, and correspondingly far more common in casual play than at master level. Already live-tagged **C01**.
+
+Two further real tries sit in the stats table above with no candidate bullet, both bishop developing moves that sidestep the main Nc3/Nd2/e5/exd5 fork: **3. Bd3** (0.9% masters), the *Schlechter Variation* — masters' main reply is **3... dxe4** (62.3%); and **3. Be3** (masters: negligible sample), the *Alapin Gambit* — `eco.md`'s own name is just the *Alapin Variation*, but the live explorer already tags it a gambit. Neither built out further here (backlog).
 
 [*Back to 1... e6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

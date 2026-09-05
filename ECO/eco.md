@@ -1298,24 +1298,24 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 ## C00
 
 - **French Defence** — `1.e4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
-- **French Defence, Steiner Variation** — `1.e4 e6 2.c4`
-- **French Defence, Reti Variation** — `1.e4 e6 2.b3`
-- **French Defence, Steinitz Attack** — `1.e4 e6 2.e5`
-- **French Defence, Labourdonnais Variation** — `1.e4 e6 2.f4`
-- **French Defence** — `1.e4 e6 2.Nf3`
-- **French Defence, Wing Gambit** — `1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4`
-- **French Defence** — `1.e4 e6 2.Nc3`
-- **French Defence, Pelikan Variation** — `1.e4 e6 2.Nc3 d5 3.f4`
-- **French Defence, Two Knights Variation** — `1.e4 e6 2.Nc3 d5 3.Nf3`
-- **French Defence, Chigorin Variation** — `1.e4 e6 2.Qe2`
-- **French Defence, King's Indian Attack** — `1.e4 e6 2.d3`
-- **French Defence, Reversed Philidor formation** — `1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.Be2`
+- **French Defence, Steiner Variation** — `1.e4 e6 2.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, Reti Variation** — `1.e4 e6 2.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_) — live-tagged the *Horwitz Attack*
+- **French Defence, Steinitz Attack** — `1.e4 e6 2.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, Labourdonnais Variation** — `1.e4 e6 2.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_) — live spells it *La Bourdonnais*
+- **French Defence** — `1.e4 e6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_) — live-tagged the *Knight Variation*
+- **French Defence, Wing Gambit** — `1.e4 e6 2.Nf3 d5 3.e5 c5 4.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence** — `1.e4 e6 2.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_) — live-tagged the *Queen's Knight*
+- **French Defence, Pelikan Variation** — `1.e4 e6 2.Nc3 d5 3.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, Two Knights Variation** — `1.e4 e6 2.Nc3 d5 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, Chigorin Variation** — `1.e4 e6 2.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, King's Indian Attack** — `1.e4 e6 2.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
+- **French Defence, Reversed Philidor formation** — `1.e4 e6 2.d3 d5 3.Nd2 Nf6 4.Ngf3 Nc6 5.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_initial_move_)
 - **French Defence** — `1.e4 e6 2.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
-- **French Defence, Lengfellner System** — `1.e4 e6 2.d4 d6`
-- **French Defence, St. George Defence** — `1.e4 e6 2.d4 a6`
+- **French Defence, Lengfellner System** — `1.e4 e6 2.d4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_) — live-tagged *Rat Defense: Small Center Defense*, a real name AND family divergence
+- **French Defence, St. George Defence** — `1.e4 e6 2.d4 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
 - **French Defence** — `1.e4 e6 2.d4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
-- **French Defence, Schlechter Variation** — `1.e4 e6 2.d4 d5 3.Bd3`
-- **French Defence, Alapin Variation** — `1.e4 e6 2.d4 d5 3.Be3`
+- **French Defence, Schlechter Variation** — `1.e4 e6 2.d4 d5 3.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_)
+- **French Defence, Alapin Variation** — `1.e4 e6 2.d4 d5 3.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md#_d4_) — live-tagged the *Alapin Gambit*
 
 ## C01
 
