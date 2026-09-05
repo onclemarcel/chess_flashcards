@@ -2008,34 +2008,34 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C53
 
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3`
-- **Italian Game, Giuoco Piano,  LaBourdonnais Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb6`
-- **Italian Game, Giuoco Piano,  close Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7`
-- **Italian Game, Giuoco Piano,  centre-holding Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6`
-- **Italian Game, Giuoco Piano,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.O-O Nf6 7.a4 a6 8.Re1 d6 9.h3`
-- **Italian Game, Giuoco Piano,  Mestel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.Bg5`
-- **Italian Game, Giuoco Piano,  Eisinger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.d5 Nb8 7.d6`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6`
-- **Italian Game, Giuoco Piano,  Bird's Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4`
-- **Italian Game, Giuoco Piano,  Ghulam Kassim Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 Ne4 7.Bd5 Nxf2 8.Kxf2 dxc3 9.Kg3`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5`
-- **Italian Game, Giuoco Piano,  Anderssen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb4`
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_initial_move_) (live-tagged the *Classical Variation*)
+- **Italian Game, Giuoco Piano,  LaBourdonnais Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 d6 5.d4 exd4 6.cxd4 Bb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_LaBourdonnais_)
+- **Italian Game, Giuoco Piano,  close Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Qe7_) (live-tagged the *Closed Variation*)
+- **Italian Game, Giuoco Piano,  centre-holding Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Qe7Center_) (live spells it *Center Holding Variation*)
+- **Italian Game, Giuoco Piano,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.O-O Nf6 7.a4 a6 8.Re1 d6 9.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Tarrasch_)
+- **Italian Game, Giuoco Piano,  Mestel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Mestel_)
+- **Italian Game, Giuoco Piano,  Eisinger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Qe7 5.d4 Bb6 6.d5 Nb8 7.d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Eisinger_)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Nf6_)
+- **Italian Game, Giuoco Piano,  Bird's Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C53_Giuoco_Piano_Classical_Variation.md#_Bird_)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_initial_move_) (a real "wrong root code" find: already live-tagged **C54**, the *Center Attack*, at this exact bare ply — `eco.md` keeps filing it, and the next two entries below, under C53)
+- **Italian Game, Giuoco Piano,  Ghulam Kassim Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 Ne4 7.Bd5 Nxf2 8.Kxf2 dxc3 9.Kg3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_e5_) (live-tagged **C54**, not C53 — see the note above)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_d5_) (live-tagged **C54**, not C53)
+- **Italian Game, Giuoco Piano,  Anderssen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.e5 d5 7.Bb5 Ne4 8.cxd4 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_d5_) (live-tagged **C54**, not C53 — see the note above)
 
 ## C54
 
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4`
-- **Italian Game, Giuoco Piano,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Bd2 Nxe4 8.Bxb4 Nxb4 9.Bxf7 Kxf7 10.Qb3 d5 11.Ne5 Kf6 12.f3`
-- **Italian Game, Giuoco Piano,  Cracow Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Kf1`
-- **Italian Game, Giuoco Piano,  Greco's Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3`
-- **Italian Game, Giuoco Piano,  Greco Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3`
-- **Italian Game, Giuoco Piano,  Bernstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3 9.bxc3 Bxc3 10.Qb3 d5`
-- **Italian Game, Giuoco Piano,  Aitken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3 9.bxc3 Bxc3 10.Ba3`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3`
-- **Italian Game, Giuoco Piano,  SSteinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.bxc3 d5 10.Ba3`
-- **Italian Game, Giuoco Piano,  Moeller (Therkatz) Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5`
-- **Italian Game, Giuoco Piano,  Therkatz-Herzog Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5 Bf6 10.Re1 Ne7 11.Rxe4 d6 12.Bg5 Bxg5 13.Nxg5 O-O 14.Nxh7`
-- **Italian Game, Giuoco Piano,  Moeller,  bayonet Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5 Bf6 10.Re1 Ne7 11.Rxe4 d6 12.g4`
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_cxd4_) (live-tagged the *Greco Gambit, Traditional Line*)
+- **Italian Game, Giuoco Piano,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Bd2 Nxe4 8.Bxb4 Nxb4 9.Bxf7 Kxf7 10.Qb3 d5 11.Ne5 Kf6 12.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Krause_)
+- **Italian Game, Giuoco Piano,  Cracow Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Kf1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Cracow_)
+- **Italian Game, Giuoco Piano,  Greco's Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Greco_)
+- **Italian Game, Giuoco Piano,  Greco Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_GrecoNamed_) (a real finding: masters' actual overwhelming choice at this fork is 8...Bxc3, 98.0% — this named line is the rare one, only 2.0%)
+- **Italian Game, Giuoco Piano,  Bernstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3 9.bxc3 Bxc3 10.Qb3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_GrecoNamed_)
+- **Italian Game, Giuoco Piano,  Aitken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Nxc3 9.bxc3 Bxc3 10.Ba3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_GrecoNamed_)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Bxc3_) (live-tagged the *Greco Gambit, Main Line* — masters' actual overwhelming choice at this fork, 98.0%, see the note above)
+- **Italian Game, Giuoco Piano,  SSteinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.bxc3 d5 10.Ba3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Steinitz_) (`eco.md` has a doubled-letter typo here, "SSteinitz" — the live tag is plain *Steinitz Variation*)
+- **Italian Game, Giuoco Piano,  Moeller (Therkatz) Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Moeller_) (live spells it *Moeller-Therkatz Attack*)
+- **Italian Game, Giuoco Piano,  Therkatz-Herzog Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5 Bf6 10.Re1 Ne7 11.Rxe4 d6 12.Bg5 Bxg5 13.Nxg5 O-O 14.Nxh7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Therkatz_)
+- **Italian Game, Giuoco Piano,  Moeller,  bayonet Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4 7.Nc3 Nxe4 8.O-O Bxc3 9.d5 Bf6 10.Re1 Ne7 11.Rxe4 d6 12.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Bayonet_) (live spells it *Moeller-Bayonet Attack*)
 
 ## C55
 
