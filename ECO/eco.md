@@ -1581,167 +1581,167 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C30
 
-- **King's Gambit** — `1.e4 e5 2.f4`
-- **King's Gambit, Declined,  Keene's Defence** — `1.e4 e5 2.f4 Qh4 3.g3 Qe7`
-- **King's Gambit, Declined,  Mafia Defence** — `1.e4 e5 2.f4 c5`
-- **King's Gambit, Declined,  Norwalde Variation** — `1.e4 e5 2.f4 Qf6`
-- **King's Gambit, Declined,  Norwalde Variation,  Buecker Gambit** — `1.e4 e5 2.f4 Qf6 3.Nf3 Qxf4 4.Nc3 Bb4 5.Bc4`
-- **King's Gambit, Declined,  Classical Variation** — `1.e4 e5 2.f4 Bc5`
-- **King's Gambit, Declined,  Classical,  Svenonius Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nf6 5.Bc4 Nc6 6.d3 Bg4 7.h3 Bxf3 8.Qxf3 exf4`
-- **King's Gambit, Declined,  Classical,  Hanham Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nd7`
-- **King's Gambit, Declined,  Classical,  4.c3** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3`
-- **King's Gambit, Declined,  Classical,  Marshall Attack** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 Bg4 5.fxe5 dxe5 6.Qa4`
-- **King's Gambit, Declined,  Classical Counter-Gambit** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5`
-- **King's Gambit, Declined,  Classical,  Reti Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5 5.fxe5 dxe5 6.d4 exd4 7.Bc4`
-- **King's Gambit, Declined,  Classical,  Soldatenkov Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.fxe5`
-- **King's Gambit, Declined,  Classical,  Heath Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4`
-- **King's Gambit, Declined,  2...Nf6** — `1.e4 e5 2.f4 Nf6`
+- **King's Gambit** — `1.e4 e5 2.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_initial_move_)
+- **King's Gambit, Declined,  Keene's Defence** — `1.e4 e5 2.f4 Qh4 3.g3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Keene_)
+- **King's Gambit, Declined,  Mafia Defence** — `1.e4 e5 2.f4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Mafia_)
+- **King's Gambit, Declined,  Norwalde Variation** — `1.e4 e5 2.f4 Qf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Norwalde_)
+- **King's Gambit, Declined,  Norwalde Variation,  Buecker Gambit** — `1.e4 e5 2.f4 Qf6 3.Nf3 Qxf4 4.Nc3 Bb4 5.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Norwalde_)
+- **King's Gambit, Declined,  Classical Variation** — `1.e4 e5 2.f4 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Bc5_)
+- **King's Gambit, Declined,  Classical,  Svenonius Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nf6 5.Bc4 Nc6 6.d3 Bg4 7.h3 Bxf3 8.Qxf3 exf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Nc3KGD_)
+- **King's Gambit, Declined,  Classical,  Hanham Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.Nc3 Nd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Nc3KGD_)
+- **King's Gambit, Declined,  Classical,  4.c3** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_4c3_)
+- **King's Gambit, Declined,  Classical,  Marshall Attack** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 Bg4 5.fxe5 dxe5 6.Qa4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_4c3_) — live-tagged the *Euwe Attack*, a real name divergence
+- **King's Gambit, Declined,  Classical Counter-Gambit** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_4c3_) — live-tagged the *Rubinstein Countergambit*, a real name divergence
+- **King's Gambit, Declined,  Classical,  Reti Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.c3 f5 5.fxe5 dxe5 6.d4 exd4 7.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_4c3_)
+- **King's Gambit, Declined,  Classical,  Soldatenkov Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.fxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Soldatenkov_)
+- **King's Gambit, Declined,  Classical,  Heath Variation** — `1.e4 e5 2.f4 Bc5 3.Nf3 d6 4.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_Heath_) — live-tagged the *Rotlewi Countergambit*, a real name divergence
+- **King's Gambit, Declined,  2...Nf6** — `1.e4 e5 2.f4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_PetrovKGD_) — live-tagged *Petrov's Defense*, a real name divergence
 
 ## C31
 
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit** — `1.e4 e5 2.f4 d5`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Tartakower Variation** — `1.e4 e5 2.f4 d5 3.Nf3`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Milner-Barry Variation** — `1.e4 e5 2.f4 d5 3.Nc3`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit** — `1.e4 e5 2.f4 d5 3.exd5`
-- **King's Gambit, Declined,  Nimzovich Counter-Gambit** — `1.e4 e5 2.f4 d5 3.exd5 c6`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  3...e4** — `1.e4 e5 2.f4 d5 3.exd5 e4`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Rubinstein Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Qe2`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Nimzovich Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  4.d3** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Morphy Gambit** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nc3 Bb4 6.Bd2 e3`
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit** — `1.e4 e5 2.f4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_initial_move_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Tartakower Variation** — `1.e4 e5 2.f4 d5 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_initial_move_) — live-tagged the *Blackburne Attack*, a real name divergence
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Milner-Barry Variation** — `1.e4 e5 2.f4 d5 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_initial_move_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit** — `1.e4 e5 2.f4 d5 3.exd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_exd5_)
+- **King's Gambit, Declined,  Nimzovich Counter-Gambit** — `1.e4 e5 2.f4 d5 3.exd5 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_exd5_) — live-tagged the *Nimzowitsch-Marshall Countergambit*, a real name divergence
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  3...e4** — `1.e4 e5 2.f4 d5 3.exd5 e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_e4_) — live-tagged the *Staunton Line*
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Rubinstein Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.Nc3 Nf6 5.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_e4_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Nimzovich Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_e4_) — live-tagged the *Anderssen Attack*, a real name divergence
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  4.d3** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_d3_) — live-tagged the *Charousek Gambit*
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Morphy Gambit** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nc3 Bb4 6.Bd2 e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C31_Kings_Gambit_Falkbeer.md#_d3_) — live-tagged the *Morphy Defense*, a real name divergence
 
 ## C32
 
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  5.de** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Alapin Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf2 8.Kd1 Qxd5 9.Nfd2`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Main line,  7...Bf5** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf5`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Tarrasch Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf5 8.g4 O-O`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Charousek Gambit** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Charousek Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2 Qxd5 7.Nd2 f5 8.g4`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Keres Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nd2`
-- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Reti Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Qe2`
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  5.de** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_initial_move_) — live-tagged the *Charousek Gambit Accepted*
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Alapin Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf2 8.Kd1 Qxd5 9.Nfd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_Alapin_) — confirmed live-tagged, but only at this exact depth; the bare 7...Bf2+ carries no tag of its own
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Main line,  7...Bf5** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_Bf5_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Tarrasch Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Nf3 Bc5 7.Qe2 Bf5 8.g4 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_g4_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Charousek Gambit** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_Qe2_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Charousek Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.dxe4 Nxe4 6.Qe2 Qxd5 7.Nd2 f5 8.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_Qe2_)
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Keres Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_OldLine_) — a genuine surprise: sidesteps the dxe4 capture entirely, yet is already live-tagged C32 regardless of `eco.md`'s own move order here
+- **King's Gambit, Declined,  Falkbeer Counter-Gambit,  Reti Variation** — `1.e4 e5 2.f4 d5 3.exd5 e4 4.d3 Nf6 5.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C32_Kings_Gambit_Falkbeer_Charousek.md#_OldLine_) — live-tagged the *Old Line*, a real name divergence, and likewise sidesteps dxe4
 
 ## C33
 
-- **King's Gambit, Accepted** — `1.e4 e5 2.f4 exf4`
-- **King's Gambit, Accepted,  Tumbleweed Gambit** — `1.e4 e5 2.f4 exf4 3.Kf2`
-- **King's Gambit, Accepted,  Orsini Gambit** — `1.e4 e5 2.f4 exf4 3.b3`
-- **King's Gambit, Accepted,  Pawn's Gambit** — `1.e4 e5 2.f4 exf4 3.h4`
-- **King's Gambit, Accepted,  Schurig Gambit** — `1.e4 e5 2.f4 exf4 3.Bd3`
-- **King's Gambit, Accepted,  Carrera Gambit** — `1.e4 e5 2.f4 exf4 3.Qe2`
-- **King's Gambit, Accepted,  Villemson Gambit** — `1.e4 e5 2.f4 exf4 3.d4`
-- **King's Gambit, Accepted,  Keres Gambit** — `1.e4 e5 2.f4 exf4 3.Nc3`
-- **King's Gambit, Accepted,  Breyer Gambit** — `1.e4 e5 2.f4 exf4 3.Qf3`
-- **King's Gambit, Accepted,  Lesser Bishop's Gambit** — `1.e4 e5 2.f4 exf4 3.Be2`
-- **King's Gambit, Accepted,  Bishop's Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Chigorin's Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 d5 5.Bxd5 g5 6.g3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Greco Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 Bc5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Grimm Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 d6 7.e5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 Ne7`
-- **King's Gambit, Accepted,  Bishop's Gambit,  McDonnell Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 Ne7 7.g3`
-- **King's Gambit, Bishop's Gambit,  McDonnell Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.g3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Fraser Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.g3 fxg3 7.Qf3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence,  Cozio Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Qf3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Boden Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 Nc6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Bryan Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 b5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Bryan Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 b5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Steinitz Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Ne7`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Maurian Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Nc6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Ruy Lopez Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 c6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Lopez-Gianutio Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 f5`
-- **King's Gambit, Accepted,  Lopez-Gianutio Counter-Gambit,  Hein Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 f5 4.Qe2 Qh4 5.Kd1 fxe4 6.Nc3 Kd8`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Bledow Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Gifford Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4 5.Kf1 g5 6.g3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Boren-Svenonius Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4 5.Kf1 Bd6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Anderssen Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 c6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Morphy Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Cozio (Morphy) Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Bogolyubov Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Paulsen Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Bb4 5.e5`
-- **King's Gambit, Accepted,  Bishop's Gambit,  Jaenisch Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 c6`
+- **King's Gambit, Accepted** — `1.e4 e5 2.f4 exf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C30_King_Gambit.md#_exf4_)
+- **King's Gambit, Accepted,  Tumbleweed Gambit** — `1.e4 e5 2.f4 exf4 3.Kf2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_) — live-tagged simply *Tumbleweed*
+- **King's Gambit, Accepted,  Orsini Gambit** — `1.e4 e5 2.f4 exf4 3.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_)
+- **King's Gambit, Accepted,  Pawn's Gambit** — `1.e4 e5 2.f4 exf4 3.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_) — live-tagged the *Stamma Gambit*, a real name divergence
+- **King's Gambit, Accepted,  Schurig Gambit** — `1.e4 e5 2.f4 exf4 3.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_)
+- **King's Gambit, Accepted,  Carrera Gambit** — `1.e4 e5 2.f4 exf4 3.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_) — live-tagged the *Basman Gambit*, a real name divergence
+- **King's Gambit, Accepted,  Villemson Gambit** — `1.e4 e5 2.f4 exf4 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_)
+- **King's Gambit, Accepted,  Keres Gambit** — `1.e4 e5 2.f4 exf4 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_) — live-tagged the *Mason-Keres Gambit*, a real name divergence
+- **King's Gambit, Accepted,  Breyer Gambit** — `1.e4 e5 2.f4 exf4 3.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_)
+- **King's Gambit, Accepted,  Lesser Bishop's Gambit** — `1.e4 e5 2.f4 exf4 3.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Other3rd_) — live-tagged the *Tartakower Gambit*, a real name divergence
+- **King's Gambit, Accepted,  Bishop's Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_initial_move_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Chigorin's Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 d5 5.Bxd5 g5 6.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_) — 0 recorded games in either database, no cached eval, confirmed live rather than assumed
+- **King's Gambit, Accepted,  Bishop's Gambit,  Greco Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Grimm Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 d6 7.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  McDonnell Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.d4 Ne7 7.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Bishop's Gambit,  McDonnell Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Fraser Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Nc3 Bg7 6.g3 fxg3 7.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Classical Defence,  Cozio Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 g5 5.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Boden Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Bryan Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 Qh4 4.Kf1 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Qh4_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Bryan Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_b5root_) — a distinct, direct move order from the Qh4+ 4.Kf1 b5 entry above
+- **King's Gambit, Accepted,  Bishop's Gambit,  Steinitz Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Ne7root_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Maurian Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Nc6root_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Ruy Lopez Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_c6root_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Lopez-Gianutio Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Bc4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_f5root_)
+- **King's Gambit, Accepted,  Lopez-Gianutio Counter-Gambit,  Hein Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 f5 4.Qe2 Qh4 5.Kd1 fxe4 6.Nc3 Kd8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_f5root_) — live-tagged despite 0 recorded games, confirmed by direct query
+- **King's Gambit, Accepted,  Bishop's Gambit,  Bledow Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_d5_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Gifford Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4 5.Kf1 g5 6.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_d5_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Boren-Svenonius Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Qh4 5.Kf1 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_d5_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Anderssen Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_d5_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Morphy Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 d5 4.Bxd5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_d5_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Cozio (Morphy) Defence** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Nf6_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Bogolyubov Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Nc3_) — live-tagged "Bogoljubow Variation", a minor transliteration difference
+- **King's Gambit, Accepted,  Bishop's Gambit,  Paulsen Attack** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 Bb4 5.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Nc3_)
+- **King's Gambit, Accepted,  Bishop's Gambit,  Jaenisch Variation** — `1.e4 e5 2.f4 exf4 3.Bc4 Nf6 4.Nc3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C33_Kings_Gambit_Bishops_Gambit.md#_Nc3_)
 
 ## C34
 
-- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3`
-- **King's Gambit, Accepted,  Bonsch-Osmolovsky Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 Ne7`
-- **King's Gambit, Accepted,  Gianutio Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 f5`
-- **King's Gambit, Accepted,  Fischer Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 d6`
-- **King's Gambit, Accepted,  Becker Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 h6`
-- **King's Gambit, Accepted,  Schallop Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Nf6`
+- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_initial_move_) — live-tagged "King's Knight's Gambit"
+- **King's Gambit, Accepted,  Bonsch-Osmolovsky Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_Ne7_)
+- **King's Gambit, Accepted,  Gianutio Counter-Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_f5_)
+- **King's Gambit, Accepted,  Fischer Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_d6_)
+- **King's Gambit, Accepted,  Becker Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_h6_)
+- **King's Gambit, Accepted,  Schallop Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md#_Nf6_) — live-tagged "Schallopp Defense"
 
 ## C35
 
-- **King's Gambit, Accepted,  Cunningham Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7`
-- **King's Gambit, Accepted,  Cunningham Defence,  Bertin Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4 5.g3`
-- **King's Gambit, Accepted,  Cunningham Defence,  three Pawns Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4 5.g3 fxg3 6.O-O gxh2 7.Kh1`
-- **King's Gambit, Accepted,  Cunningham Defence,  Euwe Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Nf6`
+- **King's Gambit, Accepted,  Cunningham Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C35_Kings_Gambit_Cunningham_Defense.md#_initial_move_)
+- **King's Gambit, Accepted,  Cunningham Defence,  Bertin Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4 5.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C35_Kings_Gambit_Cunningham_Defense.md#_Bh4_)
+- **King's Gambit, Accepted,  Cunningham Defence,  three Pawns Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Bh4 5.g3 fxg3 6.O-O gxh2 7.Kh1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C35_Kings_Gambit_Cunningham_Defense.md#_Bh4_) — the live explorer doesn't distinguish this depth from the Bertin Gambit itself, a real name/depth divergence
+- **King's Gambit, Accepted,  Cunningham Defence,  Euwe Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 Be7 4.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C35_Kings_Gambit_Cunningham_Defense.md#_McCormick_) — live-tagged the *McCormick Defense*, a real name divergence
 
 ## C36
 
-- **King's Gambit, Accepted,  Abbazia Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 d5`
-- **King's Gambit, Accepted,  Abbazia Defence,  Modern Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6`
-- **King's Gambit, Accepted,  Abbazia Defence,  Botvinnik Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5 c6 6.dxc6 bxc6 7.Bc4 Nd5`
+- **King's Gambit, Accepted,  Abbazia Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C36_Kings_Gambit_Abbazia_Defense.md#_initial_move_) — live-tagged the *Modern Defense*, a real name divergence
+- **King's Gambit, Accepted,  Abbazia Defence,  Modern Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C36_Kings_Gambit_Abbazia_Defense.md#_Nf6_)
+- **King's Gambit, Accepted,  Abbazia Defence,  Botvinnik Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 d5 4.exd5 Nf6 5.Bb5 c6 6.dxc6 bxc6 7.Bc4 Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C36_Kings_Gambit_Abbazia_Defense.md#_MainLine_) — live-tagged "Abbazia Defense, Main Line" instead, a real name divergence
 
 ## C37
 
-- **King's Gambit, Accepted,  Quaade Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3`
-- **King's Gambit, Accepted,  Rosentreter Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4`
-- **King's Gambit, Accepted,  Soerensen Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5`
-- **King's Gambit, Accepted,  King's Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4`
-- **King's Gambit, Accepted,  Blachly Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Nc6`
-- **King's Gambit, Accepted,  Lolli Gambit (wild Muzio Gambit)** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7`
-- **King's Gambit, Accepted,  Lolli Gambit,  Young Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7 Kxf7 6.O-O gxf3 7.Qxf3 Qf6 8.d4 Qxd4 9.Be3 Qf6 10.Nc3`
-- **King's Gambit, Accepted,  Ghulam Kassim Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4`
-- **King's Gambit, Accepted,  MacDonnell Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3`
-- **King's Gambit, Accepted,  Salvio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5`
-- **King's Gambit, Accepted,  Silberschmidt Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nh6 7.d4 f3`
-- **King's Gambit, Accepted,  Salvio Gambit,  Anderssen Counter-attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nh6 7.d4 d6`
-- **King's Gambit, Accepted,  Cochrane Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 f3`
-- **King's Gambit, Accepted,  Herzfeld Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nc6`
-- **King's Gambit, Accepted,  Muzio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O`
-- **King's Gambit, Accepted,  Muzio Gambit,  Paulsen Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.d3 Bh6 9.Nc3 Ne7 10.Bd2 Nbc6 11.Rae1`
-- **King's Gambit, Accepted,  double Muzio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.Bxf7`
-- **King's Gambit, Accepted,  Muzio Gambit,  From Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qe7`
-- **King's Gambit, Accepted,  Muzio Gambit,  Holloway Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Nc6`
-- **King's Gambit, Accepted,  Muzio Gambit,  Kling and Horwitz Counter-attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O Qe7`
-- **King's Gambit, Accepted,  Muzio Gambit,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O d5`
+- **King's Gambit, Accepted,  Quaade Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Nc3_)
+- **King's Gambit, Accepted,  Rosentreter Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_d4_)
+- **King's Gambit, Accepted,  Soerensen Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.d4 g4 5.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_d4_)
+- **King's Gambit, Accepted,  King's Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Bc4_) — the actual C37 root; same generic name reused across the family
+- **King's Gambit, Accepted,  Blachly Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Nc6_)
+- **King's Gambit, Accepted,  Lolli Gambit (wild Muzio Gambit)** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_LolliGhulamMac_) — 0 recorded masters games, confirmed live
+- **King's Gambit, Accepted,  Lolli Gambit,  Young Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Bxf7 Kxf7 6.O-O gxf3 7.Qxf3 Qf6 8.d4 Qxd4 9.Be3 Qf6 10.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_LolliGhulamMac_)
+- **King's Gambit, Accepted,  Ghulam Kassim Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_LolliGhulamMac_)
+- **King's Gambit, Accepted,  MacDonnell Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_LolliGhulamMac_)
+- **King's Gambit, Accepted,  Salvio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Salvio_)
+- **King's Gambit, Accepted,  Silberschmidt Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nh6 7.d4 f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Nh6_)
+- **King's Gambit, Accepted,  Salvio Gambit,  Anderssen Counter-attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nh6 7.d4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Nh6_)
+- **King's Gambit, Accepted,  Cochrane Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Cochrane_)
+- **King's Gambit, Accepted,  Herzfeld Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.Ne5 Qh4 6.Kf1 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Herzfeld_)
+- **King's Gambit, Accepted,  Muzio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Muzio_)
+- **King's Gambit, Accepted,  Muzio Gambit,  Paulsen Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.d3 Bh6 9.Nc3 Ne7 10.Bd2 Nbc6 11.Rae1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Qf6_) — 0 masters games, 15 online, no cached Stockfish eval at this exact depth
+- **King's Gambit, Accepted,  double Muzio Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qf6 7.e5 Qxe5 8.Bxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Qf6_)
+- **King's Gambit, Accepted,  Muzio Gambit,  From Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_From_)
+- **King's Gambit, Accepted,  Muzio Gambit,  Holloway Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O gxf3 6.Qxf3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Holloway_)
+- **King's Gambit, Accepted,  Muzio Gambit,  Kling and Horwitz Counter-attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_KlingHorwitz_)
+- **King's Gambit, Accepted,  Muzio Gambit,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 g4 5.O-O d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C37_Kings_Gambit_Muzio_Complex.md#_Brentano_)
 
 ## C38
 
-- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7`
-- **King's Gambit, Accepted,  Hanstein Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O`
-- **King's Gambit, Accepted,  Philidor Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4`
-- **King's Gambit, Accepted,  Greco Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6 7.Nc3 c6 8.hxg5 hxg5 9.Rxh8 Bxh8 10.Ne5`
-- **King's Gambit, Accepted,  Philidor Gambit,  Schultz Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6 7.Qd3`
+- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C38_Kings_Gambit_Hanstein_Philidor.md#_initial_move_) — live-tagged the *Traditional Variation*, a real name divergence
+- **King's Gambit, Accepted,  Hanstein Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C38_Kings_Gambit_Hanstein_Philidor.md#_Hanstein_)
+- **King's Gambit, Accepted,  Philidor Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C38_Kings_Gambit_Hanstein_Philidor.md#_Philidor_)
+- **King's Gambit, Accepted,  Greco Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6 7.Nc3 c6 8.hxg5 hxg5 9.Rxh8 Bxh8 10.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C38_Kings_Gambit_Hanstein_Philidor.md#_h6d4d6_) — 0 masters games, confirmed live
+- **King's Gambit, Accepted,  Philidor Gambit,  Schultz Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.Bc4 Bg7 5.h4 h6 6.d4 d6 7.Qd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C38_Kings_Gambit_Hanstein_Philidor.md#_h6d4d6_)
 
 ## C39
 
-- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4`
-- **King's Gambit, Accepted,  Allgaier Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Horny Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Qxg4 Nf6 8.Qxf4 Bd6`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Thorold Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.d4`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Cook Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.d4 d5 8.Bxf4 dxe4 9.Bc4 Kg7 10.Be5`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Blackburne Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Nc3`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Walker Attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Bc4`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Urusov Attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Bc4 d5 8.Bxd5 Kg7 9.d4`
-- **King's Gambit, Accepted,  Allgaier Gambit,  Schlechter Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 Nf6`
-- **King's Gambit, Accepted,  Kieseritsky,  Paulsen Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7`
-- **King's Gambit, Accepted,  Kieseritsky,  long Whip (Stockwhip,  Classical) Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5`
-- **King's Gambit, Accepted,  Kieseritsky,  long Whip Defence,  Jaenisch Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Rh7 7.d4 Bh6 8.Nc3`
-- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5`
-- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence,  Kaplanek Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.exd5 Qxd5 8.Nc3 Bb4 9.Kf2`
-- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.Bxf4`
-- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence,  Caro Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.Bxf4 Nxe4 8.Nd2`
-- **King's Gambit, Accepted,  Kieseritsky,  Salvio (Rosenthal) Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7`
-- **King's Gambit, Accepted,  Kieseritsky,  Salvio Defence,  Cozio Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7 6.d4 f5 7.Bc4`
-- **King's Gambit, Accepted,  Kieseritsky,  Polerio Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Be7`
-- **King's Gambit, Accepted,  Kieseritsky,  Neumann Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nc6`
-- **King's Gambit, Accepted,  Kieseritsky,  Kolisch Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d6`
-- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6`
-- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence,  Riviere Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Nxg4 d5`
-- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence,  6.Bc4** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4`
-- **King's Gambit, Accepted,  Kieseritsky,  Rice Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.O-O`
+- **King's Gambit, Knight's Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_initial_move_) — live-tagged the same generic "King's Knight's Gambit" name reused across the family
+- **King's Gambit, Accepted,  Allgaier Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Allgaier_)
+- **King's Gambit, Accepted,  Allgaier Gambit,  Horny Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Qxg4 Nf6 8.Qxf4 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_)
+- **King's Gambit, Accepted,  Allgaier Gambit,  Thorold Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_) — live-tagged "Thorold Attack", a real name divergence
+- **King's Gambit, Accepted,  Allgaier Gambit,  Cook Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.d4 d5 8.Bxf4 dxe4 9.Bc4 Kg7 10.Be5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_)
+- **King's Gambit, Accepted,  Allgaier Gambit,  Blackburne Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_)
+- **King's Gambit, Accepted,  Allgaier Gambit,  Walker Attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_) — live-tagged "Urusov Attack" already at this depth, a real name/depth divergence
+- **King's Gambit, Accepted,  Allgaier Gambit,  Urusov Attack** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 h6 6.Nxf7 Kxf7 7.Bc4 d5 8.Bxd5 Kg7 9.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_h6Nxf7_)
+- **King's Gambit, Accepted,  Allgaier Gambit,  Schlechter Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ng5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Schlechter_)
+- **King's Gambit, Accepted,  Kieseritsky,  Paulsen Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Paulsen_)
+- **King's Gambit, Accepted,  Kieseritsky,  long Whip (Stockwhip,  Classical) Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_LongWhip_)
+- **King's Gambit, Accepted,  Kieseritsky,  long Whip Defence,  Jaenisch Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 h5 6.Bc4 Rh7 7.d4 Bh6 8.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_LongWhip_)
+- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Brentano_)
+- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence,  Kaplanek Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.exd5 Qxd5 8.Nc3 Bb4 9.Kf2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Brentano_)
+- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.Bxf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Brentano_)
+- **King's Gambit, Accepted,  Kieseritsky,  Brentano Defence,  Caro Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d5 6.d4 Nf6 7.Bxf4 Nxe4 8.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Brentano_)
+- **King's Gambit, Accepted,  Kieseritsky,  Salvio (Rosenthal) Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Rosenthal_) — live-tagged simply "Rosenthal Defense"
+- **King's Gambit, Accepted,  Kieseritsky,  Salvio Defence,  Cozio Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Qe7 6.d4 f5 7.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Rosenthal_)
+- **King's Gambit, Accepted,  Kieseritsky,  Polerio Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Polerio_)
+- **King's Gambit, Accepted,  Kieseritsky,  Neumann Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Neumann_)
+- **King's Gambit, Accepted,  Kieseritsky,  Kolisch Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Kolisch_)
+- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Berlin_) — masters' actual main try (56.3%), a real online/masters inversion
+- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence,  Riviere Variation** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Nxg4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Riviere_)
+- **King's Gambit, Accepted,  Kieseritsky,  Berlin Defence,  6.Bc4** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Bc4Berlin_) — masters' actual main try at this fork (46.4%), untagged despite that
+- **King's Gambit, Accepted,  Kieseritsky,  Rice Gambit** — `1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Nf6 6.Bc4 d5 7.exd5 Bd6 8.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C39_Kings_Gambit_Kieseritsky_Allgaier.md#_Bc4Berlin_)
 
 ## C40
 
