@@ -2039,29 +2039,29 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C55
 
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6`
-- **Italian Game, Giuoco Piano,  Rosentreter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 h6 8.Bh4 g5 9.f4`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 d6`
-- **Italian Game, Giuoco Piano,  Holzhausen Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 d6 8.f4 Qe7 9.fxe5 dxe5 10.Nc3`
-- **Italian Game, Two Knights Defence,  Modern Bishop's Opening** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3`
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4`
-- **Italian Game, Two Knights Defence,  Keidanz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Nxc6 Bxf2 9.Kf1 Qh4`
-- **Italian Game, Two Knights Defence,  Perreux Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.Ng5`
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O`
-- **Italian Game, Two Knights Defence,  Max Lange Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Berger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.g4 Qg6 12.Nce4 Bb6 13.f4 O-O-O`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Marshall Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.Nce4`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.Nce4 Bf8`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Loman Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 g6`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Schlechter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.fxg7`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4`
-- **Italian Game, Two Knights Defence,  Max Lange Attack,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.c3`
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_initial_move_)
+- **Italian Game, Giuoco Piano,  Rosentreter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 h6 8.Bh4 g5 9.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Rosentreter_) (live-tagged **C54**, not C55)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_OO_)
+- **Italian Game, Giuoco Piano,  Holzhausen Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.O-O Bc5 5.d4 Bxd4 6.Nxd4 Nxd4 7.Bg5 d6 8.f4 Qe7 9.fxe5 dxe5 10.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C54_Giuoco_Piano_Center_Attack.md#_Holzhausen_) (live-tagged **C54**, not C55)
+- **Italian Game, Two Knights Defence,  Modern Bishop's Opening** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_d3_) (shares its nearest live-tagged ancestor with C24's own Bishop's Opening card, carries no ECO code of its own)
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_initial_move_) (a real "wrong root code" find: already live-tagged **C56**, "Open Variation," at this exact bare ply — `eco.md` splits this whole tree across its own C55/C56 headings, but the live explorer keeps it uniformly C56, occasionally dipping to **C44** at points that transpose with the [Scotch Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_DuboisReti_))
+- **Italian Game, Two Knights Defence,  Keidanz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.e5 d5 6.Bb5 Ne4 7.Nxd4 Bc5 8.Nxc6 Bxf2 9.Kf1 Qh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_e5_) (live-tagged **C56**, spelled *Keidansky*)
+- **Italian Game, Two Knights Defence,  Perreux Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Perreux_) (live-tagged **C56**)
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_OO_) (live-tagged **C56**, "Scotch Gambit")
+- **Italian Game, Two Knights Defence,  Max Lange Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_MaxLange_) (a real finding: masters' actual main try at the parent 5.O-O fork is 5...Nxe4, 77.1% — this whole famous complex is only masters' second choice, 11.7%)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Berger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.g4 Qg6 12.Nce4 Bb6 13.f4 O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Ng5Fork_)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Marshall Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.Nce4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Ng5Fork_) (live spells it the *Long Variation*)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 Qd5 10.Nc3 Qf5 11.Nce4 Bf8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Ng5Fork_)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Loman Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.Ng5 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Ng5Fork_)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Schlechter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 d5 7.exf6 dxc4 8.Re1 Be6 9.fxg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Schlechter_)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Steinitz2_) (live spells it the *Spielmann Defense*)
+- **Italian Game, Two Knights Defence,  Max Lange Attack,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Bc5 6.e5 Ng4 7.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Steinitz2_)
 
 ## C56
 
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4`
-- **Italian Game, Two Knights Defence,  Yurdansky Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5 9.Nxe4 Be6 10.Bg5 h6 11.Bh4 g5 12.Nf6 Ke7 13.b4`
-- **Italian Game, Two Knights Defence,  Canal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Nc3`
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Nxe4_) (live-tagged *Double Gambit Accepted* — masters' actual main choice at the parent fork, 77.1%)
+- **Italian Game, Two Knights Defence,  Yurdansky Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Bxd5 Qxd5 8.Nc3 Qa5 9.Nxe4 Be6 10.Bg5 h6 11.Bh4 g5 12.Nf6 Ke7 13.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Yurdansky_)
+- **Italian Game, Two Knights Defence,  Canal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.d4 exd4 5.O-O Nxe4 6.Re1 d5 7.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md#_Canal_)
 
 ## C57
 

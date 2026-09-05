@@ -370,3 +370,51 @@ Launches the g-pawn at once instead of trading on f6 first — a real, if second
 
 [*Back to 9. d5*](#_Moeller_)
 [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Rosentreter_"></a>
+
+### Rosentreter Variation
+
+*Reached via a different move order — [C55's own "4. O-O" section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_OO_): 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 h6 8. Bh4 g5 9. f4!?*
+
+[![9. f4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk2r/pppp1p2/5n1p/4p1p1/2BnPP1B/8/PPP3PP/RN1Q1RK1&lastMove=f2f4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk2r/pppp1p2/5n1p/4p1p1/2BnPP1B/8/PPP3PP/RN1Q1RK1_b_kq_f3_0_9)
+
+*... 9. f4 — Rosentreter Variation*
+
+```
+r1bqk2r/pppp1p2/5n1p/4p1p1/2BnPP1B/8/PPP3PP/RN1Q1RK1 b kq f3 0 9
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.22 |
+| --- | --- |
+
+Rather than retreat the bishop after Black's kingside pawn storm (7...h6 8. Bh4 g5), White strikes back in the centre with **9. f4!?**, undermining Black's own g5-pawn. This exact position is live-tagged **C54** despite `eco.md` filing it under C55 — the same shared *Giuoco Piano* code space found repeatedly across this whole 4.O-O/4.c3 complex. Masters' clear reply is **9... d5** (70.0%, a genuine database rarity — only 10 masters games recorded). Not built out further here (backlog).
+
+[*Back to C55's "4. O-O" section*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_OO_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Holzhausen_"></a>
+
+### Holzhausen Attack
+
+*Reached via a different move order — [C55's own "4. O-O" section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_OO_): 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Bc5 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 d6 8. f4 Qe7 9. fxe5 dxe5 10. Nc3!?*
+
+[![10. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=r1b1k2r/ppp1qppp/5n2/4p1B1/2BnP3/2N5/PPP3PP/R2Q1RK1&lastMove=b1c3&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1b1k2r/ppp1qppp/5n2/4p1B1/2BnP3/2N5/PPP3PP/R2Q1RK1_b_kq_-_1_10)
+
+*... 10. Nc3 — Holzhausen Attack*
+
+```
+r1b1k2r/ppp1qppp/5n2/4p1B1/2BnP3/2N5/PPP3PP/R2Q1RK1 b kq - 1 10
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.37 |
+| --- | --- |
+
+Develops the last minor piece and pressures the d4-knight a second time, rather than recapturing on e5 immediately — trading the f-file's own doubled pawn structure for open lines toward Black's king. A genuine database rarity, only 2 masters games recorded at this exact depth. Masters' clear reply is **10... c6**. Not built out further here (backlog).
+
+[*Back to C55's "4. O-O" section*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_OO_)
+[*Back to TOP*](#_TOP_)

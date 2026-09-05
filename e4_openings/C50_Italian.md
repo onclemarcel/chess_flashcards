@@ -21,16 +21,11 @@ flowchart LR
     Bc4 --> Bc5[["3... Bc5 !<br/>+0.2"]]:::main
     click Bc5 "#_Bc5_" "C50 · Italian Game: Giuoco Piano"
     Bc4 --> Nf6[["3... Nf6 !<br/>+0.2"]]:::main
-    click Nf6 "#_Nf6_" "C55 · Italian Game: Two Knights Defense"
+    click Nf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md" "C55 · Italian Game: Two Knights Defense"
     Bc4 --> f5(["3... f5 ♙<br/>+1.0"])
     click f5 "https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md" "C50 · Italian Game: Rousseau Gambit"
     Bc4 --> Nd4["3... Nd4 ♙<br/>+1.1"]
     click Nd4 "#_Nd4_" "C50 · Italian Game: Blackburne-Kostić Gambit"
-
-    Nf6 --> Nc3{"4. Nc3 ⇄<br/>-0.2"}
-    click Nc3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md" "C47 · Four Knights Game: Italian Variation"
-    Nf6 --> Ng5["4. Ng5 💣<br/>0.0"]
-    click Ng5 "#_Fried_Liver_" "C57 · Italian Game: Two Knights Defense, Knight Attack"
 
     Bc5 --> c3[["4. c3 !<br/>+0.1"]]:::main
     click c3 "#_c3_" "C50 · Italian Game: Giuoco Piano"
@@ -92,39 +87,7 @@ There is no immediate threat to Black's position so they have some flexibility i
 
 ### 3... Nf6 — Two Knights Defense
 
-With **3... Nf6**, Black develops a knight and attacks the e4-pawn, getting one step closer to castling. This move seems like the most obvious one Black can play in the Italian, but it also comes at the cost of blocking the d8-h4 diagonal of the black queen.
-
-[![3... Nf6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4)
-
-*... 3... Nf6 — Two Knights Defense*
-
-```
-r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
-| --- | --- |
-
-<!-- lichess-stats:start fen="r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
-| Move | Online | W/D/B | Masters | W/D/B | |
-| :--- | ---: | :--- | ---: | :--- | :-- |
-| d3 | 6.9 M (34.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 16 k (74.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/45/24 |  |
-| Ng5 | 5.3 M (26.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 3.5 k (16.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/43/24 |  |
-| O-O | 2.9 M (14.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 100 (0.5%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 23/31/46 |  |
-| Nc3 | 2.1 M (10.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/50 | 118 (0.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 19/47/34 |  |
-| d4 | 1.9 M (9.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 1.7 k (7.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/40/31 |  |
-| c3 | 562 k (2.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
-| Qe2 | 0 | — | 75 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/27/33 |  |
-
-*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-05*
-<!-- lichess-stats:end -->
-
-White has several options to defend the e4 pawn:
-
-* **4. d3** (+0.1): the most common move, defending the pawn and opening the c1-h6 diagonal for the dark-squared bishop. Known as the [**Modern Bishop's Opening**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_d3_), it represents 73% of masters games — covered in full there.
-* [**4. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) (-0.2): transposes into the Italian Variation of the [Four Knights Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md). This looks like a logical way to defend the pawn, but it allows Black **4... Nxe4!** — the common ***Center Fork Trick***, where Black temporarily sacrifices a piece to play d5 and win it back with a comfortable position.
-* [**4. Ng5**](#_Fried_Liver_) (0.0): leading to the [Fried Liver Attack](#_Fried_Liver_), White double-attacks the f7-pawn and takes advantage of the fact that Black hasn't developed the f8-bishop and cannot react by castling. This usually results in Black sacrificing a pawn for a lead in development at master level.
-* **4. d4** (0.0): almost always transposes to the [***Scotch Gambit***](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Bc4_) after 4... exd4 5. Bc4 — covered in full there, including Black's 4...Nf6/4...Bc5 replies and the Naroditsky-sourced Nxc6/Qf6 TIP.
+With **3... Nf6**, Black develops a knight and attacks the e4-pawn, getting one step closer to castling. This move seems like the most obvious one Black can play in the Italian, but it also comes at the cost of blocking the d8-h4 diagonal of the black queen. This position is itself already live-tagged its own code, **C55** — covered in full on its own card, [C55](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md), including the full White 4th-move fork (d3/Nc3/Ng5/d4). The Fried Liver Attack (4. Ng5, below) stays on this page for now, cross-linked from there.
 
 [*Back to TOP*](#_TOP_)
 

@@ -324,7 +324,7 @@ r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 2 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.0 |
 | --- | --- |
 
-Masters' clear main try is **5. e5** (70.0%), pushing the attacked knight before it can consolidate; **5. O-O** (26.8%) is also common. Not built out further here (backlog).
+Masters' clear main try is **5. e5** (70.0%), pushing the attacked knight before it can consolidate; **5. O-O** (26.8%) is also common. This exact position is reached by transposition from the Two Knights Defense too (3... Nf6 4. d4 exd4) — the deeper theory from here (5. e5's *Keidansky Variation*, 5. O-O's own Nxe4/*Max Lange Attack* fork, 5. Ng5's *Perreux Variation*) is covered on that card's own child, [C56](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md), not duplicated here.
 
 [*Back to 4. Bc4*](#_Bc4_)
 [*Back to TOP*](#_TOP_)
