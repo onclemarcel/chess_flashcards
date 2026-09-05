@@ -49,15 +49,45 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3
 | Be7 | 181 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | g6 | 0 | — | 552 (3.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/30/30 |  |
 
-*Online: bullet/blitz, 1800+ — 14.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 14.7 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_b_KQkq_-_3_3#explorer) — updated 2026-09-05*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**3... Nf6**](#_Nf6_) (+0.1): completes symmetrical development and is masters' overwhelming choice (92.2%) — the *Four Knights Game* proper.
 * [**3... Bc5**](#_Bc5_) (+0.5 ⚠): develops actively toward f2 instead. Popular online (27.2%) but a distant second choice in masters play (1.3%) — not because it's refuted, but because White's most direct reply leaves Black slightly worse without quite the same central grip that 3... Nf6 keeps.
+* [**3... Bb4**](#_C46_siblings_) (+0.5, 0.7% masters): the *Schlechter Variation* — sits in the stats table above with no candidate bullet until this note.
+* [**3... g6**](#_C46_siblings_) (+0.8, 3.8% masters): the *Steinitz Defense*.
+* [**3... f5**](#_C46_siblings_) (+1.4, 0.1% masters): the *Winawer Defence*.
 
 [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Three real C46-coded siblings — **Bb4**, **g6**, **f5** — were sitting in the root stats table above with no candidate bullet or content at all, a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit (this card already owns the C46 root under its own disclosed title mismatch, see the naming note at the top of this page).
+>
+> <a name="_C46_siblings_"></a>
+>
+> ### 3... Bb4, 3... g6, 3... f5 — the C46-specific siblings
+>
+> [![3... Bb4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk1nr/pppp1ppp/2n5/4p3/1b2P3/2N2N2/PPPP1PPP/R1BQKB1R&lastMove=f8b4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/4p3/1b2P3/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_4_4)
+>
+> *... 3... Bb4 — Schlechter Variation*
+>
+> ```
+> r1bqk1nr/pppp1ppp/2n5/4p3/1b2P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+> | --- | --- |
+>
+> **3... Bb4** (0.7% masters) pins the c3-knight a move earlier than 3... Nf6 would; masters' clear main try is **4. Nd5** (75.3%), and after **4... Nf6** the position is live-tagged the *Schlechter Variation* — not built out further here (backlog).
+>
+> **3... g6** (+0.8, 3.8% masters) fianchettoes at once, live-tagged the *Steinitz Defense*; masters answer **4. d4** (85.9%), reaching a further named line after **4... exd4 5. Nd5**, the *Rosenthal Variation* (0.00) — a fully balanced central sacrifice. **3... f5** (+1.4, 0.1% masters) is the *Winawer Defence*, a sharp and rare pawn thrust that Stockfish already rates as clearly worse for Black — masters' main answer is **4. d4** (72.2%), though online play captures with **4. exf5** almost as often. Neither is built out further here (backlog).
+>
+> [*Back to 3. Nc3*](#_initial_move_)
+> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -90,18 +120,65 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 4 4
 | g3 | 0 | — | 1.9 k (11.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/24 |  |
 | Nd5 | 0 | — | 98 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/52/21 |  |
 
-*Online: bullet/blitz, 1800+ — 12.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_4_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 12.9 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R_w_KQkq_-_4_4#explorer) — updated 2026-09-05*
 <!-- lichess-stats:end -->
 
 Masters are genuinely split between two main tries here, with a third real option behind them:
 
-* **4. Bb5** (40.7% masters): the *Spanish Four Knights* — transposes toward Ruy Lopez themes, pinning the c6-knight a second time (both minor pieces now pin/defend along the same idea).
-* **4. d4** (36.8% masters): the *Scotch Four Knights* — opens the centre at once, following **4... exd4 5. Nxd4**.
+* [**4. Bb5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md) (40.7% masters): the [Spanish Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md), its own card — pinning the c6-knight a second time (both minor pieces now pin/defend along the same idea), live-tagged **C48**.
+* [**4. d4**](#_ScotchFour_) (36.8% masters): the *Scotch Four Knights* — opens the centre at once, covered below.
 * **4. g3** (11.1% masters): the quieter *Glek Variation*, fianchettoing the king's bishop and aiming for a slow positional squeeze rather than immediate central tension.
 
 Online, **4. Bc4** (26.9%) is also common — the *Italian Four Knights* — though masters treat it as a clear fourth choice (1.3%), since it doesn't put the same pressure on Black's centre as the three tries above.
 
+**4. a3** (4.4% masters), the *Gunsberg Variation*, is a real quiet try, sitting in the stats table above with no candidate bullet until this note. **4. Nxe5!?** (0% masters, 4.5% online) is a genuine piece sacrifice, live-tagged the *Halloween Gambit* here — a materially different (and much sharper) position than the *Schulze-Müller Gambit* reached via 2... Nc6 3. Nxe5 directly (see [C44's own note](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md)); Stockfish already rates it as heavily lost for White (−2.2). Neither built out further here (backlog).
+
 [*Back to 3. Nc3*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_ScotchFour_"></a>
+
+### 4. d4 — Scotch Four Knights
+
+[![4. d4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R_b_KQkq_d3_0_4)
+
+*... 4. d4 — Scotch Four Knights*
+
+```
+r1bqkb1r/pppp1ppp/2n2n2/4p3/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq d3 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+| --- | --- |
+
+* [**4... exd4**](#_ScotchFourExd4_) — live-tagged the *Scotch Variation Accepted*, covered below.
+* **4... Bb4** — pins the c3-knight instead of resolving the tension; after **5. Nxe5**, the *Krause Variation* (+0.3), White wins the pawn back with a small, safe edge. Not built out further here (backlog).
+
+[*Back to 3... Nf6*](#_Nf6_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_ScotchFourExd4_"></a>
+
+### 4... exd4 — Scotch Variation Accepted
+
+[![4... exd4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1ppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R&lastMove=e5d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R_w_KQkq_-_0_5)
+
+*... 4... exd4 — Scotch Variation Accepted*
+
+```
+r1bqkb1r/pppp1ppp/2n2n2/8/3pP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+| --- | --- |
+
+**5. Nxd4** is masters' overwhelming reply (91.5%), simply recapturing and transposing toward normal Scotch-like structures. **5. Nd5!?** (8.5% masters), the *Belgrade Gambit*, offers the pawn back for rapid development instead — Stockfish already rates it as a small edge for Black (−0.2), contrary to its sharp reputation. Neither built out further here (backlog).
+
+[*Back to 4. d4*](#_ScotchFour_)
 [*Back to TOP*](#_TOP_)
 
 ---

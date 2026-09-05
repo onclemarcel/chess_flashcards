@@ -647,26 +647,26 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## B00
 
-- **King's Pawn Game** — `1.e4`
-- **King's Pawn Game, Hippopotamus Defence** — `1.e4 Nh6 2.d4 g6 3.c4 f6`
-- **King's Pawn Game, Corn Stalk Defence** — `1.e4 a5`
-- **King's Pawn Game, Lemming Defence** — `1.e4 Na6`
-- **King's Pawn Game, Fred Defence** — `1.e4 f5`
-- **King's Pawn Game, Barnes Defence** — `1.e4 f6`
-- **King's Pawn Game, Fried fox Defence** — `1.e4 f6 2.d4 Kf7`
-- **King's Pawn Game, Carr's Defence** — `1.e4 h6`
-- **King's Pawn Game, Reversed Grob** — `1.e4 g5`
-- **King's Pawn Game, St. George Defence** — `1.e4 a6`
-- **King's Pawn Game, Owen Defence** — `1.e4 b6`
-- **King's Pawn Game, Guatemala Defence** — `1.e4 b6 2.d4 Ba6`
-- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6`
-- **King's Pawn Game, Nimzovich Defence,  Wheeler Gambit** — `1.e4 Nc6 2.b4 Nxb4 3.c3 Nc6 4.d4`
-- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6 2.Nf3`
-- **King's Pawn Game, Colorado Counter** — `1.e4 Nc6 2.Nf3 f5`
-- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6 2.d4`
-- **King's Pawn Game, Nimzovich Defence,  Marshall Gambit** — `1.e4 Nc6 2.d4 d5 3.exd5 Qxd5 4.Nc3`
-- **King's Pawn Game, Nimzovich Defence,  Bogolyubov Variation** — `1.e4 Nc6 2.d4 d5 3.Nc3`
-- **King's Pawn Game, Neo-Mongoloid Defence** — `1.e4 Nc6 2.d4 f6`
+- **King's Pawn Game** — `1.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_KPG.md#_e4_)
+- **King's Pawn Game, Hippopotamus Defence** — `1.e4 Nh6 2.d4 g6 3.c4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Hippopotamus.md#_initial_move_)
+- **King's Pawn Game, Corn Stalk Defence** — `1.e4 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Ware_Defense.md#_initial_move_) — live-tagged the *Ware Defense*, a real name divergence
+- **King's Pawn Game, Lemming Defence** — `1.e4 Na6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Lemming.md#_initial_move_)
+- **King's Pawn Game, Fred Defence** — `1.e4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Duras_Gambit.md#_initial_move_) — live-tagged the *Duras Gambit*, a real name divergence
+- **King's Pawn Game, Barnes Defence** — `1.e4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Barnes.md#_initial_move_)
+- **King's Pawn Game, Fried fox Defence** — `1.e4 f6 2.d4 Kf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Barnes.md#_fried_fox_)
+- **King's Pawn Game, Carr's Defence** — `1.e4 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Carr.md#_initial_move_)
+- **King's Pawn Game, Reversed Grob** — `1.e4 g5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Borg.md#_initial_move_) — the card's own title uses the established name *Borg Defense* instead
+- **King's Pawn Game, St. George Defence** — `1.e4 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/St_George.md#_initial_move_)
+- **King's Pawn Game, Owen Defence** — `1.e4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Owen.md#_initial_move_)
+- **King's Pawn Game, Guatemala Defence** — `1.e4 b6 2.d4 Ba6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/B00_openings/Owen.md#_d4_)
+- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_initial_move_)
+- **King's Pawn Game, Nimzovich Defence,  Wheeler Gambit** — `1.e4 Nc6 2.b4 Nxb4 3.c3 Nc6 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_initial_move_)
+- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_Nf3_)
+- **King's Pawn Game, Colorado Counter** — `1.e4 Nc6 2.Nf3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_Nf3_)
+- **King's Pawn Game, Nimzovich Defence** — `1.e4 Nc6 2.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_d4_)
+- **King's Pawn Game, Nimzovich Defence,  Marshall Gambit** — `1.e4 Nc6 2.d4 d5 3.exd5 Qxd5 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_Exchange_)
+- **King's Pawn Game, Nimzovich Defence,  Bogolyubov Variation** — `1.e4 Nc6 2.d4 d5 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_Bogolyubov_) — live-tagged *Bogoljubow*, a minor spelling divergence
+- **King's Pawn Game, Neo-Mongoloid Defence** — `1.e4 Nc6 2.d4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B00_Nimzowitsch_Defense.md#_d4_)
 
 ## B01
 
@@ -1745,204 +1745,204 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C40
 
-- **King's Knight Opening** — `1.e4 e5 2.Nf3`
-- **Gunderam Defence** — `1.e4 e5 2.Nf3 Qe7`
-- **Greco Defence** — `1.e4 e5 2.Nf3 Qf6`
-- **Damiano's Defence** — `1.e4 e5 2.Nf3 f6`
-- **Queen's Pawn Game, Counter-Gambit,  Elephant Gambit** — `1.e4 e5 2.Nf3 d5`
-- **Queen's Pawn Game, Counter-Gambit,  Maroczy Gambit** — `1.e4 e5 2.Nf3 d5 3.exd5 Bd6`
-- **Latvian, Counter-Gambit** — `1.e4 e5 2.Nf3 f5`
-- **Latvian, Nimzovich Variation** — `1.e4 e5 2.Nf3 f5 3.Nxe5 Qf6 4.d4 d6 5.Nc4 fxe4 6.Ne3`
-- **Latvian, Fraser Defence** — `1.e4 e5 2.Nf3 f5 3.Nxe5 Nc6`
-- **Latvian, Gambit,  3.Bc4** — `1.e4 e5 2.Nf3 f5 3.Bc4`
-- **Latvian, Behting Variation** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Qg5 5.Nf7 Qxg2 6.Rf1 d5 7.Nxh8 Nf6`
-- **Latvian, Polerio Variation** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 d5`
-- **Latvian, Corkscrew Counter-Gambit** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Nf6`
+- **King's Knight Opening** — `1.e4 e5 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md#_initial_move_)
+- **Gunderam Defence** — `1.e4 e5 2.Nf3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md#_initial_move_)
+- **Greco Defence** — `1.e4 e5 2.Nf3 Qf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md#_initial_move_) — live-tagged *King's Pawn Game: McConnell Defense*, a real name divergence
+- **Damiano's Defence** — `1.e4 e5 2.Nf3 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C40_King_Knight.md#_initial_move_)
+- **Queen's Pawn Game, Counter-Gambit,  Elephant Gambit** — `1.e4 e5 2.Nf3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Elephant/Elephant.md#_initial_move_)
+- **Queen's Pawn Game, Counter-Gambit,  Maroczy Gambit** — `1.e4 e5 2.Nf3 d5 3.exd5 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Elephant/Elephant.md#_exd5_)
+- **Latvian, Counter-Gambit** — `1.e4 e5 2.Nf3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_initial_move_)
+- **Latvian, Nimzovich Variation** — `1.e4 e5 2.Nf3 f5 3.Nxe5 Qf6 4.d4 d6 5.Nc4 fxe4 6.Ne3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Nxe5_) — essentially unplayed at this depth, no cached eval
+- **Latvian, Fraser Defence** — `1.e4 e5 2.Nf3 f5 3.Nxe5 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Nxe5_)
+- **Latvian, Gambit,  3.Bc4** — `1.e4 e5 2.Nf3 f5 3.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Bc4_) — live-tagged the *Mayet Attack*
+- **Latvian, Behting Variation** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Qg5 5.Nf7 Qxg2 6.Rf1 d5 7.Nxh8 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Bc4_)
+- **Latvian, Polerio Variation** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Bc4_)
+- **Latvian, Corkscrew Counter-Gambit** — `1.e4 e5 2.Nf3 f5 3.Bc4 fxe4 4.Nxe5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Latvian/Latvian.md#_Bc4_)
 
 ## C41
 
-- **Philidor's Defence** — `1.e4 e5 2.Nf3 d6`
-- **Philidor's Defence, Steinitz Variation** — `1.e4 e5 2.Nf3 d6 3.Bc4 Be7 4.c3`
-- **Philidor's Defence, Lopez Counter-Gambit** — `1.e4 e5 2.Nf3 d6 3.Bc4 f5`
-- **Philidor's Defence, Lopez Counter-Gambit,  Jaenisch Variation** — `1.e4 e5 2.Nf3 d6 3.Bc4 f5 4.d4 exd4 5.Ng5 Nh6 6.Nxh7`
-- **Philidor's Defence** — `1.e4 e5 2.Nf3 d6 3.d4`
-- **Philidor's Defence, Philidor Counter-Gambit** — `1.e4 e5 2.Nf3 d6 3.d4 f5`
-- **Philidor's Defence, Philidor Counter-Gambit,  del Rio Attack** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6`
-- **Philidor's Defence, Philidor Counter-Gambit,  Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6 Bc5 7.Nc3`
-- **Philidor's Defence, Philidor Counter-Gambit,  Zukertort Variation** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.Nc3`
-- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4`
-- **Philidor's Defence, Boden Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Bd7`
-- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4`
-- **Philidor's Defence, Paulsen Attack** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 d5 5.exd5`
-- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6`
-- **Philidor's Defence, Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.O-O c5 8.Nf3 Nc6 9.Bg5 Be6 10.Re1`
-- **Philidor's Defence, Larsen Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 g6`
-- **Philidor's Defence, Nimzovich (Jaenisch) Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6`
-- **Philidor's Defence, Improved Hanham Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7`
-- **Philidor's Defence, Nimzovich,  Sozin Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2 c6 8.a4 exd4`
-- **Philidor's Defence, Nimzovich,  Larobok Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.Ng5 O-O 7.Bxf7`
-- **Philidor's Defence, Nimzovich Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5`
-- **Philidor's Defence, Nimzovich,  Sokolsky Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4 5.Nbd2`
-- **Philidor's Defence, Nimzovich,  Rellstab Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4 5.Qd5`
-- **Philidor's Defence, Nimzovich,  Locock Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Ng5`
-- **Philidor's Defence, Nimzovich,  Klein Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Bc4`
-- **Philidor's Defence, Hanham Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7`
-- **Philidor's Defence, Hanham,  Krause Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.O-O`
-- **Philidor's Defence, Hanham,  Steiner Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.O-O Be7 6.dxe5`
-- **Philidor's Defence, Hanham,  Kmoch Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5`
-- **Philidor's Defence, Hanham,  Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5 Nh6 6.f4 Be7 7.O-O O-O 8.c3 d5`
-- **Philidor's Defence, Hanham,  Schlechter Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Nc3`
-- **Philidor's Defence, Hanham,  Delmar Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.c3`
+- **Philidor's Defence** — `1.e4 e5 2.Nf3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_initial_move_)
+- **Philidor's Defence, Steinitz Variation** — `1.e4 e5 2.Nf3 d6 3.Bc4 Be7 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Steinitz_)
+- **Philidor's Defence, Lopez Counter-Gambit** — `1.e4 e5 2.Nf3 d6 3.Bc4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_LopezCG_)
+- **Philidor's Defence, Lopez Counter-Gambit,  Jaenisch Variation** — `1.e4 e5 2.Nf3 d6 3.Bc4 f5 4.d4 exd4 5.Ng5 Nh6 6.Nxh7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_LopezCG_)
+- **Philidor's Defence** — `1.e4 e5 2.Nf3 d6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_d4_)
+- **Philidor's Defence, Philidor Counter-Gambit** — `1.e4 e5 2.Nf3 d6 3.d4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_f5d4_)
+- **Philidor's Defence, Philidor Counter-Gambit,  del Rio Attack** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_f5d4_)
+- **Philidor's Defence, Philidor Counter-Gambit,  Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.dxe5 fxe4 5.Ng5 d5 6.e6 Bc5 7.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_f5d4_)
+- **Philidor's Defence, Philidor Counter-Gambit,  Zukertort Variation** — `1.e4 e5 2.Nf3 d6 3.d4 f5 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_f5d4_)
+- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_exd4_)
+- **Philidor's Defence, Boden Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Qxd4 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Qxd4d_)
+- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nxd4d_)
+- **Philidor's Defence, Paulsen Attack** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 d5 5.exd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nxd4d_)
+- **Philidor's Defence, Exchange Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nxd4d_)
+- **Philidor's Defence, Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.Be2 O-O 7.O-O c5 8.Nf3 Nc6 9.Bg5 Be6 10.Re1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nxd4d_)
+- **Philidor's Defence, Larsen Variation** — `1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nxd4d_)
+- **Philidor's Defence, Nimzovich (Jaenisch) Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nf6d4_) — live-tagged the *Nimzowitsch Variation* already at this root ply
+- **Philidor's Defence, Improved Hanham Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nc3Nf6_)
+- **Philidor's Defence, Nimzovich,  Sozin Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.O-O O-O 7.Qe2 c6 8.a4 exd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nc3Nf6_)
+- **Philidor's Defence, Nimzovich,  Larobok Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Nc3 Nbd7 5.Bc4 Be7 6.Ng5 O-O 7.Bxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nc3Nf6_)
+- **Philidor's Defence, Nimzovich Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_dxe5_)
+- **Philidor's Defence, Nimzovich,  Sokolsky Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4 5.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_dxe5_)
+- **Philidor's Defence, Nimzovich,  Rellstab Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.dxe5 Nxe4 5.Qd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_dxe5_)
+- **Philidor's Defence, Nimzovich,  Locock Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Ng5d4_)
+- **Philidor's Defence, Nimzovich,  Klein Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nf6 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4Nf6_)
+- **Philidor's Defence, Hanham Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Nd7_)
+- **Philidor's Defence, Hanham,  Krause Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
+- **Philidor's Defence, Hanham,  Steiner Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.O-O Be7 6.dxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
+- **Philidor's Defence, Hanham,  Kmoch Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
+- **Philidor's Defence, Hanham,  Berger Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Ng5 Nh6 6.f4 Be7 7.O-O O-O 8.c3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
+- **Philidor's Defence, Hanham,  Schlechter Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
+- **Philidor's Defence, Hanham,  Delmar Variation** — `1.e4 e5 2.Nf3 d6 3.d4 Nd7 4.Bc4 c6 5.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C41_Philidor_Defense.md#_Bc4c6_)
 
 ## C42
 
-- **Petrov's Defence** — `1.e4 e5 2.Nf3 Nf6`
-- **Petrov's Defence, French Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3`
-- **Petrov's Defence, Kaufmann Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4`
-- **Petrov's Defence, Nimzovich Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3`
-- **Petrov's Defence, Cozio (Lasker) Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2`
-- **Petrov's Defence, Classical Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4`
-- **Petrov's Defence, Classical Attack,  Chigorin Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1`
-- **Petrov's Defence, Classical Attack,  Berger Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.Nbd2`
-- **Petrov's Defence, Classical Attack,  Krause Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.c4`
-- **Petrov's Defence, Classical Attack,  Maroczy Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.c4 Bh4`
-- **Petrov's Defence, Classical Attack,  Jaenisch Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.c4`
-- **Petrov's Defence, Classical Attack,  Mason Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O O-O`
-- **Petrov's Defence, Classical Attack,  Marshall Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6`
-- **Petrov's Defence, Classical Attack,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 Bg4`
-- **Petrov's Defence, Classical Attack,  Marshall trap** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 Bg4 9.cxd5 f5 10.Re1 Bxh2`
-- **Petrov's Defence, Classical Attack,  close Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 Nf6`
-- **Petrov's Defence, Cochrane Gambit** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7`
-- **Petrov's Defence, Paulsen Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nc4`
-- **Petrov's Defence, Damiano Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4`
-- **Petrov's Defence, Three Knights Game** — `1.e4 e5 2.Nf3 Nf6 3.Nc3`
-- **Petrov's Defence, Italian Variation** — `1.e4 e5 2.Nf3 Nf6 3.Bc4`
+- **Petrov's Defence** — `1.e4 e5 2.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_initial_move_)
+- **Petrov's Defence, French Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_)
+- **Petrov's Defence, Kaufmann Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_)
+- **Petrov's Defence, Nimzovich Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_)
+- **Petrov's Defence, Cozio (Lasker) Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_)
+- **Petrov's Defence, Classical Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Chigorin Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Berger Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Krause Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Maroczy Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.Re1 Bg4 9.c3 f5 10.c4 Bh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Jaenisch Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O Nc6 8.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Mason Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.O-O O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Marshall Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  Marshall trap** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Bd6 7.O-O O-O 8.c4 Bg4 9.cxd5 f5 10.Re1 Bxh2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_)
+- **Petrov's Defence, Classical Attack,  close Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Classical_) — live-tagged *Closed Variation*
+- **Petrov's Defence, Cochrane Gambit** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_) — Stockfish already rates this *better for Black* (−0.5), contrary to the line's reputation
+- **Petrov's Defence, Paulsen Attack** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_d6_)
+- **Petrov's Defence, Damiano Variation** — `1.e4 e5 2.Nf3 Nf6 3.Nxe5 Nxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Nxe4_trap_)
+- **Petrov's Defence, Three Knights Game** — `1.e4 e5 2.Nf3 Nf6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Nc3_)
+- **Petrov's Defence, Italian Variation** — `1.e4 e5 2.Nf3 Nf6 3.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md#_Bc4_trap_)
 
 ## C43
 
-- **Petrov's Defence, Modern (Steinitz) Attack** — `1.e4 e5 2.Nf3 Nf6 3.d4`
-- **Petrov's Defence, Modern Attack,  Main line** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4`
-- **Petrov's Defence, Modern Attack,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2`
-- **Petrov's Defence, Modern Attack,  Bardeleben Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2 Nc5 6.Nxd4 Nc6`
-- **Petrov's Defence, Urusov Gambit** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.Bc4`
-- **Petrov's Defence, Modern Attack,  Symmetrical Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4`
-- **Petrov's Defence, Modern Attack,  Trifunovic Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O 7.c4 Bxe5`
+- **Petrov's Defence, Modern (Steinitz) Attack** — `1.e4 e5 2.Nf3 Nf6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_initial_move_)
+- **Petrov's Defence, Modern Attack,  Main line** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Qxd4_) — live-tagged the *Center Attack*
+- **Petrov's Defence, Modern Attack,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Qe2_)
+- **Petrov's Defence, Modern Attack,  Bardeleben Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.e5 Ne4 5.Qe2 Nc5 6.Nxd4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Qe2_)
+- **Petrov's Defence, Urusov Gambit** — `1.e4 e5 2.Nf3 Nf6 3.d4 exd4 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Urusov_)
+- **Petrov's Defence, Modern Attack,  Symmetrical Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Nxe4_) — live-tagged the *Center Variation*
+- **Petrov's Defence, Modern Attack,  Trifunovic Variation** — `1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.Bd3 d5 5.Nxe5 Bd6 6.O-O O-O 7.c4 Bxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md#_Bd3_)
 
 ## C44
 
-- **King's Pawn Game** — `1.e4 e5 2.Nf3 Nc6`
-- **Irish Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nxe5 Nxe5 4.d4`
-- **Konstantinopolsky Opening** — `1.e4 e5 2.Nf3 Nc6 3.g3`
-- **Dresden Opening** — `1.e4 e5 2.Nf3 Nc6 3.c4`
-- **Inverted Hungarian** — `1.e4 e5 2.Nf3 Nc6 3.Be2`
-- **Inverted Hanham** — `1.e4 e5 2.Nf3 Nc6 3.Be2 Nf6 4.d3 d5 5.Nbd2`
-- **Tayler Opening** — `1.e4 e5 2.Nf3 Nc6 3.Be2 Nf6 4.d4`
-- **Ponziani Opening** — `1.e4 e5 2.Nf3 Nc6 3.c3`
-- **Ponziani Opening, Caro Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 Bd7`
-- **Ponziani Opening, Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 Nf6`
-- **Ponziani Opening, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 f6`
-- **Ponziani Opening, Jaenisch Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nf6`
-- **Ponziani Opening, Fraser Defence** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 Nxe4 5.d5 Bc5`
-- **Ponziani Opening, Reti Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nge7`
-- **Ponziani Opening, Romanishin Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 Be7`
-- **Ponziani Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5`
-- **Ponziani Counter-Gambit, Schmidt Attack** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5 4.d4 d6 5.d5`
-- **Ponziani Counter-Gambit, Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5 4.d4 d6 5.d5 fxe4 6.Ng5 Nb8 7.Nxe4 Nf6 8.Bd3 Be7`
-- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4`
-- **Scotch Opening, Lolli Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4`
-- **Scotch Opening, Cochrane Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 Ne6 5.Bc4 c6 6.O-O Nf6 7.Nxf7`
-- **Scotch Opening, Relfsson Gambit ('MacLopez')** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5`
-- **Scotch Opening, Goering Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3`
-- **Scotch Opening, Sea-cadet mate** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 d6 6.Bc4 Bg4 7.O-O Ne5 8.Nxe5 Bxd1 9.Bxf7 Ke7 10.Nd5`
-- **Scotch Opening, Goering Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 Bb4`
-- **Scotch Opening, Goering Gambit,  Bardeleben Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 Bb4 6.Bc4 Nf6`
-- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4`
-- **Scotch Opening, Gambit,  Anderssen Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.O-O d6 6.c3 Bg4`
-- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5`
-- **Scotch Opening, Gambit,  Cochrane-Shumov Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Nxf7 Nxf7 7.Bxf7 Kxf7 8.Qh5 g6 9.Qxc5 d5`
-- **Scotch Opening, Gambit,  Vitzhum Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Qh5`
-- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4`
-- **Scotch Opening, Gambit,  Hanneken Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.O-O cxb2 7.Bxb2 Nf6 8.Ng5 O-O 9.e5 Nxe5`
-- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.bxc3`
-- **Scotch Opening, Gambit,  Cochrane Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.bxc3 Ba5 7.e5`
-- **Scotch Opening, Gambit,  Benima Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Be7`
-- **Scotch Opening, Gambit,  Dubois-Reti Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6`
+- **King's Pawn Game** — `1.e4 e5 2.Nf3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_)
+- **Irish Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nxe5 Nxe5 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_) — live-tagged the *Schulze-Müller Gambit*, the same name as C46's own analogous line
+- **Konstantinopolsky Opening** — `1.e4 e5 2.Nf3 Nc6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_)
+- **Dresden Opening** — `1.e4 e5 2.Nf3 Nc6 3.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_)
+- **Inverted Hungarian** — `1.e4 e5 2.Nf3 Nc6 3.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_) — live-tagged *Tayler Opening* already at this root ply
+- **Inverted Hanham** — `1.e4 e5 2.Nf3 Nc6 3.Be2 Nf6 4.d3 d5 5.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_)
+- **Tayler Opening** — `1.e4 e5 2.Nf3 Nc6 3.Be2 Nf6 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_initial_move_)
+- **Ponziani Opening** — `1.e4 e5 2.Nf3 Nc6 3.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_initial_move_)
+- **Ponziani Opening, Caro Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_d5_)
+- **Ponziani Opening, Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_d5_)
+- **Ponziani Opening, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 d5 4.Qa4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_d5_)
+- **Ponziani Opening, Jaenisch Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_Nf6_)
+- **Ponziani Opening, Fraser Defence** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nf6 4.d4 Nxe4 5.d5 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_Nf6_)
+- **Ponziani Opening, Reti Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 Nge7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_TOP_)
+- **Ponziani Opening, Romanishin Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_TOP_)
+- **Ponziani Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_CounterGambit_)
+- **Ponziani Counter-Gambit, Schmidt Attack** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5 4.d4 d6 5.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_CounterGambit_)
+- **Ponziani Counter-Gambit, Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.c3 f5 4.d4 d6 5.d5 fxe4 6.Ng5 Nb8 7.Nxe4 Nf6 8.Bd3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md#_CounterGambit_)
+- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_initial_move_)
+- **Scotch Opening, Lolli Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_initial_move_)
+- **Scotch Opening, Cochrane Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 Nxd4 4.Nxe5 Ne6 5.Bc4 c6 6.O-O Nf6 7.Nxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_initial_move_)
+- **Scotch Opening, Relfsson Gambit ('MacLopez')** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Relfsson_)
+- **Scotch Opening, Goering Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Goering_)
+- **Scotch Opening, Sea-cadet mate** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 d6 6.Bc4 Bg4 7.O-O Ne5 8.Nxe5 Bxd1 9.Bxf7 Ke7 10.Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Goering_) — no cached engine eval this deep
+- **Scotch Opening, Goering Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Goering_)
+- **Scotch Opening, Goering Gambit,  Bardeleben Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.c3 dxc3 5.Nxc3 Bb4 6.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Goering_)
+- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Bc4_)
+- **Scotch Opening, Gambit,  Anderssen Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.O-O d6 6.c3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_ScotchGambit_Bc5_)
+- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Sarratt_) — live-tagged the *Sarratt Variation*
+- **Scotch Opening, Gambit,  Cochrane-Shumov Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Nxf7 Nxf7 7.Bxf7 Kxf7 8.Qh5 g6 9.Qxc5 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Sarratt_)
+- **Scotch Opening, Gambit,  Vitzhum Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.Ng5 Nh6 6.Qh5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Sarratt_) — a real engine swing toward Black (−1.1), contrary to its threatening look
+- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_ScotchGambit_Bb4_) — live-tagged the *London Defense* already at this ply
+- **Scotch Opening, Gambit,  Hanneken Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.O-O cxb2 7.Bxb2 Nf6 8.Ng5 O-O 9.e5 Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_ScotchGambit_Bb4_)
+- **Scotch Opening, Gambit** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_ScotchGambit_bxc3_)
+- **Scotch Opening, Gambit,  Cochrane Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4 5.c3 dxc3 6.bxc3 Ba5 7.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_ScotchGambit_bxc3_) — a real engine swing toward Black (−0.8)
+- **Scotch Opening, Gambit,  Benima Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Benima_)
+- **Scotch Opening, Gambit,  Dubois-Reti Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_DuboisReti_)
 
 ## C45
 
-- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4`
-- **Scotch Opening, Ghulam Kassim Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 d6 6.Bd3`
-- **Scotch Opening, Pulling Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4`
-- **Scotch Opening, Horwitz Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5`
-- **Scotch Opening, Berger Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Nd2 Qxe4 7.Be2 Qxg2 8.Bf3 Qh3 9.Nxc7 Kd8 10.Nxa8 Nf6 11.a3`
-- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Bd2`
-- **Scotch Opening, Rosenthal Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Bd2 Qxe4 7.Be2 Kd8 8.O-O Bxd2 9.Nxd2 Qg6`
-- **Scotch Opening, Fraser Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nf3`
-- **Scotch Opening, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nc3`
-- **Scotch Opening, Schmidt Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6`
-- **Scotch Opening, Mieses Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5`
-- **Scotch Opening, Tartakower Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2`
-- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5`
-- **Scotch Opening, Blackburne Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Qd2`
-- **Scotch Opening, Gottschall Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Qd2 d5 8.Nb5 Bxe3 9.Qxe3 O-O 10.Nxc7 Rb8 11.Nxd5 Nxd5 12.exd5 Nb4`
-- **Scotch Opening, Paulsen Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5`
-- **Scotch Opening, Paulsen,  Gunsberg Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5 Nd8`
-- **Scotch Opening, Meitner Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Nc2`
-- **Scotch Opening, Blumenfeld Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.Nb5`
-- **Scotch Opening, Potter Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3`
-- **Scotch Opening, Romanishin Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb4`
+- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_initial_move_)
+- **Scotch Opening, Ghulam Kassim Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nxd4 5.Qxd4 d6 6.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nxd4_)
+- **Scotch Opening, Pulling Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Qh4_) — live-tagged *Steinitz Variation* already at this ply
+- **Scotch Opening, Horwitz Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Horwitz_)
+- **Scotch Opening, Berger Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Nd2 Qxe4 7.Be2 Qxg2 8.Bf3 Qh3 9.Nxc7 Kd8 10.Nxa8 Nf6 11.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Horwitz_) — the trapped a8-knight leaves this heavily lost for White (−2.5), despite winning the exchange
+- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Horwitz_)
+- **Scotch Opening, Rosenthal Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nb5 Bb4 6.Bd2 Qxe4 7.Be2 Kd8 8.O-O Bxd2 9.Nxd2 Qg6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Horwitz_)
+- **Scotch Opening, Fraser Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Qh4_)
+- **Scotch Opening, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Qh4 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Steinitz5Nc3_)
+- **Scotch Opening, Schmidt Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nf6_)
+- **Scotch Opening, Mieses Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nf6_)
+- **Scotch Opening, Tartakower Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6 5.Nxc6 bxc6 6.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nf6_)
+- **Scotch Opening** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Bc5_) — live-tagged the *Classical Variation* already at this ply
+- **Scotch Opening, Blackburne Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_)
+- **Scotch Opening, Gottschall Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Qd2 d5 8.Nb5 Bxe3 9.Qxe3 O-O 10.Nxc7 Rb8 11.Nxd5 Nxd5 12.exd5 Nb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_) — another "wins material, loses the game" trap (−1.5)
+- **Scotch Opening, Paulsen Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_)
+- **Scotch Opening, Paulsen,  Gunsberg Defence** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Bb5 Nd8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_)
+- **Scotch Opening, Meitner Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.c3 Nge7 7.Nc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_)
+- **Scotch Opening, Blumenfeld Attack** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Be3 Qf6 6.Nb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Be3Bc5_)
+- **Scotch Opening, Potter Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nb3Bc5_)
+- **Scotch Opening, Romanishin Variation** — `1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5 5.Nb3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Nb3Bc5_)
 
 ## C46
 
-- **Three Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3`
-- **Three Knights Game, Schlechter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Nd5 Nf6`
-- **Three Knights Game, Winawer Defence** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 f5`
-- **Three Knights Game, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 g6`
-- **Three Knights Game, Steinitz,  Rosenthal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.d4 exd4 5.Nd5`
-- **Four Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6`
-- **Four Knights Game, Schultze-Mueller Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5`
-- **Four Knights Game, Italian Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4`
-- **Four Knights Game, Gunsberg Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3`
+- **Three Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_initial_move_) — this card's root, disclosed as one ply early for C47 in its own naming note
+- **Three Knights Game, Schlechter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Bb4 4.Nd5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_C46_siblings_)
+- **Three Knights Game, Winawer Defence** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_C46_siblings_)
+- **Three Knights Game, Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_C46_siblings_) — live-tagged the *Steinitz Defense*
+- **Three Knights Game, Steinitz,  Rosenthal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 g6 4.d4 exd4 5.Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_C46_siblings_)
+- **Four Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_Nf6_)
+- **Four Knights Game, Schultze-Mueller Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_Nf6_) — live-tagged the *Halloween Gambit*, a real code AND name divergence (this exact position is live-coded C47, not C46)
+- **Four Knights Game, Italian Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_Nf6_)
+- **Four Knights Game, Gunsberg Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_Nf6_)
 
 ## C47
 
-- **Four Knights Game, Scotch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4`
-- **Four Knights Game, Scotch,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.Nxe5`
-- **Four Knights Game, Scotch,  4...exd4** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4`
-- **Four Knights Game, Belgrade Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5`
+- **Four Knights Game, Scotch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_ScotchFour_)
+- **Four Knights Game, Scotch,  Krause Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 Bb4 5.Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_ScotchFour_)
+- **Four Knights Game, Scotch,  4...exd4** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_ScotchFourExd4_) — live-tagged the *Scotch Variation Accepted*
+- **Four Knights Game, Belgrade Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.d4 exd4 5.Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md#_ScotchFourExd4_) — a small edge for Black (−0.2), contrary to its sharp reputation
 
 ## C48
 
-- **Four Knights Game, Spanish Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5`
-- **Four Knights Game, Ranken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6`
-- **Four Knights Game, Spielmann Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6 dxc6 6.Nxe5 Nxe4 7.Nxe4 Qd4 8.O-O Qxe5 9.Re1 Be6 10.d4 Qd5`
-- **Four Knights Game, Spanish,  Classical Defence** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5`
-- **Four Knights Game, Bardeleben Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Nc6 9.e5 Bb4`
-- **Four Knights Game, Marshall Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nd4`
-- **Four Knights Game, Rubinstein Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4`
-- **Four Knights Game, Rubinstein Counter-Gambit,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxe5 Qe7 6.f4`
-- **Four Knights Game, Rubinstein Counter-Gambit,  5.Be2** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2`
-- **Four Knights Game, Rubinstein Counter-Gambit Maroczy Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2 Nxf3 6.Bxf3 Bc5 7.O-O O-O 8.d3 d6 9.Na4 Bb6`
-- **Four Knights Game, Rubinstein Counter-Gambit,  Exchange Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4`
-- **Four Knights Game, Rubinstein Counter-Gambit,  Henneberger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O`
+- **Four Knights Game, Spanish Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_initial_move_)
+- **Four Knights Game, Ranken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_a6_)
+- **Four Knights Game, Spielmann Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 a6 5.Bxc6 dxc6 6.Nxe5 Nxe4 7.Nxe4 Qd4 8.O-O Qxe5 9.Re1 Be6 10.d4 Qd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_a6_)
+- **Four Knights Game, Spanish,  Classical Defence** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Bc5_)
+- **Four Knights Game, Bardeleben Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nxe5 7.d4 Bd6 8.f4 Nc6 9.e5 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Bc5_)
+- **Four Knights Game, Marshall Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bc5 5.O-O O-O 6.Nxe5 Nd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Bc5_)
+- **Four Knights Game, Rubinstein Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_) — live-tagged the *Rubinstein Variation*
+- **Four Knights Game, Rubinstein Counter-Gambit,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxe5 Qe7 6.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_)
+- **Four Knights Game, Rubinstein Counter-Gambit,  5.Be2** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_)
+- **Four Knights Game, Rubinstein Counter-Gambit Maroczy Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Be2 Nxf3 6.Bxf3 Bc5 7.O-O O-O 8.d3 d6 9.Na4 Bb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_)
+- **Four Knights Game, Rubinstein Counter-Gambit,  Exchange Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.Nxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_)
+- **Four Knights Game, Rubinstein Counter-Gambit,  Henneberger Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Nd4 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C48_Four_Knights_Spanish.md#_Nd4_)
 
 ## C49
 
-- **Four Knights Game, double Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4`
-- **Four Knights Game, Gunsberg Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Nd5 Nxd5 7.exd5 e4`
-- **Four Knights Game, double Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3`
-- **Four Knights Game, Alatortsev Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Qe7 7.Ne2 d5`
-- **Four Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3`
-- **Four Knights Game, Janowski Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Re1`
-- **Four Knights Game, Svenonius Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d5`
-- **Four Knights Game, Symmetrical Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6`
-- **Four Knights Game, Symmetrical,  Metger unpin** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7`
-- **Four Knights Game, Symmetrical,  Capablanca Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7 9.Re1 Nd8 10.d4 Bg4`
-- **Four Knights Game, Symmetrical,  Pillsbury Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Ne7`
-- **Four Knights Game, Symmetrical,  Blake Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Ne7 8.Nh4 c6 9.Bc4 d5 10.Bb3 Qd6`
-- **Four Knights Game, Symmetrical,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Be6`
-- **Four Knights Game, Symmetrical,  Maroczy System** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Ne2`
-- **Four Knights Game, Nimzovich (Paulsen) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6`
+- **Four Knights Game, double Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_initial_move_) — live-tagged the *Double Spanish*
+- **Four Knights Game, Gunsberg Counter-attack** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Nd5 Nxd5 7.exd5 e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_initial_move_)
+- **Four Knights Game, double Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d3_)
+- **Four Knights Game, Alatortsev Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Qe7 7.Ne2 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d3_)
+- **Four Knights Game** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_Bxc3_)
+- **Four Knights Game, Janowski Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d6 8.Re1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_Bxc3_)
+- **Four Knights Game, Svenonius Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 Bxc3 7.bxc3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_Bxc3_)
+- **Four Knights Game, Symmetrical Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Metger unpin** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Capablanca Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Bxc3 8.bxc3 Qe7 9.Re1 Nd8 10.d4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Pillsbury Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Blake Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Ne7 8.Nh4 c6 9.Bc4 d5 10.Bb3 Qd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Tarrasch Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Bg5 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Symmetrical,  Maroczy System** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.d3 d6 7.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_d6_)
+- **Four Knights Game, Nimzovich (Paulsen) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bb4 5.O-O O-O 6.Bxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C49_Four_Knights_Symmetrical.md#_Bxc6_) — live-tagged the *Nimzowitsch Variation*
 
 ## C50
 

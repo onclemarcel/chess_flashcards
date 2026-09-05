@@ -93,7 +93,7 @@ rnbqkbnr/ppp2ppp/8/3Pp3/8/5N2/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 <!-- lichess-stats:end -->
 
 * [**3... e4**](#_e4_) (57.0% masters): the actual point of the gambit — attacks the f3-knight and grabs central space before White can develop comfortably.
-* **3... Bd6** (39.7% masters): a quieter alternative, developing before deciding how to regain the pawn.
+* **3... Bd6** (39.7% masters): the *Maroczy Gambit*, a quieter alternative, developing before deciding how to regain the pawn. Masters' main reply is **4. d4** (68.8%), simply consolidating the extra pawn; not built out further here (backlog).
 
 [*Back to 3. exd5*](#_exd5_)
 [*Back to TOP*](#_TOP_)

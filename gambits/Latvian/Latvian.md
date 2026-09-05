@@ -57,6 +57,7 @@ rnbqkbnr/pppp2pp/8/4pp2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq f6 0 3
 * [**3. Nxe5**](#_Nxe5_) (+1.4): simply takes the pawn — masters' overwhelming choice (76.4%) and the critical test of the whole gambit.
 * **3. exf5** (masters 7.9%, online 26.2%): also takes a pawn, but lets Black recapture the tension with **3... e4**, chasing the knight and regaining activity.
 * **3. d4** (masters 7.9%): builds the centre first, ignoring both pawns for now.
+* [**3. Bc4**](#_Bc4_) (masters 2.5%): live-tagged the *Mayet Attack*, sidesteps the immediate capture in favour of development first.
 
 [*Back to TOP*](#_TOP_)
 
@@ -81,7 +82,9 @@ Modern online practice favours quieter development over the historically "classi
 
 * [**3... Nf6**](#_Nf6_) (62.1% online): the most common choice today — develops naturally and prepares to meet the knight's activity without further weakening the kingside.
 * [**3... d5**](#_Trap_) (27.0% online): also natural-looking, but see the tip below — it walks into a real practical trick.
-* **3... Qf6** and **3... Qg5**: the historically "classical" main tries in opening literature, both attacking the e5-knight immediately (Qg5 also eyes g2). They're barely seen in current online play at this rating band, but remain the traditional books' main line — treat them as real tries worth knowing if you play this gambit seriously, rather than as refuted.
+* **3... Qf6** and **3... Qg5**: the historically "classical" main tries in opening literature, both attacking the e5-knight immediately (Qg5 also eyes g2). They're barely seen in current online play at this rating band, but remain the traditional books' main line — treat them as real tries worth knowing if you play this gambit seriously, rather than as refuted. **3... Qf6**, continuing **4. d4 d6 5. Nc4 fxe4 6. Ne3**, is the *Nimzovich Variation* — essentially unplayed today (no cached masters games or engine eval at this depth), stated as `eco.md`'s own named line rather than built out further here (backlog).
+
+**3... Nc6**, the *Fraser Defence*, is a third real try — White's overwhelming practical answer is **4. Qh5+**, the same light-square trick as the main 3... d5 line below, just reached a move later; not built out further here (backlog, genuinely tiny sample).
 
 [*Back to 3. Nxe5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -132,3 +135,25 @@ White continues developing with **4. d4** (47.1% online) or **4. Bc4** (28.5%), 
 >
 > [*Back to 3. Nxe5*](#_Nxe5_)
 > [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Bc4_"></a>
+
+### 3. Bc4 — Mayet Attack
+
+[![3. Bc4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/pppp2pp/8/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R&lastMove=f1c4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/pppp2pp/8/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_1_3)
+
+*... 3. Bc4 — Mayet Attack*
+
+```
+rnbqkbnr/pppp2pp/8/4pp2/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.1 |
+| --- | --- |
+
+**3... fxe4** is masters' main try (66.7%), and after **4. Nxe5** the position forks three ways, all named `eco.md` lines: **4... d5** (masters' clear preference, 83.3%), the *Polerio Variation*, simply defending the e4-pawn; **4... Qg5** (16.7% masters), the *Behting Variation*, a sharp forcing sequence (5. Nf7 Qxg2 6. Rf1 d5 7. Nxh8 Nf6) where White wins the exchange for a pawn; and **4... Nf6** (0% masters, 14.4% online), the *Corkscrew Counter-Gambit*, developing instead of defending the pawn. None built out further here (backlog).
+
+[*Back to 3. Nf3 f5*](#_initial_move_)
+[*Back to TOP*](#_TOP_)

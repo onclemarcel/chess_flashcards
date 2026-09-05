@@ -67,4 +67,11 @@ None of White's main tries here is objectively much stronger than the others —
 * [**3. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) (+0.1): the [Four Knights Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md), developing symmetrically and keeping the position flexible; the least common of the four both online (7.7%) and in masters play (5.7%).
 * [**3. c3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md) (-0.1, 0.6% masters): the [Ponziani Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Ponziani.md) — a genuine rarity today, preparing an immediate d4, covered on its own card.
 
+Four further C44-coded tries sit in the stats table above with no candidate bullet, a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit — none built out further here (backlog):
+
+* **3. g3** (0.1% masters): live-tagged the *Konstantinopolsky Opening*, fianchettoing rather than committing the centre.
+* **3. Be2** (0.1% masters): live-tagged the *Tayler Opening* already at this root ply — `eco.md`'s own umbrella name here is *Inverted Hungarian*, only narrowing to *Tayler Opening* one ply further after 3... Nf6 4. d4. After **3... Nf6 4. d3 d5 5. Nbd2**, the *Inverted Hanham* (−0.2), a real transposition-flavoured name from the Hanham complex reached a move early.
+* **3. c4** (masters: negligible sample): the *Dresden Opening*.
+* **3. Nxe5!? Nxe5 4. d4** (−2.2, a genuine database curiosity): live-tagged the *Schulze-Müller Gambit* — the same name `eco.md` gives the analogous piece sacrifice reached one move later from the Four Knights (C46), for a materially different but thematically identical idea. A real piece sacrifice, not a fork: Black simply retreats the attacked knight (**4... Nc6** or **4... Ng6**) and stays up a full piece for one pawn.
+
 [*Back to TOP*](#_TOP_)

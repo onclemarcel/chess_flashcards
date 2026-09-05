@@ -21,7 +21,7 @@ flowchart LR
     Nf6 --> Nc3["3. Nc3<br/>+0.1"]
     click Nc3 "#_Nc3_" "C42 · Petrov's Defense: Three Knights"
     Nf6 --> d4["3. d4<br/>+0.5"]
-    click d4 "#_d4_" "C42 · Petrov's Defense: Steinitz Variation"
+    click d4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md" "C43 · Petrov's Defense: Modern Attack"
     Nf6 --> Bc4{"3. Bc4 💣<br/>-0.5"}
     click Bc4 "#_Bc4_trap_" "C42 · Petrov's Defense"
 
@@ -59,14 +59,14 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | Qe2 | 0 | — | 32 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/25/28 |  |
 | h3 | 0 | — | 11 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 21.2 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 21.2 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-05*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**3. Nxe5**](#_Nxe5_) (+0.3): simply takes the pawn — masters' clear main line (68.1%). Black must know the right recapture (see below).
 * [**3. Nc3**](#_Nc3_) (+0.1): the *Three Knights Game*, sidestepping the theoretical main lines by developing instead.
-* [**3. d4**](#_d4_) (+0.5): the *Steinitz Variation*, building the centre before deciding how to meet ... Nxe4.
+* [**3. d4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md) (+0.5): the [Modern (Steinitz) Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C43_Petrov_Modern_Attack.md), its own card — building the centre before deciding how to meet ... Nxe4.
 * [**3. Bc4**](#_Bc4_trap_) (-0.5 💣⚠): a natural-looking developing move that is actually a mistake — see the tip below. Played 17.3% of the time online but almost never by masters (0.4%).
 
 [*Back to TOP*](#_TOP_)
@@ -98,10 +98,10 @@ rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 | d5 | 161 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 11 (0.0%) | — |  |
 | Bc5 | 133 k (1.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/41 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 7.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 7.2 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-09-05*
 <!-- lichess-stats:end -->
 
-* **3... d6** (+0.3, 98.0% of masters games): chasing the knight back before doing anything else — the only fully correct move, and the point of the whole trap below.
+* [**3... d6**](#_d6_) (+0.3, 98.0% of masters games): chasing the knight back before doing anything else — the only fully correct move, and the point of the whole trap below.
 * **3... Nxe4?? ⚠** (+0.5, only 1.6% of masters games, but 8.0% online): looks like the natural way to win the pawn back at once — it isn't. See the tip.
 
 [*Back to 2... Nf6*](#_initial_move_)
@@ -140,10 +140,93 @@ rnbqkb1r/pppp1ppp/5n2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 > | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.6 |
 > | --- | --- |
 >
-> Black's best try is **4... Qe7**, offering a queen trade to break the pin, but after **5. Qxe4 d6 6. d4** (or similar) White simply keeps the extra tempo and a safe, comfortable edge — the pawn Black "won" on move 3 comes right back. This is exactly why 98% of masters play 3... d6 first instead.
+> Black's best try is **4... Qe7**, offering a queen trade to break the pin, but after **5. Qxe4 d6 6. d4** (or similar) White simply keeps the extra tempo and a safe, comfortable edge — the pawn Black "won" on move 3 comes right back. This is exactly why 98% of masters play 3... d6 first instead. **Live-confirmed**: this exact position (before 4. Qe2) is itself named — the *Damiano Variation*.
 >
 > [*Back to 3. Nxe5*](#_Nxe5_)
 > [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_d6_"></a>
+
+### 3... d6 4. Nf3 Nxe4
+
+[![4... Nxe4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R&lastMove=f6e4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_5)
+
+*... 3... d6 4. Nf3 Nxe4*
+
+```
+rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="8" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| d4 | 1.0 M (35.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/44 | 12 k (55.7%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/66/10 |  |
+| Nc3 | 884 k (30.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/7/43 | 5.7 k (25.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 27/61/11 |  |
+| Qe2 | 401 k (13.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/44 | 1.8 k (8.4%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 10/82/8 |  |
+| d3 | 282 k (9.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 804 (3.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 27/59/14 |  |
+| Bc4 | 114 k (3.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/50 | 0 | — | ⚠ |
+| Be2 | 65 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 7 (0.0%) | — |  |
+| Bd3 | 61 k (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 651 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/49/13 |  |
+| c4 | 44 k (1.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 716 (3.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 36/50/14 |  |
+| h3 | 0 | — | 3 (0.0%) | — |  |
+
+*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/3p4/8/4n3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-05*
+<!-- lichess-stats:end -->
+
+Black has fully regained the pawn with a comfortable position. White's 5th move is a genuine four-way spread:
+
+* [**5. d4**](#_Classical_) (+0.2, 55.7% masters): the *Classical Attack* — builds the biggest centre and the deepest body of named theory on this whole card, covered below.
+* **5. Nc3** (+0.2, 25.9% masters): the *Nimzovich Attack* — develops instead, offering a queen trade after **5... Nxc3 6. dxc3**.
+* **5. Qe2** (0.0, 8.4% masters): the *Cozio (Lasker) Attack* — pins the knight without committing the centre pawn yet.
+* **5. d3** (+0.2, 3.7% masters): the *French Attack* — a quieter retreat-and-rebuild.
+* **5. c4** (+0.1, 3.3% masters): the *Kaufmann Attack*.
+
+[*Back to 3. Nxe5*](#_Nxe5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Classical_"></a>
+
+### 5. d4 d5 6. Bd3 — Classical Attack
+
+[![6. Bd3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R&lastMove=f1d3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_6)
+
+*... 5. d4 d5 6. Bd3 — Classical Attack*
+
+```
+rnbqkb1r/ppp2ppp/8/3p4/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
+| --- | --- |
+
+Black's bishop develops one of two ways, each its own named sub-family:
+
+* **6... Be7** (+0.3): toward the *Chigorin*/*Jaenisch*/*Mason* complex, castling kingside first.
+* **6... Bd6** (+0.4): the *Marshall Variation*, developing more actively but blocking the d-pawn's own square.
+
+Rather than push **5... d5**, Black can instead retreat the e4-knight immediately with **5... Nf6** — the *Closed Variation* (+0.4, a genuine minor sideline, 33 masters games) — sidestepping the whole Classical Attack tree below in favour of a quieter, more Philidor-like structure. Not built out further here (backlog).
+
+Ten named sub-variations branch from here — this is the single deepest body of theory on this card. None built out with their own diagram past this point (backlog), but every one is live-confirmed reachable and still C42-coded:
+
+* **6... Be7 7. O-O Nc6 8. Re1** (+0.1): the *Chigorin Variation*. From here, **8... Bg4 9. c3 f5** forks into **10. Nbd2** (the *Berger Variation*, +0.1) and **10. c4** (the *Krause Variation*, −0.3 — a real engine swing toward Black), the latter continuing **10... Bh4** (the *Maroczy Variation*, 0.00).
+* **6... Be7 7. O-O Nc6 8. c4** (+0.2): the *Jaenisch Variation*.
+* **6... Be7 7. O-O O-O** (+0.3): the *Mason Variation*.
+* **6... Bd6 7. O-O O-O 8. c4 Bg4** (+0.7): the *Tarrasch Variation* — a real engine swing toward White. Continuing **9. cxd5 f5 10. Re1 Bxh2** (−0.3, another swing back toward Black) is the *Marshall trap* — a genuine piece sacrifice for a kingside attack, not (despite the name) a trap that wins material outright.
+
+[*Back to 3... d6*](#_d6_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> Two further C42 tries off the 3... d6 root, both real but rare (a handful of games each): **4. Nxf7!?**, the *Cochrane Gambit* — a piece sacrifice masters answer almost unanimously with **4... Kxf7** (100%), and Stockfish already rates the resulting position as *better for Black* (−0.5), contrary to the line's aggressive reputation. **4. Nc4** is the *Paulsen Attack*, a quieter retreat (0.00). Neither built out further here (backlog).
 
 ---
 
@@ -163,28 +246,6 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 3 3
 | --- | --- |
 
 Sidesteps Petrov theory entirely; after **3... Nc6**, the game transposes to the Four Knights Game.
-
-[*Back to 2... Nf6*](#_initial_move_)
-[*Back to TOP*](#_TOP_)
-
----
-
-<a name="_d4_"></a>
-
-### 3. d4 — Steinitz Variation
-
-[![3. d4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3)
-
-*... 3. d4 — Steinitz Variation*
-
-```
-rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
-| --- | --- |
-
-Builds the centre before resolving the tension on e4/e5. After **3... Nxe4**, White gets a comfortable lead in development for the pawn with **4. Bd3** ideas; Black can also decline with **3... exd4**.
 
 [*Back to 2... Nf6*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -219,7 +280,7 @@ Builds the centre before resolving the tension on e4/e5. After **3... Nxe4**, Wh
 > | d3 | 147 k (9.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 5 (4.1%) | — |  |
 > | d4 | 85 k (5.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-05*
 > <!-- lichess-stats:end -->
 >
 > Unlike the similar-looking Italian/Four Knights "Center Fork Trick" (**2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Nxe4**), there is no knight fork to win the pawn back here — White simply has nothing better than **4. Nc3**, hitting the knight and hoping for compensation from the bishop's diagonal, but engines still favour Black by roughly half a pawn (-0.5) after best play. Masters who reach 3. Bc4 punish it with 3... Nxe4 68.9% of the time; online, only 31.3% find it, and 34.7% play the more natural-looking (but pointless) 3... Nc6 instead.
