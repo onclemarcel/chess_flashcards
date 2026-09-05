@@ -198,6 +198,13 @@ White's 4th move here is a genuine three-way near-even split, each leading to a 
 * [**4. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Classical_System.md) (+0.6): the *Classical Variation* — a close second (23.2%), developing quietly before committing to a plan. Live-confirmed its own code, **B08** — covered on its own card.
 * [**4. Be3**](#_Be3_) (+0.5): the *150 Attack* — nearly as common (21.4%), preparing Qd2 and long castling for a direct kingside pawn storm. Stays **B07** — covered below.
 
+Four further real B07 tries sit in the stats table above with no candidate bullet — a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit, all backlog (none built out past this ply):
+
+* **4. g3** (7.8% masters): the *Sveshnikov System* — masters' near-unanimous reply is **4... Bg7** (97.3%).
+* **4. Bc4** (masters: below display threshold): the *Kholmov System* (`eco.md` spells it *Holmov*, a minor divergence) — **4... Bg7** (86.4% masters).
+* **4. Bg5** (9.8% masters): the *Byrne Variation* — **4... Bg7** (61.3% masters) or **4... c6** (26.9%).
+* **4. Be2** (masters: below display threshold, untagged at this bare ply): forks into two named lines after **4... Bg7** — **5. g4!?**, the *Chinese Variation* (masters split **5... c5**/**5... h6**/**5... c6**/**5... h5**/**5... d5**, no single clear main try), and **5. h4!?**, the *Bayonet Attack* (masters split **5... c5** 40.4% / **5... h5** 36.3%).
+
 > [!NOTE]
 > **Transposition**: the same B07 tabiya is also reachable by the "Modern"-style move order 1. e4 g6 2. d4 Bg7 3. Nf3 d6, and from there **4. c3!?** (+0.4, mention-only) is live-tagged the *Modern Defense: Geller's System* — a real name attached to this specific move order rather than the 3. Nc3 g6 order covered above.
 

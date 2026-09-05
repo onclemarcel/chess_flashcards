@@ -23,7 +23,7 @@ flowchart LR
     click Nd5 "#_Nd5_" "B02 · Alekhine Defense"
 
     Nd5 --> d4[["3. d4 !<br/>+0.5"]]:::main
-    click d4 "#_d4_" "B02 · Alekhine Defense: Normal Variation"
+    click d4 "#_d4_" "B03 · Alekhine Defense"
 ```
 <!-- content-diagram:end -->
 
@@ -276,7 +276,9 @@ Not built out further here (backlog) — deeper Two Pawns Attack theory is its o
 
 <a name="_d4_"></a>
 
-## 3. d4 — Normal Variation
+## 3. d4
+
+**Live-confirmed via the Lichess explorer's own `opening` field**: this exact position is already tagged **B03**, not B02 — `eco.md` itself files the bare "3. d4" under its own B03 heading too, one code earlier than this card's own title. The root/diagram stays here since B03's own dedicated card ([`B03_Alekhine_Defense.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md)) starts one ply deeper, at 3... d6 — noted explicitly rather than silently mislabeled, the same choice made elsewhere in this repo for a root/next-code mismatch (e.g. C47's own C46 root, D01's own D00 root).
 
 [![3. d4](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_3)
 

@@ -670,120 +670,120 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## B01
 
-- **Scandinavian Defence, Centre Counter Variation** — `1.e4 d5`
-- **Scandinavian Defence, Lasker Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3`
-- **Scandinavian Defence** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5`
-- **Scandinavian Defence, Gruenfeld Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Ne5 c6 7.g4`
-- **Scandinavian Defence, Anderssen Counter-attack** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5`
-- **Scandinavian Defence, Anderssen Counter-attack,  Orthodox Attack** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.dxe5 Bb4 6.Bd2 Nc6 7.Nf3`
-- **Scandinavian Defence, Anderssen Counter-attack,  Goteborg System** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.Nf3`
-- **Scandinavian Defence, Anderssen Counter-attack,  Collijn Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.Nf3 Bg4`
-- **Scandinavian Defence, Mieses-Kotrvc Gambit** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4`
-- **Scandinavian Defence, Pytel-Wade Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6`
-- **Scandinavian Defence** — `1.e4 d5 2.exd5 Nf6`
-- **Scandinavian Defence, Icelandic Gambit** — `1.e4 d5 2.exd5 Nf6 3.c4 e6`
-- **Scandinavian Defence, Gambit** — `1.e4 d5 2.exd5 Nf6 3.c4 c6`
-- **Scandinavian Defence** — `1.e4 d5 2.exd5 Nf6 3.d4`
-- **Scandinavian Defence, Marshall Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 Nxd5`
-- **Scandinavian Defence, Kiel Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb4`
-- **Scandinavian Defence, Richter Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 g6`
+- **Scandinavian Defence, Centre Counter Variation** — `1.e4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_d5_)
+- **Scandinavian Defence, Lasker Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bg4 6.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Lasker_)
+- **Scandinavian Defence** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Classical_)
+- **Scandinavian Defence, Gruenfeld Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 Nf6 5.Nf3 Bf5 6.Ne5 c6 7.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Classical_)
+- **Scandinavian Defence, Anderssen Counter-attack** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Anderssen_)
+- **Scandinavian Defence, Anderssen Counter-attack,  Orthodox Attack** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.dxe5 Bb4 6.Bd2 Nc6 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Anderssen_)
+- **Scandinavian Defence, Anderssen Counter-attack,  Goteborg System** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Anderssen_)
+- **Scandinavian Defence, Anderssen Counter-attack,  Collijn Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.d4 e5 5.Nf3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Anderssen_)
+- **Scandinavian Defence, Mieses-Kotrvc Gambit** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qa5 4.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Qa5_d4_) — live-tagged the *Leonhardt Gambit*
+- **Scandinavian Defence, Pytel-Wade Variation** — `1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Scandinavian.md#_Qxd5_Nc3_) — the card's own name for this position is the *Gubinsky-Melts Defense*, a real name divergence from `eco.md`
+- **Scandinavian Defence** — `1.e4 d5 2.exd5 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_Nf6_)
+- **Scandinavian Defence, Icelandic Gambit** — `1.e4 d5 2.exd5 Nf6 3.c4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_Modern_alt_) — live-tagged the *Icelandic-Palme Gambit*
+- **Scandinavian Defence, Gambit** — `1.e4 d5 2.exd5 Nf6 3.c4 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_Modern_alt_) — live-tagged the *Panov Transfer*
+- **Scandinavian Defence** — `1.e4 d5 2.exd5 Nf6 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_d4_)
+- **Scandinavian Defence, Marshall Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_Marshall_)
+- **Scandinavian Defence, Kiel Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 Nxd5 4.c4 Nb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_Marshall_)
+- **Scandinavian Defence, Richter Variation** — `1.e4 d5 2.exd5 Nf6 3.d4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B01_Modern.md#_d4_)
 
 ## B02
 
-- **Alekhine's Defence** — `1.e4 Nf6`
-- **Alekhine's Defence, Scandinavian Variation** — `1.e4 Nf6 2.Nc3 d5`
-- **Alekhine's Defence, Spielmann Variation** — `1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6`
-- **Alekhine's Defence, Maroczy Variation** — `1.e4 Nf6 2.d3`
-- **Alekhine's Defence, Krejcik Variation** — `1.e4 Nf6 2.Bc4`
-- **Alekhine's Defence, Mokele Mbembe (Buecker) Variation** — `1.e4 Nf6 2.e5 Ne4`
-- **Alekhine's Defence, Brooklyn Defence** — `1.e4 Nf6 2.e5 Ng8`
-- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5`
-- **Alekhine's Defence, Kmoch Variation** — `1.e4 Nf6 2.e5 Nd5 3.Bc4 Nb6 4.Bb3 c5 5.d3`
-- **Alekhine's Defence, Saemisch Attack** — `1.e4 Nf6 2.e5 Nd5 3.Nc3`
-- **Alekhine's Defence, Welling Variation** — `1.e4 Nf6 2.e5 Nd5 3.b3`
-- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.c4`
-- **Alekhine's Defence, Steiner Variation** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.b3`
-- **Alekhine's Defence, Two Pawns' (Lasker's) Attack** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5`
-- **Alekhine's Defence, Two Pawns' Attack,  Mikenas Variation** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.Nc3 d6`
+- **Alekhine's Defence** — `1.e4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_initial_move_)
+- **Alekhine's Defence, Scandinavian Variation** — `1.e4 Nf6 2.Nc3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Nc3_) — live-verified untagged despite `eco.md`'s own name here
+- **Alekhine's Defence, Spielmann Variation** — `1.e4 Nf6 2.Nc3 d5 3.e5 Nfd7 4.e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Nc3_)
+- **Alekhine's Defence, Maroczy Variation** — `1.e4 Nf6 2.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_initial_move_)
+- **Alekhine's Defence, Krejcik Variation** — `1.e4 Nf6 2.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_initial_move_)
+- **Alekhine's Defence, Mokele Mbembe (Buecker) Variation** — `1.e4 Nf6 2.e5 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_e5_)
+- **Alekhine's Defence, Brooklyn Defence** — `1.e4 Nf6 2.e5 Ng8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_e5_)
+- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Nd5_)
+- **Alekhine's Defence, Kmoch Variation** — `1.e4 Nf6 2.e5 Nd5 3.Bc4 Nb6 4.Bb3 c5 5.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Nd5_)
+- **Alekhine's Defence, Saemisch Attack** — `1.e4 Nf6 2.e5 Nd5 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Saemisch_)
+- **Alekhine's Defence, Welling Variation** — `1.e4 Nf6 2.e5 Nd5 3.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Welling_)
+- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_c4_)
+- **Alekhine's Defence, Steiner Variation** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Steiner_)
+- **Alekhine's Defence, Two Pawns' (Lasker's) Attack** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Lasker_) — Lichess separates this from the deeper Mikenas line as its own *Lasker Variation*
+- **Alekhine's Defence, Two Pawns' Attack,  Mikenas Variation** — `1.e4 Nf6 2.e5 Nd5 3.c4 Nb6 4.c5 Nd5 5.Bc4 e6 6.Nc3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_Lasker_)
 
 ## B03
 
-- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4`
-- **Alekhine's Defence, O'Sullivan Gambit** — `1.e4 Nf6 2.e5 Nd5 3.d4 b5`
-- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6`
-- **Alekhine's Defence, Balogh Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Bc4`
-- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4`
-- **Alekhine's Defence, Exchange Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6`
-- **Alekhine's Defence, Exchange,  Karpov Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nf3 g6 7.Be2 Bg7 8.O-O O-O 9.h3 Nc6 10.Nc3 Bf5 11.Bf4`
-- **Alekhine's Defence, Four Pawns Attack** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4`
-- **Alekhine's Defence, Four Pawns Attack,  Korchnoi Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 8.Nf3 Be7 9.Be2 O-O 10.O-O f6`
-- **Alekhine's Defence, Four Pawns Attack,  6...Nc6** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6`
-- **Alekhine's Defence, Four Pawns Attack,  Ilyin-Genevsky var.** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Nf3 Bg4 8.e6 fxe6 9.c5`
-- **Alekhine's Defence, Four Pawns Attack,  7.Be3** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3`
-- **Alekhine's Defence, Four Pawns Attack,  Tartakower Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3 Bf5 8.Nc3 e6 9.Nf3 Qd7 10.Be2 O-O-O 11.O-O Be7`
-- **Alekhine's Defence, Four Pawns Attack,  Planinc Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g5`
-- **Alekhine's Defence, Four Pawns Attack,  Fianchetto Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g6`
-- **Alekhine's Defence, Four Pawns Attack,  Trifunovic Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5`
+- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_d4_) — a genuine "wrong root code" bug found and fixed this batch: this position had been labelled B02 on its own card; now disclosed as live-B03 in place, per this repo's established root/next-code mismatch convention
+- **Alekhine's Defence, O'Sullivan Gambit** — `1.e4 Nf6 2.e5 Nd5 3.d4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B02_Alekhine_Defense.md#_d4_)
+- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_initial_move_)
+- **Alekhine's Defence, Balogh Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_initial_move_)
+- **Alekhine's Defence** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_c4_)
+- **Alekhine's Defence, Exchange Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Nb6_)
+- **Alekhine's Defence, Exchange,  Karpov Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.exd6 cxd6 6.Nf3 g6 7.Be2 Bg7 8.O-O O-O 9.h3 Nc6 10.Nc3 Bf5 11.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Nb6_)
+- **Alekhine's Defence, Four Pawns Attack** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_f4_)
+- **Alekhine's Defence, Four Pawns Attack,  Korchnoi Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Bf5 7.Nc3 e6 8.Nf3 Be7 9.Be2 O-O 10.O-O f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_fxe5_)
+- **Alekhine's Defence, Four Pawns Attack,  6...Nc6** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Nc6_fpa_)
+- **Alekhine's Defence, Four Pawns Attack,  Ilyin-Genevsky var.** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Nf3 Bg4 8.e6 fxe6 9.c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Be3_fpa_)
+- **Alekhine's Defence, Four Pawns Attack,  7.Be3** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Be3_fpa_)
+- **Alekhine's Defence, Four Pawns Attack,  Tartakower Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 dxe5 6.fxe5 Nc6 7.Be3 Bf5 8.Nc3 e6 9.Nf3 Qd7 10.Be2 O-O-O 11.O-O Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_Be3_fpa_)
+- **Alekhine's Defence, Four Pawns Attack,  Planinc Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_fxe5_)
+- **Alekhine's Defence, Four Pawns Attack,  Fianchetto Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_fxe5_)
+- **Alekhine's Defence, Four Pawns Attack,  Trifunovic Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.c4 Nb6 5.f4 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B03_Alekhine_Defense.md#_fxe5_)
 
 ## B04
 
-- **Alekhine's Defence, Modern Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3`
-- **Alekhine's Defence, Modern,  Larsen Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5`
-- **Alekhine's Defence, Modern,  Schmid Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nb6`
-- **Alekhine's Defence, Modern,  Fianchetto Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6`
-- **Alekhine's Defence, Modern,  Keres Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4`
+- **Alekhine's Defence, Modern Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md#_initial_move_)
+- **Alekhine's Defence, Modern,  Larsen Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md#_dxe5_)
+- **Alekhine's Defence, Modern,  Schmid Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Nb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md#_initial_move_)
+- **Alekhine's Defence, Modern,  Fianchetto Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md#_g6_)
+- **Alekhine's Defence, Modern,  Keres Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 g6 5.Bc4 Nb6 6.Bb3 Bg7 7.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B04_Alekhine_Modern_Variation.md#_g6_)
 
 ## B05
 
-- **Alekhine's Defence, Modern Variation,  4...Bg4** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4`
-- **Alekhine's Defence, Modern,  Flohr Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 c6`
-- **Alekhine's Defence, Modern,  Panov Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.h3`
-- **Alekhine's Defence, Modern,  Alekhine Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4`
-- **Alekhine's Defence, Modern,  Vitolins Attack** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4 Nb6 6.d5`
+- **Alekhine's Defence, Modern Variation,  4...Bg4** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md#_initial_move_)
+- **Alekhine's Defence, Modern,  Flohr Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.Be2 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md#_Be2_)
+- **Alekhine's Defence, Modern,  Panov Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md#_initial_move_)
+- **Alekhine's Defence, Modern,  Alekhine Variation** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md#_initial_move_)
+- **Alekhine's Defence, Modern,  Vitolins Attack** — `1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 Bg4 5.c4 Nb6 6.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B05_Alekhine_Modern_Bg4.md#_initial_move_)
 
 ## B06
 
-- **Robatsch Defence, Modern** — `1.e4 g6`
-- **Norwegian Defence** — `1.e4 g6 2.d4 Nf6 3.e5 Nh5 4.g4 Ng7`
-- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7`
-- **Robatsch Defence, three Pawns Attack** — `1.e4 g6 2.d4 Bg7 3.f4`
-- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7 3.Nc3`
-- **Robatsch Defence, Gurgenidze Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.f4 d5 5.e5 h5`
-- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6`
-- **Robatsch Defence, Two Knights Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3`
-- **Robatsch Defence, Two Knights,  Suttles Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3 c6`
-- **Robatsch Defence, Pseudo-Austrian Attack** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4`
+- **Robatsch Defence, Modern** — `1.e4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_initial_move_)
+- **Norwegian Defence** — `1.e4 g6 2.d4 Nf6 3.e5 Nh5 4.g4 Ng7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_d4_)
+- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_Bg7_)
+- **Robatsch Defence, three Pawns Attack** — `1.e4 g6 2.d4 Bg7 3.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_f4_TPA_)
+- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_Nc3_)
+- **Robatsch Defence, Gurgenidze Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 c6 4.f4 d5 5.e5 h5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_Nc3_) — `eco.md` spells it *Gurgenidze Defense*
+- **Robatsch Defence** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_d6_)
+- **Robatsch Defence, Two Knights Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_Nf3_TKV_)
+- **Robatsch Defence, Two Knights,  Suttles Variation** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.Nf3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_Nf3_TKV_)
+- **Robatsch Defence, Pseudo-Austrian Attack** — `1.e4 g6 2.d4 Bg7 3.Nc3 d6 4.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B06_Modern_Defense.md#_f4_PAA_)
 
 ## B07
 
-- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3`
-- **Pirc Defence, Ufimtsev-Pytel Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 c6`
-- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6`
-- **Pirc Defence, 150 Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2`
-- **Pirc Defence, Sveshnikov System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.g3`
-- **Pirc Defence, Holmov System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bc4`
-- **Pirc Defence, Byrne Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5`
-- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2`
-- **Pirc Defence, Chinese Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.g4`
-- **Pirc Defence, Bayonet Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.h4`
-- **Robatsch Defence, Geller's System** — `1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.c3`
+- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_Nc3_)
+- **Pirc Defence, Ufimtsev-Pytel Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_c6_) — live-tagged the *Czech Defense*, a real name divergence
+- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_)
+- **Pirc Defence, 150 Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be3 c6 5.Qd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_Be3_)
+- **Pirc Defence, Sveshnikov System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — a genuine zero-coverage gap found and fixed this batch
+- **Pirc Defence, Holmov System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — live spells it *Kholmov System*, a minor spelling divergence; found and fixed this batch
+- **Pirc Defence, Byrne Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — found and fixed this batch
+- **Pirc Defence** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — found and fixed this batch, untagged at this bare ply
+- **Pirc Defence, Chinese Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — found and fixed this batch
+- **Pirc Defence, Bayonet Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Be2 Bg7 5.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_) — found and fixed this batch
+- **Robatsch Defence, Geller's System** — `1.e4 g6 2.d4 Bg7 3.Nf3 d6 4.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B07_Pirc_Defense.md#_g6_)
 
 ## B08
 
-- **Pirc Defence, Classical System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3`
-- **Pirc Defence, Classical System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7`
-- **Pirc Defence, Classical System,  h3 System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3`
-- **Pirc Defence, Classical System,  5.Be2** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2`
+- **Pirc Defence, Classical System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Classical_System.md#_initial_move_)
+- **Pirc Defence, Classical System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Classical_System.md#_Bg7_)
+- **Pirc Defence, Classical System,  h3 System** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Classical_System.md#_h3_) — live-tagged the *Schlechter Variation*
+- **Pirc Defence, Classical System,  5.Be2** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.Nf3 Bg7 5.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B08_Pirc_Classical_System.md#_Be2_) — live-tagged the *Quiet System*
 
 ## B09
 
-- **Pirc Defence, Austrian Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4`
-- **Pirc Defence, Austrian Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O`
-- **Pirc Defence, Austrian Attack,  6.e5** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.e5`
-- **Pirc Defence, Austrian Attack,  6.Be3** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Be3`
-- **Pirc Defence, Austrian Attack,  6.Bd3** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3`
-- **Pirc Defence, Austrian Attack,  Dragon formation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5`
-- **Pirc Defence, Austrian Attack,  Ljubojevic Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Bc4`
+- **Pirc Defence, Austrian Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_initial_move_)
+- **Pirc Defence, Austrian Attack** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_Nf3_)
+- **Pirc Defence, Austrian Attack,  6.e5** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_e5_) — live-tagged the *Unzicker Attack*
+- **Pirc Defence, Austrian Attack,  6.Be3** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_Be3_) — live-tagged the *Kurajica Variation*
+- **Pirc Defence, Austrian Attack,  6.Bd3** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 O-O 6.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_Bd3_) — live-tagged the *Weiss Variation*
+- **Pirc Defence, Austrian Attack,  Dragon formation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Nf3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_Nf3_)
+- **Pirc Defence, Austrian Attack,  Ljubojevic Variation** — `1.e4 d6 2.d4 Nf6 3.Nc3 g6 4.f4 Bg7 5.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B09_Pirc_Austrian_Attack.md#_Bg7_)
 
 ## B10
 
