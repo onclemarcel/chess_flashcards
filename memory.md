@@ -407,6 +407,8 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 - Two bishop sidesteps at the "2...d5" fork: Schlechter Variation (3. Bd3) and the *Alapin Gambit* (3. Be3, `eco.md`'s own "Alapin Variation" name doesn't carry the gambit label the live explorer gives it).
 - All 19 C00 entries now `✅ [covered]`. `check_diagram.py` clean (82 files) after the edit — no wrong-root-code bugs found this time, just the coverage gap.
 
+**C20 completed, same session — user flagged it next.** `C20_KPG.md` already built out the root, the whole 2. d4 Center Game fork, and the whole 2. Qh5 Wayward Queen Attack fork in depth, but six real root-level minor tries sat in the stats table with zero coverage anywhere — a genuine gap, not just missing checkmarks. Added as one consolidated NOTE, all live-verified: 2. d3 (live-tagged the *Leonardis Variation* — `eco.md`'s own "Indian Opening" name is a real divergence), 2. a3 (*Mengarini's Opening*, matches), 2. f3 (*King's Head Opening*, matches, a genuine 1-masters-game curiosity), 2. Qf3 (live-tagged the *Napoleon Attack*, `eco.md` says "Napoleon's Opening"), 2. c3 (live-tagged the *MacLeod Attack* — `eco.md`'s own "Lopez Opening" name is a substantial divergence, not just spelling), and 2. Ne2 (*Alapin Opening*, matches). All 8 C20 entries now `✅ [covered]`. `check_diagram.py` clean (82 files) after the edit.
+
 ---
 
 ## File naming convention (established 2026-08-25, repo-wide cleanup)

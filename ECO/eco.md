@@ -1473,13 +1473,13 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 ## C20
 
 - **King's Pawn Game** — `1.e4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_)
-- **King's Pawn Game, Indian Opening** — `1.e4 e5 2.d3`
-- **King's Pawn Game, Mengarini's Opening** — `1.e4 e5 2.a3`
-- **King's Pawn Game, King's head Opening** — `1.e4 e5 2.f3`
+- **King's Pawn Game, Indian Opening** — `1.e4 e5 2.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_) — live-tagged the *Leonardis Variation*
+- **King's Pawn Game, Mengarini's Opening** — `1.e4 e5 2.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_)
+- **King's Pawn Game, King's head Opening** — `1.e4 e5 2.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_)
 - **King's Pawn Game, Patzer Opening** — `1.e4 e5 2.Qh5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_Qh5_)
-- **King's Pawn Game, Napoleon's Opening** — `1.e4 e5 2.Qf3`
-- **King's Pawn Game, Lopez Opening** — `1.e4 e5 2.c3`
-- **Alapin Opening** — `1.e4 e5 2.Ne2`
+- **King's Pawn Game, Napoleon's Opening** — `1.e4 e5 2.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_) — live-tagged the *Napoleon Attack*
+- **King's Pawn Game, Lopez Opening** — `1.e4 e5 2.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_) — live-tagged the *MacLeod Attack*
+- **Alapin Opening** — `1.e4 e5 2.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C20_KPG.md#_initial_move_)
 
 ## C21
 

@@ -76,6 +76,15 @@ rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 * [**2. Bc4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md) (0.0): another development move that doesn't challenge e5, but aims at f7 while preventing d5. Similarly to **2. Nc3** above, the [Bishop's Opening](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C23_Bishop_Opening.md) gives flexibility in Black's response.
 * [**2. Qh5**](#_Qh5_) (-0.3): this move violates an opening principle by bringing the queen out early. However, Black has to be careful, as White's queen is placed on an aggressive square. The f7-pawn is guarded only by Black's king and is considered Black's weakest pawn at the beginning of the game — see below.
 
+Six further real C20 tries sit in the stats table above with no candidate bullet or below its own display cutoff — a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit. None built out past this ply (all backlog), but every one is live-confirmed and named:
+
+* **2. d3** (0% masters): live-tagged the *Leonardis Variation* — `eco.md`'s own name here is the *Indian Opening*, a real name divergence. Masters' main reply is **2... Nc6** (51.4%).
+* **2. a3** (0% masters): *Mengarini's Opening* — masters answer **2... Nf6** (79.6%).
+* **2. f3** (a genuine database curiosity, 1 masters game): the *King's Head Opening*.
+* **2. Qf3** (0% masters): live-tagged the *Napoleon Attack* — `eco.md`'s own name is *Napoleon's Opening*, a minor divergence.
+* **2. c3** (0% masters): live-tagged the *MacLeod Attack* — `eco.md`'s own name here is the *Lopez Opening*, a real name divergence.
+* **2. Ne2** (0% masters): the *Alapin Opening* — masters' main reply is **2... Nf6** (61.5%).
+
 [*Back to TOP*](#_TOP_)
 
 ---
