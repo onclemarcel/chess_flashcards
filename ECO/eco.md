@@ -1989,22 +1989,22 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C52
 
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5`
-- **Italian Game, Evans Gambit,  compromised Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3`
-- **Italian Game, Evans Gambit,  compromised Defence,  Paulsen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Nge7 11.Ba3`
-- **Italian Game, Evans Gambit,  compromised Defence,  Potter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Nge7 11.Rd1`
-- **Italian Game, Evans Gambit,  Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 b5`
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6`
-- **Italian Game, Evans Gambit,  Tartakower Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3`
-- **Italian Game, Evans Gambit,  Levenfish Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3 Qd7 8.dxe5 dxe5 9.O-O Bb6 10.Ba3 Na5 11.Nxe5`
-- **Italian Game, Evans Gambit,  Sokolsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Bg5`
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O`
-- **Italian Game, Evans Gambit,  Richardson Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O Nf6 7.d4 O-O 8.Nxe5`
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6`
-- **Italian Game, Evans Gambit,  Waller Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 exd4 8.Qb3`
-- **Italian Game, Evans Gambit,  Lasker Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bb6`
-- **Italian Game, Evans Gambit,  Sanders-Alapin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bd7`
-- **Italian Game, Evans Gambit,  Alapin-Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bg4`
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_initial_move_) (live-tagged the *Main Line*)
+- **Italian Game, Evans Gambit,  compromised Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Compromised_)
+- **Italian Game, Evans Gambit,  compromised Defence,  Paulsen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Nge7 11.Ba3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_CompromisedMain_) (live-tagged *Compromised Defense, Main Line*, a real name divergence from `eco.md`'s own "Paulsen Variation")
+- **Italian Game, Evans Gambit,  compromised Defence,  Potter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.O-O dxc3 8.Qb3 Qf6 9.e5 Qg6 10.Nxc3 Nge7 11.Rd1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Potter_)
+- **Italian Game, Evans Gambit,  Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Leonhardt_) (live-tagged the *Leonhardt Countergambit*, a real name divergence)
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_d6_) (live-tagged the *Bronstein Defense*, a real name divergence)
+- **Italian Game, Evans Gambit,  Tartakower Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Tartakower_)
+- **Italian Game, Evans Gambit,  Levenfish Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Qb3 Qd7 8.dxe5 dxe5 9.O-O Bb6 10.Ba3 Na5 11.Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Tartakower_)
+- **Italian Game, Evans Gambit,  Sokolsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 d6 7.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Sokolsky_)
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_OO_) (live-tagged the *Slow Variation*, a real name divergence)
+- **Italian Game, Evans Gambit,  Richardson Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O Nf6 7.d4 O-O 8.Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Richardson_)
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_OOd6_)
+- **Italian Game, Evans Gambit,  Waller Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 exd4 8.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Waller_)
+- **Italian Game, Evans Gambit,  Lasker Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_Lasker_)
+- **Italian Game, Evans Gambit,  Sanders-Alapin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_SandersAlapin_)
+- **Italian Game, Evans Gambit,  Alapin-Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.O-O d6 7.d4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C52_Evans_Gambit_Main_Line.md#_AlapinSteinitz_)
 
 ## C53
 
