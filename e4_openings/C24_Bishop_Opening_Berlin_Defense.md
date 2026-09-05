@@ -77,7 +77,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/3P4/PPP2PPP/RNBQK1NR b KQkq - 0 3
 
 * **3... c6** (0.0, 42.1% masters): prepares ... d5, striking in the centre before White fully consolidates — matches the Two Knights/Giuoco Piano's own ... c6 sidelines in spirit.
 * **3... Nc6** (0.0, 42.0% masters): simple development, keeping ... Bc5 or ... Be7 available next.
-* **3... Bc5** (+0.1, 12.2% masters, 34.5% online): transposes toward [Giuoco Piano](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Giuoco_Piano.md)-style structures, just with White's bishop's diagonal already committed a move early via 2. Bc4 instead of 3. Bc4.
+* **3... Bc5** (+0.1, 12.2% masters, 34.5% online): transposes toward [Giuoco Piano](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Bc5_)-style structures, just with White's bishop's diagonal already committed a move early via 2. Bc4 instead of 3. Bc4.
 * **3... c6 / Nc6 / Bc5** all stay within 0.1 of equal — none built out further here (backlog), since the position's whole character is "quiet and flexible" rather than sharp.
 
 [*Back to TOP*](#_TOP_)

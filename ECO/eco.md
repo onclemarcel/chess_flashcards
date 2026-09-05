@@ -1946,46 +1946,46 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C50
 
-- **Italian Game, King's Pawn Game** — `1.e4 e5 2.Nf3 Nc6 3.Bc4`
-- **Italian Game, Blackburne Shilling Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4 4.Nxe5 Qg5 5.Nxf7 Qxg2 6.Rf1 Qxe4 7.Be2 Nf3`
-- **Italian Game, Rousseau Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 f5`
-- **Italian Game, Hungarian Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7`
-- **Italian Game, Hungarian Defence,  Tartakower Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.d4 exd4 5.c3 Nf6 6.e5 Ne4`
-- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5`
-- **Italian Game, Giuoco Piano,  Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6`
-- **Italian Game, Giuoco Piano,  Jerome Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7`
-- **Italian Game, Giuoco Pianissimo** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3`
-- **Italian Game, Giuoco Pianissimo,  Dubois Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 f5 5.Ng5 f4`
-- **Italian Game, Giuoco Pianissimo** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6`
-- **Italian Game, Giuoco Pianissimo,  Italian Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3`
-- **Italian Game, Giuoco Pianissimo,  Canal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Bg5`
+- **Italian Game, King's Pawn Game** — `1.e4 e5 2.Nf3 Nc6 3.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_initial_move_)
+- **Italian Game, Blackburne Shilling Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nd4 4.Nxe5 Qg5 5.Nxf7 Qxg2 6.Rf1 Qxe4 7.Be2 Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Nd4_) (live-tagged the *Blackburne-Kostić Gambit*, a real name divergence)
+- **Italian Game, Rousseau Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md)
+- **Italian Game, Hungarian Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Be7_)
+- **Italian Game, Hungarian Defence,  Tartakower Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Be7 4.d4 exd4 5.c3 Nf6 6.e5 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Be7_)
+- **Italian Game, Giuoco Piano** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Bc5_)
+- **Italian Game, Giuoco Piano,  Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Nc3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_FourKnightsVar_)
+- **Italian Game, Giuoco Piano,  Jerome Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.Bxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Jerome_)
+- **Italian Game, Giuoco Pianissimo** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Pianissimo_)
+- **Italian Game, Giuoco Pianissimo,  Dubois Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 f5 5.Ng5 f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Pianissimo_)
+- **Italian Game, Giuoco Pianissimo** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_PianissimoNormal_)
+- **Italian Game, Giuoco Pianissimo,  Italian Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_ItalianFourKnights_)
+- **Italian Game, Giuoco Pianissimo,  Canal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.d3 Nf6 5.Nc3 d6 6.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_ItalianFourKnights_)
 
 ## C51
 
-- **Italian Game, Evans Gambit,  Declined** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4`
-- **Italian Game, Evans Gambit,  Declined,  Lange Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Nh6`
-- **Italian Game, Evans Gambit, Declined,  Pavlov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Nh6 7.d4 d6 8.Bxh6 dxe5 9.Bxg7 Rg8 10.Bxf7 Kxf7 11.Bxe5 Qg5 12.Nd2`
-- **Italian Game, Evans Gambit, Declined,  Hirschbach Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5`
-- **Italian Game, Evans Gambit, Declined,  Vasquez Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5 7.Bxf7 Ke7 8.Qh5`
-- **Italian Game, Evans Gambit,  Declined,  Hicken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5 7.Qf3 Qxe5 8.Qxf7 Kd8 9.Bb2`
-- **Italian Game, Evans Gambit,  Declined,  5.a4** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4`
-- **Italian Game, Evans Gambit,  Declined,  Showalter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4 a6 6.Nc3`
-- **Italian Game, Evans Gambit,  Declined,  Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.Bb2`
-- **Italian Game, Evans Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5`
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4`
-- **Italian Game, Evans Gambit,  normal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6`
-- **Italian Game, Evans Gambit,  Ulvestad Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2`
-- **Italian Game, Evans Gambit,  Paulsen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2 Ne7`
-- **Italian Game, Evans Gambit,  Morphy Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3`
-- **Italian Game, Evans Gambit,  Goering Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Na5 10.Bg5`
-- **Italian Game, Evans Gambit,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Na5 10.Bg5 f6 11.Be3`
-- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4`
-- **Italian Game, Evans Gambit,  Fraser Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Qa4`
-- **Italian Game, Evans Gambit,  Fraser-Mortimer Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Qa4 Bd7 11.Qb3 Na5 12.Bxf7 Kf8 13.Qc2`
-- **Italian Game, Evans Gambit,  Stone-Ware Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bd6`
-- **Italian Game, Evans Gambit,  Mayet Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bf8`
-- **Italian Game, Evans Gambit,  5...Be7** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7`
-- **Italian Game, Evans Gambit,  Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7 6.d4 Na5`
+- **Italian Game, Evans Gambit,  Declined** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Bb6_)
+- **Italian Game, Evans Gambit,  Declined,  Lange Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Nh6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Lange_)
+- **Italian Game, Evans Gambit, Declined,  Pavlov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Nh6 7.d4 d6 8.Bxh6 dxe5 9.Bxg7 Rg8 10.Bxf7 Kxf7 11.Bxe5 Qg5 12.Nd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Lange_)
+- **Italian Game, Evans Gambit, Declined,  Hirschbach Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Hirschbach_)
+- **Italian Game, Evans Gambit, Declined,  Vasquez Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5 7.Bxf7 Ke7 8.Qh5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Hirschbach_)
+- **Italian Game, Evans Gambit,  Declined,  Hicken Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.b5 Na5 6.Nxe5 Qg5 7.Qf3 Qxe5 8.Qxf7 Kd8 9.Bb2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Hirschbach_)
+- **Italian Game, Evans Gambit,  Declined,  5.a4** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_a4_)
+- **Italian Game, Evans Gambit,  Declined,  Showalter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.a4 a6 6.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_a4_)
+- **Italian Game, Evans Gambit,  Declined,  Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bb6 5.Bb2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Cordel_) (name collision with the other "Cordel Variation" below, at 5.c3 Be7 6.d4 Na5 — `eco.md` reuses the bare name for both; the live explorer disambiguates the deeper one as *Anderssen Variation, Cordel Line*)
+- **Italian Game, Evans Counter-Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_d5_) (live-tagged the *Hein Countergambit*, a real name divergence)
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Bxb4_)
+- **Italian Game, Evans Gambit,  normal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_c3_) (live-tagged the *McDonnell Defense, Main Line*)
+- **Italian Game, Evans Gambit,  Ulvestad Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Ulvestad_)
+- **Italian Game, Evans Gambit,  Paulsen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.d5 Na5 10.Bb2 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Ulvestad_)
+- **Italian Game, Evans Gambit,  Morphy Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Morphy_)
+- **Italian Game, Evans Gambit,  Goering Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Na5 10.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Morphy_) (live spells it *Göring Attack*)
+- **Italian Game, Evans Gambit,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Na5 10.Bg5 f6 11.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Morphy_)
+- **Italian Game, Evans Gambit** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Bg4_)
+- **Italian Game, Evans Gambit,  Fraser Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Qa4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Bg4_)
+- **Italian Game, Evans Gambit,  Fraser-Mortimer Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.d4 exd4 7.O-O d6 8.cxd4 Bb6 9.Nc3 Bg4 10.Qa4 Bd7 11.Qb3 Na5 12.Bxf7 Kf8 13.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Bg4_)
+- **Italian Game, Evans Gambit,  Stone-Ware Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_StoneWare_)
+- **Italian Game, Evans Gambit,  Mayet Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bf8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_MayetDefence_)
+- **Italian Game, Evans Gambit,  5...Be7** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_Anderssen_) (live-tagged the *Anderssen Variation*, a real name divergence from `eco.md`'s bare "5...Be7")
+- **Italian Game, Evans Gambit,  Cordel Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Be7 6.d4 Na5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C51_Evans_Gambit.md#_CordelLine_) (live-tagged *Anderssen Variation, Cordel Line* — see the name-collision note above)
 
 ## C52
 
