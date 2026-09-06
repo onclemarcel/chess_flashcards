@@ -521,6 +521,19 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 
 ---
 
+**D10-D19 built new in full, same session, user-requested next — "all right, carry on with D10-D19."** The entire classical Slav Defense complex: 30 combined entries across 10 codes, all previously either fully unbuilt or (for D10/D11's own root/3.Nf3/3...Nf6/4.Nc3/4.e3 nodes) built *inside D06's own "Queen's Gambit" card as if they stayed there* — a "wrong root code" bug on the scale of the C90-C99 Ruy Lopez splits, this time affecting an entire opening system rather than one branch.
+
+- **D10 built new in full**: migrated the whole 2...c6 root + 3.Nc3 fork out of D06 wholesale (D06 trimmed to a thin outbound link); added the previously-unbuilt *Alekhine Variation* (live-tagged the *Slav Gambit, Alekhine Attack* — a name later reused, unrelated, at D15's own "Alekhine Variation" and "Slav Gambit"), the *Winawer Counter-Gambit*, and the *Exchange Variation* (left untagged live, `opening=None`).
+- **D11 built new in full**: migrated the 3.Nf3/3...Nf6/4.e3 content out of D06; added the previously-unbuilt *Breyer Variation* (4.Nbd2).
+- **D12 built new in full**: the *Quiet Variation, Schallopp Defense* (4.e3 Bf5) and its *Landau*/*Exchange*/*Amsterdam Variations* — the Exchange Variation node here is a genuine eco.md-vs-live **code** discrepancy, not just a name one: `eco.md` files it under D12, but the live explorer tags the identical position D13, "Schallopp Variation" (kept at its eco.md-assigned D12 per this repo's own convention).
+- **D13/D14 built new in full**: the direct 4.cxd5 cxd5 *Exchange Variation* (a different move order from D12's own, cxd5 before e3/Bf5) forking into D14's *Symmetrical Line* and *Trifunovic Variation*.
+- **D15 built new in full**: the *Three Knights Variation* hub (4.Nc3) — *Suechting*/*Schlechter Variations*, and the Slav Accepted itself (live-tagged the *Two Knights Attack*, a real name divergence from `eco.md`'s bare label), forking its own *Alekhine Variation* (5.e3, unrelated to D10's) and *Slav Gambit* (5.e4, live-tagged the *Geller Gambit* — and `eco.md`'s own one-ply-deeper *Tolush-Geller Gambit* reuses "Geller" a second time at the adjacent node).
+- **D16/D17 built new in full**: the *Alapin Variation* (5.a4) forking *Smyslov*/*Soultanbeieff*/*Steiner Variations*, then the *Czech Defence* (live-tagged just *Czech Variation*) forking the *Krause Attack* into *Carlsbad*/*Wiesbaden Variations*.
+- **D18/D19 built new in full**: `eco.md` itself reuses the name "Dutch Variation" three times at three different depths here (D18's root, D19's root, and D19's own "Main line" child) — a genuine eco.md-internal name reuse, not a repo bug; the live explorer instead tags the whole tree *Czech Variation, Classical System*/*Dutch Variation* compounds. Forks the *Lasker Variation* (D18) and, deeper, the *Main Line*'s own *Saemisch Variation* (D19).
+- **Wiring**: all 30 combined `eco.md` entries now `✅ [covered]`, every migration/divergence/name-reuse/code-discrepancy finding stated inline. `README.md`'s "1... d5" paragraph extended with the full D10-D19 fork-by-fork write-up. `check_diagram.py` clean repo-wide (105 files) and `update_stats.py --check` clean (0 stale) on all touched/new files after this batch.
+
+---
+
 ## File naming convention (established 2026-08-25, repo-wide cleanup)
 
 Card filenames are `<ECO or folder prefix>_<Name>[_<disambiguator>].md`. A move fragment (like `Nf3`, `d4`, `1e4d5`, `exd5`) belongs in the filename **only** when it's the actual thing distinguishing this card from a sibling that would otherwise share the same name — never just because it's part of the position's move sequence.

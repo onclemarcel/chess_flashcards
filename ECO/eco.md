@@ -2470,67 +2470,67 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D10
 
-- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 c6`
-- **Queen's Gambit, Declined,  Slav Defence,  Alekhine Variation** — `1.d4 d5 2.c4 c6 3.Nc3 dxc4 4.e4`
-- **Queen's Gambit, Declined,  Slav Defence,  Winawer Counter-Gambit** — `1.d4 d5 2.c4 c6 3.Nc3 e5`
-- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.cxd5`
+- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md#_initial_move_)
+- **Queen's Gambit, Declined,  Slav Defence,  Alekhine Variation** — `1.d4 d5 2.c4 c6 3.Nc3 dxc4 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md#_Alekhine10_) — live-tagged the *Slav Gambit, Alekhine Attack*, unrelated to D15's own "Slav Gambit"
+- **Queen's Gambit, Declined,  Slav Defence,  Winawer Counter-Gambit** — `1.d4 d5 2.c4 c6 3.Nc3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md#_Winawer_)
+- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md#_Exchange10_) — left untagged live (`opening=None`)
 
 ## D11
 
-- **Queen's Gambit, Declined,  Slav Defence,  3.Nf3** — `1.d4 d5 2.c4 c6 3.Nf3`
-- **Queen's Gambit, Declined,  Slav Defence,  Breyer Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2`
-- **Queen's Gambit, Declined,  Slav Defence,  4.e3** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3`
+- **Queen's Gambit, Declined,  Slav Defence,  3.Nf3** — `1.d4 d5 2.c4 c6 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D11_Slav_Defense_Modern_Line.md#_initial_move_) — migrated out of D06's own "Queen's Gambit" card, where it had been built as if it stayed there
+- **Queen's Gambit, Declined,  Slav Defence,  Breyer Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D11_Slav_Defense_Modern_Line.md#_Breyer_)
+- **Queen's Gambit, Declined,  Slav Defence,  4.e3** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D11_Slav_Defense_Modern_Line.md#_e3_) — live-tagged the *Quiet Variation*
 
 ## D12
 
-- **Queen's Gambit, Declined,  Slav Defence,  4.e3 Bf5** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5`
-- **Queen's Gambit, Declined,  Slav Defence,  Landau Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc8 7.Bd2 e6 8.Na3`
-- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Nc3`
-- **Queen's Gambit, Declined,  Slav Defence,  Amsterdam Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Nc3 e6 7.Ne5 Nfd7`
+- **Queen's Gambit, Declined,  Slav Defence,  4.e3 Bf5** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D12_Slav_Defense_Schallopp_Defense.md#_initial_move_) — live-tagged the *Quiet Variation, Schallopp Defense*
+- **Queen's Gambit, Declined,  Slav Defence,  Landau Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Qb3 Qc8 7.Bd2 e6 8.Na3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D12_Slav_Defense_Schallopp_Defense.md#_Landau_)
+- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D12_Slav_Defense_Schallopp_Defense.md#_Exchange12_) — live explorer tags this exact position **D13**, "Schallopp Variation", a real eco.md-vs-live code discrepancy, not just a name one
+- **Queen's Gambit, Declined,  Slav Defence,  Amsterdam Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.e3 Bf5 5.cxd5 cxd5 6.Nc3 e6 7.Ne5 Nfd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D12_Slav_Defense_Schallopp_Defense.md#_Amsterdam_)
 
 ## D13
 
-- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5`
+- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D13_Slav_Defense_Exchange_Variation.md#_initial_move_) — a different move order from D12's own "Exchange Variation" (cxd5 played before e3/Bf5, not after)
 
 ## D14
 
-- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation,  6.Bf4 Bf5** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5`
-- **Queen's Gambit, Declined,  Slav Defence,  Exchange,  Trifunovic Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4`
+- **Queen's Gambit, Declined,  Slav Defence,  Exchange Variation,  6.Bf4 Bf5** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D14_Slav_Defense_Symmetrical_Line.md#_initial_move_) — live-tagged the *Symmetrical Line*
+- **Queen's Gambit, Declined,  Slav Defence,  Exchange,  Trifunovic Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.cxd5 cxd5 5.Nc3 Nc6 6.Bf4 Bf5 7.e3 e6 8.Qb3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D14_Slav_Defense_Symmetrical_Line.md#_Trifunovic_)
 
 ## D15
 
-- **Queen's Gambit, Declined,  Slav Defence,  4.Nc3** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3`
-- **Queen's Gambit, Declined,  Slav Defence,  Suechting Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qb6`
-- **Queen's Gambit, Declined,  Slav Defence,  Schlechter Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 g6`
-- **Queen's Gambit, Declined,  Slav Defence Accepted** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4`
-- **Queen's Gambit, Declined,  Slav Defence,  5.e3 (Alekhine Variation)** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e3`
-- **Queen's Gambit, Declined,  Slav Defence,  Slav Gambit** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4`
-- **Queen's Gambit, Declined,  Slav Defence,  Tolush-Geller Gambit** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.e5`
+- **Queen's Gambit, Declined,  Slav Defence,  4.Nc3** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_initial_move_) — live-tagged the *Three Knights Variation*
+- **Queen's Gambit, Declined,  Slav Defence,  Suechting Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 Qb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_Suechting_)
+- **Queen's Gambit, Declined,  Slav Defence,  Schlechter Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_Schlechter_)
+- **Queen's Gambit, Declined,  Slav Defence Accepted** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_Accepted_) — live-tagged the *Two Knights Attack*
+- **Queen's Gambit, Declined,  Slav Defence,  5.e3 (Alekhine Variation)** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_Alekhine15_) — unrelated to D10's own "Alekhine"-named line
+- **Queen's Gambit, Declined,  Slav Defence,  Slav Gambit** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_SlavGambit_) — live-tagged the *Geller Gambit*
+- **Queen's Gambit, Declined,  Slav Defence,  Tolush-Geller Gambit** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.e4 b5 6.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_TolushGeller_)
 
 ## D16
 
-- **Queen's Gambit, Declined,  Slav Defence Accepted,  Alapin Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4`
-- **Queen's Gambit, Declined,  Slav Defence,  Smyslov Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6 6.e4 Bg4`
-- **Queen's Gambit, Declined,  Slav Defence,  Soultanbeieff Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 e6`
-- **Queen's Gambit, Declined,  Slav Defence,  Steiner Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4`
+- **Queen's Gambit, Declined,  Slav Defence Accepted,  Alapin Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D16_Slav_Defense_Alapin_Variation.md#_initial_move_)
+- **Queen's Gambit, Declined,  Slav Defence,  Smyslov Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Na6 6.e4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D16_Slav_Defense_Alapin_Variation.md#_Smyslov_)
+- **Queen's Gambit, Declined,  Slav Defence,  Soultanbeieff Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D16_Slav_Defense_Alapin_Variation.md#_Soultanbeieff_)
+- **Queen's Gambit, Declined,  Slav Defence,  Steiner Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D16_Slav_Defense_Alapin_Variation.md#_Steiner_)
 
 ## D17
 
-- **Queen's Gambit, Declined,  Slav Defence,  Czech Defence** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5`
-- **Queen's Gambit, Declined,  Slav Defence,  Krause Attack** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5`
-- **Queen's Gambit, Declined,  Slav Defence,  Carlsbad Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5`
-- **Queen's Gambit, Declined,  Slav Defence,  Wiesbaden Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6`
+- **Queen's Gambit, Declined,  Slav Defence,  Czech Defence** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D17_Slav_Defense_Czech_Defence.md#_initial_move_) — live-tagged the *Czech Variation*
+- **Queen's Gambit, Declined,  Slav Defence,  Krause Attack** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D17_Slav_Defense_Czech_Defence.md#_Krause_)
+- **Queen's Gambit, Declined,  Slav Defence,  Carlsbad Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 Nbd7 7.Nxc4 Qc7 8.g3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D17_Slav_Defense_Czech_Defence.md#_Carlsbad_)
+- **Queen's Gambit, Declined,  Slav Defence,  Wiesbaden Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Ne5 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D17_Slav_Defense_Czech_Defence.md#_Wiesbaden_)
 
 ## D18
 
-- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3`
-- **Queen's Gambit, Declined,  Slav Defence,  Dutch,  Lasker Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 Na6`
+- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D18_Slav_Defense_Dutch_Variation.md#_initial_move_) — live-tagged the *Classical System*; first of three D10-D19 entries independently reusing the name "Dutch Variation"
+- **Queen's Gambit, Declined,  Slav Defence,  Dutch,  Lasker Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 Na6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D18_Slav_Defense_Dutch_Variation.md#_Lasker_) — unrelated to D08's own Lasker Trap
 
 ## D19
 
-- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O`
-- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation,  Main line** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2`
-- **Queen's Gambit, Declined,  Slav Defence,  Dutch,  Saemisch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 Ne4 10.g4`
+- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D19_Slav_Defense_Dutch_Variation_Main_Line.md#_initial_move_) — live-tagged the *Czech Variation, Dutch Variation*; second reuse of the "Dutch Variation" name
+- **Queen's Gambit, Declined,  Slav Defence,  Dutch Variation,  Main line** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D19_Slav_Defense_Dutch_Variation_Main_Line.md#_MainLine_) — third reuse of the "Dutch Variation" name
+- **Queen's Gambit, Declined,  Slav Defence,  Dutch,  Saemisch Variation** — `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.e3 e6 7.Bxc4 Bb4 8.O-O O-O 9.Qe2 Ne4 10.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D19_Slav_Defense_Dutch_Variation_Main_Line.md#_Saemisch_)
 
 ## D20
 
