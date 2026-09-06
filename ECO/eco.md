@@ -2400,73 +2400,73 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D00
 
-- **Queen's Pawn Game** — `1.d4 d5`
-- **Queen's Pawn Game, Mason Variation** — `1.d4 d5 2.Bf4`
-- **Queen's Pawn Game, Mason Variation,  Steinitz Counter-Gambit** — `1.d4 d5 2.Bf4 c5`
-- **Levitsky Attack** — `1.d4 d5 2.Bg5`
-- **Blackmar Gambit** — `1.d4 d5 2.e4`
-- **Queen's Pawn Game, Stonewall Attack** — `1.d4 d5 2.e3 Nf6 3.Bd3`
-- **Queen's Pawn Game, Chigorin Variation** — `1.d4 d5 2.Nc3`
-- **Queen's Pawn Game, Anti-Veresov** — `1.d4 d5 2.Nc3 Bg4`
-- **Blackmar-Diemer Gambit** — `1.d4 d5 2.Nc3 Nf6 3.e4`
-- **Blackmar-Diemer Gambit, Euwe Defence** — `1.d4 d5 2.Nc3 Nf6 3.e4 dxe4 4.f3 exf3 5.Nxf3 e6`
-- **Blackmar-Diemer Gambit, Lemberg Counter-Gambit** — `1.d4 d5 2.Nc3 Nf6 3.e4 e5`
+- **Queen's Pawn Game** — `1.d4 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_initial_move_)
+- **Queen's Pawn Game, Mason Variation** — `1.d4 d5 2.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Bf4_) (live-tagged the *Accelerated London System*)
+- **Queen's Pawn Game, Mason Variation,  Steinitz Counter-Gambit** — `1.d4 d5 2.Bf4 c5` ✅ [mentioned](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Bf4_) (inline, 29.4% masters at that fork)
+- **Levitsky Attack** — `1.d4 d5 2.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Bg5_)
+- **Blackmar Gambit** — `1.d4 d5 2.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_initial_move_) (live-tagged the *Hübsch Gambit*; the accepted line is covered in full on its own dedicated card, [gambits/Blackmar-Diemer](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md))
+- **Queen's Pawn Game, Stonewall Attack** — `1.d4 d5 2.e3 Nf6 3.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Stonewall_)
+- **Queen's Pawn Game, Chigorin Variation** — `1.d4 d5 2.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Nc3_) (a real finding: this exact position is live-tagged **A45**, reusing the name from an unrelated ECO branch)
+- **Queen's Pawn Game, Anti-Veresov** — `1.d4 d5 2.Nc3 Bg4` ✅ [mentioned](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D00_Queens_Pawn_Game.md#_Nc3_) (genuine database rarity, 3 masters games)
+- **Blackmar-Diemer Gambit** — `1.d4 d5 2.Nc3 Nf6 3.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md#_3_Nc3_) (full dedicated card, not duplicated on D00)
+- **Blackmar-Diemer Gambit, Euwe Defence** — `1.d4 d5 2.Nc3 Nf6 3.e4 dxe4 4.f3 exf3 5.Nxf3 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md#_5_Nxf3_e6_)
+- **Blackmar-Diemer Gambit, Lemberg Counter-Gambit** — `1.d4 d5 2.Nc3 Nf6 3.e4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Blackmar-Diemer/Blackmar-Diemer.md#_3_Nc3_e5_) (live spells it *Lemberger Countergambit*)
 
 ## D01
 
-- **Richter-Veresov Attack** — `1.d4 d5 2.Nc3 Nf6 3.Bg5`
-- **Richter-Veresov Attack, Veresov Variation** — `1.d4 d5 2.Nc3 Nf6 3.Bg5 Bf5 4.Bxf6`
-- **Richter-Veresov Attack, Richter Variation** — `1.d4 d5 2.Nc3 Nf6 3.Bg5 Bf5 4.f3`
+- **Richter-Veresov Attack** — `1.d4 d5 2.Nc3 Nf6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md#_Bg5_)
+- **Richter-Veresov Attack, Veresov Variation** — `1.d4 d5 2.Nc3 Nf6 3.Bg5 Bf5 4.Bxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md#_Veresov_)
+- **Richter-Veresov Attack, Richter Variation** — `1.d4 d5 2.Nc3 Nf6 3.Bg5 Bf5 4.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D01_Richter_Veresov_Attack.md#_Richter_)
 
 ## D02
 
-- **Queen's Pawn Game** — `1.d4 d5 2.Nf3`
-- **Queen's Pawn Game, Chigorin Variation** — `1.d4 d5 2.Nf3 Nc6`
-- **Queen's Pawn Game, Krause Variation** — `1.d4 d5 2.Nf3 c5`
-- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6`
-- **Queen's Bishop Game** — `1.d4 d5 2.Nf3 Nf6 3.Bf4`
+- **Queen's Pawn Game** — `1.d4 d5 2.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_initial_move_)
+- **Queen's Pawn Game, Chigorin Variation** — `1.d4 d5 2.Nf3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_Chigorin_)
+- **Queen's Pawn Game, Krause Variation** — `1.d4 d5 2.Nf3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_Krause_)
+- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_Zukertort_Variation.md#_Nf6_) (live-tagged the *Symmetrical Variation*)
+- **Queen's Bishop Game** — `1.d4 d5 2.Nf3 Nf6 3.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D02_London_System.md#_initial_move_) (covered under this repo's own "London System" card title, matching its real content)
 
 ## D03
 
-- **Torre Attack, Tartakower Variation** — `1.d4 d5 2.Nf3 Nf6 3.Bg5`
+- **Torre Attack, Tartakower Variation** — `1.d4 d5 2.Nf3 Nf6 3.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D03_Torre_Attack.md#_initial_move_) (live-tagged plain *Torre Attack* — a real name divergence, now stated inline)
 
 ## D04
 
-- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3`
+- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D04_Colle_System.md#_initial_move_)
 
 ## D05
 
-- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6`
-- **Queen's Pawn Game, Zukertort Variation** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Nbd2 c5 5.b3`
-- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3`
-- **Queen's Pawn Game, Rubinstein (Colle-Zukertort) Variation** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5 5.b3`
-- **Colle System** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5 5.c3`
+- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D05_Colle_System.md#_initial_move_)
+- **Queen's Pawn Game, Zukertort Variation** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Nbd2 c5 5.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D05_Colle_System.md#_Zukertort_)
+- **Queen's Pawn Game** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D05_Colle_System.md#_Bd3_)
+- **Queen's Pawn Game, Rubinstein (Colle-Zukertort) Variation** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5 5.b3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D05_Colle_System.md#_b3_) (live-tagged the *Rubinstein Opening*)
+- **Colle System** — `1.d4 d5 2.Nf3 Nf6 3.e3 e6 4.Bd3 c5 5.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D05_Colle_System.md#_c3_) (live-tagged the *Traditional Colle*)
 
 ## D06
 
-- **Queen's Gambit** — `1.d4 d5 2.c4`
-- **Queen's Gambit, Declined,  Grau Defence** — `1.d4 d5 2.c4 Bf5`
-- **Queen's Gambit, Declined,  Marshall Defence** — `1.d4 d5 2.c4 Nf6`
-- **Queen's Gambit, Declined,  Symmetrical Defence** — `1.d4 d5 2.c4 c5`
+- **Queen's Gambit** — `1.d4 d5 2.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md#_c4_)
+- **Queen's Gambit, Declined,  Grau Defence** — `1.d4 d5 2.c4 Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md#_Bf5_) (live-tagged the *Baltic Defense* — a real, substantial name divergence)
+- **Queen's Gambit, Declined,  Marshall Defence** — `1.d4 d5 2.c4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md#_Nf6d_)
+- **Queen's Gambit, Declined,  Symmetrical Defence** — `1.d4 d5 2.c4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D06_Queens_Gambit.md#_c5d_) (live-tagged the *Austrian Defense* — another real, substantial name divergence)
 
 ## D07
 
-- **Queen's Gambit, Declined,  Chigorin Defence** — `1.d4 d5 2.c4 Nc6`
-- **Queen's Gambit, Declined,  Chigorin Defence,  Janowski Variation** — `1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.Nf3`
+- **Queen's Gambit, Declined,  Chigorin Defence** — `1.d4 d5 2.c4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D07_Chigorin_Defense.md#_initial_move_)
+- **Queen's Gambit, Declined,  Chigorin Defence,  Janowski Variation** — `1.d4 d5 2.c4 Nc6 3.Nc3 dxc4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D07_Chigorin_Defense.md#_Nc3_)
 
 ## D08
 
-- **Queen's Gambit, Declined,  Albin Counter-Gambit** — `1.d4 d5 2.c4 e5`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Lasker trap** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4 5.Bd2 dxe3`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Alapin Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Krenosz Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Bg4 6.h3 Bxf3 7.Nxf3 Bb4 8.Bd2 Qe7`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Janowski Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 f6`
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Balogh Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Qe7`
+- **Queen's Gambit, Declined,  Albin Counter-Gambit** — `1.d4 d5 2.c4 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_initial_move_)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Lasker trap** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.e3 Bb4 5.Bd2 dxe3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Lasker_) (genuine database rarity, 2 masters games; the position itself is dead level, −0.03 — the trap is purely a mating pattern, not a raw material swing)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Nf3_) (live-tagged the *Normal Line*)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Alapin Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Modern_) (live-tagged the *Modern Line* instead — a real name divergence)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Krenosz Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Bg4 6.h3 Bxf3 7.Nxf3 Bb4 8.Bd2 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Krenosz_) (genuine database rarity, 7 masters games)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Janowski Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Janowski08_) (a real finding: this name is reused from D07's own unrelated "Janowski Variation" — both named for Dawid Janowski)
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  Balogh Variation** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.Nbd2 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D08_Albin_Countergambit.md#_Balogh_)
 
 ## D09
 
-- **Queen's Gambit, Declined,  Albin Counter-Gambit,  5.g3** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3`
+- **Queen's Gambit, Declined,  Albin Counter-Gambit,  5.g3** — `1.d4 d5 2.c4 e5 3.dxe5 d4 4.Nf3 Nc6 5.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D09_Albin_Countergambit_Fianchetto.md#_initial_move_) (live-tagged the *Fianchetto Variation*)
 
 ## D10
 

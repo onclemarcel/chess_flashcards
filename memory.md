@@ -504,6 +504,23 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 
 ---
 
+**D00-D09 built new in full, same session, user-requested next — "OK - time for the D series : D00-D09."** The opening batch of the Queen's Pawn/Queen's Gambit universe: 40 combined entries across 10 codes. Unlike the C-series sweep, this batch found no "wrong root code" bugs — instead it found a long tail of real gaps: named `eco.md` entries that existing files only mentioned inline (in a stats table or a "not built out further" bullet) without ever giving them their own section.
+
+- **D00**: filled the *Stonewall Attack* (2.e3 Nf6 3.Bd3), previously mention-only.
+- **Blackmar-Diemer** (touched as part of this batch, not its own ECO code): filled the *Euwe Defense* (5...e6), previously mention-only.
+- **D01**: built out the entire 3...Bf5 fork — the *Veresov Variation* (4.Bxf6) and *Richter Variation* (4.f3) — both previously unbuilt despite the file's own title already being "Richter-Veresov."
+- **D02**: filled the *Chigorin Variation* (2...Nc6) and *Krause Variation* (2...c5), both previously unbuilt; live explorer independently re-tags "Chigorin" here to a name already reused at an unrelated A45 node — a real name-reuse finding, not an error. D02's own separate London System file re-verified as already correctly covering `eco.md`'s "Queen's Bishop Game" entry.
+- **D03**: disclosed (not migrated — content stays put) a real name divergence: `eco.md` calls this bare tabiya the *Torre Attack, Tartakower Variation*; the live explorer tags it more simply just the *Torre Attack*.
+- **D04**: re-verified, already fully covered by its own root — no changes needed.
+- **D05**: filled the *Zukertort Variation* (4.Nbd2 5.b3), previously unbuilt.
+- **D06**: filled three previously-unbuilt named sub-variations off the 2...Bf5/Nf6/c5 fork — the *Grau Defence* (live-tagged *Baltic Defense*), the *Marshall Defence*, and the *Symmetrical Defence* (live-tagged *Austrian Defense*) — three more real name divergences.
+- **D07 built new in full**: the Chigorin Defense (2...Nc6) root plus its 3.Nc3 dxc4 4.Nf3 fork, live-named the *Janowski Variation*.
+- **D08 built new in full**: the entire Albin Countergambit tree — root (2...e5), the 3.dxe5 d4 fork (left untagged live, `opening=None`, despite carrying an `eco.md` name), the *Lasker Trap* (a real rarity, only 2 masters games), the *Normal Line* → *Modern Line* (`eco.md`: Alapin Variation — another name divergence) → *Krenosz*/*Janowski*/*Balogh Variations*. The D08 "Janowski Variation" independently reuses the same name as D07's own unrelated node — a second genuine name-reuse finding this batch.
+- **D09 built new in full**: the *Fianchetto Variation* (5.g3), spun off D08's own candidate bullet.
+- **Wiring**: all 40 combined `eco.md` entries now `✅ [covered]`, every divergence/name-reuse/untagged finding stated inline. `README.md`'s "1... d5" paragraph extended with the full D00-D09 fork-by-fork write-up. `check_diagram.py` clean repo-wide (95 files) and `update_stats.py --check` clean (0 stale) on all touched/new files after this batch.
+
+---
+
 ## File naming convention (established 2026-08-25, repo-wide cleanup)
 
 Card filenames are `<ECO or folder prefix>_<Name>[_<disambiguator>].md`. A move fragment (like `Nf3`, `d4`, `1e4d5`, `exd5`) belongs in the filename **only** when it's the actual thing distinguishing this card from a sibling that would otherwise share the same name — never just because it's part of the position's move sequence.

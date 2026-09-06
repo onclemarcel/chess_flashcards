@@ -26,7 +26,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 | Nbd2 | 275 k (3.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 194 (6.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/55/19 |  |
 | b3 | 0 | — | 128 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 40/46/14 |  |
 
-*Online: bullet/blitz, 1800+ — 7.4 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 7.4 M games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4. Bd3** is masters' clear main try (73.3%) — the bishop aims straight down the b1-h7 diagonal at the kingside, the whole point of playing e3 before developing it.
@@ -34,6 +34,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 ### Candidate moves
 
 * [**4. Bd3**](#_Bd3_) (0.0, 73.3% masters): the line this card follows.
+* [**4. Nbd2**](#_Nbd2_) (6.4% masters): a real, secondary move-order — covered below.
 
 [*Back to TOP*](#_TOP_)
 
@@ -64,7 +65,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R b KQkq - 1 4
 | c6 | 95 k (2.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 4 (0.2%) | — | ⚠ |
 | b6 | 92 k (2.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 289 (12.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 24/53/24 |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/3BPN2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4... c5** is masters' clear main try (61.3%) — striking back at White's centre before it's too late.
@@ -127,7 +128,7 @@ Here masters actually prefer **5. b3** (63.6%) — heading for the hybrid setup 
 > | Nbd7 | 0 | — | 89 (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/37/26 |  |
 > | b6 | 0 | — | 81 (5.8%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 21/65/14 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 387 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 387 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P1BPN2/P1P2PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-06*
 > <!-- lichess-stats:end -->
 >
 > **5... Nc6** is masters' clear main try (68.1%) — developing naturally before deciding between ...Be7/...Bd6/...Bd7. White continues Bb2, Nbd2 and O-O; deeper Rubinstein/Colle-Zukertort theory is its own extensive body of work, not covered further here.
@@ -164,10 +165,45 @@ Here masters actually prefer **5. b3** (63.6%) — heading for the hybrid setup 
 > | Nbd7 | 0 | — | 146 (21.2%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 19/49/32 |  |
 > | b6 | 0 | — | 68 (9.9%) | ⬜🟫🟫🟫🟫🟫🟫🟫⬛⬛ 4/74/22 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 838 k games. Masters: 688 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/2PBPN2/PP3PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 838 k games. Masters: 688 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/2PBPN2/PP3PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-06*
 > <!-- lichess-stats:end -->
 >
 > **5... Nc6** (57.1% masters) is the same natural developing move as against 5. b3. White continues Nbd2, O-O and the thematic e3-e4 break; deeper Traditional Colle theory is its own extensive body of work, not covered further here.
 >
 > [*Back to 4... c5*](#_c5_)
 > [*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Nbd2_"></a>
+
+## 4. Nbd2
+
+[![4. Nbd2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPPN1PPP/R1BQKB1R&lastMove=b1d2&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPPN1PPP/R1BQKB1R_b_KQkq_-_1_4)
+
+*... 4. Nbd2*
+
+```
+rnbqkb1r/ppp2ppp/4pn2/3p4/3P4/4PN2/PPPN1PPP/R1BQKB1R b KQkq - 1 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.00 |
+| --- | --- |
+
+Develops the queen's knight before the bishop, a genuine secondary move-order (6.4% masters) reaching the same eventual set-up as 4. Bd3 with the moves transposed. Masters' clear main try is **4... c5** (59.9%), the same central break seen against 4. Bd3. **4... c5 5. b3** reaches the named ***Zukertort Variation***:
+
+<a name="_Zukertort_"></a>
+
+[![5. b3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P2PN2/P1PN1PPP/R1BQKB1R&lastMove=b2b3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P2PN2/P1PN1PPP/R1BQKB1R_b_KQkq_-_0_5)
+
+```
+rnbqkb1r/pp3ppp/4pn2/2pp4/3P4/1P2PN2/P1PN1PPP/R1BQKB1R b KQkq - 0 5
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.08 |
+| --- | --- |
+
+A genuine database rarity (108 masters games), reaching the same hybrid Colle/Queen's-Indian-style structure as the *Rubinstein Opening* above but with the knight developed before the bishop. Masters' clear main try is **5... Nc6** (42.6%), the same natural development seen throughout this whole complex. Not built out further here (backlog).
+
+[*Back to 3... e6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)

@@ -23,6 +23,13 @@ flowchart LR
 
     Bg5 --> Nbd7[["3... Nbd7 !<br/>-0.1"]]:::main
     click Nbd7 "#_Nbd7_" "D01 · Richter-Veresov Attack"
+    Bg5 --> Bf5v["3... Bf5<br/>-0.06"]
+    click Bf5v "#_Bf5v_" "D01 · Richter-Veresov Attack"
+
+    Bf5v --> Bxf6v["4. Bxf6<br/>-0.07"]
+    click Bxf6v "#_Veresov_" "D01 · Richter-Veresov Attack: Veresov Variation"
+    Bf5v --> f3r["4. f3<br/>-0.26"]
+    click f3r "#_Richter_" "D01 · Richter-Veresov Attack: Richter Variation"
 
     Nbd7 --> Nf3v["4. Nf3 !<br/>-0.2"]:::main
     click Nf3v "#_Nf3v_" "D01 · Richter-Veresov Attack: Two Knights System"
@@ -52,7 +59,7 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR w KQkq - 2 3
 | e4 | 1.3 M (15.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/45 | 145 (1.8%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 21/33/46 |  |
 | Nf3 | 849 k (9.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 89 (1.1%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 25/37/38 |  |
 
-*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p4/3P4/2N5/PPP1PPPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 White's 3rd move here is a genuine near-even fork — **3. Bg5** (48.9% masters) and **3. Bf4** (47.4%) are essentially tied, unlike most of this repository's forks. Only 3. Bg5 carries the Veresov name; 3. Bf4 is its own distinctly-coded, distinctly-named system.
@@ -90,12 +97,114 @@ rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 3 3
 | c5 | 134 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 342 (8.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/29/44 |  |
 | g6 | 0 | — | 149 (3.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/42/33 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/3p2B1/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_3_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
-**3... Nbd7** is masters' clear main try (50.2%) — a flexible developing move that avoids committing the light-squared bishop or the c-pawn just yet, and sidesteps 3... Ne4 tactics against the loose Bg5.
+**3... Nbd7** is masters' clear main try (50.2%) — a flexible developing move that avoids committing the light-squared bishop or the c-pawn just yet, and sidesteps 3... Ne4 tactics against the loose Bg5. **3... Bf5** (-0.06, 13.5%), developing the bishop actively before it can be shut in, is the real second try — the fork point for both of `eco.md`'s own named D01 sub-variations.
+
+* [**3... Bf5**](#_Bf5v_) (13.5% masters): forks the *Veresov*/*Richter Variations* — covered below.
 
 [*Back to 2... Nf6*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Bf5v_"></a>
+
+## 3... Bf5
+
+[![3... Bf5](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR&lastMove=c8f5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR_w_KQkq_-_4_4)
+
+*... 3... Bf5*
+
+```
+rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 4 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.06 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR w KQkq - 4 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| f3 | 149 k (48.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/5/38 | 190 (34.5%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 31/24/45 |  |
+| Bxf6 | 61 k (19.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 220 (39.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
+| e3 | 49 k (15.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 118 (21.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/41/28 |  |
+
+*Online: bullet/blitz, 1800+ — 308 k games. Masters: 551 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N5/PPP1PPPP/R2QKBNR_w_KQkq_-_4_4#explorer) — updated 2026-09-06*
+<!-- lichess-stats:end -->
+
+White's 4th move genuinely forks two ways here, each carrying its own name: **4. Bxf6** (-0.07, 39.9% masters, the *Veresov Variation*) trades off the pinning bishop for the knight at once, while **4. f3** (-0.26, 34.5%, the *Richter Variation*) supports a coming e4 push instead, keeping the bishop pair.
+
+* [**4. Bxf6**](#_Veresov_) (39.9% masters): the *Veresov Variation* — covered below.
+* [**4. f3**](#_Richter_) (34.5% masters): the *Richter Variation* — covered below.
+
+[*Back to 3. Bg5*](#_Bg5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Veresov_"></a>
+
+## 4. Bxf6 — Veresov Variation
+
+[![4. Bxf6](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR&lastMove=g5f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_0_4)
+
+*... 4. Bxf6 — Veresov Variation*
+
+```
+rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.07 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR b KQkq - 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="2" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| exf6 | 42 k (67.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 142 (64.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/24 |  |
+| gxf6 | 20 k (32.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 78 (35.5%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 45/22/33 |  |
+
+*Online: bullet/blitz, 1800+ — 61 k games. Masters: 220 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5B2/3p1b2/3P4/2N5/PPP1PPPP/R2QKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
+<!-- lichess-stats:end -->
+
+Trades the bishop for the knight immediately rather than supporting e4 first — masters' clear main try at the fork. Masters split between **4... exf6** (64.5%), doubling the f-pawns but opening the e-file and strengthening the centre, and **4... gxf6** (35.5%), keeping the e-pawn intact at the cost of the kingside structure. Not built out further here (backlog).
+
+[*Back to 3... Bf5*](#_Bf5v_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Richter_"></a>
+
+## 4. f3 — Richter Variation
+
+[![4. f3](https://backscattering.de/web-boardimage/board.svg?fen=rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR&lastMove=f2f3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4)
+
+*... 4. f3 — Richter Variation*
+
+```
+rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq - 0 4
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | -0.26 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR b KQkq - 0 4" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="3" -->
+| Move | Online | W/D/B | Masters | W/D/B | |
+| :--- | ---: | :--- | ---: | :--- | :-- |
+| e6 | 74 k (35.5%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 71/3/26 | 0 | — | ⚠ |
+| Nbd7 | 51 k (24.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 121 (53.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/35/38 |  |
+| h6 | 35 k (16.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
+| c6 | 0 | — | 42 (18.5%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 36/21/43 |  |
+| Bg6 | 0 | — | 37 (16.3%) | ⬜⬜🟫🟫⬛⬛⬛⬛⬛⬛ 22/22/57 |  |
+
+*Online: bullet/blitz, 1800+ — 208 k games. Masters: 227 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/ppp1pppp/5n2/3p1bB1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
+<!-- lichess-stats:end -->
+
+Supports a coming e4 push with the f-pawn rather than trading on f6, keeping the bishop pair intact for now. Masters' clear main try is **4... Nbd7** (53.3%), the same flexible development seen in the main 3...Nbd7 line. Not built out further here (backlog).
+
+[*Back to 3... Bf5*](#_Bf5v_)
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -152,7 +261,7 @@ White's 4th move here is genuinely spread out: **4. Nf3** (42.3% masters) is the
 > | c6 | 22 k (22.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 140 (16.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/31 |  |
 > | g6 | 9.6 k (10.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 257 (29.9%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/42/34 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 859 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R_b_KQkq_-_5_4#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 859 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2N2/PPP1PPPP/R2QKB1R_b_KQkq_-_5_4#explorer) — updated 2026-09-06*
 > <!-- lichess-stats:end -->
 >
 > Black's reply is a genuine near-even four-way split — **4... h6** (30.4% masters) and **4... g6** (29.9%) are essentially tied, with **4... e6** (19.2%) and **4... c6** (16.3%) both real too. Deeper Two Knights System theory is its own extensive body of work, not covered further here.
@@ -188,7 +297,7 @@ White's 4th move here is genuinely spread out: **4. Nf3** (42.3% masters) is the
 > | c5 | 21 k (21.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 119 (34.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/34/36 |  |
 > | e6 | 14 k (14.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 22 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/55/18 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 347 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 96 k games. Masters: 347 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppnpppp/5n2/3p2B1/3P4/2N2P2/PPP1P1PP/R2QKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
 > <!-- lichess-stats:end -->
 >
 > Another close three-way split — **4... c5** (34.3% masters), **4... c6** (31.4%) and **4... h6** (28.0%) are all within a few points of each other. Deeper theory past this point is its own extensive body of work, not covered further here.
