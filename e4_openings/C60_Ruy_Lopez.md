@@ -19,11 +19,11 @@ flowchart LR
     Bb5 --> a6[["3... a6 !<br/>+0.2"]]:::main
     click a6 "#_a6_" "C60 · Ruy Lopez: Morphy Defense"
     Bb5 --> Nf6[["3... Nf6<br/>+0.2"]]
-    click Nf6 "#_Nf6_" "C60 · Ruy Lopez: Berlin Defense"
+    click Nf6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C65_Ruy_Lopez_Berlin_Defense.md" "C65 · Ruy Lopez: Berlin Defense"
     Bb5 --> d6{"3... d6 ⚠<br/>+0.4"}
-    click d6 "#_d6_" "C60 · Ruy Lopez: Old Steinitz Defense"
+    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C62_Ruy_Lopez_Steinitz_Defense.md" "C62 · Ruy Lopez: Steinitz Defense"
     Bb5 --> Bc5{"3... Bc5 ⚠<br/>+0.3"}
-    click Bc5 "#_Bc5_" "C60 · Ruy Lopez: Classical Defense"
+    click Bc5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C64_Ruy_Lopez_Classical_Variation.md" "C64 · Ruy Lopez: Classical Variation"
 ```
 <!-- content-diagram:end -->
 
@@ -53,15 +53,27 @@ r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3
 | Qf6 | 312 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | g6 | 0 | — | 2.9 k (1.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 33.5 M games. Masters: 162 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 33.5 M games. Masters: 162 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**3... a6**](#_a6_) (+0.2): the *Morphy Defense* — immediately asks the question of the bishop. By far masters' main choice (71.4%).
-* [**3... Nf6**](#_Nf6_) (+0.2): the *Berlin Defense* — counter-attacks e4 instead of dealing with the pin right away. Famous for the drawish "Berlin Wall" endgame that shut down 1. e4 at the very top level for a decade.
-* [**3... d6**](#_d6_) (+0.4 ⚠): the *Old Steinitz Defense* — solid but passive, breaking the pin's tension with a pawn rather than a piece. Common online (14.9%) but rare in masters play (0.4%).
-* [**3... Bc5**](#_Bc5_) (+0.3 ⚠): the *Classical Defense* — develops actively and ignores the pin, since 4. Bxc6 dxc6 5. Nxe5?! runs into 5... Qd4!, forking the knight and b2. Also far more common online (14.3%) than in masters play (1.2%).
+* [**3... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C65_Ruy_Lopez_Berlin_Defense.md) (+0.2): the *Berlin Defense* — counter-attacks e4 instead of dealing with the pin right away. Already live-tagged its own code, **C65**, covered on its own card, including the famous drawish "Berlin Wall" endgame that shut down 1. e4 at the very top level for a decade.
+* [**3... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C62_Ruy_Lopez_Steinitz_Defense.md) (+0.4 ⚠): the *Old Steinitz Defense* — solid but passive, breaking the pin's tension with a pawn rather than a piece. Common online (14.9%) but rare in masters play (0.4%). Already live-tagged its own code, **C62**, covered on its own card.
+* [**3... Bc5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C64_Ruy_Lopez_Classical_Variation.md) (+0.3 ⚠): the *Classical Defense* — develops actively and ignores the pin, since 4. Bxc6 dxc6 5. Nxe5?! runs into 5... Qd4!, forking the knight and b2. Also far more common online (14.3%) than in masters play (1.2%). Already live-tagged its own code, **C64**, covered on its own card.
+* **3... f5** (2.7% masters): the *Schliemann Defense* — a sharp counter-gambit, already live-tagged its own code, **C63**, covered on [its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C63_Ruy_Lopez_Schliemann_Defense.md).
+* **3... Nd4** (0.6% masters): the *Bird Variation* — offers a central knight for the bishop pair, already live-tagged its own code, **C61**, covered on [its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C61_Ruy_Lopez_Bird_Defence.md).
+
+Seven further real, live-confirmed C60 tries sit below the root stats table's own display cutoff, a genuine zero-coverage gap surfaced by a full A00-E99 ECO-code audit — none built out further here (backlog):
+
+* **3... f6** (masters: negligible sample): the *Nuernberg Variation* — a passive, weakening try.
+* **3... Na5** (0.6% masters online): the *Pollock Defence* — offers to trade off the a5-knight for the bishop after a future b4/Bxa5 or similar.
+* **3... Be7** (masters: negligible sample): the *Lucena Defence* — solid but passive, blocking the f8-bishop's own natural development square.
+* **3... Qe7** (masters: negligible sample): the *Vinogradov Variation*, a real database rarity.
+* **3... g5** (masters: negligible sample): the *Brentano Defence*, a sharp, committal kingside pawn push.
+* **3... g6** (1.8% masters): the *Fianchetto (Smyslov/Barnes) Defence* — fianchettoes the bishop rather than developing it actively.
+* **3... Nge7** (1.5% masters): the *Cozio Defence* — develops the kingside knight to a less natural square to keep the f8-bishop's diagonal open. **4. Nc3 g6!?** reaches the *Paulsen Variation*.
 
 [*Back to TOP*](#_TOP_)
 
@@ -93,11 +105,11 @@ r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4
 | Nc3 | 3.1 k (0.0%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 29/4/67 | 0 | — | ⚠ |
 | d4 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 12.4 M games. Masters: 116 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 12.4 M games. Masters: 116 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1n5/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
-> **4. Bxc6** — the *Exchange Variation* — trades the bishop for the knight outright, giving Black doubled c-pawns for the bishop pair. It's masters' clear second choice (8.8%) but far more popular online (24.5%) — a simpler, more forcing structure that's easier to play without deep preparation. After **4... dxc6**, Stockfish rates the position as dead equal (0.0).
+> **4. Bxc6** — the *Exchange Variation* — trades the bishop for the knight outright, giving Black doubled c-pawns for the bishop pair. It's masters' clear second choice (8.8%) but far more popular online (24.5%) — a simpler, more forcing structure that's easier to play without deep preparation. Already live-tagged its own code, **C68**, covered in full on its own card, [C68](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C68_Ruy_Lopez_Exchange_Variation.md), whose own 5. O-O tabiya is itself already live-tagged **C69** — [its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C69_Ruy_Lopez_Exchange_Normal.md).
 
 * **4. Ba4**: the main retreat, keeping the pin alive and the bishop's long-term pressure on the queenside — masters' overwhelming choice (91.2%).
 * **4. Bxc6**: the *Exchange Variation* — see the note above.
@@ -113,18 +125,7 @@ Almost all main lines continue **4... Nf6**, attacking e4 in turn — 89.2% of m
 
 ### 3... Nf6 — Berlin Defense
 
-[![3... Nf6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R&lastMove=g8f6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4)
-
-*... 3... Nf6 — Berlin Defense*
-
-```
-r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
-| --- | --- |
-
-Rather than address the pin, Black counter-attacks e4. White usually continues **4. O-O**, since **4. Nxe5??** simply hangs the knight — nothing recaptures it, and **4... Nxe5** wins a piece outright. After **4. O-O Nxe4**, the game heads for the famous *Berlin endgame* — a queen trade around move 9 that leaves an unbalanced but very holdable position for Black, one of the main reasons 1. e4 fell out of top-level fashion for years.
+Rather than address the pin, Black counter-attacks e4 instead. This position is already live-tagged its own code, **C65** — covered in full on its own card, [C65](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C65_Ruy_Lopez_Berlin_Defense.md), including the famous "Berlin Wall" endgame complex (its own child, [C67](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C67_Ruy_Lopez_Berlin_Open.md)) and the quieter Improved Steinitz Defense (its other child, [C66](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C66_Ruy_Lopez_Berlin_Closed.md)).
 
 [*Back to 3. Bb5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -135,18 +136,7 @@ Rather than address the pin, Black counter-attacks e4. White usually continues *
 
 ### 3... d6 — Old Steinitz Defense
 
-[![3... d6](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R&lastMove=d7d6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4)
-
-*... 3... d6 — Old Steinitz Defense*
-
-```
-r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
-| --- | --- |
-
-Solid and named for World Champion Wilhelm Steinitz, but passive: it blocks the f8-bishop and does nothing about the pin. White typically continues **4. d4**, building a broad centre while Black is a tempo behind the more active Morphy/Berlin lines — the main reason this defense has faded at top level even though it remains perfectly playable.
+Solid and named for World Champion Wilhelm Steinitz, but passive: it blocks the f8-bishop and does nothing about the pin. This position is already live-tagged its own code, **C62** — covered in full on its own card, [C62](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C62_Ruy_Lopez_Steinitz_Defense.md).
 
 [*Back to 3. Bb5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
@@ -157,18 +147,7 @@ Solid and named for World Champion Wilhelm Steinitz, but passive: it blocks the 
 
 ### 3... Bc5 — Classical Defense
 
-[![3... Bc5](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R&lastMove=f8c5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4)
-
-*... 3... Bc5 — Classical Defense*
-
-```
-r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
-```
-
-| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-| --- | --- |
-
-Develops actively and calls White's bluff: **4. Bxc6 dxc6 5. Nxe5?? Qd4!** forks the e5-knight and the b2-pawn, and the knight has no safe retreat that doesn't lose more material — so White should not actually win the e5-pawn this way. White instead continues **4. O-O** or **4. c3**, preparing d4 in calmer fashion.
+Develops actively and calls White's bluff: **4. Bxc6 dxc6 5. Nxe5?? Qd4!** forks the e5-knight and the b2-pawn, so White should not actually try to win the e5-pawn this way. This position is already live-tagged its own code, **C64** — covered in full on its own card, [C64](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C64_Ruy_Lopez_Classical_Variation.md).
 
 [*Back to 3. Bb5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
