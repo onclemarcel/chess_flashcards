@@ -2065,36 +2065,36 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C57
 
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5`
-- **Italian Game, Two Knights Defence, Wilkes Barre (Traxler) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5`
-- **Italian Game, Two Knights Defence,  Ulvestad Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5`
-- **Italian Game, Two Knights Defence,  Fritz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4`
-- **Italian Game, Two Knights Defence,  Fritz Variation,  Gruber Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1 Nxd5 8.Ne4`
-- **Italian Game, Two Knights Defence,  Lolli Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.d4`
-- **Italian Game, Two Knights Defence,  incus Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.d4 Bb4`
-- **Italian Game, Two Knights Defence,  Fegatello Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7`
-- **Italian Game, Two Knights Defence,  Fegatello Attack,  Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7 7.Qf3 Ke6 8.Nc3 Nb4 9.Qe4 c6 10.a3 Na6 11.d4 Nc7`
-- **Italian Game, Two Knights Defence,  Fegatello Attack,  Polerio Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7 7.Qf3 Ke6 8.Nc3 Ne7`
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_initial_move_) (live-tagged the *Knight Attack*)
+- **Italian Game, Two Knights Defence, Wilkes Barre (Traxler) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Traxler_)
+- **Italian Game, Two Knights Defence,  Ulvestad Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Ulvestad_)
+- **Italian Game, Two Knights Defence,  Fritz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Fritz_)
+- **Italian Game, Two Knights Defence,  Fritz Variation,  Gruber Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nd4 6.c3 b5 7.Bf1 Nxd5 8.Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Fritz_)
+- **Italian Game, Two Knights Defence,  Lolli Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Lolli_)
+- **Italian Game, Two Knights Defence,  incus Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.d4 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Lolli_) (`eco.md` has a typo here — live spells it *Pincus Variation*)
+- **Italian Game, Two Knights Defence,  Fegatello Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Fegatello_) (live-tagged the *Fried Liver Attack*, the English name for the same Italian idea)
+- **Italian Game, Two Knights Defence,  Fegatello Attack,  Leonhardt Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7 7.Qf3 Ke6 8.Nc3 Nb4 9.Qe4 c6 10.a3 Na6 11.d4 Nc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Leonhardt_)
+- **Italian Game, Two Knights Defence,  Fegatello Attack,  Polerio Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7 Kxf7 7.Qf3 Ke6 8.Nc3 Ne7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md#_Polerio_) (name collision: a different, earlier "Polerio Defense" lives at C58's own root)
 
 ## C58
 
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5`
-- **Italian Game, Two Knights Defence,  Kieseritsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3`
-- **Italian Game, Two Knights Defence,  Yankovich Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3 e4 8.Qe2 Nxc4 9.dxc4 Bc5 10.Nfd2`
-- **Italian Game, Two Knights Defence,  Maroczy Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3 e4 8.Qe2 Nxc4 9.dxc4 Be7`
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5`
-- **Italian Game, Two Knights Defence,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3`
-- **Italian Game, Two Knights Defence,  Paoli Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 Qc7 9.Bd3`
-- **Italian Game, Two Knights Defence,  Colman Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 Rb8`
-- **Italian Game, Two Knights Defence,  Blackburne Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 cxb5`
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2`
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_initial_move_) (live-tagged the *Polerio Defense* — see the name-collision note above)
+- **Italian Game, Two Knights Defence,  Kieseritsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Kieseritsky_) (live spells it *Kieseritzky*)
+- **Italian Game, Two Knights Defence,  Yankovich Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3 e4 8.Qe2 Nxc4 9.dxc4 Bc5 10.Nfd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Kieseritsky_)
+- **Italian Game, Two Knights Defence,  Maroczy Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.d3 h6 7.Nf3 e4 8.Qe2 Nxc4 9.dxc4 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Kieseritsky_)
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Bb5_) (live-tagged the *Bishop Check Line*)
+- **Italian Game, Two Knights Defence,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Qf3_) (live spells it *Bogoljubow*; masters' actual main try at this fork is 8. Bd3, 50.9%, not built out — a real gap)
+- **Italian Game, Two Knights Defence,  Paoli Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 Qc7 9.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Paoli_)
+- **Italian Game, Two Knights Defence,  Colman Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 Rb8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Qf3_)
+- **Italian Game, Two Knights Defence,  Blackburne Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Qf3 cxb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Blackburne_)
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C58_Two_Knights_Defense_Na5.md#_Be2_)
 
 ## C59
 
-- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6`
-- **Italian Game, Two Knights Defence,  Knorre Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Bd6 11.d4 Qc7 12.Bd2`
-- **Italian Game, Two Knights Defence,  Goering Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Qc7`
-- **Italian Game, Two Knights Defence,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nh3`
+- **Italian Game, Two Knights Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C59_Two_Knights_Defense_Polerio_h6.md#_initial_move_) (live-tagged the *Suhle Defense*)
+- **Italian Game, Two Knights Defence,  Knorre Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Bd6 11.d4 Qc7 12.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C59_Two_Knights_Defense_Polerio_h6.md#_Knorre_)
+- **Italian Game, Two Knights Defence,  Goering Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nf3 e4 10.Ne5 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C59_Two_Knights_Defense_Polerio_h6.md#_Goering_) (live spells it *Göring*)
+- **Italian Game, Two Knights Defence,  Steinitz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Na5 6.Bb5 c6 7.dxc6 bxc6 8.Be2 h6 9.Nh3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C59_Two_Knights_Defense_Polerio_h6.md#_Steinitz_)
 
 ## C60
 

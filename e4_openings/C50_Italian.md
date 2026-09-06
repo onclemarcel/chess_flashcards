@@ -64,14 +64,14 @@ r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3
 | g6 | 195 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 129 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/30 |  |
 | a6 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 There is no immediate threat to Black's position so they have some flexibility in how to respond. It would be good to develop a piece, and there are several options, the top two being 3... Nf6 (the Two Knights) or 3... Bc5 (the Giuoco Piano).
 
-* [**3... Nf6**](#_Nf6_) (+0.2): the [Two Knights Defense](#_Nf6_) develops a piece while putting pressure on the undefended e4 pawn, at 43.9% of masters games (second to 3... Bc5's 52.3%). Note that **3... Nf6** allows 4. Ng5, a sharp move that also attacks f7 and can lead to an aggressive knight sacrifice known as the [Fried Liver Attack](#_Fried_Liver_); this opening trap needs to be known by Black.
+* [**3... Nf6**](#_Nf6_) (+0.2): the [Two Knights Defense](#_Nf6_) develops a piece while putting pressure on the undefended e4 pawn, at 43.9% of masters games (second to 3... Bc5's 52.3%). Note that **3... Nf6** allows 4. Ng5, a sharp move that also attacks f7 and can lead to an aggressive knight sacrifice known as the [Fried Liver Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md); this opening trap needs to be known by Black.
 * [**3... Bc5**](#_Bc5_) (+0.2): by developing the kingside bishop before the kingside knight, Black keeps control of the g5 square, then after 4... Nf6 Black is ready to castle 5... O-O. By developing in this order, Black avoids the sharper Ng5 lines that follow the Two Knights Defense: g5 is controlled by the queen until Black is ready to castle and defend f7 with the rook. Hence this continuation is called the ***Giuoco Piano*** — masters' actual most popular try here (52.3%, ahead of the Two Knights' 43.9%), covered below.
 * [**3... f5**](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) (+1.0): the [Rousseau Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/gambits/Rousseau/Rousseau.md) resembles a Vienna Gambit with colours reversed. Black hopes White will take the offered pawn, 4. exf5?, deflecting one of their pawns from the centre and allowing 4... e4, when the attacked knight retreats with 5. Ng1 or holds its ground with 5. Qe2 (defending it in place) — engines actually prefer the more active 5. Nd4. However, White can decline with 4. d3 or countergambit with 4. d4.
 * [**3... Nd4**](#_Nd4_) (+1.1): live-tagged the ***Blackburne-Kostić Gambit*** (`eco.md`'s own name is *Blackburne Shilling Gambit*, a real name divergence) — a pure practical trap, not a sound try; covered below.
@@ -87,51 +87,9 @@ There is no immediate threat to Black's position so they have some flexibility i
 
 ### 3... Nf6 — Two Knights Defense
 
-With **3... Nf6**, Black develops a knight and attacks the e4-pawn, getting one step closer to castling. This move seems like the most obvious one Black can play in the Italian, but it also comes at the cost of blocking the d8-h4 diagonal of the black queen. This position is itself already live-tagged its own code, **C55** — covered in full on its own card, [C55](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md), including the full White 4th-move fork (d3/Nc3/Ng5/d4). The Fried Liver Attack (4. Ng5, below) stays on this page for now, cross-linked from there.
+With **3... Nf6**, Black develops a knight and attacks the e4-pawn, getting one step closer to castling. This move seems like the most obvious one Black can play in the Italian, but it also comes at the cost of blocking the d8-h4 diagonal of the black queen. This position is itself already live-tagged its own code, **C55** — covered in full on its own card, [C55](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md), including the full White 4th-move fork (d3/Nc3/Ng5/d4). **4. Ng5**, the Fried Liver Attack, is itself already live-tagged its own code, **C57** — covered in full on [its own card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md), migrated there from this page.
 
 [*Back to TOP*](#_TOP_)
-
----
-
-> [!TIP]
-> **4. Ng5** attacks f7 twice — the point of the Fried Liver Attack — and it works precisely because Black hasn't castled or developed the f8-bishop.
->
-> <a name="_Fried_Liver_"></a>
->
-> ### 3... Nf6 4. Ng5 — the Fried Liver Attack
->
-> Black's only sensible way to defend f7 is to block the bishop's access with **4... d5**. After **5. exd5**, Black has several possible answers:
->
-> * **5... Nxd5?!** (+0.7) is *not* played at master level and is considered an incorrect positional move, due to the open line created by White's **6. Nxf7** — the Fried Liver Attack proper.
-> * **5... Na5** (0.0) is the *most played move* at master level, attacking Bc4 and chasing White's bishop. Black can then go after the knight with **... h6**, and push e5 to e4 to carry on harassing the White knight as it retreats towards f3. The pawn on d5 can also be taken back with the queen when convenient. If White plays **6. Bb5+ c6 7. dxc6 bxc6 8. Be2**, the bishop has to retreat to a safe square eventually.
-> * **5... b5** (+0.3): while giving a slightly better score to White, this move is rarely played (7% of masters games) — the **Ulvestad Variation**.
->
-> [![4. Ng5 d5 5. exd5 b5 — Ulvestad Variation](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R&lastMove=b7b5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R_w_KQkq_-_0_6)
->
-> *... 5... b5 — Ulvestad Variation*
->
-> ```
-> r1bqkb1r/p1p2ppp/2n2n2/1p1Pp1N1/2B5/8/PPPP1PPP/RNBQK2R w KQkq - 0 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.3 |
-> | --- | --- |
->
-> Best play for White is the unnatural-looking **6. Bf1** (known to master players, though...). Other White replies lead to a better game for Black with careful play — for example **6. Bxb5** allows **6... Qxd5**, forking the bishop and the g2 pawn, and Black gets open diagonals with a centralised queen.
->
-> [![6. Bxb5 — Ulvestad Variation](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/p1p2ppp/2n2n2/1B1Pp1N1/8/8/PPPP1PPP/RNBQK2R&lastMove=c4b5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/p1p2ppp/2n2n2/1B1Pp1N1/8/8/PPPP1PPP/RNBQK2R_b_KQkq_-_0_6)
->
-> *... 6. Bxb5 — about 15% of Ulvestad games*
->
-> ```
-> r1bqkb1r/p1p2ppp/2n2n2/1B1Pp1N1/8/8/PPPP1PPP/RNBQK2R b KQkq - 0 6
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.0 |
-> | --- | --- |
->
-> [*Back to 3... Nf6*](#_Nf6_)
-> [*Back to TOP*](#_TOP_)
 
 ---
 
@@ -204,7 +162,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Nc3 | 1.7 M (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 397 (1.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/53/21 |  |
 | d4 | 777 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 99 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 17/66/17 |  |
 
-*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -246,7 +204,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4
 | Qe7 | 0 | — | 266 (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/28/24 |  |
 | Bb6 | 0 | — | 97 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/26/27 |  |
 
-*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' near-unanimous reply (96.0%) — develops with tempo on e4, reaching the *Classical Variation*.
@@ -282,7 +240,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5
 | Qb3 | 22 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Ng5 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Another sharp online/masters inversion: masters strongly prefer **5. d3** (75.7%) — the quiet *Giuoco Pianissimo* setup, keeping the centre closed and playing for a slow manoeuvring game — over **5. d4** (21.1%, the sharper central break, sometimes called the *Möller Attack* after 5... exd4 6. cxd4). Online it flips: d4 leads (54.3%) over d3 (32.1%), the more forcing try being the online favourite as usual. Not built out further here (backlog).
@@ -361,7 +319,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4
 | Qf6 | 44 k (1.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 1 (0.0%) | — | ⚠ |
 | a6 | 19 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 The quietest, slowest-burning try on this whole card — White forgoes both c3/d4 and Nc3, simply developing and castling before deciding on a plan.
@@ -403,7 +361,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5
 | a4 | 0 | — | 238 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 | Bb3 | 0 | — | 225 (1.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5. c3** (42.0%), transposing back toward the main Giuoco Piano tabiya a move later; **5. O-O** (34.3%) also common.
@@ -442,7 +400,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 2 5
 | Nd4 | 11 k (0.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | a5 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R_b_KQkq_-_2_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R_b_KQkq_-_2_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Masters split between **5... d6** (45.0%) and **5... h6** (32.1%). Deeper, **5... d6 6. Bg5!?**, the *Canal Variation* (0.00, a real secondary try), pins the f6-knight before Black castles — masters' clear reply is **6... h6** (80.3%). Neither built out further here (backlog).

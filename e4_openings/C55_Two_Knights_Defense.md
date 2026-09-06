@@ -19,7 +19,7 @@ flowchart LR
     Nf6 --> d3[["4. d3 !<br/>+0.1"]]:::main
     click d3 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md" "C24 · Bishop's Opening: Modern Bishop's Opening"
     Nf6 --> Ng5["4. Ng5 💣<br/>0.0"]
-    click Ng5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md" "C50 · Italian Game: Fried Liver Attack"
+    click Ng5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md" "C57 · Italian Game: Two Knights Defense, Knight Attack"
     Nf6 --> OO["4. O-O<br/>0.0"]
     click OO "#_OO_" "C55 · Italian Game: Two Knights Defense"
     Nf6 --> d4["4. d4<br/>0.0"]
@@ -53,13 +53,13 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Bxf7+ | 72 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
 | Ke2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 White has several options to defend the e4 pawn:
 
 * [**4. d3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md#_d3_) (+0.1, 74.6% masters): masters' overwhelming choice, defending the pawn and opening the c1-h6 diagonal. Live-tagged the ***Modern Bishop's Opening*** — already covered in full there, since this exact tabiya carries no ECO code of its own and shares its nearest live-tagged ancestor with [C24's own Bishop's Opening card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C24_Bishop_Opening_Berlin_Defense.md).
-* [**4. Ng5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Fried_Liver_) (0.0, 16.1% masters): leading to the [Fried Liver Attack](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C50_Italian.md#_Fried_Liver_) — still covered on `C50_Italian.md` for now (this card's own actual live code, C57, hasn't been built yet).
+* [**4. Ng5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C57_Two_Knights_Defense_Knight_Attack.md) (0.0, 16.1% masters): the *Knight Attack*, leading to the Fried Liver Attack — already live-tagged its own code, **C57**, covered on its own card.
 * [**4. O-O**](#_OO_) (0.5% masters, a genuine minor try — but with real named theory further down): covered below.
 * [**4. Nc3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) (0.6% masters): transposes into the Italian Variation of the [Four Knights Game](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C47_Four_Knights_Game.md) — allows Black's ***Center Fork Trick*** (4... Nxe4!).
 * **4. d4** (0.00, 7.9% masters): already live-tagged its own code, **C56** ("Open Variation"), at this exact bare ply — `eco.md` splits this whole branch across its own C55 and C56 headings, but the live explorer keeps it uniformly C56 throughout. Covered in full on its own card, [C56](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C56_Two_Knights_Defense_Max_Lange_Attack.md).
