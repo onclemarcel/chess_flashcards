@@ -28,7 +28,7 @@ rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/1BN5/PPP2PPP/R1BQK2R w KQkq b6 0 8
 | f4 | 13 k (7.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 125 (4.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 26/30/45 |  |
 | Qf3 | 0 | — | 182 (6.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/27/41 |  |
 
-*Online: bullet/blitz, 1800+ — 183 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/1BN5/PPP2PPP/R1BQK2R_w_KQkq_b6_0_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 183 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/5ppp/p2ppn2/1p6/3NP3/1BN5/PPP2PPP/R1BQK2R_w_KQkq_b6_0_8#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **8. O-O** is masters' clear main try (58.8%), with **8. Bg5** (19.7%) a real second choice, pinning the f6-knight before Black completes development. Deeper theory not covered further here.

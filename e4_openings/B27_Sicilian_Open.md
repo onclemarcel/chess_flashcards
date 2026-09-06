@@ -32,7 +32,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2
 | Qc7 | 0 | — | 55 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/24 |  |
 | Qa5 | 0 | — | 48 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 46/27/27 |  |
 
-*Online: bullet/blitz, 1800+ — 173.1 M games. Masters: 501 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 173.1 M games. Masters: 501 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_b_KQkq_-_1_2#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Masters are close to evenly split three ways here, and each answer opens into its own vast body of theory:

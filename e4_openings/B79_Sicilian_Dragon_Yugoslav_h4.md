@@ -26,7 +26,7 @@ r1r3k1/pp1bppbp/2np1np1/q7/3NP2P/1BN1BP2/PPPQ2P1/2KR3R b - h3 0 12
 | a6 | 157 (0.9%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 68/4/28 | 0 | — | ⚠ |
 | Qe5 | 0 | — | 1 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 18 k games. Masters: 311 games. [Open in the explorer](https://lichess.org/analysis/standard/r1r3k1/pp1bppbp/2np1np1/q7/3NP2P/1BN1BP2/PPPQ2P1/2KR3R_b_-_h3_0_12#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 18 k games. Masters: 311 games. [Open in the explorer](https://lichess.org/analysis/standard/r1r3k1/pp1bppbp/2np1np1/q7/3NP2P/1BN1BP2/PPPQ2P1/2KR3R_b_-_h3_0_12#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **12... Ne5** is masters' overwhelming reply (95.2%), repositioning the knight toward c4 or d3 before White's own h4-h5 push can gain more time. Deeper theory past this point is its own extensive, highly concrete body of analysis — genuinely one of the sharpest tabiyas in all of chess opening theory — not covered further here. This closes out the whole Dragon Variation range (B70-B79).

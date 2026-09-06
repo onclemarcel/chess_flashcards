@@ -25,7 +25,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 4 4
 | f4 | 187 k (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 40 (2.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/40/35 |  |
 | a3 | 152 k (4.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 3 (0.2%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR_w_KQkq_-_4_4#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 3.5 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR_w_KQkq_-_4_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4. d3** is close to automatic (95.6% of masters games), a quiet, solid try that sidesteps any of the sharper Frankenstein-Dracula-style tactics available one branch over. Deeper theory not covered further here.

@@ -26,7 +26,7 @@ r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NPB1P1/PPP2PBP/R2QK1NR b KQkq - 1 6
 | Rb8 | 35 k (8.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 952 (32.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/40/35 |  |
 | Nd4 | 17 k (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 193 (6.6%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 23/43/34 |  |
 
-*Online: bullet/blitz, 1800+ — 397 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NPB1P1/PPP2PBP/R2QK1NR_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 397 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NPB1P1/PPP2PBP/R2QK1NR_b_KQkq_-_1_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6... Rb8** is masters' narrow plurality (32.5%), preparing ... b5 before committing the king's knight — a real three-way spread with **6... e6** (21.5%) and **6... e5** (21.3%) both close behind. Deeper Closed Sicilian theory past this point is its own extensive body of work, not covered further here.

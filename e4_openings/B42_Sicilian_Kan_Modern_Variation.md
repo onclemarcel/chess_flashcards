@@ -29,7 +29,7 @@ rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R b KQkq - 1 5
 | g6 | 0 | — | 1.0 k (6.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/36/29 |  |
 | Qb6 | 0 | — | 591 (3.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/30/32 |  |
 
-*Online: bullet/blitz, 1800+ — 907 k games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R_b_KQkq_-_1_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 907 k games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/3B4/PPP2PPP/RNBQK2R_b_KQkq_-_1_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Black's replies are a genuine wide spread, no single dominant try: **5... Bc5** (35.8% masters, developing actively toward f2, the *Polugaievsky Variation*), **5... Nf6** (31.6%, attacking e4 directly, continuing into the *Gipslis Variation* after 6. O-O d6 7. c4 g6), **5... Qc7** (9.8%), and **5... g6** (6.4%, the *Swiss Cheese Variation*) are all real, independently named tries. Deeper theory for each is its own extensive body of work, not covered further here.

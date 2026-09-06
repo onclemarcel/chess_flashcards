@@ -27,7 +27,7 @@ rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 0 7
 | f4 | 0 | — | 791 (14.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/38/26 |  |
 | a4 | 0 | — | 581 (10.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/35/33 |  |
 
-*Online: bullet/blitz, 1800+ — 629 k games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_-_0_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 629 k games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p2ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_-_0_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **7. O-O** is masters' clear main try (65.4%). Black's own reply is a genuine spread: **7... Be7** (71.5% of that fork, unnamed), **7... Qc7** (14.5%), and **7... Nbd7** (7.7%, see below).

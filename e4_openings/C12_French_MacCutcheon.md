@@ -26,7 +26,7 @@ rnbqk2r/ppp2ppp/4pn2/3p2B1/1b1PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 4 5
 | Bxf6 | 22 k (3.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Bd3 | 0 | — | 14 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 607 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p2B1/1b1PP3/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 607 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p2B1/1b1PP3/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **5. e5** is masters' overwhelming main try (85.7%), reaching the *Advance Variation* — see below. **5. exd5 Qxd5 6. Bxf6 gxf6 7. Qd2 Qa5** is the *Bogolyubov Variation* (9.8% masters), a real secondary try, not built out further here.
@@ -56,7 +56,7 @@ rnbqk2r/ppp2pp1/4pn1p/3pP1B1/1b1P4/2N5/PPP2PPP/R2QKBNR w KQkq - 0 6
 | Bc1 | 24 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 361 (10.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/43/19 |  |
 | Bxf6 | 21 k (4.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/50 | 7 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 487 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2pp1/4pn1p/3pP1B1/1b1P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 487 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2pp1/4pn1p/3pP1B1/1b1P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6. Bd2** is masters' clear main try (63.6%), retreating the bishop while offering it up for the knight on c3 later. Every other 6th-move try is its own named line, none built out further here:

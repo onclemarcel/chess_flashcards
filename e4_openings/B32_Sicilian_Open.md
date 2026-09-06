@@ -80,7 +80,7 @@ r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Qc7 | 0 | — | 3.2 k (4.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/38/30 |  |
 | d5 | 0 | — | 169 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/41/22 |  |
 
-*Online: bullet/blitz, 1800+ — 33.2 M games. Masters: 78 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 33.2 M games. Masters: 78 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 * [**4... Nf6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B33_Sicilian_Lasker_Pelikan.md) (57.7% masters): already live-tagged **B33** — see `B33_Sicilian_Lasker_Pelikan.md`, the Lasker-Pelikan/Sveshnikov complex.
@@ -122,7 +122,7 @@ r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R w KQkq e6 0 5
 | Nc3 | 118 k (1.3%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 26/3/71 | 0 | — | ⚠ |
 | Ne2 | 0 | — | 42 (0.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/31/40 |  |
 
-*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_e6_0_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n5/4p3/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_e6_0_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Immediately striking back in the centre, accepting a slightly weak d5-square in exchange for active piece play — an ancestor of the same Sveshnikov/Kalashnikov family of ideas reached one move order later via `B33_Sicilian_Lasker_Pelikan.md`.

@@ -46,7 +46,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | Nc3 | 4.3 M (6.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 12 k (8.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 | d3 | 1.5 M (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 1.1 k (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/31/40 |  |
 
-*Online: bullet/blitz, 1800+ — 66.8 M games. Masters: 135 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 66.8 M games. Masters: 135 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -91,7 +91,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 > | e5 | 0 | — | 775 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/39/21 |  |
 > | Qb6 | 0 | — | 455 (1.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/31/26 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-02*
+> *Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 39 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-06*
 > <!-- lichess-stats:end -->
 >
 > **3... g6** (50.0% masters, fianchettoing to meet a future Bxc6 recapture with the bishop rather than a pawn) is already live-tagged **B31** — see [`B31_Sicilian_Rossolimo_Fianchetto.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B31_Sicilian_Rossolimo_Fianchetto.md), not built out further here. **3... e6** (25.0%) and **3... d6** (12.1%) stay B30, simply preparing to meet **4. Bxc6** with a pawn recapture and accept the doubled c-pawns for the bishop pair.

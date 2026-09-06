@@ -28,7 +28,7 @@ rnb1k2r/pppnqppp/4p3/3pP3/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 0 7
 | Bd3 | 25 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
 | Qh5 | 0 | — | 14 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 828 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1k2r/pppnqppp/4p3/3pP3/3P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_0_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 828 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1k2r/pppnqppp/4p3/3pP3/3P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_0_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **7. f4** is close to automatic (87.7% of masters games), the *Steinitz Variation* — reinforcing e5 while preparing a kingside attack. **7. Qd2** (the *Rubinstein Variation*, 5.0%), **7. Nb5** (the *Alapin Variation*, 4.0%), and **7. Qg4** (the *Pollock Variation*, 1.6%) are all real if secondary tries, none built out further here. **7. Bd3**, the *Tarrasch Variation*, is a genuine database rarity (0.4% masters, 9 games), not built out further here.

@@ -56,7 +56,7 @@ rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 1 6
 | a6 | 41 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 298 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/29/31 |  |
 | Ng4 | 10 k (0.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/41 | 4 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6... Bg7** is close to automatic (95.6% of masters games).
@@ -107,7 +107,7 @@ rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 3 7
 | Bd7 | 5.2 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | Nbd7 | 0 | — | 4 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 547 k games. Masters: 795 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_b_KQkq_-_3_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 547 k games. Masters: 795 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_b_KQkq_-_3_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **7... O-O** (52.8% masters) and **7... Nc6** (45.8%, see below) are both real, near-even tries — White's own 8th move fork looks essentially the same regardless of which order Black chooses.
@@ -141,7 +141,7 @@ r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R w KQkq - 4 8
 | Nb3 | 16 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 175 (18.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/31/34 |  |
 | h4 | 0 | — | 33 (3.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/39/30 |  |
 
-*Online: bullet/blitz, 1800+ — 420 k games. Masters: 953 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_w_KQkq_-_4_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 420 k games. Masters: 953 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_w_KQkq_-_4_8#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 * **8. O-O** (46.9% masters): already live-tagged **B73** — see [`B73_Sicilian_Dragon_Classical_OO.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B73_Sicilian_Dragon_Classical_OO.md), not built out further here.

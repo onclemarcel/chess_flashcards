@@ -55,7 +55,7 @@ r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6
 | Bd7 | 26 k (5.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 16 (0.4%) | — |  |
 | Nxd4 | 8.6 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 74 (1.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/47/30 |  |
 
-*Online: bullet/blitz, 1800+ — 487 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 487 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -93,7 +93,7 @@ r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq e6 0 7
 | Nf5 | 3.3 k (1.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 5 (0.2%) | — |  |
 | Be3 | 601 (0.4%) | ⬜⬜🟫⬛⬛⬛⬛⬛⬛⬛ 24/4/72 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 169 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_e6_0_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 169 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2np1n2/4p3/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_e6_0_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Black grabs the centre before White can consolidate, accepting a slightly weak d5-square in exchange for space and easy piece play — the same trade of structure for activity behind the Sveshnikov/Lasker-Pelikan family.

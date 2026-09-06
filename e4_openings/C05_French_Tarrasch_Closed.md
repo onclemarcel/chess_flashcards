@@ -25,7 +25,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4
 | exd5 | 51 k (1.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/47 | 31 (0.2%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 16/35/48 |  |
 | Ngf3 | 13 k (0.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/4/54 | 5 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4. e5** is masters' overwhelming main try (93.3%), gaining space and kicking the knight, reaching the Tarrasch's own most famous structural theme — a cramped light-squared bishop in exchange for solidity.
@@ -52,7 +52,7 @@ rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR b KQkq - 0 6
 | b6 | 42 k (2.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 624 (6.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/34/24 |  |
 | b5 | 0 | — | 29 (0.3%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 45/24/31 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR_b_KQkq_-_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR_b_KQkq_-_0_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6... Nc6** is masters' overwhelming choice (92.1%) — already live-tagged its own further-named continuation. **6... b6** (6.7%) is the *Botvinnik Variation*.

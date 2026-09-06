@@ -26,7 +26,7 @@ r1bq1rk1/pp2ppbp/2np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1 b - - 7 9
 | a5 | 12 k (11.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/49 | 76 (7.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 24/33/43 |  |
 | b6 | 0 | — | 54 (5.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/37/33 |  |
 
-*Online: bullet/blitz, 1800+ — 105 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1_b_-_-_7_9#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 105 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/4P3/1NN1B3/PPP1BPPP/R2Q1RK1_b_-_-_7_9#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **9... Be6** is masters' clear main try (70.7%), developing toward the queenside and preparing ... Na5/... Rc8. **9... a5** (7.5%, the *Alekhine Line* — `eco.md`: "Alekhine Variation") is a real independent try, immediately grabbing queenside space rather than developing the bishop first — White replies **10. a4** (86.8%) to keep the pawn from advancing further.

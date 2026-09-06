@@ -58,7 +58,7 @@ r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | Qd3 | 0 | — | 1 (0.0%) | — |  |
 | Na3 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 45 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 8.3 M games. Masters: 45 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 [*Back to TOP*](#_TOP_)
@@ -91,7 +91,7 @@ r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 | Qb6 | 49 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 171 (0.4%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 36/26/37 |  |
 | h5 | 0 | — | 94 (0.2%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 26/28/47 |  |
 
-*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 47 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 47 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppppp/2n2n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 * [**5... e5**](#_e5_) (59.9% masters): the *Lasker-Pelikan Variation* — see below.
@@ -128,7 +128,7 @@ r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq e6 0 6
 | Nf5 | 145 k (4.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 130 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/41/33 |  |
 | Nde2 | 35 k (1.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 130 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/48/23 |  |
 
-*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_e6_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n2n2/4p3/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_e6_0_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Kicking the knight looks like it costs a tempo — and objectively it does give White a small structural target on d5 for later — but Black gets active, well-coordinated pieces in exchange. This whole family (the *Lasker-Pelikan Variation*, older book name *Pelikan* alone) has become one of the main Sicilian weapons at the very top level. **6. Ndb5** (98.1% of masters games!) is close to the only serious try — the knight heads back toward d6, and after **6... d6**, White pins the f6-knight with **7. Bg5** while eyeing the d5 outpost. **7... a6** is essentially forced (99.8%) and **8. Na3** is masters' overwhelming choice (97.3%), reaching the family's own main tabiya.
@@ -157,7 +157,7 @@ r1bqkb1r/1p3ppp/p1np1n2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R b KQkq - 1 8
 | Bg4 | 1.8 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/4/36 | 0 | — | ⚠ |
 | Rb8 | 0 | — | 13 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1p3ppp/p1np1n2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1p3ppp/p1np1n2/4p1B1/4P3/N1N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_8#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 * [**8... b5**](#_Sveshnikov_): the *Sveshnikov Variation* — Black's actual masters main try here, and the specific line the "Sveshnikov" name attaches to live (not the earlier 5... e5 ply, contrary to how the name is often used loosely).

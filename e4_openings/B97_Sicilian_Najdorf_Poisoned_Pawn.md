@@ -26,7 +26,7 @@ rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8
 | Bxf6 | 11 k (6.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/52 | 0 | — | ⚠ |
 | Qd3 | 0 | — | 441 (5.7%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 23/64/14 |  |
 
-*Online: bullet/blitz, 1800+ — 188 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R_w_KQkq_-_1_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 188 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/1p3ppp/pq1ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R_w_KQkq_-_1_8#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **8. Qd2** is masters' clear main try (69.3%), offering the b-pawn deliberately — **8... Qxb2 9. Rb1 Qa3** is the *Poisoned Pawn Accepted*, one of the most concretely analysed, memorization-heavy lines in all of chess theory.
@@ -52,7 +52,7 @@ rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R w Kkq - 2 10
 | Bxf6 | 10 k (15.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/47 | 126 (2.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/45/29 |  |
 | Be2 | 6.4 k (9.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 184 (4.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/49/24 |  |
 
-*Online: bullet/blitz, 1800+ — 68 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R_w_Kkq_-_2_10#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 68 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/1p3ppp/p2ppn2/6B1/3NPP2/q1N5/P1PQ2PP/1R2KB1R_w_Kkq_-_2_10#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Genuinely level per Stockfish — Black has grabbed a real pawn, and White's compensation is purely dynamic (the open b-file, faster development, and long-term attacking chances). Deeper Poisoned Pawn theory is its own vast, independently-studied body of work — some of the most heavily analysed positions in the entire Sicilian — not covered further here. **8. Nb3** (20.0% masters) sidesteps the whole complex by simply retreating the knight, stays B97, not built out further here.

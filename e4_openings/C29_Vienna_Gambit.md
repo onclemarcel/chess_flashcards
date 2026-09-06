@@ -25,7 +25,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3
 | d6 | 581 k (19.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 31 (2.6%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 58/26/16 |  |
 | Nc6 | 358 k (12.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 2 (0.2%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR_b_KQkq_f3_0_3#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4PP2/2N5/PPPP2PP/R1BQKBNR_b_KQkq_f3_0_3#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **3... d5** is close to automatic (97.1% of masters games), striking back in the centre at once — the King's Gambit's own logic reversed, with colours (and a tempo) flipped.
@@ -51,7 +51,7 @@ rnbqkb1r/ppp2ppp/5n2/3pp3/4PP2/2N5/PPPP2PP/R1BQKBNR w KQkq d6 0 4
 | Nf3 | 125 k (11.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 3 (0.3%) | — | ⚠ |
 | d3 | 15 k (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 4 (0.3%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3pp3/4PP2/2N5/PPPP2PP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3pp3/4PP2/2N5/PPPP2PP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **4. fxe5** is masters' overwhelming main try (91.8%), grabbing the pawn back at once. **4. d3**, declining, is a genuine database rarity — see below.
@@ -111,7 +111,7 @@ rnbqkb1r/ppp2ppp/8/3pP3/4n3/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 5
 | Nxe4 | 94 k (11.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/4/54 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 12 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 830 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3pP3/4n3/2N5/PPPP2PP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 830 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3pP3/4n3/2N5/PPPP2PP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 A genuine three-way fork: **5. Nf3** (52.2% masters), **5. Qf3** (28.9%, the *Paulsen Attack*), and **5. d3** (17.7%).

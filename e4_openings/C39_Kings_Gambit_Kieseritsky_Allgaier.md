@@ -48,7 +48,7 @@ Untagged — the knight must move, and the two squares it can go to give this wh
 | Ne5 | 293 k (62.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/3/46 | 421 (95.0%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/42/34 |  |
 | Ng5 | 163 k (34.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 54/3/44 | 21 (4.7%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 43/14/43 |  |
 
-*Online: bullet/blitz, 1800+ — 468 k games. Masters: 443 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 468 k games. Masters: 443 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/4PppP/5N2/PPPP2P1/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 A genuine, extreme online/masters inversion: masters play **5. Ne5** almost exclusively (95.0%), while online play is much closer (62.5% vs 34.8%). Stockfish agrees with masters here — **5. Ng5** is nearly objectively losing (−2.0) while **5. Ne5** stays close to level (−0.2).
@@ -128,7 +128,7 @@ White gives up the knight outright for the pawn on f7 and Black's own castling r
 | d4 | 5.7 k (7.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/3/35 | 2 (25.0%) | — | ⚠ |
 | Nc3 | 1.5 k (1.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/2/40 | 5 (62.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 81 k games. Masters: 8 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1bnr/pppp1k2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R_w_KQ_-_0_7#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 81 k games. Masters: 8 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1bnr/pppp1k2/7p/8/4PppP/8/PPPP2P1/RNBQKB1R_w_KQ_-_0_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **7. Qxg4 Nf6 8. Qxf4 Bd6 — Horny Defence:**
@@ -216,7 +216,7 @@ The knight retreats to a strong outpost instead of sacrificing itself — master
 | Nc6 | 0 | — | 5 (1.2%) | — |  |
 | Bg7 | 0 | — | 4 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 292 k games. Masters: 421 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 292 k games. Masters: 421 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/4N3/4PppP/8/PPPP2P1/RNBQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Another sharp online/masters inversion: masters actually prefer **5... Nf6** (56.3%, the *Berlin Defense*), while online play defaults to **5... h5** (44.4%, only 2.6% masters, the *long Whip Defence*). **5... d6** (32.8%, the *Kolisch Defence*) is a real, close second for masters.
@@ -259,7 +259,7 @@ rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R w KQkq - 2 6
 | Nc3 | 3.7 k (11.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/3/54 | 0 | — | ⚠ |
 | d4 | 0 | — | 80 (33.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/31/38 |  |
 
-*Online: bullet/blitz, 1800+ — 33 k games. Masters: 237 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 33 k games. Masters: 237 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1p1p/5n2/4N3/4PppP/8/PPPP2P1/RNBQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Masters' main try is **6. Bc4** (46.4%, untagged despite carrying the plurality of practice), well ahead of **6. Nxg4** (19.8%, reaching the *Riviere Variation*).
@@ -294,7 +294,7 @@ Untagged despite being masters' actual main try one ply back. Masters' overwhelm
 | d5 | 11 k (94.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/3/51 | 108 (98.2%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 19/34/46 |  |
 | Qe7 | 311 (2.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 43/4/54 | 1 (0.9%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 12 k games. Masters: 110 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1p1p/5n2/4N3/2B1PppP/8/PPPP2P1/RNBQK2R_b_KQkq_-_3_6#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 12 k games. Masters: 110 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1p1p/5n2/4N3/2B1PppP/8/PPPP2P1/RNBQK2R_b_KQkq_-_3_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6... d5 7. exd5 Bd6 8. O-O Bxe5 — Rice Gambit:** White sacrifices the knight too, betting everything on the open position and lead in development.
