@@ -2,7 +2,7 @@
 
 # C56 Italian Game: Two Knights Defense, Open Variation <br> 1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 #
 
-Spun off from [C55's own "4. d4" candidate bullet](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_initial_move_) — already live-tagged its own code at this exact bare ply. `eco.md` splits this whole tree across its own C55 and C56 headings (Keidanz/Perreux/Max Lange under "C55", the Nxe4 branch under "C56"), but the live explorer's own tags fluctuate between **C56** ("Two Knights Defense, Open Variation"/"Scotch Gambit") and **C44** ("Scotch Game: Scotch Gambit...") at various points along the *same* forcing sequences — a real, heavy transposition with the [Scotch Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_DuboisReti_) (3. d4 exd4 4. Bc4 Nf6 reaches the identical position one ply later). Rather than force a single clean boundary that the data doesn't actually support, every node below states its own live tag as found.
+Spun off from [C55's own "4. d4" candidate bullet](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C55_Two_Knights_Defense.md#_initial_move_) — already live-tagged its own code at this exact bare ply. `eco.md` splits this whole tree across its own C55 and C56 headings (Keidanz/Perreux/Max Lange under "C55", the Nxe4 branch under "C56"), but the live explorer's own tags fluctuate between **C56** ("Two Knights Defense, Open Variation"/"Scotch Gambit") and **C44** ("Scotch Game: Scotch Gambit...") at various points along the *same* forcing sequences — a real, heavy transposition with the [Scotch Gambit](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_DuboisReti_) (3. d4 exd4 4. Bc4 Nf6 reaches the identical position one ply later). Rather than force a single clean boundary that the data doesn't actually support, every node below states its own live tag as found.
 
 ### Overview
 
@@ -62,7 +62,7 @@ r1bqkb1r/pppp1ppp/2n2n2/8/2BpP3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 5
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | 0.00 |
 | --- | --- |
 
-This exact position is identical, by transposition, to [C44's own "Dubois Réti Defense"](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_DuboisReti_) (reached there via 3. d4 exd4 4. Bc4 Nf6) — the live explorer tags this shared node **C44**, not C56. White's 5th move genuinely forks three ways:
+This exact position is identical, by transposition, to [C44's own "Dubois Réti Defense"](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_DuboisReti_) (reached there via 3. d4 exd4 4. Bc4 Nf6) — the live explorer tags this shared node **C44**, not C56. White's 5th move genuinely forks three ways:
 
 * [**5. e5**](#_e5_) (70.0% masters): masters' clear main try — covered below.
 * [**5. O-O**](#_OO_) (26.8% masters): covered below.

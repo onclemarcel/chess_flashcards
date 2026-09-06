@@ -34,7 +34,7 @@ Whenever the opponent's queen and king end up on the same diagonal (or rank/file
 
 ### Every pawn move leaves something behind
 
-A pawn can't move backward, so pushing one always gives something up — a square it no longer covers, a piece it no longer shields. After *any* pawn move (yours or the opponent's), check what square or piece is now undefended before deciding your next move. See [C44 Scotch](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_Bc5_Nxc6_) for a concrete case: pushing a pawn in front of your own king (f3/g3/h3) is the sharpest version of this — it doesn't just leave a square weak, it can cost you castling rights outright.
+A pawn can't move backward, so pushing one always gives something up — a square it no longer covers, a piece it no longer shields. After *any* pawn move (yours or the opponent's), check what square or piece is now undefended before deciding your next move. See [C45 Scotch Main Line](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md#_Bc5_Nxc6_) for a concrete case (the link previously pointed at the wrong file, C44 Scotch, which never had this anchor): pushing a pawn in front of your own king (f3/g3/h3) is the sharpest version of this — it doesn't just leave a square weak, it can cost you castling rights outright.
 
 [*Back to TOP*](#_TOP_)
 

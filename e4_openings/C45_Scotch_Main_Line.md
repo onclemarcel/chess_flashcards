@@ -2,7 +2,7 @@
 
 # C45 Scotch Game <br> 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 #
 
-Spun off from [C44's own "4. Nxd4" section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md), which built out the whole recapture-with-the-knight main line as if it stayed C44 — live-confirmed (`tools/explore.py` on the exact post-4.Nxd4 FEN) this position is already **C45**, not C44, the same "wrong root code" shape found repeatedly elsewhere in this repo (A02/A04/B10/D04). `C44_Scotch.md` itself was never mislabeled at its own root (1. e4 e5 2. Nf3 Nc6 3. d4) — only this one branch, its deepest-built line, carried the wrong code.
+Spun off from [C44's own "4. Nxd4" section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_Scotch_), which built out the whole recapture-with-the-knight main line as if it stayed C44 — live-confirmed (`tools/explore.py` on the exact post-4.Nxd4 FEN) this position is already **C45**, not C44, the same "wrong root code" shape found repeatedly elsewhere in this repo (A02/A04/B10/D04). C44's own Scotch section (part of `C44_Nc6_King_Knight.md` since the 2026-09-06 C44 merge) was never mislabeled at its own root (1. e4 e5 2. Nf3 Nc6 3. d4) — only this one branch, its deepest-built line, carried the wrong code.
 
 ### Overview
 
@@ -65,7 +65,7 @@ Both are considered fully sound; the choice is largely a matter of taste. Two fu
 * [**4... Nxd4**](#_Nxd4_) (0.1% masters): the immediate recapture, heading toward the *Ghulam Kassim Variation*.
 * [**4... Qh4**](#_Qh4_) (1.4% masters): live-tagged the *Steinitz Variation* already at this root ply — a sharp, provocative queen sortie, covered below.
 
-[*Back to C44's 3... exd4*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Scotch.md#_exd4_)
+[*Back to C44's 3... exd4*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C44_Nc6_King_Knight.md#_exd4_)
 [*Back to TOP*](#_TOP_)
 
 ---
