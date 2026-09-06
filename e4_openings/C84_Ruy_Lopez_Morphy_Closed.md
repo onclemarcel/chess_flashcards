@@ -4,9 +4,12 @@
 
 White castles before deciding anything else, keeping the king safe while the long-term plan — pressure down the a4-e8 diagonal and, eventually, a central break with c3 and d4 — stays exactly the same regardless of what Black does next. This is by far the main tabiya of the entire Ruy Lopez: 87.5% of masters games reach this exact position after 4... Nf6.
 
+> [!NOTE]
+> This exact root position is itself live-tagged **C78** ("Ruy Lopez: Morphy Defense"), not C84 — a disclosed root mismatch, not a bug. This card's own deeper content (the **5... Be7** branch below) genuinely stays C84 once Black plays it, so nothing here has been migrated. The sibling replies **5... b5**, **5... Bc5**, and **5... d6** are instead built out on [C78](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md) and [C79](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md) — see the candidate list below.
+
 ### Overview
 
-*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md. 5... b5, 5... Bc5, and 5... d6 are discussed below but have no anchor of their own, so they're left off this map rather than pointing nowhere.*
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
 
 <!-- content-diagram:start -->
 ```mermaid
@@ -23,6 +26,13 @@ flowchart LR
 
     Be7 --> Re1[["6. Re1 !<br/>+0.2"]]:::main
     click Re1 "#_Re1_" "C84 · Ruy Lopez: Closed, Morphy Defense"
+
+    OO --> b5["5... b5"]
+    click b5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md" "C78 · Ruy Lopez: Morphy Defense, 5.O-O"
+    OO --> Bc5["5... Bc5"]
+    click Bc5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md" "C78 · Ruy Lopez: Morphy Defense, Moeller Defence"
+    OO --> d6["5... d6"]
+    click d6 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md" "C79 · Ruy Lopez: Steinitz Defense Deferred"
 ```
 <!-- content-diagram:end -->
 
@@ -50,16 +60,16 @@ r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5
 | Bd6 | 5.6 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/3/35 | 0 | — | ⚠ |
 | Ng4 | 0 | — | 14 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
 * [**5... Be7**](#_Be7_) (+0.2): the *Closed Variation* proper — completes development and prepares to castle, without releasing the central tension. Masters' overwhelming main line (72.4%).
-* **5... b5**: pushes the bishop back before committing the king's bishop, transposing into the same Closed structures a move order later — popular online (35.4%) but a clear second choice for masters (14.3%), since it gives White the option of meeting it with an immediate 6. Bb3 followed by a quicker c3/d4.
+* [**5... b5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_b5_): pushes the bishop back before committing the king's bishop, transposing into the same Closed structures a move order later — popular online (35.4%) but a clear second choice for masters (14.3%), since it gives White the option of meeting it with an immediate 6. Bb3 followed by a quicker c3/d4. Covered on [C78](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_b5_) (Wing Attack, Archangelsk, and the Rabinovich Variation).
 * [**5... Nxe4**](#_Nxe4_) (+0.2): the *Open Variation* — grabs the e4 pawn while it's briefly undefended, giving back central control for active piece play. A fully independent, respected system (9.4% of masters games), not a mistake.
-* **5... Bc5** (masters 2.6%): the *Møller Defense*, developing actively toward f2 instead of the more modest e7.
-* **5... d6** (masters 1.3%): solid but passive, giving up on immediate central tension.
+* [**5... Bc5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Moeller_) (masters 2.6%): the *Møller Defense* (`eco.md`: *Moeller Defence*), developing actively toward f2 instead of the more modest e7. Covered on [C78](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Moeller_).
+* [**5... d6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md) (masters 1.3%): solid but passive, giving up on immediate central tension — its own code, [C79](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md), the Steinitz Defense Deferred (Lipnitsky/Rubinstein/Boleslavsky complex).
 
 [*Back to TOP*](#_TOP_)
 
@@ -91,7 +101,7 @@ r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6
 | Qe2 | 24 k (1.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 866 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 | Nc3 | 0 | — | 143 (0.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 17/57/25 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 60 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_4_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 60 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_4_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 * [**6. Re1**](#_Re1_) (+0.2): moves the rook off the e-file's future pin/attack before playing d4, preparing to meet ... exd4 with the rook already backing up e4 — masters' near-unanimous choice (84.4%).
@@ -128,7 +138,7 @@ r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 b kq - 5 6
 | d5 | 212 (0.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/3/39 | 1 (0.0%) | — | ⚠ |
 | Bd6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_b_kq_-_5_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 51 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_b_kq_-_5_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **6... b5** (98.6% of masters games) is close to automatic — pushing the bishop back to b3 before it can be challenged by ... Na5, and gaining queenside space in the process. From here [**7. Bb3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C88_Ruy_Lopez_Closed_Bb3.md) forks between the traditional **... d6** main line (leading, several moves later, to the Chigorin/Breyer/Zaitsev tabiya) and **... O-O** (which can allow the Marshall Attack gambit) — its own dedicated card.
@@ -161,7 +171,7 @@ r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6
 | Bxc6 | 9.6 k (2.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 7 (0.1%) | — |  |
 | Qe2 | 3.9 k (1.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 11 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 378 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 378 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 Unlike [Petrov's Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C42_Petrov_Defense.md), where grabbing e4 too early runs into the Qe2 pin, White has no such trick here — the pawn is simply gone. **6. d4!** is masters' near-universal answer (96.5%), striking the centre and the e5 pawn at once rather than trying to win the knight back immediately. The position is sharper and more concrete than the Closed lines, and — unusually for the Ruy Lopez — Black gets real chances to play for a win with correct preparation, which is part of why some elite players choose it specifically to sidestep drawish Berlin/Closed theory. See the [dedicated Open Variation card](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C80_Ruy_Lopez_Open_Variation.md) for the theory past this point.

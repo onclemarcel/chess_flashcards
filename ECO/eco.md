@@ -2187,73 +2187,73 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C70
 
-- **Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4`
-- **Ruy Lopez, Fianchetto Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 g6`
-- **Ruy Lopez, Cozio Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nge7`
-- **Ruy Lopez, Bird's Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nd4`
-- **Ruy Lopez, Alapin Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bb4`
-- **Ruy Lopez, Classical Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5`
-- **Ruy Lopez, Caro Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5`
-- **Ruy Lopez, Graz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Bc5`
-- **Ruy Lopez, Taimanov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5`
-- **Ruy Lopez, Schliemann Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 f5`
+- **Ruy Lopez** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_initial_move_) (left untagged live, `opening=None`)
+- **Ruy Lopez, Fianchetto Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Fianchetto_)
+- **Ruy Lopez, Cozio Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nge7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Cozio_)
+- **Ruy Lopez, Bird's Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Bird_) (genuine database rarity, 1 masters game)
+- **Ruy Lopez, Alapin Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Alapin_) (genuine database rarity, 3 masters games)
+- **Ruy Lopez, Classical Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Classical_)
+- **Ruy Lopez, Caro Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Caro_)
+- **Ruy Lopez, Graz Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Graz_) (a real finding: masters' actual main try at the 5.Bb3 fork is 5...Na5, 55.4% — this named line is a real minority, only 5.4%)
+- **Ruy Lopez, Taimanov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5 5.Bb3 Na5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Taimanov_) (live-tagged the *Norwegian Variation* — a real name divergence)
+- **Ruy Lopez, Schliemann Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C70_Ruy_Lopez_Deferred_Defenses.md#_Schliemann_)
 
 ## C71
 
-- **Ruy Lopez, Modern Steinitz,  Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6`
-- **Ruy Lopez, Noah's ark trap** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Qxd4 c5`
-- **Ruy Lopez, Modern Steinitz Defence,  Three Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Nc3`
-- **Ruy Lopez, Modern Steinitz Defence,  Duras (Keres) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4`
+- **Ruy Lopez, Modern Steinitz,  Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C71_Ruy_Lopez_Modern_Steinitz_Defense.md#_initial_move_)
+- **Ruy Lopez, Noah's ark trap** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.d4 b5 6.Bb3 Nxd4 7.Nxd4 exd4 8.Qxd4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C71_Ruy_Lopez_Modern_Steinitz_Defense.md#_d4_) (a major finding: −2.87, a genuine massive engine swing to Black, fully confirming the trap's fearsome practical reputation)
+- **Ruy Lopez, Modern Steinitz Defence,  Three Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C71_Ruy_Lopez_Modern_Steinitz_Defense.md#_ThreeKnights_)
+- **Ruy Lopez, Modern Steinitz Defence,  Duras (Keres) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C71_Ruy_Lopez_Modern_Steinitz_Defense.md#_Duras_)
 
 ## C72
 
-- **Ruy Lopez, Modern Steinitz Defence,  5.O-O** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O`
+- **Ruy Lopez, Modern Steinitz Defence,  5.O-O** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C72_Ruy_Lopez_Modern_Steinitz_Castle.md#_initial_move_)
 
 ## C73
 
-- **Ruy Lopez, Modern Steinitz Defence,  Richter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6 bxc6 6.d4`
-- **Ruy Lopez, Modern Steinitz Defence,  Alapin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6 bxc6 6.d4 f6`
+- **Ruy Lopez, Modern Steinitz Defence,  Richter Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6 bxc6 6.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C73_Ruy_Lopez_Modern_Steinitz_Richter.md#_initial_move_)
+- **Ruy Lopez, Modern Steinitz Defence,  Alapin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.Bxc6 bxc6 6.d4 f6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C73_Ruy_Lopez_Modern_Steinitz_Richter.md#_Alapin_)
 
 ## C74
 
-- **Ruy Lopez, Modern Steinitz Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3`
-- **Ruy Lopez, Modern Steinitz Defence,  Siesta Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5`
-- **Ruy Lopez, Siesta,  Kopayev Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.O-O`
+- **Ruy Lopez, Modern Steinitz Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C74_Ruy_Lopez_Modern_Steinitz_Siesta.md#_initial_move_)
+- **Ruy Lopez, Modern Steinitz Defence,  Siesta Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C74_Ruy_Lopez_Modern_Steinitz_Siesta.md#_Siesta_)
+- **Ruy Lopez, Siesta,  Kopayev Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 f5 6.exf5 Bxf5 7.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C74_Ruy_Lopez_Modern_Steinitz_Siesta.md#_Siesta_)
 
 ## C75
 
-- **Ruy Lopez, Modern Steinitz Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7`
-- **Ruy Lopez, Modern Steinitz Defence,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7`
+- **Ruy Lopez, Modern Steinitz Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C75_Ruy_Lopez_Modern_Steinitz_Rubinstein.md#_initial_move_)
+- **Ruy Lopez, Modern Steinitz Defence,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 Nge7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C75_Ruy_Lopez_Modern_Steinitz_Rubinstein.md#_Rubinstein_)
 
 ## C76
 
-- **Ruy Lopez, Modern Steinitz Defence,  Fianchetto (Bronstein) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6`
+- **Ruy Lopez, Modern Steinitz Defence,  Fianchetto (Bronstein) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 d6 5.c3 Bd7 6.d4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C76_Ruy_Lopez_Modern_Steinitz_Fianchetto.md#_initial_move_) (live shortens it to plain *Fianchetto Variation*)
 
 ## C77
 
-- **Ruy Lopez, Morphy Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6`
-- **Ruy Lopez, Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3`
-- **Ruy Lopez, Treybal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6`
-- **Ruy Lopez, Wormald Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2`
-- **Ruy Lopez, Wormald Attack,  Gruenfeld Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.d4 d6 8.c3 Bg4`
-- **Ruy Lopez, Anderssen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3`
-- **Ruy Lopez, Morphy Defence,  Duras Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c4`
+- **Ruy Lopez, Morphy Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_initial_move_)
+- **Ruy Lopez, Four Knights Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_FourKnights_) (live-tagged the *Tarrasch Variation* — a real name divergence)
+- **Ruy Lopez, Treybal Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Bxc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_Treybal_) (live-tagged the *Bayreuth Variation* — a real name divergence)
+- **Ruy Lopez, Wormald Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_Wormald_)
+- **Ruy Lopez, Wormald Attack,  Gruenfeld Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.Qe2 b5 6.Bb3 Be7 7.d4 d6 8.c3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_Gruenfeld_) (live nests it under the Wormald Attack rather than tagging it its own name)
+- **Ruy Lopez, Anderssen Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_Anderssen_)
+- **Ruy Lopez, Morphy Defence,  Duras Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.d3 d6 6.c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C77_Ruy_Lopez_Morphy_Defense.md#_MorphyDuras_)
 
 ## C78
 
-- **Ruy Lopez, 5.O-O** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O`
-- **Ruy Lopez, Wing Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.a4`
-- **Ruy Lopez, ...b5 & ...d6** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 d6`
-- **Ruy Lopez, Rabinovich Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 d6 7.Ng5 d5 8.exd5 Nd4 9.Re1 Bc5 10.Rxe5 Kf8`
-- **Ruy Lopez, Archangelsk (counterthrust) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7`
-- **Ruy Lopez, Moeller Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5`
+- **Ruy Lopez, 5.O-O** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_initial_move_) (a real "wrong root code" situation, disclosed rather than migrated: this exact root is also stated as [C84_Ruy_Lopez_Morphy_Closed.md](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md)'s own root, but C84's deeper content — the 5...Be7 branch — genuinely stays C84; this card covers the sibling 5...b5/5...Bc5/5...d6 branches C84 only mentioned in passing)
+- **Ruy Lopez, Wing Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Be7 7.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Wing_)
+- **Ruy Lopez, ...b5 & ...d6** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_bd6_)
+- **Ruy Lopez, Rabinovich Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 d6 7.Ng5 d5 8.exd5 Nd4 9.Re1 Bc5 10.Rxe5 Kf8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Rabinovich_) (genuine database rarity, 1 masters game)
+- **Ruy Lopez, Archangelsk (counterthrust) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O b5 6.Bb3 Bb7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Archangelsk_) (live spells it *Arkhangelsk Variation*)
+- **Ruy Lopez, Moeller Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Bc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md#_Moeller_) (live spells it *Møller Variation*)
 
 ## C79
 
-- **Ruy Lopez, Steinitz Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6`
-- **Ruy Lopez, Steinitz Defence,  Deferred,  Lipnitsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Bg4`
-- **Ruy Lopez, Steinitz Defence,  Deferred,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Nxe4`
-- **Ruy Lopez, Steinitz Defence,  Deferred,  Boleslavsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Nxe4 8.Re1 f5 9.dxe5 d5 10.Nc3`
+- **Ruy Lopez, Steinitz Defence,  Deferred** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md#_initial_move_)
+- **Ruy Lopez, Steinitz Defence,  Deferred,  Lipnitsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md#_Lipnitsky_) (genuine database rarity, 7 masters games)
+- **Ruy Lopez, Steinitz Defence,  Deferred,  Rubinstein Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Nxe4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md#_Rubinstein79_) (genuine database rarity, 14 masters games — too rare for the live explorer to tag with its own name at this node)
+- **Ruy Lopez, Steinitz Defence,  Deferred,  Boleslavsky Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O d6 6.Bxc6 bxc6 7.d4 Nxe4 8.Re1 f5 9.dxe5 d5 10.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C79_Ruy_Lopez_Steinitz_Defense_Deferred.md#_Boleslavsky_) (genuine database rarity, 0 masters games found at this exact node)
 
 ## C80
 
