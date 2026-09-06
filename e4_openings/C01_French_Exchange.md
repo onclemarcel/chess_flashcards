@@ -2,7 +2,8 @@
 
 # C01 French Defense: Exchange Variation <br> 1. e4 e6 2. d4 d5 3. exd5 #
 
-Spun off from [`C00_French_Defense.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md)'s own candidate list — masters' least popular try at that fork (5.9%), far more common in casual play (29.3% online). One drawback of the French Defence for Black is the difficulty to get the c8-bishop active early in the game, but exchanging the d-pawns immediately frees Black's queen's bishop and dissipates White's advantage. This White's move results in a symmetrical pawn structure; simple and drawish by French standards, though not without independent try for both sides.
+Spun off from [`C00_French_Defense.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C00_French_Defense.md)'s own candidate list — masters' least popular try at that fork (5.9%), far more common in casual play (29.3% online). <br><br>
+**With this move, White is resolving Black's problem**: one drawback of the French Defence for Black is the difficulty to get the c8-bishop active early in the game, but exchanging the d-pawns immediately frees Black's queen's bishop and dissipates White's advantage. This White's move results in a symmetrical pawn structure; simple and drawish by French standards, though not without independent try for both sides.
 
 ### Overview
 
@@ -25,7 +26,7 @@ flowchart LR
 
 <a name="_initial_move_"></a>
 
-[![3. exd5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR&lastMove=e4d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3)
+[![3. exd5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR&lastMove=e4d5&arrows=Rc8c8&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3)
 
 *... 3. exd5 — Exchange Variation*
 
@@ -51,7 +52,7 @@ rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 
 <a name="_afterexd5_"></a>
 
-[![3... exd5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR&lastMove=e6d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4)
+[![3... exd5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR&lastMove=e6d5&arrows=Gc8c8,Gc8h3&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4)
 
 ```
 rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
@@ -141,7 +142,7 @@ Here Black can easily play for draw with 4... Nf6 to get a very common position 
 
 * **4... Nf6** (+0.17, 38.1% masters): masters' most common try, developing naturally and eyeing e4/d5 support. The most heavily analysed of the four, and correspondingly the safest against a well-prepared opponent.
 * **4... Bd6** (+0.22, 31.0% masters): develops the bishop to its most active diagonal at once, ahead of ...Nf6, pointing straight at White's kingside — a real independent try, not just a move-order quirk.
-* **4... Nc6** (+0.13, 19.5% masters, the engine's actual preference of the four): develops the queenside knight first, keeping ...Nf6/...Bd6 move-order flexible for later.
+* **4... Nc6** (+0.13, 19.5% masters, **the engine's actual preference** of the four): develops the queenside knight first, keeping ...Nf6/...Bd6 move-order flexible for later.
 * **4... Bg4** (+0.34, 7.3% masters): pins the f3-knight immediately rather than developing quietly — the sharpest and least common of the four, correspondingly the one likeliest to surprise an opponent coasting on autopilot in this "drawish" line.
 
 None built out further here yet (backlog) — pending further work on this section.
