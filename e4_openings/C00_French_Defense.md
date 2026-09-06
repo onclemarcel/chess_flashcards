@@ -107,15 +107,12 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 *Online: bullet/blitz, 1800+ — 67.4 M games. Masters: 140 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-09-02*
 <!-- lichess-stats:end -->
 
-White now decides how to resolve the central tension.
-
-> [!NOTE]
-> Two further real C00 tries share this same "2. d4" fork, both very rare at master level: **2... d6!?** (masters: negligible sample) is live-tagged the ***Rat Defense: Small Center Defense*** — a genuine name AND family divergence from `eco.md`'s own *French Defence, Lengfellner System* label, since Lichess treats this specific move order as transposing into the Rat/Modern complex rather than staying French-flavoured. **2... a6!?** (+0.5, 254 masters games) is the *St. George Defence*, delaying the central break by a move to prepare ... b5 first. Neither built out further here (backlog).
+Black's second move of the French Defence attacks the e-pawn and puts the question to White, who has to decide how to resolve the central tension: exchange the pawn, advancing it, or protecting it.
 
 * [**3. Nc3**](#_Nc3_) (+0.3, 50.5% masters): develops naturally, keeping the tension — masters' clear main try, covered below.
 * [**3. Nd2**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C03_French_Tarrasch.md) (+0.3, 31.3% masters): the *Tarrasch Variation*, avoiding the pin that 3... Bb4 would otherwise place on the knight, at the cost of blocking the c1-bishop's most natural diagonal for a while. Already live-tagged **C03**, fully built out through C09.
 * [**3. e5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C02_French_Advance.md) (+0.5, 11.4% masters): the *Advance Variation* — gains space immediately and locks the centre, giving Black a clear target on d4 to attack with ... c5. Already live-tagged **C02**.
-* [**3. exd5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md) (+0.1, 5.9% masters, 29.3% online): the *Exchange Variation* — trades off the central tension for a symmetrical pawn structure. Simple and drawish, and correspondingly far more common in casual play than at master level. Already live-tagged **C01**.
+* [**3. exd5**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C01_French_Exchange.md) (+0.1, 5.9% masters, 29.3% online): the *Exchange Variation* — trades off the central tension for a symmetrical pawn structure. Exchanging the d-pawns immediately frees Black's queen's bishop and dissipates White's advantage. Simple and drawish, and correspondingly far more common in casual play than at master level. Already live-tagged **C01**.
 
 Two further real tries sit in the stats table above with no candidate bullet, both bishop developing moves that sidestep the main Nc3/Nd2/e5/exd5 fork: **3. Bd3** (0.9% masters), the *Schlechter Variation* — masters' main reply is **3... dxe4** (62.3%); and **3. Be3** (masters: negligible sample), the *Alapin Gambit* — `eco.md`'s own name is just the *Alapin Variation*, but the live explorer already tags it a gambit. Neither built out further here (backlog).
 
