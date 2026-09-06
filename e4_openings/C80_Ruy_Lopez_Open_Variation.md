@@ -2,7 +2,7 @@
 
 # C80 Ruy Lopez: Open Variation <br> 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 #
 
-Spun off from [C84's 5... Nxe4](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md#_Nxe4_): rather than meet the pin with ... Be7 or ... b5, Black grabs the e4 pawn while it's briefly loose. White doesn't try to win the knight back on the spot — **6. d4!** strikes the centre and the e5 pawn at once, and Black has to give ground there before the extra tempo starts to matter. The resulting positions are sharper and far more concrete than the Closed main line: a real, independent system (9.4% of masters games at move 5, see C84), not a sideline to be refuted.
+Spun off from [C84's 5... Nxe4](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md#_Nxe4_): rather than meet the pin with ... Be7 or ... b5, Black grabs the e4 pawn while it's briefly loose. White's reply is a near-unanimous **6. d4!** (96.5% masters) striking the centre and the e5 pawn at once, rather than the two rare siblings covered below — **6. Qe2** (the *Tartakower Variation*) and **6. Nc3** (the *Knorre Variation*), both genuine database rarities that stay at this parent code. The resulting positions past 6. d4 are sharper and far more concrete than the Closed main line: a real, independent system (9.4% of masters games at move 5, see C84), not a sideline to be refuted.
 
 ### Overview
 
@@ -13,8 +13,15 @@ Spun off from [C84's 5... Nxe4](https://github.com/onclemarcel/chess_flashcards/
 flowchart LR
     classDef main stroke-width:3px;
 
-    d4["6. d4"]
+    Nxe4["5... Nxe4"]
+    click Nxe4 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md" "C84 · Ruy Lopez: Closed, Morphy Defense"
+
+    Nxe4 --> d4[["6. d4 !<br/>+0.2"]]:::main
     click d4 "#_initial_move_" "C80 · Ruy Lopez: Open"
+    Nxe4 --> Qe2["6. Qe2<br/>−0.17"]
+    click Qe2 "#_Tartakower_" "C80 · Ruy Lopez: Morphy Defense, Tartakower Variation"
+    Nxe4 --> Nc3o["6. Nc3<br/>−0.40"]
+    click Nc3o "#_Knorre_" "C80 · Ruy Lopez: Open, Knorre Variation"
 
     d4 --> b5[["6... b5 !<br/>+0.2"]]:::main
     click b5 "#_b5_" "C80 · Ruy Lopez: Open"
@@ -23,18 +30,71 @@ flowchart LR
 
     b5 --> Bb3["7. Bb3 !<br/>+0.2"]:::main
     click Bb3 "#_Bb3_" "C80 · Ruy Lopez: Open"
+    b5 --> Nxe5f["7. Nxe5<br/>−0.20"]
+    click Nxe5f "#_Friess_" "C80 · Ruy Lopez: Open, Friess Attack"
+    b5 --> d5r["7. d5<br/>−1.14"]
+    click d5r "#_Richter_" "C80 · Ruy Lopez: Open, Richter Variation"
 
     Bb3 --> d5["7... d5 !<br/>+0.2"]:::main
     click d5 "#_d5_" "C80 · Ruy Lopez: Open"
 
     d5 --> dxe5o["8. dxe5 !<br/>+0.2"]:::main
     click dxe5o "#_dxe5o_" "C80 · Ruy Lopez: Open, Main Line"
+    d5 --> a4s["8. a4<br/>−0.33"]
+    click a4s "#_Schlechter_" "C80 · Ruy Lopez: Open, Schlechter Defense"
+    d5 --> c4h["8. c4<br/>−1.84"]
+    click c4h "#_Harksen_" "C80 · Ruy Lopez: Open, Harksen Gambit"
+
     dxe5o --> Nbd2o["9. Nbd2 !<br/>+0.2"]:::main
     click Nbd2o "#_Nbd2o_" "C80 · Ruy Lopez: Open, Bernstein Variation"
     Nbd2o --> Nc5o["9... Nc5 !<br/>+0.2"]:::main
     click Nc5o "#_Nbd2o_" "C80 · Ruy Lopez: Open, Bernstein Variation"
 ```
 <!-- content-diagram:end -->
+
+<a name="_Tartakower_"></a>
+
+### 6. Qe2 — Tartakower Variation
+
+[![6. Qe2](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPPQPPP/RNB2RK1&lastMove=d1e2&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPPQPPP/RNB2RK1_b_kq_-_1_6)
+
+*... 6. Qe2 — Tartakower Variation*
+
+```
+r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/5N2/PPPPQPPP/RNB2RK1 b kq - 1 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.17 |
+| --- | --- |
+
+Pins the knight to the queen rather than striking the centre — a genuine database rarity (only 11 masters games), and the engine gives Black a small edge here rather than the usual White plus. Masters' only recorded reply is **6... Nc5**, retreating the knight to a safe, still-active square. Not built out further here (backlog).
+
+[*Back to 5... Nxe4*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md#_Nxe4_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Knorre_"></a>
+
+### 6. Nc3 — Knorre Variation
+
+[![6. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/2N2N2/PPPP1PPP/R1BQ1RK1&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/2N2N2/PPPP1PPP/R1BQ1RK1_b_kq_-_1_6)
+
+*... 6. Nc3 — Knorre Variation*
+
+```
+r1bqkb1r/1ppp1ppp/p1n5/4p3/B3n3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 1 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.40 |
+| --- | --- |
+
+Offers a pawn back for development rather than striking the centre — a genuine database rarity (0 masters games found), and the engine gives Black a real edge, the biggest of the three 6th-move tries. Not built out further here (backlog).
+
+[*Back to 5... Nxe4*](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md#_Nxe4_)
+[*Back to TOP*](#_TOP_)
+
+---
 
 <a name="_initial_move_"></a>
 
@@ -59,7 +119,7 @@ r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 b kq d3 0 6
 | Nxd4 | 805 (0.4%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 65/3/32 | 0 | — | ⚠ |
 | Nd6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 214 k games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_b_kq_d3_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 214 k games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_b_kq_d3_0_6#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -73,11 +133,11 @@ r1bqkb1r/1ppp1ppp/p1n5/4p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 b kq d3 0 6
 ---
 
 > [!TIP]
-> **6... exd4?!** looks natural — Black already has one extra pawn on e4, why not take a second? — but it removes the e5 pawn that used to block the e-file, and the e4 knight has nothing else defending it.
+> **6... exd4?!** looks natural — Black already has one extra pawn on e4, why not take a second? — but it removes the e5 pawn that used to block the e-file, and the e4 knight has nothing else defending it. Despite the dubious engine verdict, this exact position carries its own name, the ***Riga Variation***.
 >
 > <a name="_exd4_"></a>
 >
-> ### 6... exd4 — the knight has no real shelter
+> ### 6... exd4 — Riga Variation, the knight has no real shelter
 >
 > **7. Re1!** pins the idea together: the rook lands on the newly-open e-file and the knight has no good square. Best play still loses the pawn back with interest — Stockfish's own top line runs **7... f5 8. Nxd4 Qh4 9. g3 Qf6 10. Nxc6 bxc6**, and White keeps the bishop pair and a much better structure. This is a genuinely punishable mistake, not just a slightly worse version of 6... b5 (+1.2 vs +0.2 — a full pawn swing).
 >
@@ -121,12 +181,59 @@ r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1 w kq b6 0 7
 | Nxe5 | 278 (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 5 (0.1%) | — |  |
 | dxe5 | 101 (0.1%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/2/62 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 162 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_w_kq_b6_0_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 162 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/B2Pn3/5N2/PPP2PPP/RNBQ1RK1_w_kq_b6_0_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
-**7. Bb3** is essentially forced (99.8% of masters games) — the bishop has to move off the a4-e8 diagonal before ... b4 could hit it again, and b3 keeps the long-term aim at f7 alive.
+**7. Bb3** is essentially forced (99.8% of masters games) — the bishop has to move off the a4-e8 diagonal before ... b4 could hit it again, and b3 keeps the long-term aim at f7 alive. Two named tries each carry only 0.1% of masters games:
+
+* [**7. Nxe5**](#_Friess_) — the *Friess Attack* — covered below.
+* [**7. d5**](#_Richter_) — the *Richter Variation* — covered below.
 
 [*Back to 6. d4*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Friess_"></a>
+
+## 7. Nxe5 — Friess Attack
+
+[![7. Nxe5](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2pp1ppp/p1n5/1p2N3/B2Pn3/8/PPP2PPP/RNBQ1RK1&lastMove=f3e5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2N3/B2Pn3/8/PPP2PPP/RNBQ1RK1_b_kq_-_0_7)
+
+*... 7. Nxe5 — Friess Attack*
+
+```
+r1bqkb1r/2pp1ppp/p1n5/1p2N3/B2Pn3/8/PPP2PPP/RNBQ1RK1 b kq - 0 7
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.20 |
+| --- | --- |
+
+Grabs the e5 pawn immediately rather than retreating the bishop first — a genuine database rarity (5 masters games), and the engine gives Black a small edge rather than the usual White plus, since the bishop on a4 is now hanging to ... bxa4 with real tempo. Masters' only recorded reply is **7... Nxe5**, simply recapturing. Not built out further here (backlog).
+
+[*Back to 6... b5*](#_b5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Richter_"></a>
+
+## 7. d5 — Richter Variation
+
+[![7. d5](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2pp1ppp/p1n5/1p1Pp3/B3n3/5N2/PPP2PPP/RNBQ1RK1&lastMove=d4d5&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p1Pp3/B3n3/5N2/PPP2PPP/RNBQ1RK1_b_kq_-_0_7)
+
+*... 7. d5 — Richter Variation*
+
+```
+r1bqkb1r/2pp1ppp/p1n5/1p1Pp3/B3n3/5N2/PPP2PPP/RNBQ1RK1 b kq - 0 7
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −1.14 |
+| --- | --- |
+
+Pushes the pawn to attack the c6 knight rather than retreating the bishop first — a genuine database rarity (7 masters games), and a real, punishable mistake: the a4 bishop has no support once White skips 7. Bb3, so masters' clear main try, **7... bxa4** (71.4%), simply wins the piece back with interest. Not built out further here (backlog).
+
+[*Back to 6... b5*](#_b5_)
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -155,7 +262,7 @@ r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1 b kq - 1 7
 | d6 | 1.1 k (0.6%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬛⬛ 78/3/19 | 0 | — | ⚠ |
 | Nxd4 | 871 (0.5%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 71/2/27 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 190 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_b_kq_-_1_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 190 k games. Masters: 7.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2pp1ppp/p1n5/1p2p3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_b_kq_-_1_7#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **7... d5** stakes out the centre while the knight is still solidly placed on e4 — the near-unanimous choice in masters play (99.4%).
@@ -189,14 +296,73 @@ r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1 w kq d6 0 8
 | a4 | 1.0 k (0.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 19 (0.3%) | — |  |
 | Nc3 | 787 (0.4%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 61/5/34 | 18 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 178 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_d6_0_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 178 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/3Pn3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_d6_0_8#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
-From here the game is essentially forced for several more moves.
+From here the game is essentially forced for several more moves, though two named sidelines fork off White's 8th move:
 
 * [**8. dxe5**](#_dxe5o_) (+0.2): near-unanimous (98.2% masters) — see below.
+* [**8. a4**](#_Schlechter_) (0.3% masters): the *Schlechter Defense* — covered below.
+* [**8. c4**](#_Harksen_) (a genuine rarity, only 3 masters games): the *Harksen Gambit* — covered below.
 
 [*Back to 7. Bb3*](#_Bb3_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Schlechter_"></a>
+
+## 8. a4 — Schlechter Defense
+
+[![8. a4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2p2ppp/p1n5/1p1pp3/P2Pn3/1B3N2/1PP2PPP/RNBQ1RK1&lastMove=a2a4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/P2Pn3/1B3N2/1PP2PPP/RNBQ1RK1_b_kq_a3_0_8)
+
+*... 8. a4 — Schlechter Defense*
+
+```
+r1bqkb1r/2p2ppp/p1n5/1p1pp3/P2Pn3/1B3N2/1PP2PPP/RNBQ1RK1 b kq a3 0 8
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.33 |
+| --- | --- |
+
+Strikes the queenside pawn chain rather than resolving the centre first — a real minority try (0.3% masters). Masters' only recorded reply is **8... Nxd4**, grabbing the pawn immediately. The sequence **9. Nxd4 exd4 10. Nc3** reaches the named ***Berger Variation***:
+
+<a name="_Berger_"></a>
+
+[![10. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2p2ppp/p7/1p1p4/P2pn3/1BN5/1PP2PPP/R1BQ1RK1&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p7/1p1p4/P2pn3/1BN5/1PP2PPP/R1BQ1RK1_b_kq_-_1_10)
+
+```
+r1bqkb1r/2p2ppp/p7/1p1p4/P2pn3/1BN5/1PP2PPP/R1BQ1RK1 b kq - 1 10
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.73 |
+| --- | --- |
+
+A genuine database rarity (only 1 masters game found) — White challenges the e4 knight with tempo rather than recapturing the d4 pawn immediately, but the engine still prefers Black. Not built out further here beyond this summary (backlog).
+
+[*Back to 7... d5*](#_d5_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_Harksen_"></a>
+
+## 8. c4 — Harksen Gambit
+
+[![8. c4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2p2ppp/p1n5/1p1pp3/2PPn3/1B3N2/PP3PPP/RNBQ1RK1&lastMove=c2c4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqkb1r/2p2ppp/p1n5/1p1pp3/2PPn3/1B3N2/PP3PPP/RNBQ1RK1_b_kq_c3_0_8)
+
+*... 8. c4 — Harksen Gambit*
+
+```
+r1bqkb1r/2p2ppp/p1n5/1p1pp3/2PPn3/1B3N2/PP3PPP/RNBQ1RK1 b kq c3 0 8
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −1.84 |
+| --- | --- |
+
+Offers a second pawn to blast open the centre rather than resolving the tension with dxe5 — a genuine database rarity (only 3 masters games), and a real, punishable gambit: the engine gives Black a large advantage despite the extra activity White gets in return. Masters split between **8... dxc4** (66.7%) and **8... Be6** (33.3%). Not built out further here (backlog).
+
+[*Back to 7... d5*](#_d5_)
 [*Back to TOP*](#_TOP_)
 
 ---
@@ -216,7 +382,7 @@ r1bqkb1r/2p2ppp/p1n5/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 b kq - 0 8
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
 | --- | --- |
 
-**8... Be6** is essentially forced (99.9% of masters games) — developing the last minor piece and eyeing d5/c4 before White can pressure the knight.
+**8... Be6** is essentially forced (99.9% of masters games) — developing the last minor piece and eyeing d5/c4 before White can pressure the knight. The rare alternative, [**8... Ne7**](#_Zukertort_) (a genuine database rarity, only 2 masters games), carries its own name, the *Zukertort Variation* — covered below.
 
 [![8... Be6](https://backscattering.de/web-boardimage/board.svg?fen=r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1&lastMove=c8e6&coordinates=true&size=320)](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9)
 
@@ -238,13 +404,34 @@ r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 w kq - 1 9
 | Re1 | 9.6 k (6.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 0 | — | ⚠ |
 | Be3 | 0 | — | 1.0 k (14.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/50/18 |  |
 
-*Online: bullet/blitz, 1800+ — 147 k games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 147 k games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 White's 9th move is a genuine four-way choice: **9. Nbd2** (46.7% masters, the top try — the knight heads for e4/c4 next), **9. c3** (27.7%, supporting a later d4 or Bc2-Nbd2 regrouping), **9. Be3** (14.9%) and **9. Qe2** (9.6%) are all played.
 
 * [**9. Nbd2**](#_Nbd2o_) (+0.2): masters' top try (46.7%) — the Bernstein Variation, see below.
-* **9. c3 / 9. Be3 / 9. Qe2**: all real (27.7%/14.9%/9.6% masters) — not covered further here.
+* **9. c3** (27.7% masters): its own code, [C82](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C82_Ruy_Lopez_Open_9c3.md).
+* **9. Be3 / 9. Qe2**: both real (14.9%/9.6% masters) — the latter is its own code, [C81](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C81_Ruy_Lopez_Open_Howell_Attack.md), the *Howell Attack*; 9. Be3 stays here, not covered further.
+
+<a name="_Zukertort_"></a>
+
+### 8... Ne7 — Zukertort Variation
+
+[![8... Ne7](https://backscattering.de/web-boardimage/board.svg?fen=r1bqkb1r/2p1nppp/p7/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1&lastMove=c6e7&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqkb1r/2p1nppp/p7/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1_w_kq_-_1_9)
+
+*... 8... Ne7 — Zukertort Variation*
+
+```
+r1bqkb1r/2p1nppp/p7/1p1pP3/4n3/1B3N2/PPP2PPP/RNBQ1RK1 w kq - 1 9
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +1.10 |
+| --- | --- |
+
+Reroutes the knight to e7 rather than developing the bishop — a genuine database rarity (only 2 masters games), and the engine prefers White considerably more than the main 8... Be6 line, since the knight is passive on e7 and the c8 bishop stays undeveloped. Masters' only recorded reply is **9. Ng5**, hopping in immediately to exploit the loose setup. Not built out further here (backlog).
+
+[*Back to 8. dxe5*](#_dxe5o_)
+[*Back to TOP*](#_TOP_)
 
 [*Back to 8. dxe5*](#_dxe5o_)
 [*Back to TOP*](#_TOP_)
@@ -273,7 +460,7 @@ r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1 b kq - 2 9
 | Bc5 | 8.5 k (21.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 242 (7.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/51/15 |  |
 | Be7 | 5.1 k (13.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/10/45 | 554 (17.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 30/57/14 |  |
 
-*Online: bullet/blitz, 1800+ — 39 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1_b_kq_-_2_9#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 39 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPPN1PPP/R1BQ1RK1_b_kq_-_2_9#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
 **9... Nc5** is masters' clear main try (75.0%) — this exact position is named the ***Bernstein Variation*** (verified live via the explorer's own `opening` field), retreating the knight to a safer, still-active square rather than waiting for it to be kicked with f3/Nb3.
@@ -298,10 +485,23 @@ r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1 w kq - 3 10
 | a4 | 575 (2.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/9/45 | 0 | — | ⚠ |
 | h3 | 0 | — | 4 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 23 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1_w_kq_-_3_10#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 23 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1pnpP3/8/1B3N2/PPPN1PPP/R1BQ1RK1_w_kq_-_3_10#explorer) — updated 2026-09-06*
 <!-- lichess-stats:end -->
 
-**10. c3** is close to automatic (99.5% of masters games) — securing the b3 bishop's retreat square on c2 and preparing Bc2 or Nb3 to challenge the c5 knight, while Stockfish still calls the position dead level (+0.2). A good summary of the whole Open Variation: Black's activity and structure genuinely compensate for White's extra central space and bishop pair, all the way through forced-looking main theory. Deeper Bernstein theory past this point is its own extensive body of work, not covered further here.
+**10. c3** is close to automatic (99.5% of masters games) — securing the b3 bishop's retreat square on c2 and preparing Bc2 or Nb3 to challenge the c5 knight, while Stockfish still calls the position dead level (+0.2). A good summary of the whole Open Variation: Black's activity and structure genuinely compensate for White's extra central space and bishop pair, all the way through forced-looking main theory. One sharp, named try past this point is the ***Karpov Gambit*** (**10... d4 11. Ng5**):
+
+<a name="_Karpov_"></a>
+
+[![11. Ng5](https://backscattering.de/web-boardimage/board.svg?fen=r2qkb1r/2p2ppp/p1n1b3/1pn1P1N1/3p4/1BP5/PP1N1PPP/R1BQ1RK1&lastMove=f3g5&coordinates=true&size=280)](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1pn1P1N1/3p4/1BP5/PP1N1PPP/R1BQ1RK1_b_kq_-_1_11)
+
+```
+r2qkb1r/2p2ppp/p1n1b3/1pn1P1N1/3p4/1BP5/PP1N1PPP/R1BQ1RK1 b kq - 1 11
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.00 |
+| --- | --- |
+
+Rather than retreat or support the advanced d4 pawn, White sacrifices a piece to attack the loose bishop on e6 — a real, if rare, gambit (98 masters games). Masters' clear main try is **11... Qxg5** (63.3%), simply grabbing the offered knight; the position stays dead level despite the material imbalance, since White's attack and structure fully compensate. Not built out further here (backlog).
 
 [*Back to 8... Be6*](#_dxe5o_)
 [*Back to TOP*](#_TOP_)

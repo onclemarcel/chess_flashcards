@@ -26,6 +26,8 @@ flowchart LR
 
     Be7 --> Re1[["6. Re1 !<br/>+0.2"]]:::main
     click Re1 "#_Re1_" "C84 · Ruy Lopez: Closed, Morphy Defense"
+    Be7 --> d4c["6. d4<br/>+0.00"]
+    click d4c "#_CentreAttack_" "C84 · Ruy Lopez: Closed, Center Attack"
 
     OO --> b5["5... b5"]
     click b5 "https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C78_Ruy_Lopez_Morphy_Defense_Castle.md" "C78 · Ruy Lopez: Morphy Defense, 5.O-O"
@@ -106,8 +108,44 @@ r1bqk2r/1pppbppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 4 6
 
 * [**6. Re1**](#_Re1_) (+0.2): moves the rook off the e-file's future pin/attack before playing d4, preparing to meet ... exd4 with the rook already backing up e4 — masters' near-unanimous choice (84.4%).
 * **6. d3** (masters 9.3%): a quieter approach that avoids some of the deepest Closed Ruy Lopez theory, popular as a practical try since it needs far less memorisation.
+* [**6. d4**](#_CentreAttack_) (masters 0.5%): the *Center Attack* — covered below.
 
 [*Back to 5. O-O*](#_initial_move_)
+[*Back to TOP*](#_TOP_)
+
+---
+
+<a name="_CentreAttack_"></a>
+
+### 6. d4 — Center Attack
+
+[![6. d4](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk2r/1pppbppp/p1n2n2/4p3/B2PP3/5N2/PPP2PPP/RNBQ1RK1&lastMove=d2d4&coordinates=true&size=320)](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n2n2/4p3/B2PP3/5N2/PPP2PPP/RNBQ1RK1_b_kq_d3_0_6)
+
+*... 6. d4 — live-tagged the Center Attack*
+
+```
+r1bqk2r/1pppbppp/p1n2n2/4p3/B2PP3/5N2/PPP2PPP/RNBQ1RK1 b kq d3 0 6
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.00 |
+| --- | --- |
+
+`eco.md` calls this the *centre Attack*; the live explorer spells it the ***Center Attack*** — the same name, American spelling. Strikes the centre immediately rather than the more patient Re1 first — a genuine minority try (0.5% masters). Masters' clear main try is **6... exd4** (86.7%). The sequence **6... exd4 7. e5 Ne4 8. c3** reaches the named ***Basque Gambit*** (`eco.md` also notes the alias *North Spanish Variation*):
+
+<a name="_Basque_"></a>
+
+[![8. c3](https://backscattering.de/web-boardimage/board.svg?fen=r1bqk2r/1pppbppp/p1n5/4P3/B2pn3/2P2N2/PP3PPP/RNBQ1RK1&lastMove=c2c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/r1bqk2r/1pppbppp/p1n5/4P3/B2pn3/2P2N2/PP3PPP/RNBQ1RK1_b_kq_-_0_8)
+
+```
+r1bqk2r/1pppbppp/p1n5/4P3/B2pn3/2P2N2/PP3PPP/RNBQ1RK1 b kq - 0 8
+```
+
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | −0.52 |
+| --- | --- |
+
+A genuine database rarity (only 4 masters games), and the engine gives Black a small edge despite White's gambit-flavoured pawn sacrifice. Masters' clear main try is **8... dxc3** (75.0%), simply accepting the second pawn. Not built out further here beyond this summary (backlog).
+
+[*Back to 5... Be7*](#_Be7_)
 [*Back to TOP*](#_TOP_)
 
 ---
