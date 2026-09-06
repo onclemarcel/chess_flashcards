@@ -2343,60 +2343,60 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## C90
 
-- **Ruy Lopez, Closed (with ...d6)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6`
-- **Ruy Lopez, Closed,  Pilnik Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d3`
-- **Ruy Lopez, Closed,  Lutikov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.Bc2`
-- **Ruy Lopez, Closed,  Suetin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.a3`
+- **Ruy Lopez, Closed (with ...d6)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C90_Ruy_Lopez_Closed_Tabiya.md#_initial_move_) (transposes to the same position already built as C90's own root, reached in this repo via 7...d6 8.c3 O-O)
+- **Ruy Lopez, Closed,  Pilnik Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C90_Ruy_Lopez_Closed_Tabiya.md#_Pilnik_)
+- **Ruy Lopez, Closed,  Lutikov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.Bc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C90_Ruy_Lopez_Closed_Tabiya.md#_Lutikov_) (genuine database rarity, 11 masters games)
+- **Ruy Lopez, Closed,  Suetin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C90_Ruy_Lopez_Closed_Tabiya.md#_Suetin_)
 
 ## C91
 
-- **Ruy Lopez, Closed,  9.d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d4`
-- **Ruy Lopez, Closed,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d4 Bg4`
+- **Ruy Lopez, Closed,  9.d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C91_Ruy_Lopez_Yates_Variation.md#_initial_move_) (live-tagged the *Yates Variation*; migrated off C90, where it previously lived as a NOTE box)
+- **Ruy Lopez, Closed,  Bogolyubov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.d4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C91_Ruy_Lopez_Yates_Variation.md#_Bogoljubow_) (live spells it *Bogoljubow*)
 
 ## C92
 
-- **Ruy Lopez, Closed,  9.h3** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3`
-- **Ruy Lopez, Closed,  Keres (9...a5) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 a5`
-- **Ruy Lopez, Closed,  Kholmov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Be6`
-- **Ruy Lopez, Closed,  Ragozin-Petrosian ('Keres') Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nd7`
-- **Ruy Lopez, Closed,  Flohr-Zaitsev System (Lenzerheide Variation)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Bb7`
+- **Ruy Lopez, Closed,  9.h3** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C92_Ruy_Lopez_Zaitsev.md#_initial_move_) (a real "wrong root code" find: this bare tabiya is live-tagged C92, not C90 — migrated here from C90's own file, where it previously lived as a full built-out section)
+- **Ruy Lopez, Closed,  Keres (9...a5) Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 a5` ✅ [mentioned](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C92_Ruy_Lopez_Zaitsev.md#_initial_move_) (left untagged live, `opening=None`, despite carrying a named `eco.md` entry — too obscure for the live database to tag independently; not built out with its own section)
+- **Ruy Lopez, Closed,  Kholmov Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C92_Ruy_Lopez_Zaitsev.md#_Kholmov_)
+- **Ruy Lopez, Closed,  Ragozin-Petrosian ('Keres') Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C92_Ruy_Lopez_Zaitsev.md#_Karpov_) (live-tagged the *Karpov Variation* instead — a real name divergence)
+- **Ruy Lopez, Closed,  Flohr-Zaitsev System (Lenzerheide Variation)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Bb7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C92_Ruy_Lopez_Zaitsev.md#_Bb7_) (live-tagged the *Flohr System*; becomes the *Zaitsev Variation* proper one move later at 10...Re8)
 
 ## C93
 
-- **Ruy Lopez, Closed,  Smyslov Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 h6`
+- **Ruy Lopez, Closed,  Smyslov Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C93_Ruy_Lopez_Smyslov_Defense.md#_initial_move_)
 
 ## C94
 
-- **Ruy Lopez, Closed,  Breyer Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8`
+- **Ruy Lopez, Closed,  Breyer Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C94_Ruy_Lopez_Breyer.md#_initial_move_) (deeper content migrated out to C95, where it's already live-tagged)
 
 ## C95
 
-- **Ruy Lopez, Closed,  Breyer Defence,  10.d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4`
-- **Ruy Lopez, Closed,  Breyer Defence,  Borisenko Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7`
-- **Ruy Lopez, Closed,  Breyer Defence,  Gligoric Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 c5`
-- **Ruy Lopez, Closed,  Breyer Defence,  Simagin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nh4`
+- **Ruy Lopez, Closed,  Breyer Defence,  10.d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C95_Ruy_Lopez_Breyer_Main_Line.md#_initial_move_) (migrated off C94, where it previously lived as a full built-out section already live-tagged C95 in its own cross-links)
+- **Ruy Lopez, Closed,  Breyer Defence,  Borisenko Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C95_Ruy_Lopez_Breyer_Main_Line.md#_Nbd7_)
+- **Ruy Lopez, Closed,  Breyer Defence,  Gligoric Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nbd2 Bb7 12.Bc2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C95_Ruy_Lopez_Breyer_Main_Line.md#_Gligoric_) (live-tagged simply as a continuation of the Breyer Defense, not distinctly named at this exact node)
+- **Ruy Lopez, Closed,  Breyer Defence,  Simagin Variation** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Nb8 10.d4 Nbd7 11.Nh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C95_Ruy_Lopez_Breyer_Main_Line.md#_Simagin_) (genuine database rarity, 24 masters games)
 
 ## C96
 
-- **Ruy Lopez, Closed (8...Na5)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2`
-- **Ruy Lopez, Closed,  Rossolimo Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c6 11.d4 Qc7`
-- **Ruy Lopez, Closed (10...c5)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5`
-- **Ruy Lopez, Closed,  Borisenko Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Nc6`
-- **Ruy Lopez, Closed,  Keres (...Nd7) Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Nd7`
+- **Ruy Lopez, Closed (8...Na5)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md#_initial_move_) (a real "wrong root code" find: this bare tabiya is live-tagged C96, not C97 — migrated here from C97's own file, where it previously lived as a full built-out section)
+- **Ruy Lopez, Closed,  Rossolimo Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c6 11.d4 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md#_Rossolimo_) (genuine database rarity, 7 masters games)
+- **Ruy Lopez, Closed (10...c5)** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md#_c5_)
+- **Ruy Lopez, Closed,  Borisenko Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md#_Borisenko_) (live spells it *Borisenko Variation*)
+- **Ruy Lopez, Closed,  Keres (...Nd7) Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Nd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md#_Keres_) (live shortens it to *Keres Defense*)
 
 ## C97
 
-- **Ruy Lopez, Closed,  Chigorin Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7`
-- **Ruy Lopez, Closed,  Chigorin Defence,  Yugoslav System** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Bd7 13.Nf1 Rfe8 14.Ne3 g6`
+- **Ruy Lopez, Closed,  Chigorin Defence** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C97_Ruy_Lopez_Chigorin.md#_Qc7_) (reached back from C96's own 11.d4 fork; C97's own file otherwise now roots one full escalation earlier, at the bare 9...Na5 tabiya, after the C96 split)
+- **Ruy Lopez, Closed,  Chigorin Defence,  Yugoslav System** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Bd7 13.Nf1 Rfe8 14.Ne3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C97_Ruy_Lopez_Chigorin.md#_Yugoslav_) (genuine database rarity in the modern sample, 7 masters games)
 
 ## C98
 
-- **Ruy Lopez, Closed,  Chigorin Defence,  12...Nc6** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6`
-- **Ruy Lopez, Closed,  Chigorin Defence,  Rauzer Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.dxc5`
+- **Ruy Lopez, Closed,  Chigorin Defence,  12...Nc6** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C98_Ruy_Lopez_Chigorin_Nbd2.md#_initial_move_)
+- **Ruy Lopez, Closed,  Chigorin Defence,  Rauzer Attack** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 Nc6 13.dxc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C98_Ruy_Lopez_Chigorin_Nbd2.md#_Rauzer_) (genuine database rarity, 47 masters games)
 
 ## C99
 
-- **Ruy Lopez, Closed,  Chigorin Defence,  12...c5d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4`
+- **Ruy Lopez, Closed,  Chigorin Defence,  12...c5d4** — `1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6 9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.Nbd2 cxd4 13.cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C99_Ruy_Lopez_Chigorin_Panov_System.md#_initial_move_) (a real, substantial name divergence: `eco.md` leaves this bare tabiya untitled, the live explorer independently names it the ***Panov System***)
 
 ## D00
 
