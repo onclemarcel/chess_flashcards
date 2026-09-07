@@ -2967,60 +2967,60 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D90
 
-- **Gruenfeld Defence, Three Knights Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3`
-- **Gruenfeld Defence, Schlechter Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 c6`
-- **Gruenfeld Defence, Three Knights Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7`
-- **Gruenfeld Defence, Flohr Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4`
+- **Gruenfeld Defence, Three Knights Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D90_Grunfeld_Three_Knights_Variation.md#_initial_move_) — eco.md's own self-collision: this exact name is reused one ply later at 4...Bg7 below; both are treated as one continuous D90 card
+- **Gruenfeld Defence, Schlechter Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D90_Grunfeld_Three_Knights_Variation.md#_c6_) — verified via apply_san.py to be the exact same FEN as D15's own Slav Defense Schlechter Variation tabiya, reached by transposition
+- **Gruenfeld Defence, Three Knights Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D90_Grunfeld_Three_Knights_Variation.md#_Bg7_) — the wide 5th-move fork feeding D91/D92/D94/D96 plus this card's own Flohr Variation
+- **Gruenfeld Defence, Flohr Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qa4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D90_Grunfeld_Three_Knights_Variation.md#_Qa4_) — the first of two unrelated "Flohr" names in this D90-D99 batch (D94's own Flohr Defence is the other)
 
 ## D91
 
-- **Gruenfeld Defence, 5.Bg5** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5`
+- **Gruenfeld Defence, 5.Bg5** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D91_Grunfeld_5Bg5.md#_initial_move_) — live-tagged the Petrosian System, a real name this bare entry doesn't carry
 
 ## D92
 
-- **Gruenfeld Defence, 5.Bf4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4`
+- **Gruenfeld Defence, 5.Bf4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D92_Grunfeld_5Bf4.md#_initial_move_) — live-tagged the Hungarian Attack
 
 ## D93
 
-- **Gruenfeld Defence, With Bf4    e3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3`
+- **Gruenfeld Defence, With Bf4    e3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Bf4 O-O 6.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D93_Grunfeld_Bf4_e3.md#_initial_move_) — live-tagged the Hungarian Variation; masters' actual plurality at the parent fork is the uncoded 6.Rc1 (51.4%), narrowly ahead of this card's own 6.e3 (47.0%)
 
 ## D94
 
-- **Gruenfeld Defence, 5.e3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3`
-- **Gruenfeld Defence, Makogonov Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4`
-- **Gruenfeld Defence, Opovcensky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd2`
-- **Gruenfeld Defence, With e3    Bd3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3`
-- **Gruenfeld Defence, Smyslov Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3 c6 7.O-O Bg4`
-- **Gruenfeld Defence, Flohr Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3 c6 7.O-O Bf5`
+- **Gruenfeld Defence, 5.e3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_initial_move_) — live-tagged the Burille Variation
+- **Gruenfeld Defence, Makogonov Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_Makogonov_) — live-tagged name confirmed
+- **Gruenfeld Defence, Opovcensky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_Opocensky_) — live-tagged "Opocensky Variation" instead, a genuine spelling divergence (no v)
+- **Gruenfeld Defence, With e3    Bd3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_Bd3_) — live-tagged the Paris Variation, a real name this bare entry doesn't carry; masters' actual main try here is the uncoded 6...c5 (83.7%), far ahead of 6...c6 (4.7%), the move that actually leads to this card's own two named children below
+- **Gruenfeld Defence, Smyslov Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3 c6 7.O-O Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_Smyslov_) — live-tagged name confirmed; unrelated to D98's Smyslov Variation and D99's Smyslov Main Line/Yugoslav Variation, four separate "Smyslov"-built names across this D90-D99 batch
+- **Gruenfeld Defence, Flohr Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Bd3 c6 7.O-O Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md#_Flohr_) — live-tagged name confirmed; the second of two unrelated "Flohr" names in this batch, after D90's own Flohr Variation
 
 ## D95
 
-- **Gruenfeld Defence, With e3 & Qb3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3`
-- **Gruenfeld Defence, Botvinnik Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 e6`
-- **Gruenfeld Defence, Pachman Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 dxc4 7.Bxc4 Nbd7 8.Ng5`
+- **Gruenfeld Defence, With e3 & Qb3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D95_Grunfeld_e3_Qb3.md#_initial_move_) — live-tagged the Vienna Variation
+- **Gruenfeld Defence, Botvinnik Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D95_Grunfeld_e3_Qb3.md#_Botvinnik_) — live-tagged name confirmed; unrelated to D83's own Botvinnik Variation elsewhere in this same Grünfeld complex
+- **Gruenfeld Defence, Pachman Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.e3 O-O 6.Qb3 dxc4 7.Bxc4 Nbd7 8.Ng5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D95_Grunfeld_e3_Qb3.md#_Pachman_) — live-tagged name confirmed on a vanishingly thin sample (2 masters games); the defining 7...Nbd7 is itself only 6.7% of masters play at its own fork, well behind 7...Nc6 (46.9%) and 7...c5 (32.4%)
 
 ## D96
 
-- **Gruenfeld Defence, Russian Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3`
+- **Gruenfeld Defence, Russian Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D96_Grunfeld_Russian_Variation.md#_initial_move_) — the deepest, most important sub-tree of the whole D90-D99 batch, running through D97-D99
 
 ## D97
 
-- **Gruenfeld Defence, Russian Variation With e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4`
-- **Gruenfeld Defence, Russian Variation,  Alekhine Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 a6`
-- **Gruenfeld Defence, Russian Variation,  Szabo Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 c6`
-- **Gruenfeld Defence, Russian Variation,  Levenfish Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 b6`
-- **Gruenfeld Defence, Russian Variation,  Byrne Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Nc6`
-- **Gruenfeld Defence, Russian Variation,  Prins Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6`
+- **Gruenfeld Defence, Russian Variation With e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_initial_move_) — the live explorer keeps this tabiya's name simply "Russian Variation", without eco.md's own "With e4" suffix; a genuine six-way fork on Black's 7th
+- **Gruenfeld Defence, Russian Variation,  Alekhine Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_Alekhine_) — a genuine name divergence: live-tagged "Russian Variation, Hungarian Variation" instead, at least the fourth independent "Alekhine Variation" reuse in this D-series
+- **Gruenfeld Defence, Russian Variation,  Szabo Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_Szabo_) — live-tagged name confirmed
+- **Gruenfeld Defence, Russian Variation,  Levenfish Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_Levenfish_) — live-tagged name confirmed; the rarest of this fork's six named tries (0.4% masters, 20 games) and, at +1.22, over a pawn worse for Black than every sibling
+- **Gruenfeld Defence, Russian Variation,  Byrne Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_Byrne_) — live-tagged name confirmed
+- **Gruenfeld Defence, Russian Variation,  Prins Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Na6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md#_Prins_) — live-tagged name confirmed; narrowly outranks the Byrne Variation in masters play, 16.7% to 16.0%
 
 ## D98
 
-- **Gruenfeld Defence, Russian Variation,  Smyslov Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4`
-- **Gruenfeld Defence, Russian Variation,  Keres Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Be2 Nb6 10.Qd3 Nc6 11.O-O-O`
+- **Gruenfeld Defence, Russian Variation,  Smyslov Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D98_Grunfeld_Russian_Smyslov_Variation.md#_initial_move_) — live-tagged name confirmed; the second of four unrelated "Smyslov"-built names in this D90-D99 batch, running the spine on to D99
+- **Gruenfeld Defence, Russian Variation,  Keres Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Be2 Nb6 10.Qd3 Nc6 11.O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D98_Grunfeld_Russian_Smyslov_Variation.md#_Keres_) — live-tagged name confirmed on a thin sample (2 masters games); both of its own defining moves are minorities at their own forks — 9.Be2 a mere 2.1% and 11.O-O-O a mere 5.9%
 
 ## D99
 
-- **Gruenfeld Defence, Smyslov,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3`
-- **Gruenfeld Defence, Smyslov,  Yugoslav Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3 c5`
+- **Gruenfeld Defence, Smyslov,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D99_Grunfeld_Russian_Smyslov_Main_Line.md#_initial_move_) — masters' actual main try at its own parent fork (48.7%); the live explorer doesn't carry a distinct "Main line" suffix, the same pattern already logged at D88; the third of four unrelated "Smyslov"-built names in this batch
+- **Gruenfeld Defence, Smyslov,  Yugoslav Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Nf3 Bg7 5.Qb3 dxc4 6.Qxc4 O-O 7.e4 Bg4 8.Be3 Nfd7 9.Qb3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D99_Grunfeld_Russian_Smyslov_Main_Line.md#_Yugoslav_) — live-tagged name confirmed on a thin sample (37 masters games, 3 online); the last of four unrelated "Smyslov"-built names in this batch, and the final leaf of the whole D90-D99 sweep
 
 ## E00
 
