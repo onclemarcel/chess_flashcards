@@ -20,6 +20,8 @@ flowchart LR
     click cxd5v "#_Exchange_" "D35 · Queen's Gambit Declined: Exchange Variation"
     Nf6 --> Nf3v[["4. Nf3 !<br/>+0.2"]]
     click Nf3v "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md" "D37 · Queen's Gambit Declined: Three Knights Variation"
+    Nf6 --> Bg5rv[["4. Bg5<br/>+0.00"]]
+    click Bg5rv "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md" "D50 · Queen's Gambit Declined: Modern Variation"
     Nf6 --> Bf4v{"4. Bf4<br/>+0.00"}
     click Bf4v "#_Harrwitz_" "D35 · Queen's Gambit Declined: Harrwitz Attack"
 
@@ -65,10 +67,10 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
 *Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
-Masters' clear main try is **4. cxd5** (53.7%), resolving the central tension immediately. **4. Bg5** (23.0%) pins the knight instead — a real, secondary try with no code of its own in this D35-D39 range, transposing toward D30's own Traditional Variation tree. **4. Nf3** (22.4%) develops naturally — its own code, [D37](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md). **4. Bf4** is a genuine rarity, the *Harrwitz Attack*.
+Masters' clear main try is **4. cxd5** (53.7%), resolving the central tension immediately. **4. Bg5** (23.0%) pins the knight instead — its own code, [D50](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md), covered there. *Correction to a claim this card carried before this batch*: 4. Bg5 was previously described here as transposing toward D30's own Traditional Variation tree; `apply_san.py` confirms that's wrong — D30's own 4.Bg5 arrives via 3.Nf3 (the knight on f3), while this position arrives via 3.Nc3 (the knight on c3) — a genuinely distinct position, not a transposition, and now built out as its own card, D50. **4. Nf3** (22.4%) develops naturally — its own code, [D37](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md). **4. Bf4** is a genuine rarity, the *Harrwitz Attack*.
 
 * [**4. cxd5**](#_Exchange_) (53.7% masters): the *Exchange Variation* — covered below.
-* **4. Bg5** (23.0% masters): a real secondary try, uncoded in this range, transposing toward D30's own tree — not covered further here.
+* **4. Bg5** (+0.00, 23.0% masters): its own code, [D50](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md) — not a transposition into D30 as this card previously (incorrectly) claimed.
 * **4. Nf3** (+0.2, 22.4% masters): its own code, [D37](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md).
 * [**4. Bf4**](#_Harrwitz_) (+0.00, 0.5% masters): the *Harrwitz Attack* — covered below.
 

@@ -2748,72 +2748,72 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D50
 
-- **Queen's Gambit, Declined,  4.Bg5** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5`
-- **Queen's Gambit, Declined,  Been-Koomen Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  Krause Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.Nf3 cxd4 6.Nxd4 e5 7.Ndb5 a6 8.Qa4`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  Primitive Pillsbury Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.Nf3 cxd4 6.Qxd4`
-- **Queen's Gambit, Declined,  Semi-Tarrasch** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5`
-- **Queen's Gambit, Declined,  Canal Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5 Qb6`
+- **Queen's Gambit, Declined,  4.Bg5** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_initial_move_) — live-tagged the *Modern Variation*, the first of three unrelated reuses of this name in this batch (D51, D55); also fixes a "wrong root code" bug on D35, which previously claimed this position transposed into D30
+- **Queen's Gambit, Declined,  Been-Koomen Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_BeenKoomen_) — a database rarity at masters level (2.0%) that still carries its own code, the mirror image of D58/D59's Tartakower complex
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  Krause Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.Nf3 cxd4 6.Nxd4 e5 7.Ndb5 a6 8.Qa4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_Krause_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  Primitive Pillsbury Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.Nf3 cxd4 6.Qxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_PrimitivePillsbury_) — unrelated to D55's own Pillsbury Attack
+- **Queen's Gambit, Declined,  Semi-Tarrasch** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_SemiTarrasch_) — live-tagged the *Pseudo-Tarrasch Variation*, a real name divergence; masters' own main reply here (5...cxd4, 85.2%) is a different position from D40's own Semi-Tarrasch tree, not a transposition
+- **Queen's Gambit, Declined,  Canal Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 c5 5.cxd5 Qb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md#_Canal_) — a notable eval swing, +0.31 to +0.78 in one move
 
 ## D51
 
-- **Queen's Gambit, Declined,  4.Bg5 Nbd7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7`
-- **Queen's Gambit, Declined,  Rochlin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.Rc1 Qa5 7.Bd2`
-- **Queen's Gambit, Declined,  Alekhine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.e4`
-- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3`
-- **Queen's Gambit, Declined,  Manhattan Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Bb4`
-- **Queen's Gambit, Declined,  5...c6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6`
-- **Queen's Gambit, Declined,  Capablanca Anti-Cambridge Springs Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.a3`
+- **Queen's Gambit, Declined,  4.Bg5 Nbd7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_initial_move_) — live-tagged the *Modern Variation, Knight Defense*, reused (unrelated) from D50's own root
+- **Queen's Gambit, Declined,  Rochlin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.Rc1 Qa5 7.Bd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_Rochlin_) — near-extinct today, 1 masters game out of 4,985 at its own branch point
+- **Queen's Gambit, Declined,  Alekhine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.Nf3 c6 6.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_Alekhine_) — a genuine blitz trap (0.2% masters, 4.5% online, over 20x), unrelated to D22's own Alekhine Defense and D45's own Alekhine Variation
+- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_e3_) — reuses the *Modern Variation, Knight Defense* name a second time
+- **Queen's Gambit, Declined,  Manhattan Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_Manhattan_)
+- **Queen's Gambit, Declined,  5...c6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_c6_) — reuses the *Modern Variation, Knight Defense* name a third time; its own 6.Nf3 is a verified transposition into D52's own root
+- **Queen's Gambit, Declined,  Capablanca Anti-Cambridge Springs Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D51_Queens_Gambit_Declined_Knight_Defense.md#_CapaAntiCS_)
 
 ## D52
 
-- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Bogoljubow Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Argentine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2 O-O 9.Bh4`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Rubinstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 dxc4`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Bxf6`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  7.cd** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.cxd5`
-- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Yugoslav Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.cxd5 Nxd5`
+- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_initial_move_) — reached by two independently `apply_san.py`-verified move orders from D51 (5.e3 c6 6.Nf3 and 5.Nf3 c6 6.e3)
+- **Queen's Gambit, Declined,  Cambridge Springs Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_CSD_)
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Bogoljubow Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_Bogoljubow_)
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Argentine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 Bb4 8.Qc2 O-O 9.Bh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_Argentine_)
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Rubinstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Nd2 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_Rubinstein_) — unrelated to D20's and D33's own Rubinstein-named lines
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.Bxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_Capablanca_) — masters/online gap: only 3.8% masters vs 30.5% online
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  7.cd** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_cxd5node_) — live-tagged plain *Cambridge Springs Defense*, same generic label as its own parent node
+- **Queen's Gambit, Declined,  Cambridge Springs Defence,  Yugoslav Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Qa5 7.cxd5 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D52_Queens_Gambit_Declined_Cambridge_Springs.md#_Yugoslav_)
 
 ## D53
 
-- **Queen's Gambit, Declined,  4.Bg5 Be7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7`
-- **Queen's Gambit, Declined,  Lasker Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Ne4`
-- **Queen's Gambit, Declined,  4.Bg5 Be7,  5.e3 O-O** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O`
+- **Queen's Gambit, Declined,  4.Bg5 Be7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D53_Queens_Gambit_Declined_Be7.md#_initial_move_)
+- **Queen's Gambit, Declined,  Lasker Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D53_Queens_Gambit_Declined_Be7.md#_Lasker_) — live-tagged identically to D56's own, unrelated, *Lasker Defence* (...Ne4 played before castling here, vs after 6.Nf3 h6 7.Bh4 there); essentially unplayed standalone (12 masters games)
+- **Queen's Gambit, Declined,  4.Bg5 Be7,  5.e3 O-O** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D53_Queens_Gambit_Declined_Be7.md#_OO_) — left completely untagged live (`opening=None`) despite both its parent and both its real children (D54, D55) being separately tagged
 
 ## D54
 
-- **Queen's Gambit, Declined,  Anti-neo-orthodox Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Rc1`
+- **Queen's Gambit, Declined,  Anti-neo-orthodox Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Rc1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D54_Queens_Gambit_Declined_Anti_Neo_Orthodox.md#_initial_move_) — live-tagged plain *Neo-Orthodox Variation* (drops the "Anti-"), colliding with D55's own, unrelated, *Neo-Orthodox Variation* two codes later
 
 ## D55
 
-- **Queen's Gambit, Declined,  6.Nf3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3`
-- **Queen's Gambit, Declined,  Pillsbury Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Bd3 Bb7 8.cxd5 exd5 9.Ne5`
-- **Queen's Gambit, Declined,  Neo-orthodox Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6`
-- **Queen's Gambit, Declined,  Neo-orthodox Variation,  7.Bxf6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bxf6`
-- **Queen's Gambit, Declined,  Petrosian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bxf6 Bxf6 8.Rc1 c6 9.Bd3 Nd7 10.O-O dxc4 11.Bxc4`
-- **Queen's Gambit, Declined,  Neo-orthodox Variation,  7.Bh4** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4`
+- **Queen's Gambit, Declined,  6.Nf3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_initial_move_) — live-tagged the *Modern Variation, Normal Line*, a third unrelated reuse of the "Modern Variation" name (D50, D51)
+- **Queen's Gambit, Declined,  Pillsbury Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Bd3 Bb7 8.cxd5 exd5 9.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_Pillsbury_) — unrelated to D50's own Primitive Pillsbury Variation
+- **Queen's Gambit, Declined,  Neo-orthodox Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_NeoOrthodox_)
+- **Queen's Gambit, Declined,  Neo-orthodox Variation,  7.Bxf6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bxf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_Bxf6_)
+- **Queen's Gambit, Declined,  Petrosian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bxf6 Bxf6 8.Rc1 c6 9.Bd3 Nd7 10.O-O dxc4 11.Bxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_Petrosian_)
+- **Queen's Gambit, Declined,  Neo-orthodox Variation,  7.Bh4** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D55_Queens_Gambit_Declined_Neo_Orthodox.md#_Bh4_) — live-tagged *Neo-Orthodox Variation, Main Line*; **correction**: masters' actual main reply here is 7...b6 (72.6%, D58's own root) not the historically famous 7...Ne4 Lasker Defence (only 21.2%, D56)
 
 ## D56
 
-- **Queen's Gambit, Declined,  Lasker Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4`
-- **Queen's Gambit, Declined,  Lasker Defence,  Teichmann Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.Qc2`
-- **Queen's Gambit, Declined,  Lasker Defence,  Russian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.Qc2 Nf6 10.Bd3 dxc4 11.Bxc4 c5 12.O-O Nc6 13.Rfd1 Bd7`
+- **Queen's Gambit, Declined,  Lasker Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D56_Queens_Gambit_Declined_Lasker_Defense.md#_initial_move_) — masters' second choice at its own parent fork (21.2%), behind D58's Tartakower System (72.6%); see D53's own, unrelated, "Lasker Variation" for the naming collision
+- **Queen's Gambit, Declined,  Lasker Defence,  Teichmann Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D56_Queens_Gambit_Declined_Lasker_Defense.md#_Teichmann_) — masters' actual main try at this exact fork is the uncoded 9.Rc1 (58.9%), not this
+- **Queen's Gambit, Declined,  Lasker Defence,  Russian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.Qc2 Nf6 10.Bd3 dxc4 11.Bxc4 c5 12.O-O Nc6 13.Rfd1 Bd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D56_Queens_Gambit_Declined_Lasker_Defense.md#_Russian_)
 
 ## D57
 
-- **Queen's Gambit, Declined,  Lasker Defence,  Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3`
-- **Queen's Gambit, Declined,  Lasker Defence,  Bernstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3 exd5 11.Qb3 Qd6`
+- **Queen's Gambit, Declined,  Lasker Defence,  Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D57_Queens_Gambit_Declined_Lasker_Defense_Main_Line.md#_initial_move_) — a real, secondary try at its own parent fork (14.6% masters), also behind the uncoded 9.Rc1
+- **Queen's Gambit, Declined,  Lasker Defence,  Bernstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 Ne4 8.Bxe7 Qxe7 9.cxd5 Nxc3 10.bxc3 exd5 11.Qb3 Qd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D57_Queens_Gambit_Declined_Lasker_Defense_Main_Line.md#_Bernstein_) — a notable eval jump, +0.07 to +0.46 in one line, the deepest and sharpest line of the whole Lasker Defence complex
 
 ## D58
 
-- **Queen's Gambit, Declined,  Tartakower (Makagonov-Bondarevsky) System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6`
+- **Queen's Gambit, Declined,  Tartakower (Makagonov-Bondarevsky) System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D58_Queens_Gambit_Declined_Tartakower_System.md#_initial_move_) — live-tagged plain *Tartakower Defense* (drops the parenthetical); masters' actual main try here (72.6%) at its own parent D55 fork; here, White's own 8th move is a genuine spread and this card's own D59 link (8.cxd5, 15.4%) trails three uncoded rivals (Be2 26.8%, Bd3 25.1%, Rc1 16.9%)
 
 ## D59
 
-- **Queen's Gambit, Declined,  Tartakower (Makagonov-Bondarevsky) System,  8.cd Nxd5** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5`
-- **Queen's Gambit, Declined,  Tartakower Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6`
+- **Queen's Gambit, Declined,  Tartakower (Makagonov-Bondarevsky) System,  8.cd Nxd5** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D59_Queens_Gambit_Declined_Tartakower_Variation.md#_initial_move_) — live-tagged *Tartakower Defense, Makogonov Exchange Variation* (also a spelling divergence, Makagonov/Makogonov)
+- **Queen's Gambit, Declined,  Tartakower Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 h6 7.Bh4 b6 8.cxd5 Nxd5 9.Bxe7 Qxe7 10.Nxd5 exd5 11.Rc1 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D59_Queens_Gambit_Declined_Tartakower_Variation.md#_Tartakower_) — the deepest, final named line of this entire D50-D59 batch
 
 ## D60
 
