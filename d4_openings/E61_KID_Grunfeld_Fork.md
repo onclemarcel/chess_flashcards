@@ -31,6 +31,6 @@ rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 ### Candidate moves
 
 * [**3... Bg7**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md) (+0.5): masters' clear favourite (64.8%) — the [King's Indian Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md), Black fianchettoes and lets White build a big centre before striking back
-* [**3... d5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D85_Grunfeld.md) (+0.3): a real minority choice, over a third of masters games (34.7%) — the [Grünfeld Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D85_Grunfeld.md), Black challenges the centre immediately and accepts a space deficit for active piece play
+* [**3... d5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md) (+0.3): a real minority choice, over a third of masters games (34.7%) — the [Grünfeld Defense](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md), Black challenges the centre immediately and accepts a space deficit for active piece play
 
 [*Back to TOP*](#_TOP_)

@@ -2916,54 +2916,54 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D80
 
-- **Gruenfeld Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5`
-- **Gruenfeld Defence, Spike Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.g4`
-- **Gruenfeld Defence, Stockholm Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5`
-- **Gruenfeld Defence, Lundin Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Nxe4 dxe4 6.Qd2 c5`
+- **Gruenfeld Defence** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md#_initial_move_) — retrofit of a pre-sweep card (`D85_Grunfeld.md`, now `D85_Grunfeld_Exchange_Variation.md`) that had covered this root before this batch; White's own 4th-move fork (cxd5 53.1% / Nf3 29.7% masters) leaves Nf3 uncoded in this range
+- **Gruenfeld Defence, Spike Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md#_g4_) — live-tagged the *Gibbon Gambit* instead, a real name divergence; a genuine database rarity (11 masters games), Stockfish rates it clearly bad for White (−0.56)
+- **Gruenfeld Defence, Stockholm Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md#_Bg5_) — masters' main try, 4...Ne4 (76.5%), feeds the Lundin Variation below
+- **Gruenfeld Defence, Lundin Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bg5 Ne4 5.Nxe4 dxe4 6.Qd2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D80_Grunfeld_Defense.md#_Lundin_) — a genuine finding: both moves that give the line its name are themselves masters minorities (5.Nxe4 only 3.0% masters despite 50.2% online; 6...c5 only 5.7% masters, 2 of 35 sampled games)
 
 ## D81
 
-- **Gruenfeld Defence, Russian Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3`
+- **Gruenfeld Defence, Russian Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D81_Grunfeld_Russian_Variation.md#_initial_move_) — live-tagged with an extra "Accelerated Variation" suffix `eco.md` doesn't carry; 4...dxc4 close to automatic (97.0% masters)
 
 ## D82
 
-- **Gruenfeld Defence, 4.Bf4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4`
+- **Gruenfeld Defence, 4.Bf4** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D82_Grunfeld_Bf4.md#_initial_move_) — live-tagged the *Brinckmann Attack*, a real name `eco.md` itself leaves this bare tabiya without
 
 ## D83
 
-- **Gruenfeld Defence, Gruenfeld Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O`
-- **Gruenfeld Defence, Gruenfeld Gambit,  Capablanca Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Rc1`
-- **Gruenfeld Defence, Gruenfeld Gambit,  Botvinnik Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Rc1 c5 7.dxc5 Be6`
+- **Gruenfeld Defence, Gruenfeld Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D83_Grunfeld_Gambit.md#_initial_move_) — White's own 6th move is a real two-way split, 6.Rc1 (52.6% masters) vs 6.cxd5 into D84 (23.2%)
+- **Gruenfeld Defence, Gruenfeld Gambit,  Capablanca Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Rc1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D83_Grunfeld_Gambit.md#_Rc1_) — a genuinely flat three-way split at Black's own 6th move (c5 33.9% / Be6 33.3% / c6 23.3% masters), the flattest distribution found anywhere in this batch
+- **Gruenfeld Defence, Gruenfeld Gambit,  Botvinnik Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.Rc1 c5 7.dxc5 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D83_Grunfeld_Gambit.md#_Botvinnik_) — live-tagged name confirmed; 7.dxc5 close to automatic (98.6% masters)
 
 ## D84
 
-- **Gruenfeld Defence, Gruenfeld Gambit,  Accepted** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5 Nxd5 7.Nxd5 Qxd5 8.Bxc7`
+- **Gruenfeld Defence, Gruenfeld Gambit,  Accepted** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.Bf4 Bg7 5.e3 O-O 6.cxd5 Nxd5 7.Nxd5 Qxd5 8.Bxc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D84_Grunfeld_Gambit_Accepted.md#_Bxc7_) — the whole line to 8.Bxc7 is close to forced at every step (99.7%+ masters each ply); the position right after 8.Bxc7 itself carries 0 recorded games in either database and no cached eval, confirmed live
 
 ## D85
 
-- **Gruenfeld Defence, Exchange Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5`
-- **Gruenfeld Defence, Modern Exchange Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3`
+- **Gruenfeld Defence, Exchange Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D85_Grunfeld_Exchange_Variation.md#_initial_move_) — retrofit and expansion of the same pre-sweep card as D80 above, now starting at its own root instead of duplicating D80's; masters' clear main try overall (53.1% at D80's own root)
+- **Gruenfeld Defence, Modern Exchange Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D85_Grunfeld_Exchange_Variation.md#_Nf3_) — live-tagged name confirmed; the pre-sweep card had explicitly left this 7th-move fork unbuilt, now followed through (35.6% masters, close behind 7.Bc4's 38.5%)
 
 ## D86
 
-- **Gruenfeld Defence, Exchange Variation,  Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4`
-- **Gruenfeld Defence, Exchange Variation,  Larsen Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Qd7 9.O-O b6`
-- **Gruenfeld Defence, Exchange Variation,  Simagin's lesser Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 b6`
-- **Gruenfeld Defence, Exchange Variation,  Simagin's improved Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6`
+- **Gruenfeld Defence, Exchange Variation,  Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D86_Grunfeld_Exchange_Classical_Variation.md#_initial_move_) — masters' actual plurality at the 7th-move fork (38.5%); a genuine finding: masters' own most popular reply here is an immediate 7...c5 (77.7%, delaying castling), verified via `apply_san.py` to transpose into D87's own tabiya rather than being a rival system
+- **Gruenfeld Defence, Exchange Variation,  Larsen Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Qd7 9.O-O b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D86_Grunfeld_Exchange_Classical_Variation.md#_Larsen_) — live-tagged name confirmed at both nodes; a real minority at the 8th-move fork (6.1% masters)
+- **Gruenfeld Defence, Exchange Variation,  Simagin's lesser Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D86_Grunfeld_Exchange_Classical_Variation.md#_b6_) — live-tagged name confirmed; the least comfortable of the fork's four branches per Stockfish (+0.69)
+- **Gruenfeld Defence, Exchange Variation,  Simagin's improved Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D86_Grunfeld_Exchange_Classical_Variation.md#_Nc6_) — live-tagged name confirmed; masters' own second choice at the 8th-move fork (26.6%)
 
 ## D87
 
-- **Gruenfeld Defence, Exchange Variation,  Spassky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5`
-- **Gruenfeld Defence, Exchange Variation,  Seville Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 Bg4 11.f3 Na5 12.Bxf7`
+- **Gruenfeld Defence, Exchange Variation,  Spassky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D87_Grunfeld_Exchange_Spassky_Variation.md#_initial_move_) — masters' clear main try at D86's own 8th-move fork (57.9%); also directly reachable, verified via `apply_san.py`, from D86's own uncoded 7...c5 move order
+- **Gruenfeld Defence, Exchange Variation,  Seville Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 Bg4 11.f3 Na5 12.Bxf7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D87_Grunfeld_Exchange_Spassky_Variation.md#_SevilleSac_) — live-tagged name confirmed; a genuine finding, `eco.md`'s own D88 "Main line" trails this line's own 10...Bg4 (28.6% masters, this fork's actual plurality) at only 4.5%; the sacrifice itself is a near-coin-flip against the quiet 12.Bd3 (44.7% vs 48.7% masters)
 
 ## D88
 
-- **Gruenfeld Defence, Spassky Variation,  Main line,  10...cd,  11.cd** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4`
+- **Gruenfeld Defence, Spassky Variation,  Main line,  10...cd,  11.cd** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D88_Grunfeld_Exchange_Spassky_Main_Line.md#_initial_move_) — a genuine finding: despite the "Main line" label, 10...cxd4 is only masters' fifth choice at its own fork (4.5%), and the live explorer tags this exact tabiya plain "Spassky Variation", not a distinct name of its own
 
 ## D89
 
-- **Gruenfeld Defence, Spassky Variation,  Main line,  13.Bd3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6`
-- **Gruenfeld Defence, Exchange Variation,  Sokolsky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 14.d5`
+- **Gruenfeld Defence, Spassky Variation,  Main line,  13.Bd3** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D89_Grunfeld_Exchange_Spassky_13Bd3.md#_Be6_) — the deepest and final card in this whole D70-D99 sweep's D86-D89 spine; White's exchange sac is noticeably less popular here (24.3% masters) than in the structurally similar but unrelated D87 Seville fork, never asserted to transpose there
+- **Gruenfeld Defence, Exchange Variation,  Sokolsky Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 Bg7 7.Bc4 O-O 8.Ne2 c5 9.O-O Nc6 10.Be3 cxd4 11.cxd4 Bg4 12.f3 Na5 13.Bd3 Be6 14.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D89_Grunfeld_Exchange_Spassky_13Bd3.md#_Sokolsky_) — live-tagged name confirmed; masters' clear main try at the 14th-move fork (53.5%); Black's own reply, 14...Bxa1, is close to total (99.0% masters), and Stockfish rates the resulting exchange-for-pawn-and-centre trade essentially level (+0.02)
 
 ## D90
 
