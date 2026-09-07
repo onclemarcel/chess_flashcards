@@ -18,8 +18,12 @@ flowchart LR
 
     Nf3 --> Be7v[["4... Be7 5. Bf4 !<br/>+0.17"]]:::main
     click Be7v "#_Classical_" "D37 · Queen's Gambit Declined: Classical Variation (5.Bf4)"
+    Nf3 --> c6v[["4... c6 !<br/>+0.12"]]
+    click c6v "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md" "D43 · Queen's Gambit Declined: Semi-Slav"
     Nf3 --> Bb4v[["4... Bb4 !<br/>+0.08"]]
     click Bb4v "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md" "D38 · Queen's Gambit Declined: Ragozin Defense"
+    Nf3 --> c5v["4... c5<br/>+0.16"]
+    click c5v "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md" "D40 · Queen's Gambit Declined: Semi-Tarrasch Defense"
 ```
 <!-- content-diagram:end -->
 
@@ -49,11 +53,12 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 *Online: bullet/blitz, 1800+ — 17.5 M games. Masters: 79 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
-Masters' clear main try is **4... Be7** (28.5%), completing development toward the Orthodox tabiya — the exact continuation escalating to the named *Classical Variation* below. **4... c6** (25.3%) transposes toward the main Semi-Slav — no code of its own in this range. **4... Bb4** (21.2%) heads for its own code, the *Ragozin Defense*, [D38](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md).
+Masters' clear main try is **4... Be7** (28.5%), completing development toward the Orthodox tabiya — the exact continuation escalating to the named *Classical Variation* below. **4... c6** (25.3%), the *Semi-Slav*, is its own code, [D43](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md). **4... Bb4** (21.2%) heads for its own code, the *Ragozin Defense*, [D38](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md). **4... c5**, the *Semi-Tarrasch Defense*, is a real, secondary try, also its own code.
 
 * [**4... Be7 5. Bf4**](#_Classical_) (+0.17, 28.5% masters): the *Classical Variation* — covered below.
-* **4... c6** (25.3% masters): transposes toward the main Semi-Slav — not covered further here.
+* **4... c6** (+0.12, 25.3% masters): the *Semi-Slav* — its own code, [D43](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md).
 * **4... Bb4** (+0.08, 21.2% masters): the *Ragozin Defense* — its own code, [D38](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md).
+* **4... c5** (+0.16, 6.6% masters): the *Semi-Tarrasch Defense* — its own code, [D40](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md).
 
 [*Back to TOP*](#_TOP_)
 

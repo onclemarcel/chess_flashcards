@@ -2675,76 +2675,76 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D40
 
-- **Queen's Gambit, Declined,  Semi-Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  Symmetrical Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.Bd3 Bd6 7.O-O O-O`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  Levenfish Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.Bd3 Bd6 7.O-O O-O 8.Qe2 Qe7 9.dxc5 Bxc5 10.e4`
-- **Queen's Gambit, Declined,  Semi-Tarrasch Defence,  Pillsbury Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.Bg5`
+- **Queen's Gambit, Declined,  Semi-Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md#_initial_move_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  Symmetrical Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.Bd3 Bd6 7.O-O O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md#_Symmetrical_) — a genuine database rarity at this exact move order (3 masters games)
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  Levenfish Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.e3 Nc6 6.Bd3 Bd6 7.O-O O-O 8.Qe2 Qe7 9.dxc5 Bxc5 10.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md#_Levenfish_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch Defence,  Pillsbury Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D40_Semi_Tarrasch_Defense.md#_Pillsbury_) — a genuine blitz trap (0.7% masters vs 30.4% online)
 
 ## D41
 
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  5.cd** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  Kmoch Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4 9.Bd2 Bxd2 10.Qxd2 O-O 11.Bb5`
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  San Sebastian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4 9.Bd2 Qa5`
-- **Queen's Gambit, Declined,  Semi-Tarrasch With e3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3`
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  5.cd** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D41_Semi_Tarrasch_cxd5.md#_initial_move_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  Kmoch Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4 9.Bd2 Bxd2 10.Qxd2 O-O 11.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D41_Semi_Tarrasch_cxd5.md#_Kmoch_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  San Sebastian Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 Bb4 9.Bd2 Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D41_Semi_Tarrasch_cxd5.md#_SanSebastian_)
+- **Queen's Gambit, Declined,  Semi-Tarrasch With e3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D41_Semi_Tarrasch_cxd5.md#_e3_) — left with no independent live tag, inheriting the Pillsbury Variation tag
 
 ## D42
 
-- **Queen's Gambit, Declined,  Semi-Tarrasch,  7.Bd3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bd3`
+- **Queen's Gambit, Declined,  Semi-Tarrasch,  7.Bd3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c5 5.cxd5 Nxd5 6.e3 Nc6 7.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D42_Semi_Tarrasch_Main_Line.md#_initial_move_) — live-tagged the *Main Line*
 
 ## D43
 
-- **Queen's Gambit, Declined,  Semi-Slav** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6`
-- **Queen's Gambit, Declined,  Semi-Slav,  Hastings Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3`
+- **Queen's Gambit, Declined,  Semi-Slav** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md#_initial_move_) — its own code, though D37's own prose originally missed this and said otherwise (now corrected)
+- **Queen's Gambit, Declined,  Semi-Slav,  Hastings Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 h6 6.Bxf6 Qxf6 7.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md#_Hastings_) — the exact same position as D30's own Hastings Variation, reached by transposition; live-tagged this code (D43) rather than D30's own
 
 ## D44
 
-- **Queen's Gambit, Declined,  Semi-Slav,  5.Bg5 dc** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Botvinnik System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Ekstroem Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.exf6 gxh4 10.Ne5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Lilienthal Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.g3`
-- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Szabo Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.Qf3`
-- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Alatortsev System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 Nd5`
+- **Queen's Gambit, Declined,  Semi-Slav,  5.Bg5 dc** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_initial_move_) — live-tagged the *Semi-Slav Defense Accepted*
+- **Queen's Gambit, Declined,  Semi-Slav,  Botvinnik System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_Botvinnik_) — live-spelled the *Botvinnik Variation*
+- **Queen's Gambit, Declined,  Semi-Slav,  Ekstroem Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.exf6 gxh4 10.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_Ekstroem_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_AntiMeranGambit_) — masters' actual main try at that fork (88.8%), not the Ekstroem Variation
+- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Lilienthal Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_Lilienthal_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Szabo Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 hxg5 10.Bxg5 Nbd7 11.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_Szabo_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Anti-Meran,  Alatortsev System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.Bg5 dxc4 6.e4 b5 7.e5 h6 8.Bh4 g5 9.Nxg5 Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D44_Semi_Slav_Accepted.md#_Alatortsev_) — unrelated to D22's own Alekhine Defense Alatortsev Variation
 
 ## D45
 
-- **Queen's Gambit, Declined,  Semi-Slav,  5.e3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3`
-- **Queen's Gambit, Declined,  Semi-Slav,  Stonewall Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Ne4 6.Bd3 f5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Accelerated Meran (Alekhine Variation)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 a6`
-- **Queen's Gambit, Declined,  Semi-Slav,  5...Nd7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7`
-- **Queen's Gambit, Declined,  Semi-Slav,  Stoltz Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Qc2`
-- **Queen's Gambit, Declined,  Semi-Slav,  Rubinstein (Anti-Meran) System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Ne5`
+- **Queen's Gambit, Declined,  Semi-Slav,  5.e3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_initial_move_) — live-tagged the *Main Line*, reused (unrelated) at D46's own root
+- **Queen's Gambit, Declined,  Semi-Slav,  Stonewall Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Ne4 6.Bd3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_Stonewall_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Accelerated Meran (Alekhine Variation)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_AccelMeran_)
+- **Queen's Gambit, Declined,  Semi-Slav,  5...Nd7** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_Nbd7_) — live-tagged the *Normal Variation*
+- **Queen's Gambit, Declined,  Semi-Slav,  Stoltz Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_Stoltz_) — unrelated to D34's own Tarrasch-tree Stoltz Variation
+- **Queen's Gambit, Declined,  Semi-Slav,  Rubinstein (Anti-Meran) System** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Ne5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D45_Semi_Slav_Main_Line.md#_Rubinstein_) — unrelated to D27's own Classical-tree Rubinstein Variation
 
 ## D46
 
-- **Queen's Gambit, Declined,  Semi-Slav,  6.Bd3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3`
-- **Queen's Gambit, Bogolyubov Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Be7`
-- **Queen's Gambit, Declined,  Semi-Slav,  Romih Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bb4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Chigorin Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bd6`
+- **Queen's Gambit, Declined,  Semi-Slav,  6.Bd3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D46_Semi_Slav_Bogoljubow.md#_initial_move_) — live-tagged the *Main Line*, the third reuse of this exact name across D43-D49
+- **Queen's Gambit, Bogolyubov Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D46_Semi_Slav_Bogoljubow.md#_Bogolyubov_) — the only entry in this whole D-series dropping the "Declined" qualifier; live-spelled the *Bogoljubow Variation*
+- **Queen's Gambit, Declined,  Semi-Slav,  Romih Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D46_Semi_Slav_Bogoljubow.md#_Romih_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Chigorin Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D46_Semi_Slav_Bogoljubow.md#_Chigorin_) — unrelated to D07's own Chigorin Defense
 
 ## D47
 
-- **Queen's Gambit, Declined,  Semi-Slav,  7.Bc4** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5`
-- **Queen's Gambit, Declined,  Semi-Slav,  neo-Meran (Lundin Variation)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 b4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Wade Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7`
+- **Queen's Gambit, Declined,  Semi-Slav,  7.Bc4** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D47_Semi_Slav_Semi_Meran.md#_initial_move_) — live-tagged the *Semi-Meran Variation*
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D47_Semi_Slav_Semi_Meran.md#_Meran_) — the single most heavily analysed structure in this whole D-series
+- **Queen's Gambit, Declined,  Semi-Slav,  neo-Meran (Lundin Variation)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D47_Semi_Slav_Semi_Meran.md#_neoMeran_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Wade Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D47_Semi_Slav_Semi_Meran.md#_Wade_) — masters' actual main try at that fork (49.8%)
 
 ## D48
 
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  8...a6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Pirc Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 b4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Reynolds' Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.d5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  old Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5`
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  8...a6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D48_Semi_Slav_Meran_Old_Variation.md#_initial_move_) — reuses the "Meran Variation" name a second time
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Pirc Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D48_Semi_Slav_Meran_Old_Variation.md#_Pirc_) — unrelated to the Pirc Defense elsewhere in this repo
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D48_Semi_Slav_Meran_Old_Variation.md#_c5_) — a third reuse of the "Meran" name
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Reynolds' Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D48_Semi_Slav_Meran_Old_Variation.md#_Reynolds_) — a genuinely near-even fork with the old Main line (49.7% vs 50.1%)
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  old Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_initial_move_) — its own deeper code, [D49](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md), live-spelled the *Old Variation*
 
 ## D49
 
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Blumenfeld Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Rabinovich Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Ng4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Sozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Stahlberg Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.Qf3`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Sozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O`
-- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Rellstab Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O Qd5 14.Qe2 Ba6 15.Bg5`
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Blumenfeld Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_initial_move_) — unrelated to the Blumenfeld Countergambit elsewhere in this repo's A-series
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Rabinovich Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Ng4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_Rabinovich_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Sozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_Sozin_) — the first of two unrelated nodes in this D49 range both named "Sozin Variation"
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Stahlberg Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.Qf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_Stahlberg_) — masters' actual main try at that fork is the uncoded 13.Bxb5+ (70.0%), not this
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Sozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_Sozin2_) — the second, unrelated reuse of "Sozin Variation" in this same D49 range
+- **Queen's Gambit, Declined,  Semi-Slav,  Meran,  Rellstab Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 c6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 a6 9.e4 c5 10.e5 cxd4 11.Nxb5 Nxe5 12.Nxe5 axb5 13.O-O Qd5 14.Qe2 Ba6 15.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D49_Semi_Slav_Meran_Blumenfeld.md#_Rellstab_) — the deepest named line in this entire D-series sweep (15 moves)
 
 ## D50
 

@@ -559,6 +559,16 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 
 ---
 
+**D40-D49 built new in full, same session, user-requested next — "OK, D40-D49."** The Semi-Tarrasch and Semi-Slav complex: 34 combined entries across 10 codes, closing out D37's own unfinished 4...c5/4...c6 forks (D37's original prose had wrongly said 4...c6 carried "no code of its own in this range" — a real gap, corrected once D43 existed) and running to the deepest, sharpest tree of the whole session (D49, 15 moves).
+
+- **D40-D42 built new in full**: the Semi-Tarrasch Defense (4...c5) forks a genuine blitz trap, the *Pillsbury Variation* (0.7% masters vs 30.4% online), and the *Symmetrical Variation* (only 3 masters games at this exact move order) before D41's own *Kmoch*/*San Sebastian Variations*, then D42's live-tagged *Main Line*.
+- **D43/D44 built new in full**: the Semi-Slav (4...c6) forks the live-tagged *Semi-Slav Defense Accepted* (D44) — whose 8...g5 tabiya is one of the most heavily analysed positions in the whole complex, with masters' actual main try being the *Anti-Meran Gambit* (88.8%) rather than the *Ekstroem Variation* (8.3%) — and D45's own Main Line. D43's own *Hastings Variation* is the exact same position as D30's own, reached by transposition; the live explorer tags it D43 rather than D30, the same code discrepancy already flagged there.
+- **D45/D46 built new in full**: `eco.md` reuses the live-tagged "Main Line" name three times at three different depths across D45/D46; D46's own *Bogolyubov Variation* is the only entry in this entire D-series to drop the "Declined" qualifier from its `eco.md` name, and is live-spelled *Bogoljubow* (the same spelling divergence as C91/D24).
+- **D47-D49 built new in full**: the *Semi-Meran Variation* (D47) runs into the true Meran tabiya (7...b5), the single most heavily analysed structure in the whole D-series, then forks D48's own near-even *Reynolds' Variation*/*old Main line* (49.7%/50.1%) into D49's own deep Blumenfeld tree. A genuine FEN-transcription bug was caught and fixed mid-batch: the "8. Bd3" board in D47 had accidentally dropped the b5-pawn from its own FEN, producing a near-empty (13-game) stats table instead of the real ~8,100-master-game position — caught by the check_diagram.py "shape claims master-safe but implies understudied" error, not by visual review. D49 reuses the "Sozin Variation" name twice at two unrelated nodes and runs 15 moves deep to the *Rellstab Attack*, the deepest named line of the entire session.
+- **Wiring**: all 34 combined `eco.md` entries now `✅ [covered]`, every divergence/name-reuse/gap/FEN-bug finding stated inline. `README.md`'s "1... d5" paragraph extended with the full D40-D49 fork-by-fork write-up, and D37's own prose/mermaid corrected to properly link its 4...c6/4...c5 forks. `check_diagram.py` clean repo-wide (132 files) and `update_stats.py --check` clean (0 stale) on all touched/new files after this batch.
+
+---
+
 ## File naming convention (established 2026-08-25, repo-wide cleanup)
 
 Card filenames are `<ECO or folder prefix>_<Name>[_<disambiguator>].md`. A move fragment (like `Nf3`, `d4`, `1e4d5`, `exd5`) belongs in the filename **only** when it's the actual thing distinguishing this card from a sibling that would otherwise share the same name — never just because it's part of the position's move sequence.
