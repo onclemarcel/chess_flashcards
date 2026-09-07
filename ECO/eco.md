@@ -3377,52 +3377,52 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## E70
 
-- **King's Indian Defence, 4.e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4`
-- **King's Indian Defence, Kramer System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2`
-- **King's Indian Defence, Accelerated Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bg5`
+- **King's Indian Defence, 4.e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md#_d6_) — the root of this whole batch's own tree; retrofitted this batch with a proper Overview mermaid and correct links out to E71/E73/E76, previously missing.
+- **King's Indian Defence, Kramer System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nge2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md#_Nge2_) — a genuinely-missing leaf (2.3% masters) built out this batch; live-tagged "Kramer Variation" (System → Variation).
+- **King's Indian Defence, Accelerated Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md#_Bg5_) — also a genuinely-missing leaf (0.9% masters) built out this batch; live-tagged "Accelerated Averbakh Variation".
 
 ## E71
 
-- **King's Indian Defence, Makagonov System (5.h3)** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3`
+- **King's Indian Defence, Makagonov System (5.h3)** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md) — split off from E70's own uncoded aside into its own card; live-tagged "Makogonov Variation" (spelling + System→Variation divergence from this entry's own name).
 
 ## E72
 
-- **King's Indian Defence, e4 & g3 Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3`
-- **King's Indian Defence, Pomar System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 O-O 6.Bg2 e5 7.Nge2`
+- **King's Indian Defence, e4 & g3 Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E72_Kings_Indian_e4_g3_Variation.md) — a genuine database rarity (0.2% masters); live-tagged "Normal Variation, Deferred Fianchetto", a real name divergence.
+- **King's Indian Defence, Pomar System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.g3 O-O 6.Bg2 e5 7.Nge2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E72_Kings_Indian_e4_g3_Variation.md#_Nge2_) — matches `eco.md`'s own name exactly, live-confirmed.
 
 ## E73
 
-- **King's Indian Defence, 5.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2`
-- **King's Indian Defence, Semi-Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3`
-- **King's Indian Defence, Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5`
+- **King's Indian Defence, 5.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md) — masters' actual second-most-common try at E70's own root (22.6%); live-tagged "Normal Variation, Standard Development".
+- **King's Indian Defence, Semi-Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md#_Be3_) — matches `eco.md`'s own name exactly. **Real finding**: an uncoded 6. Nf3 (46.7% masters) actually outranks both this and the Averbakh System below — a verified transposition into E70's own Mar del Plata trunk.
+- **King's Indian Defence, Averbakh System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md#_Bg5_) — the actual trunk of this sub-area despite being masters' second choice (35.3%) at its own fork.
 
 ## E74
 
-- **King's Indian Defence, Averbakh System,  6...c5** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5`
+- **King's Indian Defence, Averbakh System,  6...c5** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E74_Kings_Indian_Averbakh_c5.md) — masters' actual plurality reply (33.1%) at the E73 fork; live-tagged "Averbakh Variation, Benoni Defense".
 
 ## E75
 
-- **King's Indian Defence, Averbakh System,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6`
+- **King's Indian Defence, Averbakh System,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Be2 O-O 6.Bg5 c5 7.d5 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E75_Kings_Indian_Averbakh_Main_Line.md) — masters and online play disagree on whether this or 7...h6 is Black's real main try at E74's own fork; built one further ply (8. Qd2 exd5).
 
 ## E76
 
-- **King's Indian Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4`
-- **King's Indian Defence, Four Pawns Attack,  dynamic line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5`
+- **King's Indian Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E76_Kings_Indian_Four_Pawns_Attack.md) — the first of three separate "Four Pawns Attack" name reuses across E76-E77 this batch had to track carefully. A real online blitz trap found at 5...O-O 6.e5 (masters 0.03%, online 14.3%, eval -0.48).
+- **King's Indian Defence, Four Pawns Attack,  dynamic line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Nf3 c5 7.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E76_Kings_Indian_Four_Pawns_Attack.md#_d5_) — masters' own main line at the 5...O-O fork (97.6% via 6.Nf3); live-tagged "Dynamic Attack".
 
 ## E77
 
-- **King's Indian Defence, Four Pawns Attack,  6.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2`
-- **King's Indian Defence, Six Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.dxe6 fxe6 9.g4 Nc6 10.h4`
-- **King's Indian Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3`
-- **King's Indian Defence, Four Pawns Attack,  Florentine Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.e5`
+- **King's Indian Defence, Four Pawns Attack,  6.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E77_Kings_Indian_Four_Pawns_Be2.md) — the second "Four Pawns Attack" reuse; a real secondary at E76's own fork (1.6% masters).
+- **King's Indian Defence, Six Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.dxe6 fxe6 9.g4 Nc6 10.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E77_Kings_Indian_Four_Pawns_Be2.md#_dxe6_) — despite the name, masters' *rare* choice (6.7%) at the "7...e6" fork; a genuinely dubious try for White (eval swings to -1.00), tiny live sample reported honestly.
+- **King's Indian Defence, Four Pawns Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E77_Kings_Indian_Four_Pawns_Be2.md#_Nf3b_) — the third "Four Pawns Attack" reuse and masters' actual main try at that fork (93.3%); live-tagged "Normal Attack". Verified via `apply_san.py` to be a genuinely different position than E78's own "7.Nf3" root (different move order).
+- **King's Indian Defence, Four Pawns Attack,  Florentine Gambit** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.d5 e6 8.Nf3 exd5 9.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E77_Kings_Indian_Four_Pawns_Be2.md#_e5_) — a real pawn sacrifice, objectively bad for White (-0.68), matching its own name.
 
 ## E78
 
-- **King's Indian Defence, Four Pawns Attack,  With Be2 and Nf3** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3`
+- **King's Indian Defence, Four Pawns Attack,  With Be2 and Nf3** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E78_Kings_Indian_Four_Pawns_Be2_Nf3.md) — masters' actual majority at the E77 "6...c5" fork (54.3%, ahead of 7.d5's 45.0%); live-tagged "Fluid Attack". Reached by a verified-different move order than E77's own "8.Nf3" node (Nf3 before d5/e6 here, after there).
 
 ## E79
 
-- **King's Indian Defence, Four Pawns Attack,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be3`
+- **King's Indian Defence, Four Pawns Attack,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f4 O-O 6.Be2 c5 7.Nf3 cxd4 8.Nxd4 Nc6 9.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E79_Kings_Indian_Four_Pawns_Main_Line.md) — the deepest node in this whole E70-E79 "With Be2 and Nf3" spine; live-tagged "Exchange Variation".
 
 ## E80
 

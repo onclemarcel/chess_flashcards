@@ -4,6 +4,44 @@
 
 The classical King's Indian tabiya: White builds a broad pawn centre with d4/c4/e4 while Black fianchettoes and waits to strike back with ... e5 or ... c5 once fully developed — a hypermodern strategy in the purest sense, letting White overextend before counter-attacking it.
 
+### Overview
+
+*Quick map of every move covered on this card — see the [shape key](https://github.com/onclemarcel/chess_flashcards/blob/main/start.md#content-diagram-optional) in start.md.*
+
+<!-- content-diagram:start -->
+```mermaid
+flowchart LR
+    classDef main stroke-width:3px;
+
+    root["4... d6<br/>+0.55"]
+    click root "#_d6_" "E70 · King's Indian Defense, Normal Variation"
+
+    root --> Nf3[["5. Nf3 !<br/>+0.5"]]:::main
+    click Nf3 "#_Nf3_" "E70 · King's Indian Defense, Normal Variation"
+    root --> Be2["5. Be2<br/>+0.51"]
+    click Be2 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md" "E73 · King's Indian Defence, 5.Be2"
+    root --> f3["5. f3<br/>+0.3"]
+    click f3 "#_f3_" "E70 · King's Indian Defense, Sämisch Variation"
+    root --> h3["5. h3<br/>+0.54"]
+    click h3 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md" "E71 · King's Indian Defence, Makagonov System"
+    root --> f4["5. f4<br/>+0.00"]
+    click f4 "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E76_Kings_Indian_Four_Pawns_Attack.md" "E76 · King's Indian Defence, Four Pawns Attack"
+    root --> Nge2["5. Nge2<br/>+0.33"]
+    click Nge2 "#_Nge2_" "E70 · King's Indian Defense, Kramer System"
+    root --> Bg5s(["5. Bg5<br/>+0.26"])
+    click Bg5s "#_Bg5_" "E70 · King's Indian Defense, Accelerated Averbakh System"
+    root --> g3s(["5. g3<br/>+0.00"])
+    click g3s "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E72_Kings_Indian_e4_g3_Variation.md" "E72 · King's Indian Defence, e4 & g3 Variation"
+
+    Nf3 --> OO[["5... O-O !<br/>+0.5"]]:::main
+    click OO "#_Nf3_OO_" "E70 · King's Indian Defense, Normal Variation"
+    OO --> Be2b[["6. Be2 !<br/>+0.5"]]:::main
+    click Be2b "#_Nf3_Be2_" "E70 · King's Indian Defense, Normal Variation"
+    Be2b --> e5[["6... e5 !<br/>+0.5"]]:::main
+    click e5 "#_Nf3_e5_" "E70 · King's Indian Defense, Mar del Plata / Orthodox Variation"
+```
+<!-- content-diagram:end -->
+
 <a name="_Bg7_"></a>
 
 [![1. d4 Nf6 2. c4 g6 3. Nc3 Bg7](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR&lastMove=f8g7&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4)
@@ -54,7 +92,7 @@ rnbqk2r/ppppppbp/5np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.4 |
 | --- | --- |
 
-Black replies **4... d6** almost automatically (91.4% of masters games), preparing ... e5 while keeping the option of ... Nbd7 or ... c5 next.
+Black replies **4... d6** (+0.55) almost automatically (91.4% of masters games), preparing ... e5 while keeping the option of ... Nbd7 or ... c5 next.
 
 <a name="_d6_"></a>
 
@@ -66,7 +104,10 @@ Black replies **4... d6** almost automatically (91.4% of masters games), prepari
 rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5
 ```
 
-<!-- lichess-stats:start fen="rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
+| ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.55 |
+| --- | --- |
+
+<!-- lichess-stats:start fen="rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="10" -->
 | Move | Online | W/D/B | Masters | W/D/B | |
 | :--- | ---: | :--- | ---: | :--- | :-- |
 | Nf3 | 3.3 M (24.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 29 k (38.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/42/21 |  |
@@ -75,18 +116,28 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5
 | Be2 | 1.7 M (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 17 k (22.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/37/24 |  |
 | Bd3 | 1.0 M (7.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 2.6 k (3.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/34/25 |  |
 | h3 | 830 k (6.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 6.3 k (8.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/35/22 |  |
+| Be3 | 481 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 43 (0.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 19/56/26 |  |
+| Bg5 | 337 k (2.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 658 (0.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/32/26 |  |
+| Nge2 | 264 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 1.8 k (2.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
+| e5 | 172 k (1.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
+| g3 | 0 | — | 125 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/38/34 |  |
 
 *Online: bullet/blitz, 1800+ — 13.4 M games. Masters: 76 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
 
-White's 5th move is a genuine multi-way split — no single try dominates the way 4. e4 did:
+White's 5th move is a genuine multi-way split — no single try dominates the way 4. e4 did. Three genuine, previously-unrecognized gaps are fixed here: **5. Be2**, **5. h3**, and **5. f4** each carry their own `eco.md` code (E73, E71, and E76 respectively) and are linked out properly below, rather than left as bare percentages or an uncoded aside. Two further real, near-zero-frequency tries — **5. Nge2** and **5. Bg5** — also carry their own E70 sub-entries (the Kramer System and the Accelerated Averbakh System) and are built out on this same page below the main line.
 
 * [**5. Nf3**](#_Nf3_) (38.1% masters): the most flexible developing move, keeping castling options open — leads toward the Classical/Mar del Plata systems after Black's later ... e5, see below
-* **5. Be2** (22.6% masters): a quieter developing setup, often transposing into similar Classical structures — not covered further here
+* [**5. Be2**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md) (+0.51, 22.6% masters): a quieter developing setup — its own code, [E73](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md), covering the Averbakh complex onward
 * [**5. f3**](#_f3_) (18.9% masters): the Sämisch Variation — a slower but very solid setup, preparing Be3/Qd2 and a big kingside pawn storm, see below
-* [**5. h3**](#_h3_) (8.3% masters): the Makogonov Variation — restrains ... Ng4/... Bg4 tricks before committing the kingside knight, see below
+* [**5. h3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md) (+0.54, 8.3% masters): the Makagonov System — restrains ... Ng4/... Bg4 tricks before committing the kingside knight — its own code, [E71](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md)
+* [**5. f4**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E76_Kings_Indian_Four_Pawns_Attack.md) (+0.00, 5.2% masters): the Four Pawns Attack — its own code, [E76](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E76_Kings_Indian_Four_Pawns_Attack.md), onward
+* **5. Bd3** (3.4% masters): a real secondary with no code of its own in this range
+* [**5. Nge2**](#_Nge2_) (2.3% masters): the Kramer System — a real, rare try with its own E70 code, see below
+* [**5. Bg5**](#_Bg5_) (0.9% masters): the Accelerated Averbakh System — a real, rare try with its own E70 code, see below
+* [**5. g3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E72_Kings_Indian_e4_g3_Variation.md) (+0.00, 0.2% masters): the e4 & g3 Variation — its own code, [E72](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E72_Kings_Indian_e4_g3_Variation.md), despite the tiny sample
 
 [*Back to TOP*](#_TOP_)
 
@@ -106,6 +157,8 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5
 
 | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
 | --- | --- |
+
+<a name="_Nf3_OO_"></a>
 
 **5... O-O** is close to automatic (98.7% of masters games) — castling into safety before deciding on a central break.
 
@@ -132,7 +185,9 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6
 *Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R_w_KQ_-_2_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
-**6. Be2** is masters' overwhelming choice (84.8%) — completing development before committing to a specific plan.
+<a name="_Nf3_Be2_"></a>
+
+**6. Be2** is masters' overwhelming choice (84.8%) — completing development before committing to a specific plan. **This is also a real, verified transposition target**: [E73's own "6. Nf3" node](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md#_OO_) (reached via 5. Be2 O-O 6. Nf3 instead) leads to this exact FEN, confirmed via `tools/apply_san.py`.
 
 [![6. Be2](https://backscattering.de/web-boardimage/board.svg?fen=rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R&lastMove=f1e2&coordinates=true&size=320)](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_3_6)
 
@@ -157,6 +212,8 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6
 
 *Online: bullet/blitz, 1800+ — 5.8 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_3_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
+
+<a name="_Nf3_e5_"></a>
 
 **6... e5** is masters' clear main try (77.8%) — the defining central break of the whole King's Indian, reaching the **Mar del Plata / Orthodox Variation** tabiya, one of the sharpest and most heavily analysed middlegame structures in chess (opposite-wing attacking races after a later ... f5 for Black and f3/g4 or a queenside expansion for White). Deeper Mar del Plata theory is its own extensive body of work, not covered further here.
 
@@ -202,24 +259,82 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ e6 0 7
 ---
 
 > [!NOTE]
-> **5. h3**, the Makogonov Variation, is a prophylactic waiting move — it rules out ... Ng4/... Bg4 ideas against a future Be3 before White commits to any specific central plan.
+> **5. h3**, the Makagonov System, is a prophylactic waiting move — it rules out ... Ng4/... Bg4 ideas against a future Be3 before White commits to any specific central plan. **A genuine, previously-unrecognized gap, now fixed**: this move carries its own `eco.md` code and is built out properly on its own card, [E71](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md), rather than staying an uncoded aside here. Live-tagged **Makogonov Variation** — both a spelling and a wording divergence from `eco.md`'s own name, noted in full on E71 itself.
 >
-> <a name="_h3_"></a>
+> [*Back to 4... d6*](#_d6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **5. Nge2**, the Kramer System, is a real but near-zero-frequency try (2.3% masters) that develops the knight to a flexible square, keeping the option of f3/Be3 or an eventual f4 open — this genuinely-uncommon leaf was missing from this card entirely before this batch.
 >
-> ### 5. h3 — Makogonov Variation
+> <a name="_Nge2_"></a>
 >
-> [![5. h3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR&lastMove=h2h3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR_b_KQkq_-_0_5)
+> ### 5. Nge2 — Kramer System
 >
-> *... 5. h3 — Makogonov Variation*
+> [![5. Nge2](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R&lastMove=g1e2&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5)
+>
+> *... 5. Nge2 — King's Indian Defence: Kramer System*
 >
 > ```
-> rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 5
+> rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R b KQkq - 1 5
 > ```
 >
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.5 |
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.33 |
 > | --- | --- |
 >
-> **5... O-O** (89.0% masters) is close to automatic here too. Deeper Makogonov theory (Be3/Nf3, and White's choice between a Sämisch-style or Classical-style follow-up) is its own extensive body of work, not covered further here.
+> <!-- lichess-stats:start fen="rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R b KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | O-O | 235 k (87.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 1.4 k (80.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
+> | Nbd7 | 9.9 k (3.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/40 | 82 (4.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/34/34 |  |
+> | Nc6 | 5.4 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 0 | — | ⚠ |
+> | c5 | 4.4 k (1.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
+> | a6 | 0 | — | 87 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/29/28 |  |
+> | c6 | 0 | — | 69 (3.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/41/26 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 270 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-07*
+> <!-- lichess-stats:end -->
+>
+> Live-tagged **King's Indian Defense: Kramer Variation** — `eco.md`'s own "System" becomes "Variation" live, the same minor suffix divergence seen elsewhere in this batch. **5... O-O** is masters' overwhelming reply (80.4%). Not built further here.
+>
+> [*Back to 4... d6*](#_d6_)
+> [*Back to TOP*](#_TOP_)
+
+---
+
+> [!NOTE]
+> **5. Bg5**, the Accelerated Averbakh System, pins the f6-knight immediately — a real but near-zero-frequency try (0.9% masters) that was also missing from this card entirely before this batch. Not to be confused with [E73's own "6. Bg5"](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md#_Bg5_) (the actual Averbakh System, reached one tempo later via 5. Be2 O-O 6. Bg5 instead) — the "Accelerated" qualifier marks exactly this one-tempo difference.
+>
+> <a name="_Bg5_"></a>
+>
+> ### 5. Bg5 — Accelerated Averbakh System
+>
+> [![5. Bg5](https://backscattering.de/web-boardimage/board.svg?fen=rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR&lastMove=c1g5&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR_b_KQkq_-_1_5)
+>
+> *... 5. Bg5 — King's Indian Defence: Accelerated Averbakh System*
+>
+> ```
+> rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR b KQkq - 1 5
+> ```
+>
+> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.26 |
+> | --- | --- |
+>
+> <!-- lichess-stats:start fen="rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR b KQkq - 1 5" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="4" -->
+> | Move | Online | W/D/B | Masters | W/D/B | |
+> | :--- | ---: | :--- | ---: | :--- | :-- |
+> | O-O | 339 k (68.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 382 (56.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/34/23 |  |
+> | h6 | 70 k (14.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 225 (33.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/32/28 |  |
+> | Nbd7 | 38 k (7.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 23 (3.4%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 39/22/39 |  |
+> | c6 | 15 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
+> | c5 | 0 | — | 36 (5.3%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 39/25/36 |  |
+> 
+> *Online: bullet/blitz, 1800+ — 494 k games. Masters: 680 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR_b_KQkq_-_1_5#explorer) — updated 2026-09-07*
+> <!-- lichess-stats:end -->
+>
+> Live-tagged **King's Indian Defense: Accelerated Averbakh Variation**, the same "System" → "Variation" divergence as the Kramer System above. Black's reply is a genuine two-way split: **5... O-O** (56.2% masters) and **5... h6** (33.1% masters), challenging the bishop at once. Neither built further here.
 >
 > [*Back to 4... d6*](#_d6_)
 > [*Back to TOP*](#_TOP_)
