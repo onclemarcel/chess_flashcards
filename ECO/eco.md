@@ -2534,64 +2534,64 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D20
 
-- **Queen's Gambit, Accepted** — `1.d4 d5 2.c4 dxc4`
-- **Queen's Gambit, Accepted,  3.e4** — `1.d4 d5 2.c4 dxc4 3.e4`
-- **Queen's Gambit, Accepted,  Linares Variation** — `1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 Nf6 5.Nc3 b5`
-- **Queen's Gambit, Accepted,  Schwartz Defence** — `1.d4 d5 2.c4 dxc4 3.e4 f5`
+- **Queen's Gambit, Accepted** — `1.d4 d5 2.c4 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md#_initial_move_) — migrated out of D06's own "Queen's Gambit" card (only a thin NOTE box there, now trimmed to an outbound link)
+- **Queen's Gambit, Accepted,  3.e4** — `1.d4 d5 2.c4 dxc4 3.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md#_e4_) — live-tagged the *Saduleto Variation*
+- **Queen's Gambit, Accepted,  Linares Variation** — `1.d4 d5 2.c4 dxc4 3.e4 c5 4.d5 Nf6 5.Nc3 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md#_Linares_)
+- **Queen's Gambit, Accepted,  Schwartz Defence** — `1.d4 d5 2.c4 dxc4 3.e4 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md#_Schwartz_) — 0 masters games in the sample
 
 ## D21
 
-- **Queen's Gambit, Accepted,  3.Nf3** — `1.d4 d5 2.c4 dxc4 3.Nf3`
-- **Queen's Gambit, Accepted,  Ericson Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 b5`
-- **Queen's Gambit, Accepted,  Alekhine Defence,  Borisenko-Furman Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e4`
+- **Queen's Gambit, Accepted,  3.Nf3** — `1.d4 d5 2.c4 dxc4 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D21_Queens_Gambit_Accepted_Normal_Variation.md#_initial_move_) — live-tagged the *Normal Variation* (reused, unrelated, at D25's own 4.e3)
+- **Queen's Gambit, Accepted,  Ericson Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D21_Queens_Gambit_Accepted_Normal_Variation.md#_Ericson_) — live-tagged the *Slav Gambit*, a striking cross-code name clash with D15's own eco.md-titled "Slav Gambit" (live-tagged *Geller Gambit* there instead)
+- **Queen's Gambit, Accepted,  Alekhine Defence,  Borisenko-Furman Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D21_Queens_Gambit_Accepted_Normal_Variation.md#_BorisenkoFurman_) — reached back from D22's own 4.e4 fork
 
 ## D22
 
-- **Queen's Gambit, Accepted,  Alekhine Defence** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6`
-- **Queen's Gambit, Accepted,  Alekhine Defence,  Alatortsev Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Bg4 5.Bxc4 e6 6.d5`
-- **Queen's Gambit, Accepted,  Haberditz Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 b5`
+- **Queen's Gambit, Accepted,  Alekhine Defence** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D22_Queens_Gambit_Accepted_Alekhine_Defense.md#_initial_move_)
+- **Queen's Gambit, Accepted,  Alekhine Defence,  Alatortsev Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 Bg4 5.Bxc4 e6 6.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D22_Queens_Gambit_Accepted_Alekhine_Defense.md#_Alatortsev_)
+- **Queen's Gambit, Accepted,  Haberditz Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 a6 4.e3 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D22_Queens_Gambit_Accepted_Alekhine_Defense.md#_Haberditz_)
 
 ## D23
 
-- **Queen's Gambit, Accepted** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6`
-- **Queen's Gambit, Accepted,  Mannheim Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Qa4`
+- **Queen's Gambit, Accepted** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D23_Queens_Gambit_Accepted.md#_initial_move_) — `eco.md` itself reuses the bare root name one ply deeper here
+- **Queen's Gambit, Accepted,  Mannheim Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Qa4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D23_Queens_Gambit_Accepted.md#_Mannheim_)
 
 ## D24
 
-- **Queen's Gambit, Accepted,  4.Nc3** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3`
-- **Queen's Gambit, Accepted,  Bogolyubov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 a6 5.e4`
+- **Queen's Gambit, Accepted,  4.Nc3** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D24_Queens_Gambit_Accepted_Showalter_Variation.md#_initial_move_) — live-tagged the *Showalter Variation*
+- **Queen's Gambit, Accepted,  Bogolyubov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.Nc3 a6 5.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D24_Queens_Gambit_Accepted_Showalter_Variation.md#_Bogolyubov_) — live-spelled the *Bogoljubow Defense*, the same spelling divergence already seen at C91
 
 ## D25
 
-- **Queen's Gambit, Accepted,  4.e3** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3`
-- **Queen's Gambit, Accepted,  Smyslov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 g6`
-- **Queen's Gambit, Accepted,  Janowsky-Larsen Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Bg4`
-- **Queen's Gambit, Accepted,  Flohr Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Be6`
+- **Queen's Gambit, Accepted,  4.e3** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D25_Queens_Gambit_Accepted_Normal_Variation.md#_initial_move_) — live-tagged the *Normal Variation* (a second, unrelated reuse of D21's own name)
+- **Queen's Gambit, Accepted,  Smyslov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D25_Queens_Gambit_Accepted_Normal_Variation.md#_Smyslov_) — unrelated to D16's own Smyslov Variation
+- **Queen's Gambit, Accepted,  Janowsky-Larsen Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D25_Queens_Gambit_Accepted_Normal_Variation.md#_JanowskyLarsen_)
+- **Queen's Gambit, Accepted,  Flohr Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 Be6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D25_Queens_Gambit_Accepted_Normal_Variation.md#_Flohr_) — unrelated to D28's own Classical, Flohr Variation
 
 ## D26
 
-- **Queen's Gambit, Accepted,  4...e6** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6`
-- **Queen's Gambit, Accepted,  Classical Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5`
-- **Queen's Gambit, Accepted,  Classical,  Furman Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.Qe2 a6 7.dxc5 Bxc5 8.O-O Nc6 9.e4 b5 10.e5`
-- **Queen's Gambit, Accepted,  Classical Variation,  6.O-O** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O`
-- **Queen's Gambit, Accepted,  Classical,  Steinitz Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O cxd4`
+- **Queen's Gambit, Accepted,  4...e6** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md#_initial_move_) — live-tagged the *Normal Variation, Traditional System*
+- **Queen's Gambit, Accepted,  Classical Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md#_Classical_) — live-spelled the *Classical Defense*
+- **Queen's Gambit, Accepted,  Classical,  Furman Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.Qe2 a6 7.dxc5 Bxc5 8.O-O Nc6 9.e4 b5 10.e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md#_Furman_)
+- **Queen's Gambit, Accepted,  Classical Variation,  6.O-O** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md#_6OO_) — live-tagged the *Classical Defense, Normal Line*
+- **Queen's Gambit, Accepted,  Classical,  Steinitz Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md#_Steinitz_)
 
 ## D27
 
-- **Queen's Gambit, Accepted,  Classical,  6...a6** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6`
-- **Queen's Gambit, Accepted,  Classical,  Rubinstein Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4`
-- **Queen's Gambit, Accepted,  Classical,  Geller Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.e4`
+- **Queen's Gambit, Accepted,  Classical,  6...a6** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D27_Queens_Gambit_Accepted_Classical_Main_Line.md#_initial_move_) — live-tagged the *Classical Defense, Main Line*
+- **Queen's Gambit, Accepted,  Classical,  Rubinstein Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.a4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D27_Queens_Gambit_Accepted_Classical_Main_Line.md#_Rubinstein_)
+- **Queen's Gambit, Accepted,  Classical,  Geller Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D27_Queens_Gambit_Accepted_Classical_Main_Line.md#_Geller_) — unrelated to D15's own Geller Gambit/Tolush-Geller Gambit
 
 ## D28
 
-- **Queen's Gambit, Accepted,  Classical,  7.Qe2** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2`
-- **Queen's Gambit, Accepted,  Classical,  7...b5** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5`
-- **Queen's Gambit, Accepted,  Classical,  Flohr Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Nc6 9.Rd1 c4 10.Bc2 Nb4 11.Nc3 Nxc2 12.Qxc2 Bb7 13.d5 Qc7`
+- **Queen's Gambit, Accepted,  Classical,  7.Qe2** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D28_Queens_Gambit_Accepted_Classical_Alekhine_System.md#_initial_move_) — live-tagged the *Alekhine System*, unrelated to D22's own Alekhine Defense
+- **Queen's Gambit, Accepted,  Classical,  7...b5** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D28_Queens_Gambit_Accepted_Classical_Alekhine_System.md#_b5_)
+- **Queen's Gambit, Accepted,  Classical,  Flohr Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Nc6 9.Rd1 c4 10.Bc2 Nb4 11.Nc3 Nxc2 12.Qxc2 Bb7 13.d5 Qc7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D28_Queens_Gambit_Accepted_Classical_Alekhine_System.md#_Flohr_) — unrelated to D25's own Flohr Variation; 13 moves deep, one of the deepest lines in this D-series sweep
 
 ## D29
 
-- **Queen's Gambit, Accepted,  Classical,  8...Bb7** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7`
-- **Queen's Gambit, Accepted,  Classical,  Smyslov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7 9.Rd1 Nbd7 10.Nc3 Bd6`
+- **Queen's Gambit, Accepted,  Classical,  8...Bb7** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D29_Queens_Gambit_Accepted_Classical_Smyslov_Variation.md#_initial_move_) — live-tagged the *Classical Defense, Alekhine System, Main Line*
+- **Queen's Gambit, Accepted,  Classical,  Smyslov Variation** — `1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.Qe2 b5 8.Bb3 Bb7 9.Rd1 Nbd7 10.Nc3 Bd6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D29_Queens_Gambit_Accepted_Classical_Smyslov_Variation.md#_Smyslov_) — a third, unrelated Smyslov Variation alongside D16's and D25's own
 
 ## D30
 

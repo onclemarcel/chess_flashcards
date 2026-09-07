@@ -534,6 +534,20 @@ Living progress tracker for this repository, across sessions and tools. `start.m
 
 ---
 
+**D20-D29 built new in full, same session, user-requested next — "Ok, go for D20-D29."** The full Queen's Gambit Accepted complex: 28 combined entries across 10 codes. Same pattern as D10-D19's own root: D20's bare root had already been built as a thin `[!NOTE]` box inside D06's "Queen's Gambit" card rather than migrated to its own file — trimmed out of D06 and moved wholesale into a new D20.
+
+- **D20 built new in full**: migrated the root out of D06; added the previously-unbuilt 3.e4 (live-tagged the *Saduleto Variation*), forking the *Linares Variation* and a *Schwartz Defense* that is a genuine 0-masters-game rarity.
+- **D21 built new in full**: 3.Nf3 (live-tagged the *Normal Variation*) forking the *Ericson Variation* — a genuine blitz trap (0.1% masters vs 3.8% online, nearly 40× the gap) that the live explorer independently tags *Slav Gambit*, a striking cross-code name clash with D15's own eco.md-titled "Slav Gambit" (itself live-tagged *Geller Gambit* instead) — and the *Borisenko-Furman Variation*, reached back from D22's own 4.e4 fork.
+- **D22 built new in full**: the *Alekhine Defense* (3...a6) forking the *Alatortsev*/*Haberditz Variations*.
+- **D23/D24 built new in full**: 3...Nf6 (`eco.md` reuses its own root name here) forking the *Mannheim Variation* and, via 4.Nc3, the live-tagged *Showalter Variation* — whose own *Bogolyubov Variation* is live-spelled *Bogoljubow Defense*, the same spelling divergence already seen at C91.
+- **D25 built new in full**: 4.e3, live-tagged a *second*, unrelated *Normal Variation* (D21 already carries the name at 3.Nf3) — forks the *Smyslov*/*Janowsky-Larsen*/*Flohr Variations*, both "Smyslov" and "Flohr" names independently reused again deeper in this same sweep.
+- **D26 built new in full**: 4...e6 (live-tagged the *Normal Variation, Traditional System*) through the *Classical Defense* (5...c5) forking the *Furman Variation* and the *Classical Defense, Normal Line* (6.O-O), itself forking the *Steinitz Variation*.
+- **D27 built new in full**: 6...a6, live-tagged the *Classical Defense, Main Line* — a genuinely scattered White 7th-move choice (dxc5/Bb3/a4/Qe2/e4 all real) forking the *Rubinstein Variation* and a *Geller Variation* unrelated to D15's own Geller/Tolush-Geller Gambits.
+- **D28/D29 built new in full**: 7.Qe2, live-tagged the *Alekhine System* (unrelated to D22's own Alekhine Defense) running 13 moves deep to the *Flohr Variation* (unrelated to D25's own) — one of the deepest lines in this entire D-series sweep — then D29's own *Smyslov Variation*, a third unrelated reuse of that name alongside D16's and D25's.
+- **Wiring**: all 28 combined `eco.md` entries now `✅ [covered]`, every migration/divergence/name-reuse/blitz-trap finding stated inline. `README.md`'s "1... d5" paragraph extended with the full D20-D29 fork-by-fork write-up. `check_diagram.py` clean repo-wide (115 files) and `update_stats.py --check` clean (0 stale) on all touched/new files after this batch.
+
+---
+
 ## File naming convention (established 2026-08-25, repo-wide cleanup)
 
 Card filenames are `<ECO or folder prefix>_<Name>[_<disambiguator>].md`. A move fragment (like `Nf3`, `d4`, `1e4d5`, `exd5`) belongs in the filename **only** when it's the actual thing distinguishing this card from a sibling that would otherwise share the same name — never just because it's part of the position's move sequence.
