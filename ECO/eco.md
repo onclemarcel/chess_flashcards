@@ -3323,57 +3323,57 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## E60
 
-- **King's Indian Defence** — `1.d4 Nf6 2.c4 g6`
-- **King's Indian Defence, 3.Nf3** — `1.d4 Nf6 2.c4 g6 3.Nf3`
-- **King's Indian Defence, Queen's Pawn Game,  Mengarini Attack** — `1.d4 Nf6 2.c4 g6 3.Qc2`
-- **King's Indian Defence, Anti-Gruenfeld** — `1.d4 Nf6 2.c4 g6 3.d5`
-- **King's Indian Defence, Danube Gambit** — `1.d4 Nf6 2.c4 g6 3.d5 b5`
-- **King's Indian Defence, 3.g3** — `1.d4 Nf6 2.c4 g6 3.g3`
-- **King's Indian Defence, 3.g3,  Counterthrust Variation** — `1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5`
+- **King's Indian Defence** — `1.d4 Nf6 2.c4 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_initial_move_) — live-tagged, curiously, *Indian Defense: West Indian Defense*, a name this repo's own eco.md doesn't carry.
+- **King's Indian Defence, 3.Nf3** — `1.d4 Nf6 2.c4 g6 3.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_Nf3_) — live-tagged *Normal Variation, King's Knight Variation*.
+- **King's Indian Defence, Queen's Pawn Game,  Mengarini Attack** — `1.d4 Nf6 2.c4 g6 3.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_Qc2_) — the thinnest coded line in the whole batch, only 3 masters games.
+- **King's Indian Defence, Anti-Gruenfeld** — `1.d4 Nf6 2.c4 g6 3.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_d5_) — live-tagged *Anti-Grünfeld, Advance Variation*; a genuine database rarity at its own parent root (0.1% masters).
+- **King's Indian Defence, Danube Gambit** — `1.d4 Nf6 2.c4 g6 3.d5 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_b5_) — live-tagged *Anti-Grünfeld, Adorjan Gambit*, a real name divergence.
+- **King's Indian Defence, 3.g3** — `1.d4 Nf6 2.c4 g6 3.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_g3_) — live-tagged *Fianchetto Variation, Immediate Fianchetto*, a deliberate pairing with E62's own "Delayed Fianchetto" two tempi later.
+- **King's Indian Defence, 3.g3,  Counterthrust Variation** — `1.d4 Nf6 2.c4 g6 3.g3 Bg7 4.Bg2 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E60_Kings_Indian_Sidelines.md#_ctd_) — live-tagged, tellingly, *Grünfeld Defense: Counterthrust Variation* rather than any King's Indian name; the actual masters majority reply at its own parent node is the uncoded 4...O-O (65.9%), ahead of this coded line (23.6%).
 
 ## E61
 
-- **King's Indian Defence, 3.Nc3** — `1.d4 Nf6 2.c4 g6 3.Nc3`
-- **King's Indian Defence, Smyslov System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.Bg5`
+- **King's Indian Defence, 3.Nc3** — `1.d4 Nf6 2.c4 g6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md#_Nc3_) — the King's Indian/Grünfeld fork (Bg7 64.8% / d5 34.7% masters); its own further 3...Bg7 node forks 4.e4 (E70) vs 4.Nf3 (this whole E60-E69 Fianchetto complex's own trunk), completed as part of this batch.
+- **King's Indian Defence, Smyslov System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E61_KID_Grunfeld_Fork.md#_Bg5_) — live-tagged confirming `eco.md`'s own name; masters' actual plurality reply is 5...h6 (48.0%), narrowly ahead of 5...O-O (37.6%).
 
 ## E62
 
-- **King's Indian Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3`
-- **King's Indian Defence, Fianchetto,  Larsen System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c6 7.O-O Bf5`
-- **King's Indian Defence, Fianchetto,  Kavalek (Bronstein) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c6 7.O-O Qa5`
-- **King's Indian Defence, Fianchetto With ...Nc6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6`
-- **King's Indian Defence, Fianchetto,  Uhlmann (Szabo) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O e5`
-- **King's Indian Defence, Fianchetto,  lesser Simagin (Spassky) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bf5`
-- **King's Indian Defence, Fianchetto,  Simagin Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bg4`
+- **King's Indian Defence, Fianchetto Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_initial_move_) — live-tagged *Delayed Fianchetto*, paired with E60's own "Immediate Fianchetto." At its own "6.Bg2" fork, all four biggest replies carry codes: 6...Nc6 is masters' actual plurality (40.9%, this card), ahead of 6...Nbd7 (33.6%, E67), 6...c6 (15.3%, this card), and 6...c5 (7.1%, E64).
+- **King's Indian Defence, Fianchetto,  Larsen System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c6 7.O-O Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_Bf5a_) — live-tagged *Larsen Defense*; masters' actual plurality at this fork is instead the Kavalek/Bronstein Variation below (42.4% vs 25.0%), the reverse of `eco.md`'s own entry order.
+- **King's Indian Defence, Fianchetto,  Kavalek (Bronstein) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c6 7.O-O Qa5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_Qa5_) — live-tagged *Kavalek Defense* (the "(Bronstein)" alt-name doesn't appear live); masters' actual plurality at its own fork (42.4%).
+- **King's Indian Defence, Fianchetto With ...Nc6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_Nc6_) — live-tagged *Carlsbad Variation*. At its own 7...a6/e5/Bf5/Bg4 fork, the biggest single finding of this whole batch: 7...a6 (56.0% masters, split off into its own code, E63) is by far the plurality, well ahead of the three replies that share this card's own E62 code.
+- **King's Indian Defence, Fianchetto,  Uhlmann (Szabo) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_e5u_) — live-tagged *Uhlmann-Szabo System*; masters' second choice (16.3%) but online's clear favourite (42.3%) at its own fork.
+- **King's Indian Defence, Fianchetto,  lesser Simagin (Spassky) Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bf5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_Bf5s_) — live-tagged *Lesser Simagin (Spassky)*; the first half of a genuine double "Simagin" reuse within this single code (see the plain Simagin Variation below).
+- **King's Indian Defence, Fianchetto,  Simagin Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md#_Bg4_) — live-tagged exactly, matching `eco.md`; the second half of this card's own double "Simagin" name reuse, and the rarest of the three named replies at its own fork (6.2% masters).
 
 ## E63
 
-- **King's Indian Defence, Fianchetto,  Panno Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O a6`
+- **King's Indian Defence, Fianchetto,  Panno Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nc6 7.O-O a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E63_Kings_Indian_Fianchetto_Panno.md#_initial_move_) — by far masters' actual plurality (56.0%) at its own parent fork despite being split into its own code; White's own 8th move here is the flattest five-way scatter found anywhere in this batch.
 
 ## E64
 
-- **King's Indian Defence, Fianchetto,  Yugoslav System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5`
+- **King's Indian Defence, Fianchetto,  Yugoslav System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E64_Kings_Indian_Fianchetto_Yugoslav_System.md#_initial_move_) — live-tagged *Yugoslav Variation, Rare Line* (the "Rare Line" qualifier is about this move order, not the system itself).
 
 ## E65
 
-- **King's Indian Defence, Fianchetto,  Yugoslav System,  7.O-O** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O`
+- **King's Indian Defence, Fianchetto,  Yugoslav System,  7.O-O** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E65_Kings_Indian_Fianchetto_Yugoslav_7OO.md#_initial_move_) — a striking online/masters inversion at its own 7th-move fork: masters overwhelmingly prefer 7...Nc6 (88.6%), online is close to split, favouring 7...cxd4 (51.0% online vs 5.8% masters).
 
 ## E66
 
-- **King's Indian Defence, Fianchetto,  Yugoslav Panno** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O Nc6 8.d5`
+- **King's Indian Defence, Fianchetto,  Yugoslav Panno** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 c5 7.O-O Nc6 8.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E66_Kings_Indian_Fianchetto_Yugoslav_Panno.md#_initial_move_) — live-tagged *Yugoslav Variation, Advance Line*, a real name divergence; its own "Panno" name is an unrelated collision with E63's Panno Variation, both named for Oscar Panno at two disconnected nodes.
 
 ## E67
 
-- **King's Indian Defence, Fianchetto With ...Nd7** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7`
-- **King's Indian Defence, Fianchetto,  Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5`
+- **King's Indian Defence, Fianchetto With ...Nd7** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E67_Kings_Indian_Fianchetto_Nd7.md#_initial_move_) — live-tagged *Debrecen Defense*, masters' close second choice (33.6%) at E62's own "6.Bg2" fork.
+- **King's Indian Defence, Fianchetto,  Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E67_Kings_Indian_Fianchetto_Nd7.md#_e5_) — live-tagged *Classical Fianchetto*, a deliberate distinguisher from E70's own, unrelated e4-based "Classical Variation" — the same "Classical" name genuinely reused twice within the King's Indian complex.
 
 ## E68
 
-- **King's Indian Defence, Fianchetto,  Classical Variation,  8.e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4`
+- **King's Indian Defence, Fianchetto,  Classical Variation,  8.e4** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E68_Kings_Indian_Fianchetto_Classical_8e4.md#_initial_move_) — one of the few forks in this whole batch where the coded reply (8...c6, 42.6%) genuinely is masters' actual plurality rather than trailing an uncoded rival.
 
 ## E69
 
-- **King's Indian Defence, Fianchetto,  Classical Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 c6 9.h3`
+- **King's Indian Defence, Fianchetto,  Classical Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.Nf3 d6 5.g3 O-O 6.Bg2 Nbd7 7.O-O e5 8.e4 c6 9.h3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E69_Kings_Indian_Fianchetto_Classical_Main_Line.md#_initial_move_) — live-tagged matching `eco.md`'s own name almost verbatim; the deepest position in this whole E60-E69 batch, nine moves in.
 
 ## E70
 
