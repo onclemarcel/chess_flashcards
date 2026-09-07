@@ -19,7 +19,7 @@ flowchart LR
     c4 --> dxc4a["2... dxc4<br/>+0.3"]
     click dxc4a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md" "D20 · Queen's Gambit Accepted"
     c4 --> e6a[["2... e6<br/>+0.2"]]
-    click e6a "#_e6_" "D30 · Queen's Gambit Declined"
+    click e6a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md" "D30 · Queen's Gambit Declined"
     c4 --> c6a[["2... c6 !<br/>+0.2"]]:::main
     click c6a "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md" "D10 · Slav Defense"
     c4 --> Bf5d["2... Bf5<br/>+0.84"]
@@ -62,7 +62,7 @@ rnbqkbnr/ppp1pppp/8/3p4/2PP4/8/PP2PPPP/RNBQKBNR b KQkq c3 0 2
 ### Candidate moves
 
 * **2... dxc4** (+0.3): the *Queen's Gambit Accepted* — Black grabs the pawn and lets White regain it with a tempo — its own code, [D20](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D20_Queens_Gambit_Accepted.md)
-* [**2... e6**](#_e6_) (+0.2): the [Queen's Gambit Declined](#_e6_) — solid, at the cost of temporarily boxing in the light-squared bishop
+* **2... e6** (+0.2): the *Queen's Gambit Declined* — solid, at the cost of temporarily boxing in the light-squared bishop — its own code, [D30](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md)
 * **2... c6** (+0.2): the *Slav Defense* — masters' actual top choice (49.5%), keeping the light-squared bishop free — its own code, [D10](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D10_Slav_Defense.md)
 * [**2... Bf5**](#_Bf5_) (+0.84, 0.5% masters): the *Grau Defence* — covered below
 * [**2... Nf6**](#_Nf6d_) (+0.52, 0.1% masters): the *Marshall Defence* — covered below
@@ -135,73 +135,4 @@ rnbqkbnr/pp2pppp/8/2pp4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq c6 0 3
 
 [*Back to 1. d4 d5 2. c4*](#_c4_)
 [*Back to TOP*](#_TOP_)
-
----
-
-> [!NOTE]
-> **2... e6**, the Queen's Gambit Declined, keeps the centre solid but locks in the c8-bishop until Black finds a moment for ... b6 or ... Bd6/... Be7 followed by a later fianchetto or exchange.
->
-> <a name="_e6_"></a>
->
-> ### 2... e6 — Queen's Gambit Declined
->
-> [![1. d4 d5 2. c4 e6](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR&lastMove=e7e6&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3)
->
-> *... 1. d4 d5 2. c4 e6 — Queen's Gambit Declined*
->
-> ```
-> rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
-> ```
->
-> | ![Stockfish](https://github.com/onclemarcel/chess_flashcards/raw/main/pics/icon_stockfish.png) | +0.2 |
-> | --- | --- |
->
-> <!-- lichess-stats:start fen="rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="5" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | Nc3 | 27.7 M (64.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 45 k (58.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/47/20 |  |
-> | Nf3 | 7.9 M (18.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 30 k (38.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/47/18 |  |
-> | cxd5 | 3.4 M (7.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 710 (0.9%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/52/25 |  |
-> | e3 | 2.3 M (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/45 | 131 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/28 |  |
-> | g3 | 613 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 815 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/52/20 |  |
-> 
-> *Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-07*
-> <!-- lichess-stats:end -->
->
-> **3. Nc3** is masters' main try (58.9%), developing naturally before deciding between e4 and e3 setups; **3. Nf3** (38.9%) keeps similar flexibility while ruling out an early Nc3-... Bb4 pin.
->
-> <a name="_e6_Nc3_"></a>
->
-> #### 2... e6 3. Nc3
->
-> [![2... e6 3. Nc3](https://backscattering.de/web-boardimage/board.svg?fen=rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR&lastMove=b1c3&coordinates=true&size=280)](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3)
->
-> *... 2... e6 3. Nc3*
->
-> ```
-> rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
-> ```
->
-> <!-- lichess-stats:start fen="rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3" db="lichess,masters" speeds="bullet,blitz" ratings="1800,2000,2200,2500" moves="6" -->
-> | Move | Online | W/D/B | Masters | W/D/B | |
-> | :--- | ---: | :--- | ---: | :--- | :-- |
-> | Nf6 | 16.5 M (57.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 21 k (40.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/50/16 |  |
-> | c6 | 4.5 M (15.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 11 k (22.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/43/27 |  |
-> | dxc4 | 2.0 M (7.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 0 | — | ⚠ |
-> | c5 | 1.8 M (6.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 5.2 k (10.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/44/19 |  |
-> | Bb4 | 1.3 M (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 2.6 k (5.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/42/27 |  |
-> | f5 | 1.0 M (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 0 | — | ⚠ |
-> | Be7 | 0 | — | 8.7 k (16.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/48/17 |  |
-> | a6 | 0 | — | 1.9 k (3.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/41/25 |  |
-> 
-> *Online: bullet/blitz, 1800+ — 28.8 M games. Masters: 52 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-07*
-> <!-- lichess-stats:end -->
->
-> **3... Nf6** is masters' clear main try (40.7%), heading toward the Orthodox/Classical Queen's Gambit Declined — not built out further here (backlog, a genuinely vast body of theory of its own). **3... c5** (10.0%) is the real second-most-tested try worth its own name.
->
-> * **3... Nf6** (+0.2, 40.7% masters): Orthodox/Classical QGD, not covered further here.
-> * [**3... c5**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md) (+0.3, 10.0% masters): the [**Tarrasch Defense**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md) — covered on its own card
->
-> [*Back to 1. d4 d5 2. c4*](#_c4_)
-> [*Back to TOP*](#_TOP_)
 

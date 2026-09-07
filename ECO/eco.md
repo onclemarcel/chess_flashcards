@@ -2595,83 +2595,83 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D30
 
-- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6`
-- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2`
-- **Queen's Gambit, Declined,  Stonewall Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Ne4 6.Bd3 f5`
-- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Nbd7`
-- **Queen's Gambit, Declined,  Slav Defence,  Semmering Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Nbd7 6.Bd3 c5`
-- **Queen's Gambit, Declined,  Spielmann Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 g6`
-- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5`
-- **Queen's Gambit, Declined,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nbd2`
-- **Queen's Gambit, Declined,  Vienna Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Bb4`
-- **Queen's Gambit, Declined,  Capablanca-Duras Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6`
-- **Queen's Gambit, Declined,  Hastings Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.Nc3 c6 7.Qb3`
+- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_initial_move_) — carries the entire 3.Nf3 system; migrated out of D06's own "Queen's Gambit" card, where it had been built as a thin NOTE box
+- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Nbd2_) — live-tagged the *Semi-Slav Defense: Quiet Variation*
+- **Queen's Gambit, Declined,  Stonewall Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Ne4 6.Bd3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Stonewall_)
+- **Queen's Gambit, Declined,  Slav Defence** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Nbd7_) — second reuse of the "Slav Defence" name, also live-tagged *Semi-Slav Defense: Quiet Variation*
+- **Queen's Gambit, Declined,  Slav Defence,  Semmering Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 Nbd7 6.Bd3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Semmering_)
+- **Queen's Gambit, Declined,  Spielmann Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.e3 c6 5.Nbd2 g6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Spielmann_)
+- **Queen's Gambit, Declined** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Bg5_) — reuses the card's own root name; live-tagged the *Traditional Variation*
+- **Queen's Gambit, Declined,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nbd2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Capablanca_)
+- **Queen's Gambit, Declined,  Vienna Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Vienna_) — unrelated to D39's own, much deeper Ragozin-tree "Vienna Variation"
+- **Queen's Gambit, Declined,  Capablanca-Duras Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_CapablancaDuras_) — live explorer tags both this and the 4...Nbd7 node identically, just "Capablanca Variation"
+- **Queen's Gambit, Declined,  Hastings Variation** — `1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Bg5 h6 5.Bxf6 Qxf6 6.Nc3 c6 7.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D30_Queens_Gambit_Declined.md#_Hastings_) — live explorer tags this exact position **D43**, a genuine eco.md-vs-live code discrepancy
 
 ## D31
 
-- **Queen's Gambit, Declined,  3.Nc3** — `1.d4 d5 2.c4 e6 3.Nc3`
-- **Queen's Gambit, Declined,  Janowski Variation** — `1.d4 d5 2.c4 e6 3.Nc3 a6`
-- **Queen's Gambit, Declined,  Alapin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 b6`
-- **Queen's Gambit, Declined,  Charousek Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Be7`
-- **Queen's Gambit, Declined,  Semi-Slav** — `1.d4 d5 2.c4 e6 3.Nc3 c6`
-- **Queen's Gambit, Declined,  Semi-Slav,  Noteboom Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4`
-- **Queen's Gambit, Declined,  Semi-Slav,  Koomen Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 Qe7`
-- **Queen's Gambit, Declined,  Semi-Slav,  Junge Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 Qb6`
-- **Queen's Gambit, Declined,  Semi-Slav,  Abrahams Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 a5`
-- **Queen's Gambit, Declined,  Semi-Slav,  Marshall Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4`
+- **Queen's Gambit, Declined,  3.Nc3** — `1.d4 d5 2.c4 e6 3.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_initial_move_) — live-tagged the *Queen's Knight Variation*; migrated out of D06's own "Queen's Gambit" card
+- **Queen's Gambit, Declined,  Janowski Variation** — `1.d4 d5 2.c4 e6 3.Nc3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Janowski_) — a third, unrelated "Janowski"-named line in this repo (see also D07, D08)
+- **Queen's Gambit, Declined,  Alapin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Alapin31_) — an extreme rarity, only 7 masters games
+- **Queen's Gambit, Declined,  Charousek Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Charousek_)
+- **Queen's Gambit, Declined,  Semi-Slav** — `1.d4 d5 2.c4 e6 3.Nc3 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_SemiSlav_) — live-tagged the *Semi-Slav Defense: Accelerated Move Order*
+- **Queen's Gambit, Declined,  Semi-Slav,  Noteboom Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Noteboom_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Koomen Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Koomen_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Junge Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 Qb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Junge_)
+- **Queen's Gambit, Declined,  Semi-Slav,  Abrahams Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.Nf3 dxc4 5.a4 Bb4 6.e3 b5 7.Bd2 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_Abrahams_) — masters' actual overwhelming main try (86.2%) at that fork
+- **Queen's Gambit, Declined,  Semi-Slav,  Marshall Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c6 4.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md#_MarshallGambit31_) — unrelated to D32's own, much deeper Tarrasch-tree "Marshall Gambit"
 
 ## D32
 
-- **Queen's Gambit, Declined,  Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 c5`
-- **Queen's Gambit, Declined,  Tarrasch,  von Hennig-Schara Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4`
-- **Queen's Gambit, Declined,  Tarrasch Defence,  4.cd ed** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5`
-- **Queen's Gambit, Declined,  Tarrasch Defence,  Tarrasch Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 b5`
-- **Queen's Gambit, Declined,  Tarrasch Defence,  Marshall Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4`
-- **Queen's Gambit, Declined,  Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3`
+- **Queen's Gambit, Declined,  Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_initial_move_)
+- **Queen's Gambit, Declined,  Tarrasch,  von Hennig-Schara Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_Schara_) — live explorer drops the "von Hennig" half, tagging it just the *Schara Gambit*
+- **Queen's Gambit, Declined,  Tarrasch Defence,  4.cd ed** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_exd5_)
+- **Queen's Gambit, Declined,  Tarrasch Defence,  Tarrasch Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.dxc5 d4 6.Na4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_TarraschGambit_)
+- **Queen's Gambit, Declined,  Tarrasch Defence,  Marshall Gambit** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_MarshallGambit32_) — unrelated to D31's own, much shallower Semi-Slav "Marshall Gambit"
+- **Queen's Gambit, Declined,  Tarrasch Defence** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md#_Nf3_)
 
 ## D33
 
-- **Queen's Gambit, Declined,  Tarrasch,  Schlechter-Rubinstein System** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3`
-- **Queen's Gambit, Declined,  Tarrasch,  Folkestone (Swedish) Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 c4`
-- **Queen's Gambit, Declined,  Tarrasch,  Schlechter-Rubinstein System,  Rey Ardid Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 c4 7.e4`
-- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6`
-- **Queen's Gambit, Declined,  Tarrasch,  Wagner Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Bg4`
+- **Queen's Gambit, Declined,  Tarrasch,  Schlechter-Rubinstein System** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md#_initial_move_) — live-tagged simply the *Rubinstein System*
+- **Queen's Gambit, Declined,  Tarrasch,  Folkestone (Swedish) Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md#_Folkestone_)
+- **Queen's Gambit, Declined,  Tarrasch,  Schlechter-Rubinstein System,  Rey Ardid Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 c4 7.e4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md#_ReyArdid_)
+- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md#_Prague_)
+- **Queen's Gambit, Declined,  Tarrasch,  Wagner Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Bg4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md#_Wagner_)
 
 ## D34
 
-- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  7...Be7** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7`
-- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  Normal position** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O`
-- **Queen's Gambit, Declined,  Tarrasch,  Reti Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.dxc5 Bxc5 10.Na4`
-- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  9.Bg5** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5`
-- **Queen's Gambit, Declined,  Tarrasch,  Bogolyubov Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6 10.Rc1 c4`
-- **Queen's Gambit, Declined,  Tarrasch,  Stoltz Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6 10.Rc1 b6`
+- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  7...Be7** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_initial_move_) — live explorer already compounds the name here, "Prague Variation, Main Line"
+- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  Normal position** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_Normal_) — live-tagged the *Classical Variation* instead, a real, substantial name divergence
+- **Queen's Gambit, Declined,  Tarrasch,  Reti Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.dxc5 Bxc5 10.Na4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_Reti_)
+- **Queen's Gambit, Declined,  Tarrasch,  Prague Variation,  9.Bg5** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_Prague9Bg5_) — live-tagged the *Classical Variation, Carlsbad Variation* instead, unrelated to D17's own Slav Carlsbad Variation
+- **Queen's Gambit, Declined,  Tarrasch,  Bogolyubov Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6 10.Rc1 c4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_Bogolyubov_) — `eco.md`'s own spelling here, unlike the live-preferred "Bogoljubow" seen elsewhere in this repo
+- **Queen's Gambit, Declined,  Tarrasch,  Stoltz Variation** — `1.d4 d5 2.c4 e6 3.Nc3 c5 4.cxd5 exd5 5.Nf3 Nc6 6.g3 Nf6 7.Bg2 Be7 8.O-O O-O 9.Bg5 Be6 10.Rc1 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md#_Stoltz_)
 
 ## D35
 
-- **Queen's Gambit, Declined,  3...Nf6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6`
-- **Queen's Gambit, Declined,  Harrwitz Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bf4`
-- **Queen's Gambit, Declined,  Exchange Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5`
-- **Queen's Gambit, Declined,  Exchange,  Saemisch Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Nf3 Nbd7 6.Bf4`
-- **Queen's Gambit, Declined,  Exchange,  positional line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5`
-- **Queen's Gambit, Declined,  Exchange,  Chameleon Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 Nbd7 8.Qc2 Re8 9.Nge2 Nf8 10.O-O-O`
-- **Queen's Gambit, Declined,  Exchange,  positional line,  5...c6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6`
+- **Queen's Gambit, Declined,  3...Nf6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_initial_move_) — live-tagged the *Normal Defense*
+- **Queen's Gambit, Declined,  Harrwitz Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Harrwitz_) — a genuine blitz trap (0.5% masters vs 5.5% online)
+- **Queen's Gambit, Declined,  Exchange Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Exchange_)
+- **Queen's Gambit, Declined,  Exchange,  Saemisch Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Nf3 Nbd7 6.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Saemisch_) — live-spelled the umlauted *Sämisch Variation*; a genuine rarity (0.5% masters) versus 5.Bg5's 98.1%
+- **Queen's Gambit, Declined,  Exchange,  positional line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Positional_) — masters' true main try (98.1%) at this fork
+- **Queen's Gambit, Declined,  Exchange,  Chameleon Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 Be7 6.e3 O-O 7.Bd3 Nbd7 8.Qc2 Re8 9.Nge2 Nf8 10.O-O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Chameleon_)
+- **Queen's Gambit, Declined,  Exchange,  positional line,  5...c6** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md#_Positional5c6_)
 
 ## D36
 
-- **Queen's Gambit, Declined,  Exchange,  positional line,  6.Qc2** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.Qc2`
+- **Queen's Gambit, Declined,  Exchange,  positional line,  6.Qc2** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.cxd5 exd5 5.Bg5 c6 6.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D36_Queens_Gambit_Declined_Exchange_Positional_Qc2.md#_initial_move_)
 
 ## D37
 
-- **Queen's Gambit, Declined,  4.Nf3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3`
-- **Queen's Gambit, Declined,  Classical Variation (5.Bf4)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4`
+- **Queen's Gambit, Declined,  4.Nf3** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md#_initial_move_) — live-tagged the *Three Knights Variation*, the same generic naming pattern as D15's own Slav Three Knights
+- **Queen's Gambit, Declined,  Classical Variation (5.Bf4)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Be7 5.Bf4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md#_Classical_) — this exact SAN move order is left completely untagged live, almost certainly reached by transposition in practice
 
 ## D38
 
-- **Queen's Gambit, Declined,  Ragozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4`
+- **Queen's Gambit, Declined,  Ragozin Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md#_initial_move_) — live-spelled the *Ragozin Defense*
 
 ## D39
 
-- **Queen's Gambit, Declined,  Ragozin,  Vienna Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.Bg5 dxc4`
+- **Queen's Gambit, Declined,  Ragozin,  Vienna Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Nf3 Bb4 5.Bg5 dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D39_Queens_Gambit_Declined_Ragozin_Vienna_Variation.md#_initial_move_) — unrelated to D30's own, much shallower "Vienna Variation"
 
 ## D40
 
