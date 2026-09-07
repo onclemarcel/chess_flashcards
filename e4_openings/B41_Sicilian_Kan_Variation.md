@@ -50,7 +50,7 @@ rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
 | g3 | 0 | — | 316 (1.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 28/35/36 |  |
 | a3 | 0 | — | 149 (0.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/27/24 |  |
 
-*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -90,7 +90,7 @@ rnbqkbnr/1p1p1ppp/p3p3/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5
 | b6 | 92 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 56 (1.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 20/45/36 |  |
 | d6 | 0 | — | 53 (1.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 47/28/25 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Live-tagged the *Réti Variation* (`eco.md`'s own entry just calls the whole branch "Maroczy bind," without this fuller name). **5... Nf6** is masters' clear main try (87.3%), attacking e4 immediately.

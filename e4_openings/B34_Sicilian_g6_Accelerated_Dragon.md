@@ -52,7 +52,7 @@ r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 0 5
 | Be2 | 0 | — | 252 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
 | Nb3 | 0 | — | 91 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/34/26 |  |
 
-*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly rather than assumed from the two named B34 entries alone**: masters' actual most popular try here is **5. c4** (56.2%, the Maróczy Bind — see [`B36_Sicilian_Accelerated_Dragon_Maroczy.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B36_Sicilian_Accelerated_Dragon_Maroczy.md)), well ahead of either of this card's own two named lines, **5. Nc3** (37.9%, the *Modern Variation*) and **5. Nxc6** (0.8%, the *Exchange Variation*).

@@ -25,7 +25,7 @@ rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq - 2 4
 | h4 | 151 k (12.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/3/49 | 0 | — | ⚠ |
 | Nc3 | 0 | — | 42 (24.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/36/36 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 170 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 170 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppbppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **4. Bc4** (72.4%), developing toward f7 while ignoring the coming check.
@@ -57,7 +57,7 @@ rnbqk1nr/ppppbppp/8/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R b KQkq - 3 4
 | Bh4+ | 719 k (79.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/47 | 24 (19.2%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 42/17/42 |  |
 | Nf6 | 98 k (10.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 92 (73.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 28/30/41 |  |
 
-*Online: bullet/blitz, 1800+ — 908 k games. Masters: 125 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppbppp/8/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R_b_KQkq_-_3_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 908 k games. Masters: 125 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppppbppp/8/8/2B1Pp2/5N2/PPPP2PP/RNBQK2R_b_KQkq_-_3_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 A genuine online/masters inversion: masters actually prefer **4... Nf6** (73.6%) — deferring the check — while online play defaults overwhelmingly to **4... Bh4+** (79.1%, only 19.2% masters), the move that gives the whole line its name.
@@ -115,7 +115,7 @@ White offers a second pawn to deflect the bishop and open lines. Masters' sample
 | fxg3 | 199 k (94.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/41 | 0 | — | ⚠ |
 | Be7 | 8.7 k (4.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 212 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5NP1/PPPP3P/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 212 k games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1ppp/8/8/2B1Pp1b/5NP1/PPPP3P/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **5... fxg3 6. O-O gxh2+ 7. Kh1:** `eco.md` names this the *Three Pawns Gambit* (White having offered a third pawn for the attack), but the live explorer still tags it plainly the *Bertin Gambit* at this depth — a real name/depth divergence, `eco.md` naming a sub-line the live tagger doesn't distinguish.

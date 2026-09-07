@@ -49,7 +49,7 @@ r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7
 | f3 | 20 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/46 | 24 (0.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/29/42 |  |
 | Qd3 | 0 | — | 802 (3.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
 
-*Online: bullet/blitz, 1800+ — 564 k games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_w_KQkq_-_0_7#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 564 k games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_w_KQkq_-_0_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly**: **7. Qd2** — the *Rauzer Attack* — is masters' overwhelming main try (92.0%), already live-tagged **B63**. Every other named line in `eco.md`'s own B62 entries is a real database rarity by comparison: **7. Qd3** (3.9%, the *Keres Variation*), **7. Bb5** (2.7%, the *Margate Variation*), **7. Nb3** (0.06%, the *Podebrady Variation* — `eco.md` spells it "Podvebrady," a transliteration divergence), and **7. Nxc6** (0.05%, live-tagged the *Exchange Variation*, `eco.md`: "Richter Attack," a real name divergence).

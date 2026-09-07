@@ -29,7 +29,7 @@ r1bqk2r/pp1pppbp/2n2np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 5 7
 | Na5 | 0 | — | 33 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 21/48/30 |  |
 | Ne5 | 0 | — | 9 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 7.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1pppbp/2n2np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R_b_KQkq_-_5_7#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 7.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1pppbp/2n2np1/8/2BNP3/2N1B3/PPP2PPP/R2QK2R_b_KQkq_-_5_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Black usually continues **7... O-O 8. Bb3**, tucking the bishop away from a future ... Na5 while keeping the pressure on f7 — a sharp, well-tested tabiya in its own right, deeper theory not covered further here.

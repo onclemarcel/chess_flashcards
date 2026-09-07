@@ -29,7 +29,7 @@ rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R b KQkq - 0 6
 | Bg4 | 0 | — | 75 (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/29/21 |  |
 | Bd7 | 0 | — | 30 (0.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/50/23 |  |
 
-*Online: bullet/blitz, 1800+ — 271 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 271 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N3P1/PPP2P1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **6... e5** is masters' clear main try (71.7%), the same central break seen against most of White's quieter 6th-move tries. Deeper theory (7. Nde2/7. Nb3, the resulting fianchetto middlegame) is its own extensive body of work, not covered further here.

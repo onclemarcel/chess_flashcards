@@ -28,7 +28,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 | Nf6 | 343 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | b6 | 0 | — | 28 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/25/32 |  |
 
-*Online: bullet/blitz, 1800+ — 41.4 M games. Masters: 46 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 41.4 M games. Masters: 46 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **2... Nc6** (57.5% masters) is by far the main reply, often meeting **3. g3** with **3... g6**, both sides fianchettoing for a symmetrical-looking but strategically rich middlegame.
@@ -66,7 +66,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 | Bc4 | 1.6 M (8.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 0 | — | ⚠ |
 | Nge2 | 0 | — | 3.7 k (14.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/49/20 |  |
 
-*Online: bullet/blitz, 1800+ — 17.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 17.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 White's own 3rd move is a genuine multi-way split, no dominant single try:

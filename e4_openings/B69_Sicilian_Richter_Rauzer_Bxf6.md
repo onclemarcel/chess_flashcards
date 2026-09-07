@@ -25,7 +25,7 @@ r2qk2r/3bbppp/p1nppB2/1p6/4PP2/2N2N2/PPPQ2PP/2KR1B1R b kq - 0 11
 | b4 | 4 (0.1%) | — | 0 | — |  |
 | g6 | 1 (0.0%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.7 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/3bbppp/p1nppB2/1p6/4PP2/2N2N2/PPPQ2PP/2KR1B1R_b_kq_-_0_11#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 4.7 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/3bbppp/p1nppB2/1p6/4PP2/2N2N2/PPPQ2PP/2KR1B1R_b_kq_-_0_11#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **11... gxf6** is masters' overwhelming reply (94.5%), accepting doubled f-pawns to keep the bishop pair and open the g-file for a future ... Kb8/... Rg8 counterattack — the natural continuation of the whole opposite-side-castling race this card set has been building toward. Deeper theory past this point is its own extensive body of work, closing out the whole Richter-Rauzer complex (B60-B69) at its own deepest, most concretely analysed tabiya.

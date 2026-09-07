@@ -26,7 +26,7 @@ rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R b KQkq - 0 7
 | Bd7 | 18 k (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 0 | — | ⚠ |
 | h5 | 0 | — | 32 (0.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 53/41/6 |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R_b_KQkq_-_0_7#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R_b_KQkq_-_0_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **7... O-O** is masters' clear main try (57.4%), already live-tagged **B76** — see [`B76_Sicilian_Dragon_Yugoslav_OO.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B76_Sicilian_Dragon_Yugoslav_OO.md), not built out further here. **7... Nc6** (37.6%, a real second choice, developing before castling) stays B75 and is not built out further here.

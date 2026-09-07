@@ -49,7 +49,7 @@ r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R b - f3 0 9
 | Qa5 | 1.2 k (3.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 7 (0.4%) | — |  |
 | e5 | 0 | — | 16 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 32 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R_b_-_f3_0_9#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 32 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R_b_-_f3_0_9#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly rather than assumed from `eco.md`'s own two named lines alone**: masters' actual main try is **9... Nxd4** (56.6%, already live-tagged **B65**), well ahead of **9... h6** (38.4%, un-named at this leaf despite being a real second choice) and the *Geller Variation* (**9... e5**, only 0.9% masters — a real minority, not a main line, despite the fame of the name).

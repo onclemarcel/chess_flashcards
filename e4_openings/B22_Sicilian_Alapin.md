@@ -28,7 +28,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2
 | g6 | 955 k (5.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 1.3 k (3.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/37/30 |  |
 | e5 | 0 | — | 497 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 18.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4P3/2P5/PP1P1PPP/RNBQKBNR_b_KQkq_-_0_2#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **2... Nf6** (44.6% masters) is the main try, attacking e4 at once: after **3. e5 Nd5**, the knight is well placed on d5 and Black continues ... d6, ... Nc6, and ... g6/... e6 depending on taste. **2... d5** (33.2% masters) strikes back in the centre immediately instead, and after **3. exd5 Qxd5 4. d4**, White develops with tempo against the queen — a structure similar in spirit to the Center Game.
