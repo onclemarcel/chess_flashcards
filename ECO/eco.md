@@ -2874,45 +2874,45 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D70
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence** — `1.d4 Nf6 2.c4 g6 3.f3 d5`
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  Kemeri** — `1.d4 Nf6 2.c4 g6 3.g3 d5`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence** — `1.d4 Nf6 2.c4 g6 3.f3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D70_Neo_Grunfeld_Defense.md#_f3_) — live-tagged the *Goglidze Attack*; White's reply is essentially forced (4.cxd5, 99.9% masters)
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  Kemeri** — `1.d4 Nf6 2.c4 g6 3.g3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D70_Neo_Grunfeld_Defense.md#_initial_move_) — retrofitted from a pre-sweep card built the same batch; the D71/D73 codes below don't actually attach until two plies later (4...Bg7 is live-tagged the generic E60 umbrella, not yet Neo-Grünfeld)
 
 ## D71
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.cd** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.cd** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D71_Neo_Grunfeld_Exchange_Variation.md#_initial_move_) — live-tagged *Exchange Variation*; verified via `apply_san.py` that the alternate move order (4.cxd5 Nxd5 5.Bg2 Bg7) transposes to the identical position
 
 ## D72
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.cd,  Main line** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4 Nb6 7.Ne2`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.cd,  Main line** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.cxd5 Nxd5 6.e4 Nb6 7.Ne2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D72_Neo_Grunfeld_Exchange_Main_Line.md#_initial_move_) — live-tagged the same generic "with g3" name as D70's own root, three plies earlier
 
 ## D73
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.Nf3** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  5.Nf3** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D73_Neo_Grunfeld_Nf3.md#_initial_move_) — a genuine minority pick (8.9% masters) next to 5.cxd5's 89.7%; its own most-played reply, 5...dxc4 (40.4%), stays uncoded, trailing the coded-tree entry 5...O-O (21.6%, only third choice)
 
 ## D74
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D74_Neo_Grunfeld_Delayed_Exchange.md#_initial_move_) — live-tagged *Delayed Exchange Variation*, the first of three unrelated D74-D76 nodes sharing this exact tag
 
 ## D75
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O c5,  8.Nc3** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O c5 8.Nc3`
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O c5,  8.dc** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O c5 8.dxc5`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O c5,  8.Nc3** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O c5 8.Nc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D75_Neo_Grunfeld_Delayed_Exchange_c5.md#_Nc3_) — masters' actual third choice (17.2%) at its own fork, trailing both the coded sibling 8.dxc5 (47.8%) and the uncoded 8.e4 (34.0%)
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O c5,  8.dc** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O c5 8.dxc5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D75_Neo_Grunfeld_Delayed_Exchange_c5.md#_dxc5_) — masters' actual main try (47.8%) at its own fork; a very thin sample past it (136 masters games)
 
 ## D76
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O Nb6** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O Nb6`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.cd Nxd5,  7.O-O Nb6** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.cxd5 Nxd5 7.O-O Nb6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D76_Neo_Grunfeld_Delayed_Exchange_Nb6.md#_initial_move_) — masters' clear main try at its own D74 fork (65.6%); White's own follow-up (8.Nc3) is close to forced (96.1%)
 
 ## D77
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D77_Neo_Grunfeld_Classical_Variation.md#_initial_move_) — live-tagged *Classical Variation*, the first genuinely distinct name in the whole D74-D79 span; its own near-even 6th-move fork sees the uncoded 6...dxc4 (46.9%) narrowly outrank the coded 6...c6 (43.7%)
 
 ## D78
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O c6** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O c6** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D78_Neo_Grunfeld_Classical_Original_Defense.md#_initial_move_) — live-tagged the more specific *Classical Variation, Original Defense*; White's own 7th move genuinely scatters five ways, no move close to forced
 
 ## D79
 
-- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O,  Main line** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.cxd5 cxd5`
+- **Gruenfeld Defence, Neo-Gruenfeld Defence,  6.O-O,  Main line** — `1.d4 Nf6 2.c4 g6 3.g3 d5 4.Bg2 Bg7 5.Nf3 O-O 6.O-O c6 7.cxd5 cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D79_Neo_Grunfeld_Ultra_Delayed_Exchange.md#_initial_move_) — live-tagged *Ultra-Delayed Exchange Variation*, a real name divergence in the opposite direction from D78's own finding (here `eco.md`'s own label is the generic one); the deepest node in the whole D70-D79 batch
 
 ## D80
 
