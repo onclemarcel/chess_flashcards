@@ -3426,47 +3426,47 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## E80
 
-- **King's Indian Defence, Saemisch Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3`
+- **King's Indian Defence, Saemisch Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E80_Kings_Indian_Saemisch_Variation.md) — the root of the longest unbroken ECO chain in the whole King's Indian complex, E80-E89.
 
 ## E81
 
-- **King's Indian Defence, Saemisch,  5...O-O** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O`
-- **King's Indian Defence, Saemisch,  Byrne Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c6 7.Bd3 a6`
+- **King's Indian Defence, Saemisch,  5...O-O** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E81_Kings_Indian_Saemisch_OO.md) — masters' actual plurality at the following 6.Be3 fork is an uncoded 6...c5 (29.0%), ahead of every one of the four coded replies.
+- **King's Indian Defence, Saemisch,  Byrne Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 c6 7.Bd3 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E81_Kings_Indian_Saemisch_OO.md#_Byrne_) — a name also used, unrelated, for a Reversed Sicilian line in this repo's own A22-A25 batch.
 
 ## E82
 
-- **King's Indian Defence, Saemisch,  double Fianchetto Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 b6`
+- **King's Indian Defence, Saemisch,  double Fianchetto Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E82_Kings_Indian_Saemisch_Double_Fianchetto.md) — masters clearly prefer 7.Bd3 (63.3%) over 7.Qd2, the reverse of the online split.
 
 ## E83
 
-- **King's Indian Defence, Saemisch,  6...Nc6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6`
-- **King's Indian Defence, Saemisch,  Ruban Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 Rb8`
-- **King's Indian Defence, Saemisch,  Panno formation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6`
+- **King's Indian Defence, Saemisch,  6...Nc6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E83_Kings_Indian_Saemisch_Nc6.md) — live-tagged the **Yates Defense**, a name this entry doesn't carry.
+- **King's Indian Defence, Saemisch,  Ruban Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 Rb8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E83_Kings_Indian_Saemisch_Nc6.md#_Ruban_)
+- **King's Indian Defence, Saemisch,  Panno formation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E83_Kings_Indian_Saemisch_Nc6.md#_Panno_) — the Panno name is reused, unrelated, at this repo's own [E63 Fianchetto Variation](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E63_Kings_Indian_Fianchetto_Panno.md).
 
 ## E84
 
-- **King's Indian Defence, Saemisch,  Panno Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8`
+- **King's Indian Defence, Saemisch,  Panno Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 Nc6 7.Nge2 a6 8.Qd2 Rb8` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E84_Kings_Indian_Saemisch_Panno_Main_Line.md) — White's own 9th move genuinely scatters three ways (Rc1/h4/Nc1), none built further.
 
 ## E85
 
-- **King's Indian Defence, Saemisch,  Orthodox Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5`
+- **King's Indian Defence, Saemisch,  Orthodox Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E85_Kings_Indian_Saemisch_Orthodox.md) — forks two true siblings, [E86](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E86_Kings_Indian_Saemisch_Orthodox_Nge2.md) and [E87](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E87_Kings_Indian_Saemisch_Orthodox_d5.md), verified via `apply_san.py` to hang directly off this same node rather than nest one under the other.
 
 ## E86
 
-- **King's Indian Defence, Saemisch,  Orthodox,  7.Nge2 c6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6`
+- **King's Indian Defence, Saemisch,  Orthodox,  7.Nge2 c6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.Nge2 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E86_Kings_Indian_Saemisch_Orthodox_Nge2.md)
 
 ## E87
 
-- **King's Indian Defence, Saemisch,  Orthodox,  7.d5** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5`
-- **King's Indian Defence, Saemisch,  Orthodox,  Bronstein Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 Nh5 8.Qd2 Qh4 9.g3 Nxg3 10.Qf2 Nxf1 11.Qxh4 Nxe3 12.Ke2 Nxc4`
+- **King's Indian Defence, Saemisch,  Orthodox,  7.d5** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E87_Kings_Indian_Saemisch_Orthodox_d5.md) — live-tagged the **Closed Variation**.
+- **King's Indian Defence, Saemisch,  Orthodox,  Bronstein Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 Nh5 8.Qd2 Qh4 9.g3 Nxg3 10.Qf2 Nxf1 11.Qxh4 Nxe3 12.Ke2 Nxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E87_Kings_Indian_Saemisch_Orthodox_d5.md#_Bronstein_) — a genuinely different kind of "named line" than almost anything else in this sweep: one long forced tactical sequence rather than a branch point, given a full move-by-move walkthrough rather than a flattened bullet.
 
 ## E88
 
-- **King's Indian Defence, Saemisch,  Orthodox,  7.d5 c6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6`
+- **King's Indian Defence, Saemisch,  Orthodox,  7.d5 c6** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E88_Kings_Indian_Saemisch_Orthodox_c6.md) — the coded continuation, 8.Nge2, is actually masters' *least* popular try here (3.4%), well behind the uncoded 8.Bd3 (53.7%) and 8.Qd2 (42.1%).
 
 ## E89
 
-- **King's Indian Defence, Saemisch,  Orthodox Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Nge2 cxd5`
+- **King's Indian Defence, Saemisch,  Orthodox Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.f3 O-O 6.Be3 e5 7.d5 c6 8.Nge2 cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E89_Kings_Indian_Saemisch_Orthodox_Main_Line.md) — the deepest node in the whole E80-E89 batch.
 
 ## E90
 
