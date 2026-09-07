@@ -32,6 +32,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1P3/PP3PPP/R1BQKBNR w KQ - 1 5
 
 * [**5. Bd3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E47_Nimzo_Indian_Rubinstein_Bd3.md) (63.9% masters): live-confirmed its own code, **E47** — covered on its own card.
 * [**5. Ne2**](#_Ne2_) (22.4% masters): the *Reshevsky Variation* — covered below.
+* [**5. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E50_Nimzo_Indian_Rubinstein_Nf3.md) (3.8% masters): live-confirmed its own code, **E50** — covered on its own card. This candidate list never actually carried this move as a bullet before, even though it already sat in the stats table above (a real gap left over from before E50 existed); completing the link now that it is built.
 
 [*Back to TOP*](#_TOP_)
 

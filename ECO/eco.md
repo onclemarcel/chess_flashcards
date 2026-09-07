@@ -3279,47 +3279,47 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## E50
 
-- **Nimzo-Indian Defence, 4.e3 e8g8,  5.Nf3,  Without ...d5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3`
+- **Nimzo-Indian Defence, 4.e3 e8g8,  5.Nf3,  Without ...d5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E50_Nimzo_Indian_Rubinstein_Nf3.md#_initial_move_) — the "Without ...d5" label means this code covers every 5th-move reply except 5...d5 (E51's own sibling code); built out via 5...c5, masters' top non-d5 try, whose main line (6.Bd3 d5) live-verifies as a transposition straight back into E53's own root.
 
 ## E51
 
-- **Nimzo-Indian Defence, 4.e3 e8g8,  5.Nf3 d7d5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5`
-- **Nimzo-Indian Defence, 4.e3,  Ragozin Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 Nc6 7.O-O dxc4`
+- **Nimzo-Indian Defence, 4.e3 e8g8,  5.Nf3 d7d5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E51_Nimzo_Indian_Rubinstein_Nf3_d5.md#_initial_move_) — the live explorer tags this bare node "Ragozin Variation" already, broader than `eco.md`'s own narrower use of the name one entry below; unrelated to the D38 Ragozin Defence, a real cross-family name collision.
+- **Nimzo-Indian Defence, 4.e3,  Ragozin Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 Nc6 7.O-O dxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E51_Nimzo_Indian_Rubinstein_Nf3_d5.md#_Nc6_)
 
 ## E52
 
-- **Nimzo-Indian Defence, 4.e3,  Main line With ...b6** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 b6`
+- **Nimzo-Indian Defence, 4.e3,  Main line With ...b6** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E52_Nimzo_Indian_Rubinstein_Main_Line_b6.md#_initial_move_) — live-tagged the *Schlechter Defense*, a real name this entry doesn't carry.
 
 ## E53
 
-- **Nimzo-Indian Defence, 4.e3,  Main line With ...c5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5`
-- **Nimzo-Indian Defence, 4.e3,  Keres Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O b6`
-- **Nimzo-Indian Defence, 4.e3,  Gligoric System With 7...Nbd7** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nbd7`
+- **Nimzo-Indian Defence, 4.e3,  Main line With ...c5** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E53_Nimzo_Indian_Rubinstein_Main_Line_c5.md#_initial_move_) — live-tagged the *Gligoric System*; also reached by a verified transposition from E50's own "5...c5 6.Bd3 d5" line.
+- **Nimzo-Indian Defence, 4.e3,  Keres Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O b6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E53_Nimzo_Indian_Rubinstein_Main_Line_c5.md#_Keres_) — at least the fourth or fifth reuse of "Keres Variation" in this whole ECO sweep.
+- **Nimzo-Indian Defence, 4.e3,  Gligoric System With 7...Nbd7** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E53_Nimzo_Indian_Rubinstein_Main_Line_c5.md#_Nbd7_)
 
 ## E54
 
-- **Nimzo-Indian Defence, 4.e3,  Gligoric System With 7...dc** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4`
-- **Nimzo-Indian Defence, 4.e3,  Gligoric System,  Smyslov Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Qe7`
+- **Nimzo-Indian Defence, 4.e3,  Gligoric System With 7...dc** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E54_Nimzo_Indian_Gligoric_dc.md#_initial_move_) — live-tagged the *Exchange Variation*.
+- **Nimzo-Indian Defence, 4.e3,  Gligoric System,  Smyslov Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Qe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E54_Nimzo_Indian_Gligoric_dc.md#_Qe7_) — a masters minority (1.8%) trailing three uncoded rivals; at least the fourth/fifth "Smyslov Variation" reuse in this repo.
 
 ## E55
 
-- **Nimzo-Indian Defence, 4.e3,  Gligoric System,  Bronstein Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7`
+- **Nimzo-Indian Defence, 4.e3,  Gligoric System,  Bronstein Variation** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O dxc4 8.Bxc4 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E55_Nimzo_Indian_Gligoric_Bronstein.md#_initial_move_)
 
 ## E56
 
-- **Nimzo-Indian Defence, 4.e3,  Main line With 7...Nc6** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6`
+- **Nimzo-Indian Defence, 4.e3,  Main line With 7...Nc6** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E56_Nimzo_Indian_Main_Line_Nc6.md#_initial_move_) — live-tagged the *Bernstein Defense* throughout this node and every one of E57/E58/E59 below, despite `eco.md`'s own bare "Main line" labels all the way down.
 
 ## E57
 
-- **Nimzo-Indian Defence, 4.e3,  Main line With 8...dc and 9...cd** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 dxc4 9.Bxc4 cxd4`
+- **Nimzo-Indian Defence, 4.e3,  Main line With 8...dc and 9...cd** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 dxc4 9.Bxc4 cxd4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E57_Nimzo_Indian_Main_Line_dc_cd.md#_initial_move_) — this batch's rarest coded line, clearing the "understudied everywhere" bar (masters 1.3%, online 2.5%) at its own 8th-move branch point.
 
 ## E58
 
-- **Nimzo-Indian Defence, 4.e3,  Main line With 8...Bxc3** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3`
+- **Nimzo-Indian Defence, 4.e3,  Main line With 8...Bxc3** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E58_Nimzo_Indian_Main_Line_Bxc3.md#_initial_move_) — masters' actual top reply here (9...Qc7, 51.6%) is uncoded, ahead of the E59-coded 9...dxc4 (40.0%); the uncoded 9...cxd4 is also a clean blitz trap (0% masters, 13.0% online).
 
 ## E59
 
-- **Nimzo-Indian Defence, 4.e3,  Main line** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4`
+- **Nimzo-Indian Defence, 4.e3,  Main line** — `1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Nf3 d5 6.Bd3 c5 7.O-O Nc6 8.a3 Bxc3 9.bxc3 dxc4 10.Bxc4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E59_Nimzo_Indian_Main_Line.md#_initial_move_) — the deepest position in this whole E50-E59 batch, ten moves in.
 
 ## E60
 
