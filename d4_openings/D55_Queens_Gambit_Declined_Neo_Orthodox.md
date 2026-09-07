@@ -18,6 +18,8 @@ flowchart LR
 
     Nf3 --> h6v[["6... h6 !<br/>+0.00"]]:::main
     click h6v "#_NeoOrthodox_" "D55 · Queen's Gambit Declined: Neo-Orthodox Variation"
+    Nf3 --> Nbd7v[["6... Nbd7<br/>+0.18"]]
+    click Nbd7v "https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D60_Queens_Gambit_Declined_Orthodox_Defense.md" "D60 · Queen's Gambit Declined: Orthodox Defense"
     Nf3 --> b6v["6... b6 7. Bd3 Bb7 8. cxd5 exd5 9. Ne5<br/>+0.32"]
     click b6v "#_Pillsbury_" "D55 · Queen's Gambit Declined: Pillsbury Attack"
 
@@ -63,10 +65,10 @@ rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ - 2 6
 *Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
-Completes kingside development. Masters' clear main try is **6... h6** (52.8%), the *Neo-orthodox Variation* — covered below, and the trunk this whole rest of the batch (D56 through D59) grows from. **6... Nbd7** (32.8%) heads for the Orthodox Defence complex, `eco.md` code **D60** — a real code that simply hasn't been built in this repo yet, not a gap with no code at all. **6... b6** (7.6%) heads directly for the named *Pillsbury Attack*, covered below. **6... c6**, **6... Ne4**, **6... a6**, **6... dxc4** and **6... c5** are all real, secondary tries with no code of their own in this range.
+Completes kingside development. Masters' clear main try is **6... h6** (52.8%), the *Neo-orthodox Variation* — covered below, and the trunk this whole rest of the batch (D56 through D59) grows from. **6... Nbd7** (32.8%) heads for the Orthodox Defence complex — its own code, D60, now built out in a later batch; this forward link is now completed. **6... b6** (7.6%) heads directly for the named *Pillsbury Attack*, covered below. **6... c6**, **6... Ne4**, **6... a6**, **6... dxc4** and **6... c5** are all real, secondary tries with no code of their own in this range.
 
 * [**6... h6**](#_NeoOrthodox_) (+0.00, 52.8% masters): the *Neo-orthodox Variation* — covered below.
-* **6... Nbd7** (32.8% masters): heads toward the Orthodox Defence complex, `eco.md` code D60 — not yet covered in this repo.
+* [**6... Nbd7**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D60_Queens_Gambit_Declined_Orthodox_Defense.md) (+0.18, 32.8% masters): heads for the Orthodox Defence complex — its own code, D60.
 * [**6... b6 7. Bd3 Bb7 8. cxd5 exd5 9. Ne5**](#_Pillsbury_) (+0.32, 7.6% masters): the *Pillsbury Attack* — covered below.
 * **6... c6** (3.3% masters), **6... Ne4** (1.8%), **6... a6** (1.1%), **6... dxc4** (0.3%), **6... c5** (0.1%): all real, secondary tries with no code of their own in this range.
 

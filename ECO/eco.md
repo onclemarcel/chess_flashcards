@@ -2817,60 +2817,60 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## D60
 
-- **Queen's Gambit, Declined,  Orthodox Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Botvinnik Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Bd3`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rauzer Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qb3`
+- **Queen's Gambit, Declined,  Orthodox Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D60_Queens_Gambit_Declined_Orthodox_Defense.md#_initial_move_) — completes D55's own forward link (masters' second choice there, 32.8%); its own two named children below both trail the uncoded 7.cxd5 (11.5%), the first of three "coded loses to uncoded rival" instances in this batch
+- **Queen's Gambit, Declined,  Orthodox Defence,  Botvinnik Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D60_Queens_Gambit_Declined_Orthodox_Defense.md#_Botvinnik_) — a large masters/online gap (8.1%/33.7%) that stays a plain rectangle, not a formal blitz trap (masters doesn't clear the 2% bar)
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rauzer Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qb3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D60_Queens_Gambit_Declined_Orthodox_Defense.md#_Rauzer_) — genuinely understudied everywhere (0.4% masters, 0.6% online), the Been-Koomen/Rochlin pattern again
 
 ## D61
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D61_Queens_Gambit_Declined_Rubinstein_Variation.md#_initial_move_)
 
 ## D62
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  7.Qc2 c5,  8.cd (Rubinstein)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2 c5 8.cxd5`
+- **Queen's Gambit, Declined,  Orthodox Defence,  7.Qc2 c5,  8.cd (Rubinstein)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Qc2 c5 8.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D62_Queens_Gambit_Declined_Rubinstein_8cd.md#_initial_move_) — live-tagged the more specific *Rubinstein Variation, Flohr Line*
 
 ## D63
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  7.Rc1** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Pillsbury Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 b6 8.cxd5 exd5 9.Bd3`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 b6 8.cxd5 exd5 9.Bb5`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Swiss (Henneberger) Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 a6`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Swiss,  Karlsbad Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 a6 8.cxd5`
-- **Queen's Gambit, Declined,  Orthodox Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6`
+- **Queen's Gambit, Declined,  Orthodox Defence,  7.Rc1** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_initial_move_) — live-tagged plain *Main Line*, the first of three unrelated occurrences of that exact generic tag in this batch
+- **Queen's Gambit, Declined,  Orthodox Defence,  Pillsbury Attack** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 b6 8.cxd5 exd5 9.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_Pillsbury_) — unrelated to D55's own Pillsbury Attack; masters' actual plurality (37.2%) at its own fork
+- **Queen's Gambit, Declined,  Orthodox Defence,  Capablanca Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 b6 8.cxd5 exd5 9.Bb5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_Capablanca_) — unrelated to D67's own, separately-named "Capablanca System"; trails both Pillsbury and the uncoded 9.Qa4 at its own fork
+- **Queen's Gambit, Declined,  Orthodox Defence,  Swiss (Henneberger) Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_Swiss_) — live-tagged plain *Henneberger Variation*, confirming the identity
+- **Queen's Gambit, Declined,  Orthodox Defence,  Swiss,  Karlsbad Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 a6 8.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_Karlsbad_) — the "Karlsbad" name is reused, unrelated, at D64's own Rubinstein Attack, Karlsbad Variation
+- **Queen's Gambit, Declined,  Orthodox Defence** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D63_Queens_Gambit_Declined_7Rc1.md#_c6_) — the deepest sub-tree of the whole batch; live-tagged the same generic *Main Line* as this card's own root, a second unrelated occurrence
 
 ## D64
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack (with Rc1)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Wolf Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 Ne4`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Karlsbad Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Gruenfeld Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.a3`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack (with Rc1)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D64_Queens_Gambit_Declined_Rubinstein_Attack.md#_initial_move_) — only the second choice at its own parent D63 fork (11.8%), well behind 8.Bd3 (74.2%); both of its own named children below trail the uncoded 8...Re8/8...h6, the second "coded loses to uncoded rival" instance in this batch
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Wolf Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D64_Queens_Gambit_Declined_Rubinstein_Attack.md#_Wolf_) — only 9.7% masters, trailing both uncoded siblings
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Karlsbad Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D64_Queens_Gambit_Declined_Rubinstein_Attack.md#_Karlsbad_) — the highest-frequency *named* try (22.8%) despite trailing two uncoded siblings; small sample (58 masters games)
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Gruenfeld Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.a3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D64_Queens_Gambit_Declined_Rubinstein_Attack.md#_Gruenfeld_) — named for Ernst Grünfeld, unrelated to the Grünfeld Defence proper (D80-D99)
 
 ## D65
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.cxd5`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Rubinstein Attack,  Main line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Qc2 a6 9.cxd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D65_Queens_Gambit_Declined_Rubinstein_Attack_Main_Line.md#_initial_move_) — a fourth unrelated occurrence of a generic "Main Line"-family live tag in this batch; masters' second choice at its own parent fork (27.6%)
 
 ## D66
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Fianchetto Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 b5`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D66_Queens_Gambit_Declined_Bd3_Line.md#_initial_move_) — the actual main trunk of this whole batch (74.2% masters at its own parent fork), deeper than the Rubinstein Attack complex
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Fianchetto Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 b5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D66_Queens_Gambit_Declined_Bd3_Line.md#_Fianchetto_) — masters' distant second choice (9.1%) at its own fork despite dominating online play (54.6%), a large inversion
 
 ## D67
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Capablanca freeing manoevre** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Janowski Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.h4`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Alekhine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.Ne4`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  11.O-O** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Capablanca freeing manoevre** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D67_Queens_Gambit_Declined_Bd3_Line_Capablanca.md#_initial_move_) — live-tagged a genuinely different name, the *Capablanca System* (not just a shortened form); masters' overwhelming main try at its own fork (84.4%)
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Janowski Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D67_Queens_Gambit_Declined_Bd3_Line_Capablanca.md#_Janowski_) — genuinely understudied everywhere (1.8% masters, 2.1% online)
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D67_Queens_Gambit_Declined_Bd3_Line_Capablanca.md#_BdLine_) — live-tagged the same generic "Bd3 Line" name as D66's own root, an expected, consistent recurrence of `eco.md`'s own hierarchical sub-naming
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  Alekhine Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.Ne4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D67_Queens_Gambit_Declined_Bd3_Line_Capablanca.md#_Alekhine_) — at least the third independent "Alekhine Variation" reuse in this D-series, after D22's and D51's own
+- **Queen's Gambit, Declined,  Orthodox Defence,  Bd3 line,  11.O-O** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D67_Queens_Gambit_Declined_Bd3_Line_Capablanca.md#_OO_) — live-tagged plain "Main Line," a third, unrelated recurrence of that exact generic tag in this batch (after D63's own root and its own "7...c6" node)
 
 ## D68
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Classical Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.d1b1 (Maroczy)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.Qb1`
-- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.d1c2 (Vidmar)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.Qc2`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Classical Variation** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D68_Queens_Gambit_Declined_Classical_Variation.md#_initial_move_) — **correction**: masters' actual plurality here is the *Vidmar Variation* (13.Qc2, 29.6%), not the D69-coded 13.dxe5 (only 23.8%, second choice) — the third "coded loses to a rival" instance in this batch
+- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.d1b1 (Maroczy)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.Qb1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D68_Queens_Gambit_Declined_Classical_Variation.md#_Maroczy_) — listed first in `eco.md`'s own entry order but actually the least-played of the three named tries here (5.6%)
+- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.d1c2 (Vidmar)** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.Qc2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D68_Queens_Gambit_Declined_Classical_Variation.md#_Vidmar_) — masters' actual most-played reply at this fork (29.6%), ahead of both other named tries
 
 ## D69
 
-- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.de** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.dxe5 Nxe5 14.Nxe5 Qxe5`
+- **Queen's Gambit, Declined,  Orthodox Defence,  Classical,  13.de** — `1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 Nbd7 7.Rc1 c6 8.Bd3 dxc4 9.Bxc4 Nd5 10.Bxe7 Qxe7 11.O-O Nxc3 12.Rxc3 e5 13.dxe5 Nxe5 14.Nxe5 Qxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D69_Queens_Gambit_Declined_Classical_13de.md#_initial_move_) — the deepest, final named line of the whole D60-D69 batch, move 15
 
 ## D70
 
