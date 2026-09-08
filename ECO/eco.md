@@ -3470,52 +3470,52 @@ Raw index of every ECO code A00-E99, scraped from [chessopenings.com/eco/&lt;COD
 
 ## E90
 
-- **King's Indian Defence, 5.Nf3** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3`
-- **King's Indian Defence, Larsen Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be3`
-- **King's Indian Defence, Zinnowitz Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bg5`
+- **King's Indian Defence, 5.Nf3** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md#_initial_move_) — live-tagged "Normal Variation, Rare Defenses" at this bare pre-castling node
+- **King's Indian Defence, Larsen Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md#_Be3_) — name matches live tag exactly
+- **King's Indian Defence, Zinnowitz Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Bg5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md#_Bg5_) — name matches live tag exactly; also a genuine online-favoured rhombus relative to its own parent fork
 
 ## E91
 
-- **King's Indian Defence, 6.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2`
-- **King's Indian Defence, Kazakh Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6`
+- **King's Indian Defence, 6.Be2** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E91_Kings_Indian_6Be2.md#_initial_move_) — live-tagged "Orthodox Variation" even at this bare node, the umbrella name that runs through the rest of this batch
+- **King's Indian Defence, Kazakh Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 Na6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E91_Kings_Indian_6Be2.md#_Na6_) — name matches live tag exactly
 
 ## E92
 
-- **King's Indian Defence, Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5`
-- **King's Indian Defence, Andersson Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.dxe5`
-- **King's Indian Defence, Gligoric-Taimanov System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3`
-- **King's Indian Defence, Petrosian System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5`
-- **King's Indian Defence, Petrosian System,  Stein Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5`
+- **King's Indian Defence, Classical Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E92_Kings_Indian_Classical_Variation.md#_initial_move_) — live-tagged "Orthodox Variation" instead, a genuine name divergence; masters' actual plurality reply here (7.O-O, 68.4%) is uncoded and heads straight for E94/E97
+- **King's Indian Defence, Andersson Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.dxe5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E92_Kings_Indian_Classical_Variation.md#_dxe5_) — live-tagged "Exchange Variation" instead, a genuine name divergence
+- **King's Indian Defence, Gligoric-Taimanov System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.Be3` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E92_Kings_Indian_Classical_Variation.md#_Be3_) — name matches live tag closely
+- **King's Indian Defence, Petrosian System** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E92_Kings_Indian_Classical_Variation.md#_d5_) — live-tagged "Petrosian Variation" (System→Variation drift); its own "Main line" child (7...Nbd7) is actually far rarer (9.4% masters) than the Stein Variation (7...a5, 75.9%)
+- **King's Indian Defence, Petrosian System,  Stein Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E92_Kings_Indian_Classical_Variation.md#_a5_) — live-tagged "Stein Defense" (Variation→Defense drift), masters' overwhelming choice at its own fork
 
 ## E93
 
-- **King's Indian Defence, Petrosian System,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7`
-- **King's Indian Defence, Petrosian System,  Keres Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.h4`
+- **King's Indian Defence, Petrosian System,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E93_Kings_Indian_Petrosian_Main_Line.md#_initial_move_) — live-tagged "Normal Defense", a name `eco.md` doesn't carry at all
+- **King's Indian Defence, Petrosian System,  Keres Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.d5 Nbd7 8.Bg5 h6 9.Bh4 g5 10.Bg3 Nh5 11.h4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E93_Kings_Indian_Petrosian_Main_Line.md#_Keres_) — live-tagged "Keres Defense" (Variation→Defense drift); a long forced sequence walked through move by move, eval settling to a flat 0.00 by its end
 
 ## E94
 
-- **King's Indian Defence, orthodox Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O`
-- **King's Indian Defence, orthodox,  Donner Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O c6`
-- **King's Indian Defence, orthodox,  7...Nbd7** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7`
+- **King's Indian Defence, orthodox Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E94_Kings_Indian_Orthodox_Variation.md#_initial_move_) — name matches live tag; masters' overwhelming reply here (7...Nc6, 68.9%) is uncoded and heads straight for E97, dwarfing this code's own further-named entries
+- **King's Indian Defence, orthodox,  Donner Variation** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O c6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E94_Kings_Indian_Orthodox_Variation.md#_c6_) — live-tagged "Donner Defense" (Variation→Defense drift); a genuine database rarity, understudied in both pools
+- **King's Indian Defence, orthodox,  7...Nbd7** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E94_Kings_Indian_Orthodox_Variation.md#_Nbd7_) — live-tagged "Positional Defense", a name `eco.md` doesn't carry at all
 
 ## E95
 
-- **King's Indian Defence, orthodox,  7...Nbd7,  8.Re1** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1`
+- **King's Indian Defence, orthodox,  7...Nbd7,  8.Re1** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E95_Kings_Indian_Orthodox_Nbd7_Re1.md#_initial_move_) — the one node in this whole batch whose live tag carries no extra qualifier at all
 
 ## E96
 
-- **King's Indian Defence, orthodox,  7...Nbd7,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6 9.Bf1 a5`
+- **King's Indian Defence, orthodox,  7...Nbd7,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nbd7 8.Re1 c6 9.Bf1 a5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E96_Kings_Indian_Orthodox_Nbd7_Main_Line.md) — live-tagged "Positional Defense, Main Line", matching `eco.md`'s own "Main line" name; the thinnest, rarest node found anywhere in this whole batch (354 masters games)
 
 ## E97
 
-- **King's Indian Defence, orthodox,  Aronin-Taimanov Variation (Yugoslav Attack / Mar del Plata Variation)** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6`
-- **King's Indian Defence, orthodox,  Aronin-Taimanov,  bayonet Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4`
+- **King's Indian Defence, orthodox,  Aronin-Taimanov Variation (Yugoslav Attack / Mar del Plata Variation)** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E97_Kings_Indian_Mar_Del_Plata.md#_initial_move_) — live-tagged "Aronin-Taimanov Defense" (Variation→Defense drift); Lichess doesn't carry the Mar del Plata/Yugoslav Attack aliases at all, despite them being the names most used in chess literature — the single most famous structure in this whole batch, given full prose treatment
+- **King's Indian Defence, orthodox,  Aronin-Taimanov,  bayonet Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.b4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E97_Kings_Indian_Mar_Del_Plata.md#_b4_) — name matches live tag almost exactly; a genuine near-even split against the sibling 9.Ne1 (E98), both coded, neither trailing an uncoded rival
 
 ## E98
 
-- **King's Indian Defence, orthodox,  Aronin-Taimanov,  9.Ne1** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1`
+- **King's Indian Defence, orthodox,  Aronin-Taimanov,  9.Ne1** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E98_Kings_Indian_Mar_Del_Plata_Ne1.md) — live-tagged "Classical System", a name `eco.md` doesn't carry at all
 
 ## E99
 
-- **King's Indian Defence, orthodox,  Aronin-Taimanov,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5`
-- **King's Indian Defence, orthodox,  Aronin-Taimanov,  Benko Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.g4`
+- **King's Indian Defence, orthodox,  Aronin-Taimanov,  Main line** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E99_Kings_Indian_Mar_Del_Plata_Main_Line.md#_f5_) — live-tagged "Classical System, Traditional Line", a full name divergence from `eco.md`'s own "Main line"; that same "Main line" move (10.f3) is itself only masters' third choice (19.4%) behind two uncoded rivals
+- **King's Indian Defence, orthodox,  Aronin-Taimanov,  Benko Attack** — `1.d4 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 d6 5.Nf3 O-O 6.Be2 e5 7.O-O Nc6 8.d5 Ne7 9.Ne1 Nd7 10.f3 f5 11.g4` ✅ [covered](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E99_Kings_Indian_Mar_Del_Plata_Main_Line.md#_g4_) — name matches live tag; the deepest node built anywhere in the whole E90-E99 batch, closing out the King's Indian Defence entirely

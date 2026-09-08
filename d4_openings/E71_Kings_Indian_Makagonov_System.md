@@ -28,7 +28,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR b KQkq - 0 5
 | e5 | 12 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 262 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/22 |  |
 | a6 | 0 | — | 10 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 855 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 855 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-08*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -67,16 +67,16 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR w KQ - 1 6
 | Nge2 | 0 | — | 25 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/32/32 |  |
 | Be2 | 0 | — | 10 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 826 k games. Masters: 5.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 826 k games. Masters: 5.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N4P/PP3PP1/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-08*
 <!-- lichess-stats:end -->
 
-White's own 6th move here is a genuine three-way split, none of it carrying a code of its own this deep in the tree: **6. Be3** is masters' actual plurality (46.3%), ahead of **6. Bg5** (36.7%) and **6. Nf3** (15.6%). None of these three transposes anywhere verified in this repo — each stays its own uncoded try.
+White's own 6th move here is a genuine three-way split: **6. Be3** is masters' actual plurality (46.3%), ahead of **6. Bg5** (36.7%) and **6. Nf3** (15.6%). Two of these three stay uncoded, but **6. Nf3 is now a verified transposition**, added once [E90](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md) was built out: `tools/apply_san.py` confirms 5. h3 O-O 6. Nf3 reaches the *exact same FEN* (`rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N1P/PP3PP1/R1BQKB1R b KQ - 2 6`) as [E90's own "5... O-O" node](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md#_OO_) reached via 5. Nf3 O-O 6. h3 instead — the same tabiya, two move orders. (This wasn't a mistake when first written — E90 simply didn't exist yet at the time.)
 
 ### Candidate moves
 
 * **6. Be3** (46.3% masters, +0.57): masters' actual plurality, preparing Qd2/O-O-O-style plans similar in spirit to the Sämisch — a real, uncoded try with no code of its own in this range.
 * **6. Bg5** (36.7% masters): pins the f6-knight at once — a real, significant secondary, likewise uncoded here.
-* **6. Nf3** (15.6% masters): the quietest developing choice — a real, minor secondary, uncoded here.
+* [**6. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E90_Kings_Indian_5Nf3.md#_OO_) (15.6% masters): a verified transposition into E90's own "5... O-O" node — no code of its own here.
 
 [*Back to 5. h3*](#_initial_move_)
 [*Back to TOP*](#_TOP_)
