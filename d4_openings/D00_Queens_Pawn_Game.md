@@ -184,5 +184,8 @@ rnbqkb1r/ppp1pppp/5n2/3p4/3P4/3BP3/PPP2PPP/RNBQK1NR b KQkq - 2 3
 
 Prepares the classic f4/Nd2/Ngf3 Stonewall pawn formation a tempo before committing to c3 or Nf3 — a genuine minority try (0.2% masters at White's 2nd move). Masters' clear main try in reply is **3... c5** (49.3%), striking the centre immediately before White's set-up is complete. Not built out further here (backlog).
 
+> [!NOTE]
+> **A different, non-Stonewall use of 2. e3** shows up as the backbone of a real opponent's entire White repertoire (2.e3 regardless of Black's setup, c4 only added a move or two later, no f4/Bd3 Stonewall follow-up) — see the player-specific scouting profile [`players/guigui/Guigui_White_System.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/players/guigui/Guigui_White_System.md) for the full breakdown, live evals, and concrete punishes. Don't conflate the two 2.e3 ideas.
+
 [*Back to 1... d5*](#_initial_move_)
 [*Back to TOP*](#_TOP_)

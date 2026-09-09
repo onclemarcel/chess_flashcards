@@ -14,6 +14,7 @@ There are several ways to dive into the pages of this repository:
 - Browse [checkmate patterns](./mates/mate_patterns.md) — recurring mating shapes and the tactics used to force them, independent of any one opening
 - Browse [irregular first moves](./A00_openings/) — Polish, Grob, Van Geet, and eleven other rare-but-playable A00 openings, one short card each
 - Browse [irregular replies to 1. e4](./B00_openings/) — Owen, St. George, Borg, and seven other rare-but-playable B00 defences, one short card each
+- Browse [player-specific scouting profiles](./players/) — a newer content category, separate from the theory cards above: instead of masters/online statistics, these are built from one specific opponent's own game archive (`tools/player_tree.py`/`tools/player_report.py`, keyed on a normalized FEN so the profile shows exactly where that player's own transposing move orders converge). The first one, [Guigui4378's White repertoire](./players/guigui/Guigui_White_System.md), is done; his Black repertoire is a planned follow-up.
 - Go straight to one of the most famous openings in the following list:
 
 ### From the initial position ###
