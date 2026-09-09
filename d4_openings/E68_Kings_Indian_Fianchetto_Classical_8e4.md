@@ -47,7 +47,7 @@ r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 b - e3 0 8
 | Qe7 | 8.7 k (2.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | h6 | 0 | — | 111 (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/36/23 |  |
 
-*Online: bullet/blitz, 1800+ — 386 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1_b_-_e3_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 386 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1_b_-_e3_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Classical Variation**, matching `eco.md`'s own base name (the "8.e4" qualifier itself isn't reflected live, as expected for a move-number suffix). Black's own 8th move here is one of the few forks in this whole batch where the `eco.md`-coded reply genuinely **is** masters' actual plurality rather than trailing an uncoded rival: **8... c6** (42.6%) narrowly leads **8... exd4** (35.1%, uncoded), with **8... a6** (12.5%) and **8... Re8** (7.0%) both real but clearly smaller.
@@ -80,7 +80,7 @@ r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1 w - - 0 9
 | Rb1 | 0 | — | 207 (5.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/35/21 |  |
 | Qc2 | 0 | — | 83 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 45/48/7 |  |
 
-*Online: bullet/blitz, 1800+ — 372 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1_w_-_-_0_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 372 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NP1/PP3PBP/R1BQ1RK1_w_-_-_0_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's own 9th move is masters' clear main try, **9. h3** (65.7%), preventing ...Ng4/...Bg4 before continuing — reaching this batch's deepest node, [E69](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E69_Kings_Indian_Fianchetto_Classical_Main_Line.md).

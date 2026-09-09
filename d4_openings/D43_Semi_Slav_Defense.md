@@ -51,7 +51,7 @@ rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5
 | Qb3 | 0 | — | 735 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/47/21 |  |
 | Qd3 | 0 | — | 463 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/22 |  |
 
-*Online: bullet/blitz, 1800+ — 10.3 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 10.3 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters split between **5. Bg5** (+0.12, 47.2%), pinning immediately, and **5. e3** (+0.16, 41.8%), the calmer structural approach — both real, roughly even main tries, each its own code. **5. Bg5**, met by **5... h6** (+0.08), reaches the named *Hastings Variation* below.

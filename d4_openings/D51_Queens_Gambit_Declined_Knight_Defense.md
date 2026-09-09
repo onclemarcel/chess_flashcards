@@ -60,7 +60,7 @@ r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5
 | Nf3 | 126 k (22.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 131 (9.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/45/25 |  |
 | cxd5 | 74 k (13.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 295 (21.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/41/23 |  |
 
-*Online: bullet/blitz, 1800+ — 554 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 554 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Develops the queen's knight before deciding on the bishop's diagonal. Masters' clear main try is **5. e3** (68.4%), the quiet classical treatment — covered below. **5. cxd5** (21.7%) is a real, secondary Exchange-type try with no code of its own in this range. **5. Nf3** (9.6%), heading toward **c6**, is also covered below.
@@ -96,7 +96,7 @@ r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5
 | Bb4 | 21 k (6.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 51 (5.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 47/27/25 |  |
 | h6 | 11 k (3.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 69 (7.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/52/20 |  |
 
-*Online: bullet/blitz, 1800+ — 311 k games. Masters: 940 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 311 k games. Masters: 940 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppn1ppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 The live explorer reuses the exact same name here as this card's own root — the first of two further reuses (the "5... c6" node below carries it a third time). Masters' clear main try is **5... c6** (56.8%), covered below. **5... Be7** (30.3%) is a real, secondary try with no code of its own in this range. **5... Bb4** (5.4%) heads for the named *Manhattan Variation*. **5... h6** (7.3%) is a real, secondary try with no code of its own in this range.
@@ -156,7 +156,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQkq - 0 6
 | Bd3 | 31 k (7.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/51 | 0 | — | ⚠ |
 | a3 | 0 | — | 63 (6.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 49/41/10 |  |
 
-*Online: bullet/blitz, 1800+ — 409 k games. Masters: 976 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 409 k games. Masters: 976 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left completely untagged by `eco.md` at this exact node (it just calls it "5...c6") — yet the live explorer reuses the *Modern Variation, Knight Defense* name here for a third time, the same tag already seen at this card's own root and its 5.e3 node. Masters' clear main try is **6. Nf3** (44.7%) — a **verified transposition**, not a guess: this exact SAN move order (4...Nbd7 5.e3 c6 6.Nf3) reaches the exact same position as D52's own root, confirmed via `apply_san.py`. **6. a3** (6.5%) heads for the named *Capablanca Anti-Cambridge Springs Variation* below. **6. cxd5** (40.7%) is a real, secondary try with no code of its own in this range.
@@ -196,7 +196,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/P1N1P3/1P3PPP/R2QKBNR b KQkq - 0 6
 | a6 | 0 | — | 2 (3.2%) | — |  |
 | a5 | 0 | — | 1 (1.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 18 k games. Masters: 63 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/P1N1P3/1P3PPP/R2QKBNR_b_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 18 k games. Masters: 63 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/P1N1P3/1P3PPP/R2QKBNR_b_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — named for José Raúl Capablanca, since the whole point of the early **a3** is to rule out ...Qa5/...Bb4 ideas before they arise, pre-empting the Cambridge Springs Defence that D52 builds out in full. Masters' clear main reply is **6... Be7** (84.1%). Not built out further here (backlog, per `eco.md`'s own single-entry treatment of this line).
@@ -233,7 +233,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6
 | Qb3 | 0 | — | 38 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 34/42/24 |  |
 | a3 | 0 | — | 5 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node. Masters' clear main try is **6. e3** (66.9%) — the **second, independent verified transposition** into D52's own root found in this batch: this move order (4...Nbd7 5.Nf3 c6 6.e3) reaches the exact same position as the 5.e3 c6 6.Nf3 order above, confirmed via `apply_san.py` — the position readers land on either way. **6. cxd5** (31.3%) is a real, secondary try with no code of its own in this range. **6. Rc1** heads for the named *Rochlin Variation*, played in barely 1 masters game out of 4,985 at this node (0.0%) and only 0.6% online — a genuine near-extinct try, understudied everywhere. **6. e4** heads for the named *Alekhine Variation*: a real blitz trap by `start.md`'s own numeric rule (0.2% masters, 4.5% online — over 20× the masters share, clearing the 8× bar comfortably) despite looking, at first glance, like too small a gap to qualify.

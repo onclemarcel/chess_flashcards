@@ -57,7 +57,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR b KQkq f3 0 5
 | e5 | 0 | — | 3 (0.1%) | — |  |
 | Kd7 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR_b_KQkq_f3_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR_b_KQkq_f3_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -95,7 +95,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR w KQ - 1 6
 | Be3 | 12 k (0.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 2 (0.1%) | — | ⚠ |
 | b4 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N5/PP4PP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A real, striking online/masters gap, worth flagging as a genuine finding**: **6. e5**, an immediate (and premature) further central push, is essentially unplayed by masters (0.03%, 1 game out of 3,541) yet appears in 14.3% of online games — a ratio far beyond this repository's own 8× rhombus threshold. Stockfish confirms it is objectively bad for White (-0.48): the King's Indian's central break is normally delayed, not rushed, and this over-eager version simply hands Black a favourable opening of the position. **6. Nf3** is masters' overwhelming main try instead (97.6%), reaching this card's own dynamic-line trunk.
@@ -138,7 +138,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R b KQ - 2 6
 | a6 | 0 | — | 41 (1.2%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 37/24/39 |  |
 | c6 | 0 | — | 31 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 55/29/16 |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPPP2/2N2N2/PP4PP/R1BQKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6... c5** is masters' clear main try (69.1%), striking at the centre at once.
@@ -166,7 +166,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP4PP/R1BQKB1R w KQ c6 0 7
 | Be3 | 13 k (1.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/5/55 | 1 (0.0%) | — | ⚠ |
 | Bd3 | 9.1 k (1.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 805 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP4PP/R1BQKB1R_w_KQ_c6_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 805 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP4PP/R1BQKB1R_w_KQ_c6_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **7. d5** is masters' clear main try (77.7%), gaining space and inviting the sharp lines this whole system is named for.
@@ -195,7 +195,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R b KQ - 0 7
 | Na6 | 38 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 14 (0.5%) | — |  |
 | e5 | 0 | — | 11 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R_b_KQ_-_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2pP4/2P1PP2/2N2N2/PP4PP/R1BQKB1R_b_KQ_-_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Four Pawns Attack, Dynamic Attack** — a real name divergence from `eco.md`'s own "dynamic line." Black's own reply here is masters' clear main try, **7... e6** (81.4%), striking straight at the d5-pawn. Not built further here.

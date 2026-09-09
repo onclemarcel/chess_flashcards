@@ -26,7 +26,7 @@ rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR w KQkq d6 0 3
 | fxe5 | 172 k (3.8%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 31/3/66 | 0 | — | ⚠ |
 | d4 | 0 | — | 4 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.5 M games. Masters: 864 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 4.5 M games. Masters: 864 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3pp3/4PP2/8/PPPP2PP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **3. exd5** is close to automatic (96.4% of masters games). **3. Nf3** is live-tagged the *Blackburne Attack* — a real name divergence from `eco.md`'s own "Tartakower Variation" label; Stockfish rates the resulting position a real Black edge (−0.2), not built out further here. **3. Nc3**, the *Milner-Barry Variation*, is a genuine database rarity (3 masters games), Stockfish rating a real Black edge (−1.0), not built out further here.
@@ -65,7 +65,7 @@ Live-tagged the *Falkbeer Countergambit Accepted*.
 | c6 | 187 k (6.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 38/3/58 | 193 (23.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/32/30 |  |
 | Bc5 | 0 | — | 9 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 833 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 833 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3Pp3/5P2/8/PPPP2PP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 A genuine three-way fork: **3... exf4** (52.6% masters, stays C31 — simply grabs the second pawn, not built out further here), **3... e4** (23.2%, the *Staunton Line* — see below), and **3... c6** (23.2%, the *Nimzowitsch-Marshall Countergambit* — a real name divergence from `eco.md`'s own "Nimzovich Counter-Gambit" label; masters' main reply is **4. Nc3**, +0.3 Stockfish, not built out further here).
@@ -103,7 +103,7 @@ rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR w KQkq - 0 4
 | Bc4 | 0 | — | 2 (1.0%) | — |  |
 | Bb5+ | 0 | — | 1 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 193 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 193 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4pP2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4. d3** is masters' overwhelming main try (85.5%). **4. Nc3 Nf6 5. Qe2** is the *Rubinstein Variation* (a real database rarity, 7 masters games, Stockfish rating a modest Black edge, −0.3). **4. Bb5+** is live-tagged the *Anderssen Attack* — a real name divergence from `eco.md`'s own "Nimzovich Variation" label (dead level per Stockfish, +0.0). Neither built out further here.
@@ -142,7 +142,7 @@ Live-tagged the *Charousek Gambit* — a name `eco.md` doesn't attach until this
 | f5 | 25 k (4.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/3/43 | 0 | — | ⚠ |
 | e3 | 0 | — | 1 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 524 k games. Masters: 165 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4pP2/3P4/PPP3PP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 524 k games. Masters: 165 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/4pP2/3P4/PPP3PP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' overwhelming main try (81.2%).

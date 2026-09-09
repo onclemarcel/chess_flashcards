@@ -53,7 +53,7 @@ rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq a3 0 5
 | a5 | 0 | — | 195 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 | c5 | 0 | — | 73 (0.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/27/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R_b_KQkq_a3_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R_b_KQkq_a3_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Masters' clear main try is **5... Bf5** (+0.28, 82.2%), developing the bishop before ... e6 shuts it in — its own code, the *Czech Defence*, [D17](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D17_Slav_Defense_Czech_Defence.md). Three real secondary tries stay D16: **5... Na6 6. e4 Bg4** (+0.63, heading for the *Smyslov Variation*), **5... e6** (the *Soultanbeieff Variation*), and **5... Bg4** (the *Steiner Variation*).

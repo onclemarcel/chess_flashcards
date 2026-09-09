@@ -45,7 +45,7 @@ r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | d3 | 218 k (4.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 23 (1.2%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 22/43/35 |  |
 | Nxe5 | 0 | — | 14 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.8 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 4.8 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/1Bb1p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 * [**4. O-O**](#_OO_) (51.3% masters): masters' clear main try — covered below.

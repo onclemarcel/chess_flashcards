@@ -50,7 +50,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 | dxc4 | 1.4 M (7.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 6.2 k (7.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/50/23 |  |
 | Nbd7 | 673 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 5.9 k (7.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/46/22 |  |
 
-*Online: bullet/blitz, 1800+ — 17.5 M games. Masters: 79 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 17.5 M games. Masters: 79 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... Be7** (28.5%), completing development toward the Orthodox tabiya — the exact continuation escalating to the named *Classical Variation* below. **4... c6** (25.3%), the *Semi-Slav*, is its own code, [D43](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D43_Semi_Slav_Defense.md). **4... Bb4** (21.2%) heads for its own code, the *Ragozin Defense*, [D38](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D38_Queens_Gambit_Declined_Ragozin_Defense.md). **4... c5**, the *Semi-Tarrasch Defense*, is a real, secondary try, also its own code.

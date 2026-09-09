@@ -24,7 +24,7 @@ r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1 b kq - 0 9
 | Be7 | 22 k (34.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/8/43 | 798 (41.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 25/60/14 |  |
 | Nc5 | 2.7 k (4.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 90 (4.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/34/29 |  |
 
-*Online: bullet/blitz, 1800+ — 65 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_b_kq_-_0_9#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 65 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_b_kq_-_0_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' reply forks two ways: **9... Bc5** (53.4%, the *Italian Variation*) and **9... Be7** (41.3%, the *Classical Defense*, its own code, [C83](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C83_Ruy_Lopez_Open_Classical_Defense.md)); **9... Nc5** (4.7%, the *Berlin Variation*) stays here too.
@@ -82,7 +82,7 @@ r2qk2r/2p2ppp/p1n1b3/1pbpP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1 w kq - 1 10
 | Bc2 | 1.8 k (4.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | Qd3 | 0 | — | 177 (17.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 34/55/11 |  |
 
-*Online: bullet/blitz, 1800+ — 39 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/2p2ppp/p1n1b3/1pbpP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_w_kq_-_1_10#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 39 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/2p2ppp/p1n1b3/1pbpP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_w_kq_-_1_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Develops actively toward f2 — masters' clear main try at the 9th-move fork (53.4%). White's reply is a genuine three-way choice: **10. Nbd2** (69.2% masters, heading for the *St. Petersburg Variation*, below), **10. Qd3** (17.1%, the *Motzko Attack*, below), and **10. Qe2** (9.0%).

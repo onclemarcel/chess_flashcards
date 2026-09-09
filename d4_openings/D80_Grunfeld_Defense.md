@@ -64,7 +64,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq d6 0 4
 | Qb3 | 0 | — | 539 (1.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/51/15 |  |
 | h4 | 0 | — | 158 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
 
-*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 6.4 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4. cxd5** is masters' clear main try (53.1%) — the Exchange Variation, resolving the central tension at once and inviting Black to recapture with the knight; it has its own code, [D85](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D85_Grunfeld_Exchange_Variation.md), and its own huge D85-D89 tree, the bulk of this whole batch. **4. Nf3** (29.7% masters) is a real, significant secondary — a Grünfeld move-order that keeps the knight flexible before deciding on the centre — but carries no code of its own in this D80-D89 range (it belongs further out, backlog). **4. Bf4** (7.2% masters) is live-tagged the **Brinckmann Attack** — a real name `eco.md` itself doesn't attach at D80's own bare "4.Bf4" listing — and has its own code, [D82](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D82_Grunfeld_Bf4.md). **4. e3** (1.9% masters) is a real, secondary try with no code of its own in this range. **4. Qb3** (1.3% masters) is the Russian Variation, its own code, [D81](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D81_Grunfeld_Russian_Variation.md).
@@ -107,7 +107,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP2P1/2N5/PP2PP1P/R1BQKBNR b KQkq g3 0 4
 | Bg7 | 228 (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | c5 | 0 | — | 1 (9.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.6 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP2P1/2N5/PP2PP1P/R1BQKBNR_b_KQkq_g3_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 3.6 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP2P1/2N5/PP2PP1P/R1BQKBNR_b_KQkq_g3_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Stockfish rates the whole line clearly in Black's favour (−0.56) — an unsound-per-engine gambit despite the "Gibbon Gambit"/"Spike Gambit" naming pomp, in the same vein as several other 19th-/20th-century gambit oddities catalogued elsewhere in this repo. With only 11 masters games and 3.6 k online games total, no real statistical pattern can be drawn beyond "it exists and is rarely played" — read the table above as anecdotal, not authoritative.
@@ -144,7 +144,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 4
 | dxc4 | 54 k (9.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | c5 | 0 | — | 27 (1.1%) | ⬜🟫🟫🟫🟫🟫🟫⬛⬛⬛ 11/59/30 |  |
 
-*Online: bullet/blitz, 1800+ — 549 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 549 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4... Ne4** is masters' clear main try (76.5%) — kicking the bishop before deciding on the rest of the setup, and the trunk feeding this file's own Lundin Variation below. **4... Bg7** (21.5% masters) simply declines the tempo grab and develops instead — a real, secondary try with no code of its own in this range.
@@ -182,7 +182,7 @@ rnbqkb1r/ppp1pp1p/6p1/3p2B1/2PPn3/2N5/PP2PPPP/R2QKBNR w KQkq - 2 5
 | Nf3 | 6.9 k (2.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | h4 | 0 | — | 72 (3.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/40/21 |  |
 
-*Online: bullet/blitz, 1800+ — 249 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3p2B1/2PPn3/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_2_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 249 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/3p2B1/2PPn3/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_2_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, striking finding worth flagging plainly**: the move that actually defines the Lundin Variation, **5. Nxe4**, is only masters' *fifth* choice here — a bare 3.0% — well behind the simple bishop retreat **5. Bh4** (76.1%, real but uncoded further in this range) and **5. Bf4** (12.4%, likewise uncoded). Online play inverts this completely: **5. Nxe4** is the clear online main try (50.2%), a huge online/masters split running in the opposite direction from most such gaps documented elsewhere in this repo (there, the *online*-favoured move is usually the untested one; here it's the *named, coded* one). Masters evidently prefer keeping the bishop and the tension rather than trading down into the Lundin structure at all.
@@ -221,7 +221,7 @@ rnbqkb1r/ppp1pp1p/6p1/6B1/2PPp3/8/PP1QPPPP/R3KBNR b KQkq - 1 6
 | c5 | 1.5 k (7.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/3/43 | 2 (5.7%) | — | ⚠ |
 | c6 | 314 (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 1 (2.9%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 21 k games. Masters: 35 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/6B1/2PPp3/8/PP1QPPPP/R3KBNR_b_KQkq_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 21 k games. Masters: 35 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/6p1/6B1/2PPp3/8/PP1QPPPP/R3KBNR_b_KQkq_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A second genuine finding, compounding the first**: `eco.md`'s own Lundin-defining move, **6... c5**, is *also* a masters minority here (5.7%, just 2 of 35 sampled games) — well behind the natural developing **6... Bg7** (88.6%). Both moves that give this line its name (5. Nxe4 and 6... c5) turn out to be real but statistically marginal masters choices; the sample this deep is thin enough (35 masters games, dropping to 2 for the named continuation itself) that these percentages should be read as directional colour, not a firm verdict.

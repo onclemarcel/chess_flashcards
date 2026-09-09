@@ -24,7 +24,7 @@ rnbq1rk1/p1p1bpp1/1p2p2p/3n4/3P3B/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9
 | Nxd5 | 13 k (13.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 27 (3.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 19/59/22 |  |
 | Bg3 | 10 k (10.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 31 (3.9%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/32/39 |  |
 
-*Online: bullet/blitz, 1800+ — 99 k games. Masters: 802 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1bpp1/1p2p2p/3n4/3P3B/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 99 k games. Masters: 802 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1bpp1/1p2p2p/3n4/3P3B/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Resolves the central tension at once and recaptures with the knight, the modern main-line treatment of the whole Tartakower complex. Masters' overwhelming main try is **9. Bxe7** (92.8%), simplifying immediately — heading for the named *Tartakower Variation* below. **9. Bg3** (3.9%) and **9. Nxd5** — a genuine online-favoured alternative recapture (13.4% online, only 3.4% masters) — are both real, secondary tries with no code of their own in this range.

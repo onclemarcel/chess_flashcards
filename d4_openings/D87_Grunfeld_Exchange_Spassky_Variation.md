@@ -76,7 +76,7 @@ rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQK2R w KQ c6 0 9
 | h4 | 3.8 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 0 | — | ⚠ |
 | d5 | 0 | — | 8 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 376 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQK2R_w_KQ_c6_0_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 376 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQK2R_w_KQ_c6_0_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **9. O-O** is masters' clear main try (83.2%) — completing development before deciding on the centre. **9. Be3** (16.2% masters) is a real, secondary try with no code of its own in this range.
@@ -111,7 +111,7 @@ rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1 b - - 1 9
 | cxd4 | 37 k (16.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 55 (2.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 44/47/9 |  |
 | Qc7 | 16 k (6.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 21 (1.0%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 57/19/24 |  |
 
-*Online: bullet/blitz, 1800+ — 228 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1_b_-_-_1_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 228 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/6p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1_b_-_-_1_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **9... Nc6** is close to automatic (94.7% of masters games) — developing before resolving the central tension. **9... cxd4** (2.7% masters) — trading immediately, a full move before `eco.md`'s own D88 line does — is a real, secondary try with no code of its own at this exact depth (not asserted to transpose into D88 without verification).
@@ -147,7 +147,7 @@ r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1 w - - 2 10
 | Bb2 | 2.3 k (1.4%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/4/55 | 0 | — | ⚠ |
 | dxc5 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 159 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1_w_-_-_2_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 159 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P5/P3NPPP/R1BQ1RK1_w_-_-_2_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **10. Be3** is close to automatic (99.8% of masters games) — defending d4 directly and preparing Qd2/Rc1 ideas.
@@ -187,7 +187,7 @@ r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P1B3/P3NPPP/R2Q1RK1 b - - 3 10
 | Bd7 | 0 | — | 492 (8.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/42/24 |  |
 | e6 | 0 | — | 208 (3.7%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 16/75/9 |  |
 
-*Online: bullet/blitz, 1800+ — 364 k games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P1B3/P3NPPP/R2Q1RK1_b_-_-_3_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 364 k games. Masters: 5.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/2p5/2BPP3/2P1B3/P3NPPP/R2Q1RK1_b_-_-_3_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine finding worth flagging plainly**: `eco.md`'s own **D88** — titled the "Main line" — sits on **10... cxd4** (4.5% masters), well behind not just **10... Bg4** (28.6%, masters' actual plurality, heading toward this card's own Seville Variation below) but also **10... Qc7** (23.8%) and **10... b6** (19.1%). The historical "Main Line" label doesn't reflect current masters preference at this fork — the same "eco.md-coded line trails uncoded/other-coded rivals" meta-pattern flagged repeatedly across earlier D-series batches, this time with the coded move sitting fifth of seven.
@@ -225,7 +225,7 @@ r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/4B3/P3NPPP/R2Q1RK1 w - - 4 11
 | :--- | ---: | :--- | ---: | :--- | :-- |
 | *no game found* | — | — | — | — | |
 
-*Online: bullet/blitz, 1800+ — 0 games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/4B3/P3NPPP/R2Q1RK1_w_-_-_4_11#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 0 games. Masters: 0 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/4B3/P3NPPP/R2Q1RK1_w_-_-_4_11#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **11. f3** is close to automatic (99.0% of masters games) — kicking the pinning bishop away before it can double up on the e2-knight.
@@ -259,7 +259,7 @@ r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1 b - - 0 11
 | Bd7 | 28 k (24.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 598 (38.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 20/59/20 |  |
 | cxd4 | 22 k (19.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/47 | 79 (5.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/47/24 |  |
 
-*Online: bullet/blitz, 1800+ — 113 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1_b_-_-_0_11#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 113 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/2n3p1/2p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1_b_-_-_0_11#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **11... Na5** is masters' clear main try (56.9%) — attacking the bishop before it can retreat to a safe square, and the Seville's own defining knight move. **11... Bd7** (38.0% masters) is a real, significant secondary — closer to being a genuine rival than a footnote — with no code of its own in this range.
@@ -295,7 +295,7 @@ r2q1rk1/pp2ppbp/6p1/n1p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1 w - - 1 12
 | Bxf7+ | 18 k (29.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 400 (44.7%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/64/12 |  |
 | Bd5 | 4.7 k (7.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/7/39 | 50 (5.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 16/52/32 |  |
 
-*Online: bullet/blitz, 1800+ — 61 k games. Masters: 894 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/6p1/n1p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1_w_-_-_1_12#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 61 k games. Masters: 894 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2ppbp/6p1/n1p5/2BPP1b1/2P1BP2/P3N1PP/R2Q1RK1_w_-_-_1_12#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, near-even fork worth flagging plainly**: the Seville Variation's own defining sacrifice, **12. Bxf7+**, is essentially co-plurality with the quiet retreat **12. Bd3** (44.7% vs 48.7% masters — barely a coin flip, on a solid 894-game sample). **12. Bd3** simply retreats and keeps material level; it carries no code of its own here and, despite superficially resembling [D89's own "13. Bd3" node](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D89_Grunfeld_Exchange_Spassky_13Bd3.md) two plies later, is **not** asserted to transpose there — that position is reached with the c- and d-pawns already traded off (via 10... cxd4 11. cxd4), while this one still has both pawns on the board; no transposition check was run, so none is claimed. **12. Bd5** (5.6%) is a real, secondary try.
@@ -330,7 +330,7 @@ r2q1rk1/pp2pBbp/6p1/n1p5/3PP1b1/2P1BP2/P3N1PP/R2Q1RK1 b - - 0 12
 | Rxf7 | 18 k (99.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 400 (100.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/64/12 |  |
 | Kxf7 | 13 (0.1%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 18 k games. Masters: 400 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2pBbp/6p1/n1p5/3PP1b1/2P1BP2/P3N1PP/R2Q1RK1_b_-_-_0_12#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 18 k games. Masters: 400 games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp2pBbp/6p1/n1p5/3PP1b1/2P1BP2/P3N1PP/R2Q1RK1_b_-_-_0_12#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Exchange Variation, Seville Variation**, confirming the name. **12... Rxf7** is total (100.0% of masters games) — recapturing with the rook, the only sensible reply to the exchange sacrifice that gives the line its name; Stockfish still rates the resulting position a modest +0.28 for White, so the sac is a genuine practical try rather than a clean refutation-in-waiting.

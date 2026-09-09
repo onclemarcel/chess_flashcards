@@ -55,7 +55,7 @@ rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
 | Bf4 | 520 k (3.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 63 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | g3 | 352 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/46 | 1.6 k (2.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 16.7 M games. Masters: 80 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 16.7 M games. Masters: 80 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -115,7 +115,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 5
 | e5 | 172 k (1.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
 | g3 | 0 | — | 125 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/38/34 |  |
 
-*Online: bullet/blitz, 1800+ — 13.4 M games. Masters: 76 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 13.4 M games. Masters: 76 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP3PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -207,7 +207,7 @@ White's 5th move is a genuine multi-way split — no single try dominates the wa
 > | a6 | 0 | — | 87 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/29/28 |  |
 > | c6 | 0 | — | 69 (3.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/41/26 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 270 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-08*
+> *Online: bullet/blitz, 1800+ — 270 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2NPPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-09*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **King's Indian Defense: Kramer Variation** — `eco.md`'s own "System" becomes "Variation" live, the same minor suffix divergence seen elsewhere in this batch. **5... O-O** is masters' overwhelming reply (80.4%). Not built further here.
@@ -244,7 +244,7 @@ White's 5th move is a genuine multi-way split — no single try dominates the wa
 > | c6 | 15 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 > | c5 | 0 | — | 36 (5.3%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 39/25/36 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 494 k games. Masters: 680 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR_b_KQkq_-_1_5#explorer) — updated 2026-09-08*
+> *Online: bullet/blitz, 1800+ — 494 k games. Masters: 680 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP3PPP/R2QKBNR_b_KQkq_-_1_5#explorer) — updated 2026-09-09*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **King's Indian Defense: Accelerated Averbakh Variation**, the same "System" → "Variation" divergence as the Kramer System above. Black's reply is a genuine two-way split: **5... O-O** (56.2% masters) and **5... h6** (33.1% masters), challenging the bishop at once. Neither built further here.

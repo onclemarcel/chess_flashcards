@@ -55,7 +55,7 @@ rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5
 | Nbd2 | 33 k (3.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 52 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 | Nh4 | 0 | — | 45 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/56/13 |  |
 
-*Online: bullet/blitz, 1800+ — 896 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 896 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/3p1b2/2PP4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming reply is **5. Nc3** (+0.14, 84.8%), transposing back toward the main Slav complex and not covered further here (backlog). The real fork `eco.md` names lives one ply deeper, after **5. cxd5** (+0.15, only 7.4% masters but the source of every named line below): **5... cxd5** and White's 6th move splits into the *Landau Variation* and the *Exchange Variation*.
@@ -90,7 +90,7 @@ rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 6
 | Qb3 | 18 k (10.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/8/38 | 536 (70.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/52/21 |  |
 | Bb5+ | 0 | — | 7 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 166 k games. Masters: 764 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 166 k games. Masters: 764 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node despite forking two named `eco.md` entries. Masters split between **6. Qb3** (70.2%), attacking b7 and d5 at once and heading for the *Landau Variation* (−0.20 several moves later), and **6. Nc3** (28.0%), the simpler developing move that heads for the *Exchange Variation* — a different code, [D13](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D13_Slav_Defense_Exchange_Variation.md), since the live explorer tags this exact 6.Nc3 line "Schallopp Variation" under D13 rather than D12 (`eco.md` itself lists it under D12 — a genuine eco.md-vs-live code divergence, not just a name one).
@@ -149,7 +149,7 @@ rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 1 6
 | Bg6 | 5.7 k (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/51 | 0 | — | ⚠ |
 | Qb6 | 0 | — | 3 (1.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 239 k games. Masters: 218 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 239 k games. Masters: 218 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/5n2/3p1b2/3P4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` files this exact line under D12's own "Exchange Variation" entry; the live explorer instead tags the position D13, "Schallopp Variation" — a real code discrepancy between the two sources, kept here (its eco.md-assigned code) rather than moved, since `eco.md` is this repo's own organizing reference. Masters' clear main try is **6... e6** (63.3%), reaching the *Amsterdam Variation* one fork further after 7. Ne5.

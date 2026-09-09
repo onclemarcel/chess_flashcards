@@ -56,7 +56,7 @@ rnbq1rk1/ppp1ppbp/5np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R b KQ e3 0 7
 | Nfd7 | 6.2 k (4.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 99 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/34/28 |  |
 | Be6 | 0 | — | 114 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/46/25 |  |
 
-*Online: bullet/blitz, 1800+ — 132 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_b_KQ_e3_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 132 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_b_KQ_e3_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' actual ranking runs **a6** (49.0%, the Alekhine Variation) far out in front, then **Na6** (16.7%, the Prins Variation) narrowly ahead of **Nc6** (16.0%, the Byrne Variation), then **Bg4** (10.3%, the Smyslov Variation — this card's own further trunk), then **c6** (3.0%, the Szabo Variation), and finally **b6** (0.4%, a mere 20 games — the Levenfish Variation), the rarest of all six named tries by a wide margin. Two more real but uncoded minor tries round out the table: **7... Be6** (2.4% masters) and **7... Nfd7** (2.1% masters), neither carrying a name or a code in this range.
@@ -100,7 +100,7 @@ rnbq1rk1/1pp1ppbp/p4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R w KQ - 0 8
 | Bf4 | 1.9 k (5.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 61 (2.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/43/33 |  |
 | Qa4 | 0 | — | 46 (1.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/46/15 |  |
 
-*Online: bullet/blitz, 1800+ — 35 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/1pp1ppbp/p4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 35 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/1pp1ppbp/p4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, verified name divergence worth flagging plainly**: `eco.md` calls this the *Alekhine Variation* — at least the fourth independent "Alekhine Variation" reuse across this D-series sweep, after D22's, D51's, and D67's own — but the live explorer tags this exact position **Russian Variation, Hungarian Variation** instead, an entirely different name. "Hungarian" is already doing double duty elsewhere in this very batch (D92's Hungarian Attack, D93's Hungarian Variation), so this is a third, unrelated "Hungarian"-flavoured live tag inside the same D90-D99 range. Masters' own top reply is **8. Be2** (46.2%), just ahead of **8. e5** (29.8%).
@@ -135,7 +135,7 @@ rnbq1rk1/pp2ppbp/2p2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R w KQ - 0 8
 | Qb3 | 1.2 k (4.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 51 (26.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/35/24 |  |
 | Qa4 | 0 | — | 2 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 30 k games. Masters: 194 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 30 k games. Masters: 194 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Russian Variation, Szabo Variation**, confirming the name. Masters' own top reply is **8. Be2** (63.9%), well ahead of **8. Qb3** (26.3%).
@@ -169,7 +169,7 @@ rnbq1rk1/p1p1ppbp/1p3np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R w KQ - 0 8
 | Qb3 | 498 (8.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
 | Be3 | 0 | — | 1 (5.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 5.6 k games. Masters: 20 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1ppbp/1p3np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 5.6 k games. Masters: 20 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1ppbp/1p3np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Russian Variation, Levenfish Variation**, confirming the name — but a genuinely thin and genuinely uncomfortable one: only 20 masters games reach this exact tabiya (the rarest of this whole fork's six named tries), and Stockfish's own eval, +1.22, is more than a full pawn worse for Black than every one of its five siblings at this fork. Read every number here as directional colour on a very small sample, not a firm verdict. Masters' own top reply is **8. e5** (65.0%).
@@ -205,7 +205,7 @@ r1bq1rk1/ppp1ppbp/2n2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R w KQ - 1 8
 | Bf4 | 0 | — | 38 (4.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/68/8 |  |
 | Bg5 | 0 | — | 13 (1.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 26 k games. Masters: 779 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2n2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 26 k games. Masters: 779 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2n2np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Russian Variation, Byrne Variation**, confirming the name. Masters' own reply is close to automatic: **8. Be2** (81.9%).
@@ -241,7 +241,7 @@ r1bq1rk1/ppp1ppbp/n4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R w KQ - 1 8
 | Qb3 | 0 | — | 29 (3.6%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 17/41/41 |  |
 | Qa4 | 0 | — | 23 (2.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 43/43/13 |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 811 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/n4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 811 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/n4np1/8/2QPP3/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Russian Variation, Prins Variation**, confirming the name — and, at 16.7% masters, narrowly the more popular of the two knight retreats over the Byrne Variation's 16.0%. Masters' own reply is close to automatic: **8. Be2** (79.3%).

@@ -66,7 +66,7 @@ flowchart LR
 > | e4 | 3.1 k (3.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/54 | 0 | — | ⚠ |
 > | e3 | 819 (1.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 39/7/54 | 0 | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 85 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-07*
+> *Online: bullet/blitz, 1800+ — 85 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-09*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **D70 · Neo-Grünfeld Defense: Goglidze Attack** — 3. f3 pre-commits the f-pawn to support a coming e4, a slower echo of the Sämisch idea against the King's Indian. Masters treat White's reply as essentially automatic: **4. cxd5** is played in 1,328 of 1,329 sampled masters games (99.9%), so this whole entry compresses to a single node rather than a further fork — the only real alternative, 4. Nc3, is a single-game rarity. A real, secondary try with no code of its own past this point in this range; not built out further here (backlog, and genuinely thin theory besides this near-forced capture).
@@ -102,7 +102,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq d6 0 4
 | Nf3 | 5.6 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/44 | 5 (1.8%) | — |  |
 | Nc3 | 1.5 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 96 k games. Masters: 280 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 96 k games. Masters: 280 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/6P1/PP2PP1P/RNBQKBNR_w_KQkq_d6_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -160,7 +160,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR w KQkq - 2 5
 | Nc3 | 18 k (19.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 32 (1.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 25/34/41 |  |
 | e3 | 1.4 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 2 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 94 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 94 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_2_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4. Bg2 Bg7** (+0.38) is still live-tagged **E60** here, not D71 or D73 — the central tension (c4/d5) hasn't been resolved yet, so the generic King's Indian/Grünfeld umbrella still applies. White's own next move decides which Neo-Grünfeld code the game actually enters: **5. cxd5 Nxd5** (+0.40) is the overwhelming main try (89.7% masters) and heads into the [Exchange Variation, D71](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D71_Neo_Grunfeld_Exchange_Variation.md); **5. Nf3** (+0.06, 8.9% masters) delays the capture and heads into [D73](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D73_Neo_Grunfeld_Nf3.md) instead; **5. Nc3** (1.3% masters) is a real, secondary try with no code of its own in this range.

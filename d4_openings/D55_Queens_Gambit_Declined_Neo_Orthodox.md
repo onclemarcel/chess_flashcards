@@ -62,7 +62,7 @@ rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQ - 2 6
 | c5 | 228 k (7.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 0 | — | ⚠ |
 | Ne4 | 0 | — | 145 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 36/49/15 |  |
 
-*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 3.1 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Completes kingside development. Masters' clear main try is **6... h6** (52.8%), the *Neo-orthodox Variation* — covered below, and the trunk this whole rest of the batch (D56 through D59) grows from. **6... Nbd7** (32.8%) heads for the Orthodox Defence complex — its own code, D60, now built out in a later batch; this forward link is now completed. **6... b6** (7.6%) heads directly for the named *Pillsbury Attack*, covered below. **6... c6**, **6... Ne4**, **6... a6**, **6... dxc4** and **6... c5** are all real, secondary tries with no code of their own in this range.
@@ -120,7 +120,7 @@ rnbq1rk1/ppp1bpp1/4pn1p/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 7
 | Bxf6 | 121 k (15.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/42 | 967 (23.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/50/17 |  |
 | Bf4 | 42 k (5.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 50 (1.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/34/20 |  |
 
-*Online: bullet/blitz, 1800+ — 787 k games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4pn1p/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 787 k games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4pn1p/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — the same "Neo-Orthodox Variation" name D54 carries two codes earlier, minus D54's own "Anti-" prefix (see the cross-reference there). Challenges the bishop at once. Masters' clear main try is **7. Bh4** (75.5%), retreating to keep the pin — covered below, and the launch point for the whole D56-D59 range. **7. Bxf6** (23.2%) trades immediately instead, covered below. **7. Bf4** (1.2%) is a real, secondary try with no code of its own in this range.
@@ -202,7 +202,7 @@ rnbq1rk1/ppp1bpp1/4pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R b KQ - 1 7
 | Nbd7 | 144 k (14.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/45 | 441 (5.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/61/15 |  |
 | Ne4 | 133 k (13.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 1.8 k (21.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/64/12 |  |
 
-*Online: bullet/blitz, 1800+ — 978 k games. Masters: 8.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_1_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 978 k games. Masters: 8.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4pn1p/3p4/2PP3B/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_1_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` names this entry "Neo-orthodox Variation, 7.Bh4"; the live explorer independently calls it *Neo-Orthodox Variation, Main Line* — a real, if minor, phrasing divergence. **A genuine correction to make here, not just a naming note**: masters' actual overwhelming main reply is **7... b6** (72.6%), heading directly into the *Tartakower System* — its own code, D58, covered there. The historically far more famous **7... Ne4**, the *Lasker Defence* — its own code, D56 — is real and well-studied, but it is only masters' second choice at this exact fork (21.2%), not the main line the older literature's emphasis might suggest. **7... Nbd7** (5.2%) is a real, secondary try with no code of its own in this range.

@@ -26,7 +26,7 @@ r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R b KQkq - 0 5
 | Bb4+ | 24 k (6.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/5/38 | 0 | — | ⚠ |
 | Bf5 | 0 | — | 18 (2.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 362 k games. Masters: 612 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 362 k games. Masters: 612 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2n5/4P3/2Pp4/5NP1/PP2PP1P/RNBQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5... Nge7** (53.8%), developing the kingside knight to e7 rather than f6 so it doesn't block the f-pawn or get harassed by a future Bg2/Nb3 combination. **5... Be6** (23.0%) and **5... Bg4** (15.4%) are both real secondary tries. Not built out further here (backlog).

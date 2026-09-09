@@ -52,7 +52,7 @@ r1bqkb1r/3n1ppp/p1p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R w KQkq - 0 9
 | a3 | 11 k (10.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 40/6/54 | 0 | — | ⚠ |
 | a4 | 0 | — | 288 (11.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/47/23 |  |
 
-*Online: bullet/blitz, 1800+ — 108 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/3n1ppp/p1p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R_w_KQkq_-_0_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 108 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/3n1ppp/p1p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R_w_KQkq_-_0_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Prepares ... c5 or ... b4 with the a6 pawn already covering b5. Masters' clear main try is **9. e4** (77.0%), grabbing the centre before Black can strike back.

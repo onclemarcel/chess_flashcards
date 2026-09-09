@@ -31,7 +31,7 @@ r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 4
 | f6 | 6.4 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | Bd6 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1n5/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' reply: **Nf6** 89.2% (→ C77), **d6** 6.0% (→ C71), with every other try each well under 1%.

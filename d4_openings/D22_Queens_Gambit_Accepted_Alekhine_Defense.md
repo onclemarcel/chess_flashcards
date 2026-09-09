@@ -50,7 +50,7 @@ rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4
 | g3 | 11 k (8.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 13 (0.6%) | — |  |
 | e4 | 10 k (8.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 102 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/37/25 |  |
 
-*Online: bullet/blitz, 1800+ — 122 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 122 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Masters' clear main try is **4. e3** (80.6%), the quiet developing move that stays D22. **4. e4** (+0.00, 4.9%) grabs the centre at once instead, jumping back to its own code — the *Borisenko-Furman Variation*, [D21](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D21_Queens_Gambit_Accepted_Normal_Variation.md#_BorisenkoFurman_).

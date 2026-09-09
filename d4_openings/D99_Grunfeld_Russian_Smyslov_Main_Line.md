@@ -44,7 +44,7 @@ rn1q1rk1/pppnppbp/6p1/8/3PP1b1/1QN1BN2/PP3PPP/R3KB1R b KQ - 4 9
 | Nc6 | 7 (4.0%) | — | 1 (0.5%) | — |  |
 | c5 | 3 (1.7%) | — | 37 (17.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/43/19 |  |
 
-*Online: bullet/blitz, 1800+ — 177 games. Masters: 214 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/3PP1b1/1QN1BN2/PP3PPP/R3KB1R_b_KQ_-_4_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 177 games. Masters: 214 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/3PP1b1/1QN1BN2/PP3PPP/R3KB1R_b_KQ_-_4_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **9... Nb6** is masters' clear main try (79.9%) — the "Main line" proper, retreating the knight to safety and eyeing ...c5/...Nc6 ideas next; it carries no further name or code of its own beyond this card. **9... c5** (17.3% masters) strikes the centre immediately instead — the Yugoslav Variation, see below.
@@ -79,7 +79,7 @@ rn1q1rk1/pp1nppbp/6p1/2p5/3PP1b1/1QN1BN2/PP3PPP/R3KB1R w KQ c6 0 10
 | Qxb7 | 1 (33.3%) | — | 0 | — |  |
 | dxc5 | 0 | — | 1 (2.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3 games. Masters: 37 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp1nppbp/6p1/2p5/3PP1b1/1QN1BN2/PP3PPP/R3KB1R_w_KQ_c6_0_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 3 games. Masters: 37 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp1nppbp/6p1/2p5/3PP1b1/1QN1BN2/PP3PPP/R3KB1R_w_KQ_c6_0_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Russian Variation, Yugoslav Variation**, confirming the name — the last leaf of the whole D90-D99 batch, and a thin one on both sides of the database (37 masters games, a mere 3 online). Masters' own reply is close to automatic: **10. d5** (97.3%), grabbing space immediately.

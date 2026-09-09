@@ -46,7 +46,7 @@ rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR b KQ - 0 7
 | c5 | 24 k (7.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 42 (3.2%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 57/29/14 |  |
 | Ne8 | 20 k (5.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 23 (1.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/30/17 |  |
 
-*Online: bullet/blitz, 1800+ — 344 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR_b_KQ_-_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 344 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR_b_KQ_-_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Both real replies here carry their own code: **7... c6** is masters' clear main try (51.8%), continuing this whole batch's own deepest positional line into [E88](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E88_Kings_Indian_Saemisch_Orthodox_c6.md), while **7... Nh5** (39.3% masters) is the Bronstein Variation, built out in full below.

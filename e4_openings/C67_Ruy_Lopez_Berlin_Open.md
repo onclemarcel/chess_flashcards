@@ -25,7 +25,7 @@ r1bqkb1r/pppp1ppp/2n5/1B2p3/4n3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5
 | Bxc6 | 38 k (3.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/47 | 11 (0.1%) | — |  |
 | Qe2 | 15 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/45 | 144 (0.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 25/58/17 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n5/1B2p3/4n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n5/1B2p3/4n3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5. d4** is masters' clear main try (65.1%); **5. Re1**, pinning the knight back to defend e4 indirectly, is a real, substantial secondary try (34.0%) but has no independent name in `eco.md` — not built out further here (backlog). After **5. d4 Nd6 6. Bxc6**, masters' overwhelming choice (90.4% at that fork), White trades the bishop for the knight before Black can consolidate, reaching the famous Berlin endgame tabiya after **6... dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8** — Black's king loses castling rights but the position is a genuinely holdable, near-symmetrical endgame, not a real practical problem for a well-prepared defender.

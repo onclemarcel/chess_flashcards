@@ -46,7 +46,7 @@ r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3
 | Nf3 | 677 k (18.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 1.2 k (30.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/33/24 |  |
 | e3 | 341 k (9.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 209 (5.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/38/23 |  |
 
-*Online: bullet/blitz, 1800+ — 3.6 M games. Masters: 3.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 3.6 M games. Masters: 3.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_1_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' reply forks two ways: **3. Nc3** (38.1%) develops naturally before deciding on cxd5, while **3. Nf3** (30.8%) and **3. cxd5** (24.9%) are both real alternatives. **3. Nc3 dxc4 4. Nf3** reaches the named ***Janowski Variation***.
@@ -82,7 +82,7 @@ r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4
 | Bf5 | 28 k (4.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 62/3/35 | 0 | — | ⚠ |
 | a6 | 0 | — | 16 (3.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 597 k games. Masters: 532 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 597 k games. Masters: 532 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp1pppp/2n5/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **3... dxc4** (+0.44) grabs the c4 pawn, and White develops the knight before regaining it — masters' clear main try at the 3rd-move fork (38.1% of the parent position), reaching this named tabiya. Masters' overwhelming reply is **4... Nf6** (86.5%), completing development before White can consolidate the extra central space. Not built out further here (backlog).

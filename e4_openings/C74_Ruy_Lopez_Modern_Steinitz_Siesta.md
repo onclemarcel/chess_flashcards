@@ -26,7 +26,7 @@ r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 5
 | f5 | 32 k (14.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 519 (23.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/44/24 |  |
 | g6 | 0 | — | 128 (5.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/44/20 |  |
 
-*Online: bullet/blitz, 1800+ — 225 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 225 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters split three ways: **5... Bd7** (61.8%, its own code, [C75](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C75_Ruy_Lopez_Modern_Steinitz_Rubinstein.md)), **5... f5** (23.1%, the *Siesta Variation*, stays C74, covered below), and everything else well behind.

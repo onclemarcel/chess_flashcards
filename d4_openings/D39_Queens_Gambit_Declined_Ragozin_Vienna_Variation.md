@@ -26,7 +26,7 @@ rnbqk2r/ppp2ppp/4pn2/6B1/1bpP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6
 | Qa4+ | 11 k (5.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 72 (5.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 28/29/43 |  |
 | a3 | 0 | — | 58 (4.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/50/16 |  |
 
-*Online: bullet/blitz, 1800+ — 197 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/6B1/1bpP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 197 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/6B1/1bpP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming reply is **6. e4** (83.7%), grabbing the full centre at once while Black's own king is still uncastled — the sharpest, most theoretically demanding branch of the whole Ragozin complex. Not built out further here (backlog) — a genuinely vast body of theory of its own.

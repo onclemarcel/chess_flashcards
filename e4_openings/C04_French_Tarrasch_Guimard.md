@@ -25,7 +25,7 @@ r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/5N2/PPPN1PPP/R1BQKB1R w KQkq - 4 5
 | exd5 | 6.7 k (3.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 15 (0.5%) | — |  |
 | Bb5 | 1.9 k (0.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 213 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/5N2/PPPN1PPP/R1BQKB1R_w_KQkq_-_4_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 213 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/5N2/PPPN1PPP/R1BQKB1R_w_KQkq_-_4_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5. e5** is close to automatic (98.9% of masters games), gaining space and kicking the newly-developed knight. Stockfish already rates the resulting structure as a real, durable edge for White (+0.6) — the pawn chain cramps Black's own light-squared bishop for a long stretch of the game, one of the Tarrasch's most recognisable strategic themes. Deeper theory past this point is its own extensive body of work, not covered further here.

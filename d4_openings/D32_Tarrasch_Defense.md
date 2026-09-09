@@ -59,7 +59,7 @@ rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq c6 0 4
 | e3 | 354 k (18.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 674 (13.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
 | dxc5 | 134 k (7.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 14 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4. cxd5** is masters' clear main try (84.1%) — trading immediately before Black can support the centre further. **4. e3** (13.0%) declines the trade for now, keeping options flexible a move longer. Not built out further here.
@@ -96,7 +96,7 @@ rnbqkbnr/pp3ppp/4p3/2pP4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4
 | Nf6 | 11 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 0 | — | ⚠ |
 | a5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 813 k games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pP4/3P4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 813 k games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pP4/3P4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node. Masters recapture with the pawn (**4... exd5**, 80.2%) to keep the isolated d-pawn mobile and central rather than doubled, but **4... cxd4** is a real, secondary try (19.8%) — the *Schara Gambit* (`eco.md`: von Hennig-Schara Gambit).
@@ -154,7 +154,7 @@ rnbqkbnr/pp3ppp/8/2pp4/3P4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 5
 | e3 | 75 k (10.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
 | e4 | 0 | — | 37 (1.0%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 49/22/30 |  |
 
-*Online: bullet/blitz, 1800+ — 686 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 686 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` reuses this card's own root name here, "Tarrasch Defence" (live matches). Masters' overwhelming reply is **5. Nf3** (96.6%), developing naturally before deciding how to meet Black's own development. Two real minority tries carry their own `eco.md` names: **5. dxc5** (2.1%), the *Tarrasch Gambit*, and **5. e4** (1.0%), the *Marshall Gambit* — unrelated to D31's own Semi-Slav Marshall Gambit.
@@ -237,7 +237,7 @@ r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 1 6
 | dxc5 | 74 k (16.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 560 (12.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 33/61/6 |  |
 | Bg5 | 0 | — | 250 (5.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/45/21 |  |
 
-*Online: bullet/blitz, 1800+ — 435 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 435 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5... Nc6** heads for the *Rubinstein System* — its own code, [D33](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D33_Tarrasch_Defense_Rubinstein_System.md).

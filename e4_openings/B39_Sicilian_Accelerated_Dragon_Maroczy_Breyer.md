@@ -28,7 +28,7 @@ r1bqk2r/pp1pppbp/2n3p1/8/2PNP1n1/2N1B3/PP3PPP/R2QKB1R w KQkq - 5 8
 | Bg5 | 203 (0.1%) | ⬜⬛⬛⬛⬛⬛⬛⬛⬛⬛ 13/2/85 | 0 | — | ⚠ |
 | Qa4 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 170 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1pppbp/2n3p1/8/2PNP1n1/2N1B3/PP3PPP/R2QKB1R_w_KQkq_-_5_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 170 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp1pppbp/2n3p1/8/2PNP1n1/2N1B3/PP3PPP/R2QKB1R_w_KQkq_-_5_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 The knight jumps in to attack the e3-bishop — but it's simply undefended there, and **8. Qxg4** (99.4% of masters games) just wins it outright. Black's real point is **8... Nxd4**, giving back the piece to remove White's own centralised knight and open the position, reaching a tabiya (96.0% masters at this fork) that Stockfish still rates as comfortably better for White (+0.6) — a real practical/piece-activity concession rather than genuine equality. Deeper theory past this point is not covered further here.

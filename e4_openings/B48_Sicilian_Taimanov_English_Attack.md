@@ -27,7 +27,7 @@ r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R b KQkq - 4 6
 | g6 | 0 | — | 2 (0.0%) | — |  |
 | b6 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 597 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_4_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 597 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kbnr/ppqp1ppp/2n1p3/8/3NP3/2N1B3/PPP2PPP/R2QKB1R_b_KQkq_-_4_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6... a6** is masters' overwhelming reply (90.1%), already live-tagged **B49** — see [`B49_Sicilian_Taimanov_a6_Be2.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B49_Sicilian_Taimanov_a6_Be2.md), not built out further here. **6... Nf6** (9.9%) stays B48, a real minority try.

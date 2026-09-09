@@ -61,7 +61,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 | Be7 | 0 | — | 8.7 k (16.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/48/17 |  |
 | a6 | 0 | — | 1.9 k (3.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/41/25 |  |
 
-*Online: bullet/blitz, 1800+ — 28.8 M games. Masters: 52 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 28.8 M games. Masters: 52 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **3... Nf6** (40.7%) — its own code, [D35](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D35_Queens_Gambit_Declined_Normal_Defense.md). **3... c6** (22.0%), the *Semi-Slav*, and **3... Be7** (16.7%), the *Charousek Variation*, both stay D31. **3... c5** (10.0%) is the *Tarrasch Defense*, its own code, [D32](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D32_Tarrasch_Defense.md). **3... Bb4** (5.0%) is a real, if secondary, try left unmentioned in `eco.md`'s own D31-D39 listing, transposing toward Nimzo/Ragozin-flavoured lines elsewhere. **3... a6**, the *Janowski Variation*, is a genuine database rarity (3.6%), and **3... b6**, the *Alapin Variation*, is rarer still (7 masters games in the entire sample).
@@ -167,7 +167,7 @@ rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 0 4
 | e3 | 1.1 M (11.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 5.1 k (40.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/42/26 |  |
 | e4 | 992 k (11.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 2.4 k (19.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 34/44/21 |  |
 
-*Online: bullet/blitz, 1800+ — 9.0 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 9.0 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p1p3/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the bare *Semi-Slav*; the live explorer independently names it the ***Accelerated Move Order*** — a real name divergence, and a fitting one: Black holds off ... Nf6 a move, ready to answer 4. Nf3 with an immediate ... dxc4. Masters' clear main try is **4. e3** (40.2%), transposing back toward the main Semi-Slav (out of this D31-coded range). **4. Nf3** (29.6%) heads for the named *Noteboom Variation*; **4. e4** (19.4%) is the direct *Marshall Gambit*.
@@ -204,7 +204,7 @@ rnbqkbnr/pp3ppp/2p1p3/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5
 | e3 | 139 k (12.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 513 (19.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/37/34 |  |
 | Bg5 | 0 | — | 187 (7.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 40/46/14 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p1p3/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p1p3/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — named for Dutch correspondence player Daniel Noteboom, one of the sharpest gambit lines in the whole QGD complex. Masters' clear main try is **5. a4** (62.0%), preventing ... b5 outright and heading for the deep fork below.

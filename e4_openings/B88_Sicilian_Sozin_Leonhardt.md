@@ -26,7 +26,7 @@ r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R w KQkq - 2 7
 | Bg5 | 39 k (9.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/52 | 0 | — | ⚠ |
 | a3 | 0 | — | 32 (0.8%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 19/44/38 |  |
 
-*Online: bullet/blitz, 1800+ — 398 k games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R_w_KQkq_-_2_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 398 k games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N5/PPP2PPP/R1BQK2R_w_KQkq_-_2_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine finding**: masters' actual main try is **7. Be3** (73.9%), already live-tagged **B89**, see [`B89_Sicilian_Sozin_Be3.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B89_Sicilian_Sozin_Be3.md), not built out further here — well ahead of the eco.md-named **7. Bb3** (17.9%, the *Fischer Variation*, see below).

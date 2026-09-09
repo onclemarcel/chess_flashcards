@@ -24,7 +24,7 @@ rnb2rk1/ppp1qpp1/4p2p/3P4/3P4/2P1PN2/P4PPP/R2QKB1R b KQ - 0 10
 | Qa3 | 22 (0.1%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/5/59 | 0 | — |  |
 | e5 | 11 (0.0%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 27 k games. Masters: 255 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1qpp1/4p2p/3P4/3P4/2P1PN2/P4PPP/R2QKB1R_b_KQ_-_0_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 27 k games. Masters: 255 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1qpp1/4p2p/3P4/3P4/2P1PN2/P4PPP/R2QKB1R_b_KQ_-_0_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's doubled c-pawns are more than compensated by the open b-file and the bishop pair. `eco.md`'s own line continues straight to **10... exd5 11. Qb3 Qd6**, recapturing the pawn and reaching the named *Bernstein Variation* — the deepest, sharpest line of this whole D50-D59 batch's Lasker Defence complex.

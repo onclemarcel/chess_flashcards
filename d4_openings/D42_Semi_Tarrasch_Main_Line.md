@@ -26,7 +26,7 @@ r1bqkb1r/pp3ppp/2n1p3/2pn4/3P4/2NBPN2/PP3PPP/R1BQK2R b KQkq - 2 7
 | a6 | 346 (2.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 0 | — | ⚠ |
 | g6 | 0 | — | 7 (1.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 586 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2n1p3/2pn4/3P4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 586 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2n1p3/2pn4/3P4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Develops the last minor piece toward the kingside, eyeing a future e3-e4 or Qe2/Rd1 build-up against Black's own isolated (or soon-to-be-isolated) queenside pawn. Masters' clear main try is **7... Be7** (61.8%), completing development calmly; **7... cxd4** (34.8%) resolves the central tension immediately instead. Not built out further here (backlog) — this is the true main tabiya of the entire Semi-Tarrasch complex, a genuinely vast body of theory of its own.

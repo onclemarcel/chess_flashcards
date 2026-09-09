@@ -64,7 +64,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3
 | c6 | 4.8 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 0 | — | ⚠ |
 | Be7 | 3.9 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/40 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -104,7 +104,7 @@ rnbqkb1r/pppp1ppp/8/4p3/3Pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 | d5 | 3.3 k (0.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 40/3/57 | 0 | — | ⚠ |
 | Be3 | 0 | — | 5 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 5.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/3Pn3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 5.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/3Pn3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -145,7 +145,7 @@ rnbqkb1r/pppp1ppp/8/4p3/3Pn3/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 4
 | d6 | 489 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 70/3/27 | 0 | — | ⚠ |
 | Be7 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 354 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/3Pn3/3B1N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 354 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/3Pn3/3B1N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Black's overwhelming reply is **4... d5** (90.2% masters), consolidating the extra pawn on e4. Deeper theory continues **5. Nxe5 Bd6 6. O-O O-O 7. c4 Bxe5** — live-confirmed still C43, the **Trifunovic Variation** — but is its own body of work, not covered further here (backlog).
@@ -182,7 +182,7 @@ rnbqkb1r/pppp1ppp/5n2/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 | Ne5 | 8.7 k (0.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 0 | — | ⚠ |
 | Bg5 | 4.9 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 1 (0.2%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 976 k games. Masters: 466 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 976 k games. Masters: 466 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 * [**4. e5**](#_e5_) (+0.4, 98.1% masters): kicks the knight before recapturing the pawn — the line this card follows, and masters' near-unanimous choice.
@@ -220,7 +220,7 @@ rnbqkb1r/pppp1ppp/5n2/4P3/3p4/5N2/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Bb4+ | 5.7 k (1.0%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 68/4/29 | 0 | — | ⚠ |
 | d6 | 1.9 k (0.3%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 71/3/26 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 561 k games. Masters: 457 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4P3/3p4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 561 k games. Masters: 457 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4P3/3p4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **4... Ne4** is essentially forced at master level (99.1%) — the knight has nowhere else useful to go while keeping the extra pawn.
@@ -248,7 +248,7 @@ rnbqkb1r/pppp1ppp/8/4P3/3pn3/5N2/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | Bb5 | 0 | — | 13 (2.9%) | — |  |
 | Bf4 | 0 | — | 1 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 183 k games. Masters: 453 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/3pn3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 183 k games. Masters: 453 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/3pn3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 * [**5. Qxd4**](#_Qxd4_) (+0.5, 94.7% masters): the principled recapture, centralising the queen for now — masters' clear main line.
@@ -286,7 +286,7 @@ rnbqkb1r/pppp1ppp/8/4P3/3Qn3/5N2/PPP2PPP/RNB1KB1R b KQkq - 0 5
 | Bc5 | 97 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛ 85/2/13 | 0 | — |  |
 | Nc6 | 92 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛ 88/2/10 | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 135 k games. Masters: 429 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/3Qn3/5N2/PPP2PPP/RNB1KB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 135 k games. Masters: 429 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4P3/3Qn3/5N2/PPP2PPP/RNB1KB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 > [!NOTE]

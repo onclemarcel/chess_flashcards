@@ -57,7 +57,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | Qc2 | 0 | — | 69 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/54/17 |  |
 | Nd2 | 0 | — | 33 (0.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/36 |  |
 
-*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 36.8 M games. Masters: 105 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear favourite is **3. Nf3** (+0.2, 64.7%) — its own code, [D11](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D11_Slav_Defense_Modern_Line.md). **3. Nc3** (23.7%) is a real secondary try that stays D10, inviting a quick ... e5 or ... dxc4 counter; **3. cxd5** (+0.19, 8.2%) simplifies at once into the untagged *Exchange Variation*.
@@ -95,7 +95,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 | a6 | 262 k (1.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 18 (0.1%) | — |  |
 | e5 | 0 | — | 350 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 45/35/21 |  |
 
-*Online: bullet/blitz, 1800+ — 21.5 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 21.5 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Keeps open the option of a quick e4 push if Black takes on c4, at the cost of allowing 3... dxc4 to be defended more actively than after 3. Nf3. Masters' clear main try transposes back to the main Slav (**3... Nf6**, 88.6%), but two real minority tries stay genuinely D10: **3... dxc4** (5.4%), heading toward 4. e4 below, and **3... e5** (1.4%), the *Winawer Countergambit*.
@@ -131,7 +131,7 @@ rnbqkbnr/pp2pppp/2p5/8/2pPP3/2N5/PP3PPP/R1BQKBNR b KQkq e3 0 4
 | e6 | 58 k (9.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | e5 | 0 | — | 37 (5.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/41/16 |  |
 
-*Online: bullet/blitz, 1800+ — 596 k games. Masters: 653 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/8/2pPP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 596 k games. Masters: 653 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/8/2pPP3/2N5/PP3PPP/R1BQKBNR_b_KQkq_e3_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Alekhine Variation*; the live explorer tags it the ***Slav Gambit, Alekhine Attack*** instead — a real name divergence, and a genuine name-reuse besides: D15 (below, much deeper in the Slav Nf3/Nc3 tree) carries its own, completely unrelated **Slav Gambit** (4.Nc3 dxc4 5.e4). White grabs back the centre with tempo before Black can consolidate the extra pawn. Masters' overwhelming reply is **4... b5** (93.7%), defending c4 at once. Not built out further here (backlog).
@@ -164,7 +164,7 @@ rnbqkbnr/pp3ppp/2p5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq e6 0 4
 | Nf3 | 45 k (18.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 3 (0.9%) | — | ⚠ |
 | e3 | 33 k (13.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 91 (26.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 52/35/13 |  |
 
-*Online: bullet/blitz, 1800+ — 247 k games. Masters: 350 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_e6_0_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 247 k games. Masters: 350 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/2p5/3pp3/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_e6_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer exactly here. A genuine counter-gambit: rather than just holding d5, Black offers a second central pawn back for quick piece activity. Masters split between **4. dxe5** (50.6%), **4. e3** (26.0%), and **4. cxd5** (22.6%) — a genuinely scattered choice. Not built out further here (backlog).
@@ -198,7 +198,7 @@ rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR w KQkq - 0 4
 | e3 | 212 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Bg5 | 0 | — | 414 (4.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 36/46/18 |  |
 
-*Online: bullet/blitz, 1800+ — 5.9 M games. Masters: 8.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 5.9 M games. Masters: 8.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/8/3p4/3P4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) despite carrying an `eco.md` name — too symmetrical and simplifying to register its own live identity. Trades off the central tension immediately; White's most common follow-up is **4. Nc3** (51.0%), developing toward an IQP-free, slightly drawish structure. Not built out further here (backlog).

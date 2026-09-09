@@ -28,7 +28,7 @@ rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 7
 | Qb3 | 39 k (2.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/8/39 | 977 (18.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/46/18 |  |
 | Qa4 | 0 | — | 226 (4.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/58/10 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's own 7th move genuinely scatters here — a real five-way spread, no move close to forced: **7. cxd5** (34.1%, resolving the tension), **7. Qb3** (18.8%, pressuring b7/d5), **7. b3** (18.5%, a quiet fianchetto-supporting try), **7. Nbd2** (9.3%) and **7. Nc3** (5.7%). A large sample backs this (5,208 masters games). Only cxd5 carries a further code in this batch's range.

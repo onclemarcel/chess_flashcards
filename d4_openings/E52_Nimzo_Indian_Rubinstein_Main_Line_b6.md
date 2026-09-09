@@ -26,7 +26,7 @@ rnbq1rk1/p1p2ppp/1p2pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ - 0 7
 | Qc2 | 642 (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Bd2 | 0 | — | 4 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 35 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p2ppp/1p2pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_-_0_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 35 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p2ppp/1p2pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_-_0_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **7. O-O** is masters' clear main try (75.8%), castling into safety before deciding on the centre.

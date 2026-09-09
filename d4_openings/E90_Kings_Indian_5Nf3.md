@@ -53,7 +53,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 5
 | c5 | 79 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 47 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 49/36/15 |  |
 | e5 | 0 | — | 18 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -88,7 +88,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R w KQ - 2 6
 | e5 | 192 k (2.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | g3 | 0 | — | 56 (0.1%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 23/32/45 |  |
 
-*Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R_w_KQ_-_2_6#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 8.5 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP3PPP/R1BQKB1R_w_KQ_-_2_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's own 6th move is dominated by **6. Be2** (84.8% masters, this card's own main trunk into E91), but two genuine, previously-unrecognized codes hide in the rest of the table: **6. Be3** (1.4% masters) is the **Larsen Variation** and **6. Bg5** (0.2% masters) is the **Zinnowitz Variation**, both named entries of this very code (E90) rather than E91. A third row is worth flagging even though it carries no name at all: **6. Bd3** is a genuine ⚠ blitz-favourite — a mere 0.4% at masters level against 14.1% online, a ratio comfortably past this repo's own 8× rhombus threshold — yet Stockfish sees nothing wrong with it for White (+0.32), so it reads as an under-explored try rather than a trap. **6. h3** (13.1% masters) is a real, significant secondary here too, and a genuine verified transposition: `apply_san.py` confirms it reaches the *exact same FEN* as [E71's own "5. h3 O-O 6. Nf3" node](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E71_Kings_Indian_Makagonov_System.md#_OO_) — the two move orders meet at one tabiya (E71's own page has been corrected to note this, see the wiring note below).
@@ -133,7 +133,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BN2/PP3PPP/R2QKB1R b KQ - 3 6
 | Na6 | 0 | — | 102 (13.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/35/28 |  |
 | c6 | 0 | — | 65 (8.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/35/25 |  |
 
-*Online: bullet/blitz, 1800+ — 386 k games. Masters: 766 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BN2/PP3PPP/R2QKB1R_b_KQ_-_3_6#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 386 k games. Masters: 766 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BN2/PP3PPP/R2QKB1R_b_KQ_-_3_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Larsen Variation**, matching `eco.md` exactly — an early bishop deployment to e3, sidestepping the main Be2 trunk to prepare Qd2/O-O-O ideas in Sämisch style, but a whole tempo behind the real Sämisch since Nf3 has already committed the knight. Black's own reply is a genuine online/masters inversion: masters clearly prefer the immediate central strike **6... e5** (37.6%), while online play spreads far more evenly across Nbd7 (20.3%), e5 (18.0%), and Nc6 (17.4%) — a familiarity gap rather than a trap, since Stockfish doesn't punish any of the online favourites. Not built further here.
@@ -169,7 +169,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R b KQ - 3 6
 | c6 | 49 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 4 (3.4%) | — | ⚠ |
 | Na6 | 0 | — | 9 (7.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 813 k games. Masters: 116 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R_b_KQ_-_3_6#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 813 k games. Masters: 116 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N2N2/PP3PPP/R2QKB1R_b_KQ_-_3_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Zinnowitz Variation**, matching `eco.md` exactly — pinning the f6-knight immediately, one tempo ahead of the "true" Averbakh System (reached instead via 5. Be2, see [E73](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E73_Kings_Indian_Averbakh_System.md)), since here Nf3 is already committed. A genuine database rarity: only 116 masters games in total, and the shape check above confirms the whole node is itself an online-favoured ⚠ rhombus relative to E90's own root fork (0.2% masters vs 4.7% online, a 23× gap). Once reached, masters challenge the pinning bishop at once with **6... h6** (45.7%), well ahead of the online-favoured **6... Nbd7** (23.7% online, only 12.9% masters). Not built further here.
@@ -208,7 +208,7 @@ Live-tagged **King's Indian Defense: Zinnowitz Variation**, matching `eco.md` ex
 > | c6 | 66 k (4.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 > | Na6 | 0 | — | 5 (2.5%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 200 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB1N2/PP3PPP/R1BQK2R_b_KQ_-_3_6#explorer) — updated 2026-09-08*
+> *Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 200 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2NB1N2/PP3PPP/R1BQK2R_b_KQ_-_3_6#explorer) — updated 2026-09-09*
 > <!-- lichess-stats:end -->
 >
 > A modest, natural developing move that simply never caught on in top play (0.4% masters) despite being online's third-most-popular try at this fork (14.1%) — Stockfish's +0.32 confirms there's nothing wrong with it, just an under-explored corner rather than a trap to spring. Black's most testing reply, **6... Bg4** (43.0% masters), pins the newly-developed knight at once. No code of its own in this range; not built further here.

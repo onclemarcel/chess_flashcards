@@ -54,7 +54,7 @@ r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 3 7
 | Qc2 | 0 | — | 2 (0.1%) | — |  |
 | Rc1 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 553 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_3_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 553 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_3_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -93,7 +93,7 @@ r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 4 7
 | Bd7 | 2.2 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 9 (0.4%) | — |  |
 | a5 | 0 | — | 10 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 201 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_4_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 201 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/2np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_4_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, striking online/masters gap**: masters' clear main try is **7... a6** (85.2%, the Panno formation), yet **7... e5** — a completely uncoded try here — is actually *more* common online (53.2%) than a6 itself (35.9%). Stockfish sees no red flag in either try, so this is a repertoire-familiarity gap rather than a trap: online players reach for the thematic central break, while masters overwhelmingly prefer the flexible queenside plan first. **7... Rb8** (8.9% masters), the Ruban Variation, is a real, distinct secondary carrying its own code.
@@ -158,7 +158,7 @@ r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 8
 | h4 | 0 | — | 28 (1.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/36/18 |  |
 | Rb1 | 0 | — | 25 (1.3%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 48/20/32 |  |
 
-*Online: bullet/blitz, 1800+ — 79 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_w_KQ_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 79 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_w_KQ_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Sämisch Variation, Panno Formation**, matching `eco.md`'s own name closely — named after Argentine grandmaster Oscar Panno, a name reused elsewhere in this repo's own [E63 Fianchetto Variation card](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E63_Kings_Indian_Fianchetto_Panno.md) for an entirely unrelated node of the King's Indian tree. **8. Qd2** is overwhelming here (88.2% masters), and Black's own reply, **8... Rb8** (78.8% masters), completes the position `eco.md` names the **Panno Main line** — its own code, [E84](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E84_Kings_Indian_Saemisch_Panno_Main_Line.md).

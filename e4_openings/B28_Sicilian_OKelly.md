@@ -27,7 +27,7 @@ rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | Bc4 | 192 k (5.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/4/52 | 0 | — | ⚠ |
 | g3 | 0 | — | 249 (5.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/30/33 |  |
 
-*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 3.7 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1ppppp/p7/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's own 3rd move is a genuine spread, no dominant single try: **3. c3** (38.9% masters) transposes toward Alapin-style structures, **3. c4** (28.4%) grabs a Maroczy-style bind immediately, and **3. Nc3** (15.1%) develops naturally. Deeper O'Kelly Variation theory past this point is its own extensive body of work, not covered further here.

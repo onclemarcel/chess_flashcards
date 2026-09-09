@@ -27,7 +27,7 @@ r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2Q1RK1 b kq - 5 8
 | Nxd4 | 0 | — | 2 (0.3%) | — |  |
 | Ng4 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 223 k games. Masters: 743 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2Q1RK1_b_kq_-_5_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 223 k games. Masters: 743 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2ppbp/2np1np1/8/3NP3/2N1B3/PPP1BPPP/R2Q1RK1_b_kq_-_5_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8... O-O** is close to automatic (99.1% of masters games). White's own 9th move is a genuine three-way fork: **9. Nb3** (38.2%, already live-tagged **B74**, see [`B74_Sicilian_Dragon_Classical_Nb3.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B74_Sicilian_Dragon_Classical_Nb3.md), not built out further here), **9. Qd2** (27.4%, see below), and **9. f4** (6.1%, see below).

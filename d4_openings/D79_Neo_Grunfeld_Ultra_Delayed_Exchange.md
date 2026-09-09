@@ -26,7 +26,7 @@ rnbq1rk1/pp2ppbp/5np1/3p4/3P4/5NP1/PP2PPBP/RNBQ1RK1 w - - 0 8
 | Bf4 | 4.8 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/9/43 | 8 (0.3%) | — |  |
 | Qb3 | 0 | — | 11 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 565 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/5np1/3p4/3P4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 565 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/5np1/3p4/3P4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 The final named position of the whole D70-D79 batch. White's own 8th move splits two ways, with a clear order of preference: **8. Nc3** (62.5% masters), completing development and eyeing the isolated/hanging d5-pawn structure, well ahead of **8. Ne5** (36.6%), the more committal knight leap. A reasonable sample backs this (2,353 masters games). Neither carries a further code within this batch's range — the deepest node built in this whole D70-D79 sweep, move 8 for White / move 15 in half-move terms.

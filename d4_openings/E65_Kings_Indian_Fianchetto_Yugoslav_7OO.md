@@ -48,7 +48,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 1 7
 | Bg4 | 8.0 k (1.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/6/38 | 0 | — | ⚠ |
 | Nfd7 | 0 | — | 5 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 743 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 743 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Yugoslav Variation** (the "Rare Line" qualifier from the prior node has dropped, since the move order no longer matters once White has castled). Black's own 7th move here shows a striking, genuine online/masters inversion: masters overwhelmingly prefer **7... Nc6** (88.6%), while online play is instead close to split, actually favouring the simplifying **7... cxd4** (51.0% online vs only 5.8% masters) — one of the largest online/masters divergences found in this whole batch.
@@ -78,7 +78,7 @@ r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8
 | h3 | 18 k (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 91 (4.1%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 21/36/43 |  |
 | e4 | 13 k (3.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/50 | 2 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 399 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 399 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 White's own 8th move is a genuine near coin-flip: **8. d5** (48.1% masters) closes the centre and reaches the Yugoslav Panno tabiya, [E66](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E66_Kings_Indian_Fianchetto_Yugoslav_Panno.md); **8. dxc5** (43.6%) simplifies instead, and carries no code of its own in this range.

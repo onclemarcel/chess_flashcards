@@ -55,7 +55,7 @@ rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 3
 | b3 | 0 | — | 4.3 k (3.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | g3 | 0 | — | 3.5 k (3.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 36.9 M games. Masters: 115 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_0_3#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -123,7 +123,7 @@ rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq - 0 4
 | Qc7 | 72 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 30 (0.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/43/17 |  |
 | Bb4+ | 0 | — | 11 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 18.5 M games. Masters: 83 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 * [**4... a6**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B41_Sicilian_Kan_Variation.md) (39.8% masters): the *Kan Variation* (also called the Paulsen) — already live-tagged **B41**, see `B41_Sicilian_Kan_Variation.md`, not built out further here.
@@ -166,7 +166,7 @@ rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | f3 | 110 k (2.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 9 (0.1%) | — |  |
 | Nd2 | 0 | — | 34 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/35/24 |  |
 
-*Online: bullet/blitz, 1800+ — 4.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 4.0 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1p1ppp/4pn2/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5. Nc3** is masters' overwhelming choice (93.6%). Rather than the symmetrical **5... Nc6** (transposing toward the regular Taimanov/B44 tabiya), Black's other real try is **5... Bb4**, pinning the c3-knight immediately — the *Pin Variation*, which stays genuinely B40 despite sitting three plies past the card's own root.
@@ -194,7 +194,7 @@ rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
 | Nb5 | 0 | — | 12 (2.3%) | — |  |
 | Qd3 | 0 | — | 5 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 993 k games. Masters: 521 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 993 k games. Masters: 521 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp1p1ppp/4pn2/8/1b1NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly rather than assumed from `eco.md`'s own naming order alone**: masters' actual main try here is **6. e5** (82.3%, the *Koch Variation*), pushing the e-pawn to gain space and hit the f6-knight — well ahead of **6. Bd3** (13.8%, the *Jaffe Variation*, `eco.md`'s own first-listed name).

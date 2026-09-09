@@ -56,7 +56,7 @@ rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R b KQ - 2 5
 | Nc6 | 0 | — | 1 (0.1%) | — |  |
 | a5 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 221 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQ_-_2_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 221 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pppp1ppp/4pn2/8/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQ_-_2_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5... d5** is masters' clear main try overall (54.1%); among the non-d5 replies that actually stay inside this code, **5... c5** is the top pick (24.7%).
@@ -96,7 +96,7 @@ rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ c6 0 6
 | Qc2 | 5.3 k (4.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 5 (0.7%) | — |  |
 | d5 | 3.3 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 2 (0.3%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 129 k games. Masters: 739 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_c6_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 129 k games. Masters: 739 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_c6_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6. Bd3** is masters' clear main try (83.9%), developing before deciding how to meet Black's own delayed central choice.
@@ -135,7 +135,7 @@ rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2NBPN2/PP3PPP/R1BQK2R b KQ - 1 6
 | d6 | 7.9 k (7.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/50 | 50 (1.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/48/22 |  |
 | Bxc3+ | 5.5 k (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 44 (1.4%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 25/45/30 |  |
 
-*Online: bullet/blitz, 1800+ — 102 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 102 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp1p1ppp/4pn2/2p5/1bPP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6... d5** is masters' overwhelming main try here (71.6%) — and, verified directly via `apply_san.py`, it transposes exactly into **E53**'s own root position (identical piece placement, castling rights and side to move; the only difference is the en-passant flag, which disappears again after Black's very next move either way). So despite `eco.md`'s own "Without ...d5" framing, masters' single most common continuation from this code's own main try (5...c5) is simply to play ...d5 one tempo later and land in the Gligoric System tree anyway.

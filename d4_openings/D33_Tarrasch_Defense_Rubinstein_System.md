@@ -51,7 +51,7 @@ r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R b KQkq - 0 6
 | c4 | 14 k (6.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 294 (8.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 | cxd4 | 11 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/40 | 17 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 203 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 203 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming choice is **6... Nf6** (90.4%), completing development before deciding on the bishop's diagonal. **6... c4** (8.5%) stakes out queenside space immediately instead, the named *Folkestone (Swedish) Variation*.
@@ -132,7 +132,7 @@ r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R w KQkq - 1 7
 | dxc5 | 4.7 k (1.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 0 | — | ⚠ |
 | a3 | 0 | — | 36 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫🟫 47/47/6 |  |
 
-*Online: bullet/blitz, 1800+ — 305 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_w_KQkq_-_1_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 305 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2n2n2/2pp4/3P4/2N2NP1/PP2PP1P/R1BQKB1R_w_KQkq_-_1_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — named for the 1908 Prague masters tournament. Masters' near-unanimous reply is **7. Bg2** (+0.19, 98.7%), completing the fianchetto — its own deeper code, [D34](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D34_Tarrasch_Defense_Prague_Main_Line.md), reached via 7...Be7. The rarer **7... Bg2 Bg4** stays D33 as the *Wagner Variation*.

@@ -64,7 +64,7 @@ rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N2N2/PP3PPP/R1B1KB1R w KQ - 1 8
 | e5 | 804 (7.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/49 | 0 | — | ⚠ |
 | Bg5 | 0 | — | 2 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 11 k games. Masters: 538 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 11 k games. Masters: 538 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N2N2/PP3PPP/R1B1KB1R_w_KQ_-_1_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8. Be3** is masters' overwhelming main try (86.2%) — defending d4 a second time while developing.
@@ -98,7 +98,7 @@ rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R b KQ - 2 8
 | Bxf3 | 836 (24.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 6 (1.3%) | — |  |
 | Nc6 | 669 (19.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 10 (2.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 k games. Masters: 464 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R_b_KQ_-_2_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 3.4 k games. Masters: 464 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/5np1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R_b_KQ_-_2_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8... Nfd7** is masters' overwhelming main try (94.6%) — rerouting the knight toward b6/c5 while eyeing ...Bxf3.
@@ -135,7 +135,7 @@ rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R w KQ - 3 9
 | h3 | 24 (1.8%) | ⬜⬜⬜🟫⬛⬛⬛⬛⬛⬛ 33/4/62 | 0 | — |  |
 | Nd2 | 0 | — | 7 (1.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 k games. Masters: 439 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R_w_KQ_-_3_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.3 k games. Masters: 439 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP3PPP/R3KB1R_w_KQ_-_3_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, striking finding worth flagging plainly**: `eco.md`'s own defining move for the Keres Variation, **9. Be2**, is masters' rarest choice at this fork — a bare 2.1% (9 of 439 games). Masters actually prefer **9. Qb3** (48.7%), heading straight into this card's own further code, [D99](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D99_Grunfeld_Russian_Smyslov_Main_Line.md), or **9. Rd1** (31.7%, a real, uncoded secondary), or even an immediate **9. O-O-O** (15.5%, uncoded, and not the same route as the Keres Variation's own delayed castling below).
@@ -171,7 +171,7 @@ rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R b KQ - 4 9
 | Nb6 | 1.1 k (70.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/9/48 | 37 (84.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/41/32 |  |
 | Nc6 | 386 (23.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 7 (15.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 k games. Masters: 44 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R_b_KQ_-_4_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.6 k games. Masters: 44 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pppnppbp/6p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R_b_KQ_-_4_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Only 44 masters games reach this exact tabiya to begin with — every number in this whole Keres sub-tree should be read as directional, not a firm verdict. **9... Nb6** is masters' clear main try (84.1%).
@@ -194,7 +194,7 @@ rn1q1rk1/ppp1ppbp/1n4p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R w KQ - 5 10
 | Qb3 | 347 (30.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 39/6/54 | 0 | — | ⚠ |
 | Qc5 | 0 | — | 18 (48.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 k games. Masters: 37 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/1n4p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R_w_KQ_-_5_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 1.1 k games. Masters: 37 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp1ppbp/1n4p1/8/2QPP1b1/2N1BN2/PP2BPPP/R3K2R_w_KQ_-_5_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 A near coin flip between **10. Qd3** (+0.07, 51.4%), `eco.md`'s own choice on the way to the Keres Variation proper, and **10. Qc5** (48.6%), a real, uncoded alternative. From **10. Qd3**, masters follow with **10... Nc6** (+0.22) in 96.2% of games — and from there, `eco.md`'s own defining **11. O-O-O** is again a real minority: masters' actual main try at that final fork is **11. Rd1** (85.3%), with 11. O-O-O tied for second on just 5.9% (2 of 34 games).

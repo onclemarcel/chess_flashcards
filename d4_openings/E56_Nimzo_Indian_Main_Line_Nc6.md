@@ -45,7 +45,7 @@ r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8
 | dxc5 | 2.8 k (5.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 27 (0.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/33/37 |  |
 | Ne2 | 1.4 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 17 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 48 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 48 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8. a3** is masters' overwhelming main try (88.4%), forcing Black's bishop to declare itself.
@@ -82,7 +82,7 @@ r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/P1NBPN2/1P3PPP/R1BQ1RK1 b - - 0 8
 | Qa5 | 17 (0.1%) | — | 0 | — |  |
 | b6 | 6 (0.0%) | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 28 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/P1NBPN2/1P3PPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/1bPP4/P1NBPN2/1P3PPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8... Bxc3** is masters' overwhelming main try (89.4%), giving up the bishop pair rather than let it get trapped or misplaced.

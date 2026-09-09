@@ -46,7 +46,7 @@ rnbq1rk1/ppp1ppbp/6p1/3n4/3P4/5NP1/PP2PPBP/RNBQ1RK1 b - - 1 7
 | c6 | 25 k (17.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 56/6/38 | 67 (2.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/45/18 |  |
 | Nb6 | 25 k (17.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 1.9 k (65.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/46/20 |  |
 
-*Online: bullet/blitz, 1800+ — 145 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/3n4/3P4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 145 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/3n4/3P4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **7... Nb6** (65.6%), retreating the knight off the exposed d5-square before it can be hit — well ahead of **7... Nc6** (22.1%, developing more actively) and **7... c5** (8.4%, striking the centre while the knight is still on d5). Online play flattens this considerably (c5 25.0% / Nc6 22.0% / c6 17.5% / Nb6 17.2%), another real gap between the two databases worth noting, though not a formal inversion since masters' own top try (Nb6) still ranks among online's real options rather than trailing badly.

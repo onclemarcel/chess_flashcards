@@ -26,7 +26,7 @@ rnbqkbnr/pp3ppp/8/2pp4/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 0 5
 | c3 | 12 k (2.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Qe2+ | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 504 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 504 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/8/2pp4/3P4/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5. Ngf3** is masters' clear main try (73.9%), heading for the *Main Line* already live-tagged its own code. **5. Bb5+** (24.9%) is a real secondary try, stays C08, not built out further here.

@@ -49,7 +49,7 @@ r1b2rk1/pp1nqppp/2p5/4p3/2BP4/2R1PN2/PP3PPP/3Q1RK1 w - - 0 13
 | Nxe5 | 490 (3.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/8/48 | 29 (9.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 17/69/14 |  |
 | Qb1 | 0 | — | 18 (5.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 13 k games. Masters: 324 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p5/4p3/2BP4/2R1PN2/PP3PPP/3Q1RK1_w_-_-_0_13#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 13 k games. Masters: 324 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p5/4p3/2BP4/2R1PN2/PP3PPP/3Q1RK1_w_-_-_0_13#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Strikes straight back at the centre, the point of trading off on c3 first. **A genuine, clean finding worth double-checking against `eco.md`'s own move list, as always in this batch**: masters' actual plurality here is **13. Qc2** (29.6%) — this *is* the *Vidmar Variation*, `eco.md`'s own second-named entry here, not an uncoded try, and it's ahead of both **13. dxe5** (23.8%, the *D69*-coded continuation, only masters' second choice) and **13. Qb1** (5.6%, the *Maroczy Variation* — the lowest-frequency of the three coded tries at this node despite being listed first in `eco.md`'s own entry order). **13. Bb3** (23.1% masters) is a real, secondary try with no code of its own in this range, nearly as common as 13.dxe5 — not to be confused with either named line above. This is the third instance in this batch of an `eco.md`-coded line trailing a rival at its own fork, after D60's own root and D64's own root.

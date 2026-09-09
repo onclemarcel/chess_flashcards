@@ -48,7 +48,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R b KQkq - 2 6
 | Be7 | 79 k (12.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 245 (2.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/47/14 |  |
 | Bb4 | 34 k (5.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/42 | 124 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/55/15 |  |
 
-*Online: bullet/blitz, 1800+ — 645 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_2_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 645 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_2_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming reply is **6... dxc4** (85.6%), finally grabbing the c4 pawn — the exact continuation escalating to its own deeper code, [D47](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D47_Semi_Slav_Semi_Meran.md). **6... Bd6** (9.8%) is a real, secondary try, the *Chigorin Defence*; **6... Be7** and **6... Bb4** are both genuine minority tries.

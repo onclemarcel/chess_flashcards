@@ -56,7 +56,7 @@ rnbqkb1r/pp3ppp/2p1pn2/6B1/2pP4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6
 | Bxf6 | 28 k (4.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | g3 | 0 | — | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 593 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/6B1/2pP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 593 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/6B1/2pP4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming reply is **6. e4** (+0.29, 88.4%), grabbing the full centre before Black can consolidate the extra pawn.
@@ -92,7 +92,7 @@ rnbqkb1r/pp3ppp/2p1pn2/6B1/2pPP3/2N2N2/PP3PPP/R2QKB1R b KQkq e3 0 6
 | Nbd7 | 0 | — | 2 (0.1%) | — |  |
 | Qa5 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 314 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/6B1/2pPP3/2N2N2/PP3PPP/R2QKB1R_b_KQkq_e3_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 314 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/6B1/2pPP3/2N2N2/PP3PPP/R2QKB1R_b_KQkq_e3_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Botvinnik System*; the live explorer spells it the ***Botvinnik Variation*** — a minor naming difference, not substantive, named for the sixth World Champion. Masters' near-forced reply is **6... b5** (+0.25, 99.4%), holding the extra pawn.

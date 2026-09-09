@@ -25,7 +25,7 @@ rnbqkb1r/pp2pp1p/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq f3 0 6
 | Nbd7 | 14 k (4.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 66 (18.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 35/26/39 |  |
 | a6 | 5.4 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 7 (2.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 303 k games. Masters: 351 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 303 k games. Masters: 351 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine finding**: masters' actual main try is **6... Nc6** (60.7%, untagged, transposing toward regular development), well ahead of the eco.md-named **6... Nbd7** (18.8%, the *Flohr Variation*, see below) and **6... Bg7** (16.5%).

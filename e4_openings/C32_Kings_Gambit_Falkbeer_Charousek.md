@@ -27,7 +27,7 @@ Already live-tagged its own code, **C32**, the *Charousek Gambit Accepted* — m
 | c6 | 729 (0.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 0 | — | ⚠ |
 | Bg4 | 430 (0.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/3/37 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 183 k games. Masters: 113 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3P4/4PP2/8/PPP3PP/RNBQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 183 k games. Masters: 113 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3P4/4PP2/8/PPP3PP/RNBQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **5... Nxe4** is total (100% masters). Black regains material and stays comfortably ahead in development.
@@ -91,7 +91,7 @@ rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR w KQkq - 0 6
 | Qe2 | 22 k (13.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 4 (3.5%) | — | ⚠ |
 | Be3 | 15 k (8.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 17 (15.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 171 k games. Masters: 113 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 171 k games. Masters: 113 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3P4/4nP2/8/PPP3PP/RNBQKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6. Nf3** is masters' overwhelming main try (79.6%) and itself carries no name yet — the position stays untagged until deeper. **6. Be3** is a real secondary try (15.0%, +0.2 Stockfish), not built out further here.
@@ -128,7 +128,7 @@ rnbqkb1r/ppp2ppp/8/3P4/4nP2/5N2/PPP3PP/RNBQKB1R b KQkq - 1 6
 | Be7 | 0 | — | 5 (5.6%) | — |  |
 | Nd7 | 0 | — | 1 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 106 k games. Masters: 90 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3P4/4nP2/5N2/PPP3PP/RNBQKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 106 k games. Masters: 90 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/8/3P4/4nP2/5N2/PPP3PP/RNBQKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **6... Bc5** is masters' overwhelming main try (77.8%).
@@ -176,7 +176,7 @@ rnbqk2r/ppp2ppp/8/2bP4/4nP2/5N2/PPP1Q1PP/RNB1KB1R b KQkq - 3 7
 | Bf5 | 9.8 k (15.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 26 (38.8%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 58/27/15 |  |
 | Bf2+ | 0 | — | 8 (11.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 65 k games. Masters: 67 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/8/2bP4/4nP2/5N2/PPP1Q1PP/RNB1KB1R_b_KQkq_-_3_7#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 65 k games. Masters: 67 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/8/2bP4/4nP2/5N2/PPP1Q1PP/RNB1KB1R_b_KQkq_-_3_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **7... Bf5** is masters' main try (38.8%, the highest-scoring reply per the sample) — see below. **7... Qe7** (20.9% masters) is a real alternative not built out further here. **7... Bf2+** (11.9% masters) is a genuine bishop sacrifice reaching the *Alapin Variation* a few plies later — see the note below.
@@ -215,7 +215,7 @@ Live-tagged the *Charousek Gambit, Main Line* — matching `eco.md`'s own name f
 | Nbd2 | 710 (6.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 0 | — | ⚠ |
 | g4 | 0 | — | 1 (3.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 11 k games. Masters: 26 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/ppp2ppp/8/2bP1b2/4nP2/5N2/PPP1Q1PP/RNB1KB1R_w_KQkq_-_4_8#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 11 k games. Masters: 26 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/ppp2ppp/8/2bP1b2/4nP2/5N2/PPP1Q1PP/RNB1KB1R_w_KQkq_-_4_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **8. Nc3** is masters' overwhelming main try (96.2%), simply continuing development and not built out further here. **8. g4**, a real database rarity (1 masters game, 4.6% online), forces the bishop to retreat and reaches its own further-named position.
@@ -252,7 +252,7 @@ Live-tagged the *Tarrasch Variation*, reached after **8... O-O** — the bishop 
 | Be3 | 1 (0.3%) | — | 0 | — |  |
 | Bg2 | 1 (0.3%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 296 games. Masters: 1 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp2ppp/8/2bP1b2/4nPP1/5N2/PPP1Q2P/RNB1KB1R_w_KQ_-_1_9#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 296 games. Masters: 1 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/ppp2ppp/8/2bP1b2/4nPP1/5N2/PPP1Q2P/RNB1KB1R_w_KQ_-_1_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 This closes out the *Main Line* / *Tarrasch Variation* tree.

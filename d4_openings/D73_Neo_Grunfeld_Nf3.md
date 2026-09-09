@@ -54,7 +54,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5
 | Bg4 | 1.7 k (0.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 5 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 278 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 278 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_b_KQkq_-_3_5#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **A genuine, significant finding worth flagging plainly**: the move this whole D74-D79 tree actually needs (5... O-O) is only masters' *third* choice here (21.6%) — behind both **5... dxc4** (40.4%, simply taking the pawn) and **5... c6** (36.3%, a Slav-like bolster) at their own 2,079-masters-game sample. Neither dxc4 nor c6 carries a code of its own in this range — a real "coded line trails an uncoded majority" case, the same meta-pattern already flagged repeatedly across the D60-D69 batch (D60's own root, D64's own root, D68's own root). Online play ranks O-O first instead (61.4%), another real inversion layered on top.
@@ -91,7 +91,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R w KQ - 4 6
 | Nc3 | 30 k (8.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/48 | 10 (0.4%) | — |  |
 | Nbd2 | 5.6 k (1.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 17 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 362 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_w_KQ_-_4_6#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 362 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQK2R_w_KQ_-_4_6#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Left untagged live (`opening=None`) at this exact node. White's own next move is where the D74-D76 tree (via an immediate capture) and the D77-D79 tree (via castling first) actually part ways: **6. cxd5** is masters' clear main try (69.0%), resolving the tension at once; **6. O-O** (29.7%) castles first, keeping the tension a move longer. Both are real, well-populated trunks (2,616 masters games at this node) rather than one dominating to the point of making the other a footnote.

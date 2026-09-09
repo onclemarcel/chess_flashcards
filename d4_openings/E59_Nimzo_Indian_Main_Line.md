@@ -26,7 +26,7 @@ r1bq1rk1/pp3ppp/2n1pn2/2p5/2BP4/P1P1PN2/5PPP/R1BQ1RK1 b - - 0 10
 | a6 | 1.5 k (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | Qe7 | 0 | — | 12 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2p5/2BP4/P1P1PN2/5PPP/R1BQ1RK1_b_-_-_0_10#explorer) — updated 2026-09-07*
+*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2p5/2BP4/P1P1PN2/5PPP/R1BQ1RK1_b_-_-_0_10#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **10... Qc7** is masters' near-universal reply here (96.9%), completing development and eyeing the c-file before White's own plan takes shape.

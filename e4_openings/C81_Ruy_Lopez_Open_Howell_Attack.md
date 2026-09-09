@@ -25,7 +25,7 @@ r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP1QPPP/RNB2RK1 b kq - 2 9
 | Nc5 | 2.5 k (18.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/8/40 | 103 (15.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/49/22 |  |
 | Na5 | 290 (2.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 56/8/37 | 5 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 13 k games. Masters: 667 games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP1QPPP/RNB2RK1_b_kq_-_2_9#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 13 k games. Masters: 667 games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/2p2ppp/p1n1b3/1p1pP3/4n3/1B3N2/PPP1QPPP/RNB2RK1_b_kq_-_2_9#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **9... Be7** (70.0%), simply finishing development while keeping the knight solidly placed on e4; **9... Nc5** (15.4%) and **9... Bc5** (13.2%) are both real secondary tries.

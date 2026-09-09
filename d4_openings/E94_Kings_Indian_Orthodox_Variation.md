@@ -53,7 +53,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 1 7
 | c6 | 6.8 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/7/47 | 466 (1.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/45/23 |  |
 | Nh5 | 0 | — | 250 (0.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/40/22 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 **7... Nc6** overwhelmingly dominates this fork (68.9% masters), and it's an uncoded try here — it heads straight for [E97](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E97_Kings_Indian_Mar_Del_Plata.md), the Aronin-Taimanov/Mar del Plata Variation, easily this batch's single most famous line. E94's own *further* named entries — the **Donner Variation** (7... c6, a mere 1.6% masters) and the bare **7... Nbd7** (7.0% masters) — are both real minority tries by comparison, a striking instance of a card's own coded content trailing a dominant uncoded road out.
@@ -94,7 +94,7 @@ rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 0 8
 | Re1 | 2.3 k (10.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 203 (28.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/44/26 |  |
 | Qc2 | 0 | — | 65 (9.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/38/25 |  |
 
-*Online: bullet/blitz, 1800+ — 22 k games. Masters: 706 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 22 k games. Masters: 706 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Donner Defense** — a Variation/Defense drift from `eco.md`'s own "Donner Variation", named for Dutch GM Jan Hein Donner. Preparing ... d5 or a queenside break while keeping the centre flexible, this stays a genuine database rarity in both pools (1.6% masters, 0.6% online) — a stadium-shaped, understudied-everywhere node by this repo's own thresholds, even though it carries a real name. White's own 8th move scatters four ways with no dominant try (d5 36.1%, Re1 28.8%, Be3 14.7%, dxe5 8.6%). Not built further here.
@@ -129,7 +129,7 @@ r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8
 | h3 | 41 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 1.4 k (20.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 43/32/24 |  |
 
-*Online: bullet/blitz, 1800+ — 666 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-08*
+*Online: bullet/blitz, 1800+ — 666 k games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-09*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Positional Defense** — a name `eco.md` doesn't carry at all (its own entry is simply "orthodox, 7...Nbd7"). White's own reply here scatters widely, with **8. Be3** actually the most common (40.9% masters), narrowly ahead of the coded **8. Re1** (27.9%). This card still follows Re1 onward into [E95](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E95_Kings_Indian_Orthodox_Nbd7_Re1.md), matching `eco.md`'s own chain of named codes, even though it isn't the statistical favourite here.
