@@ -60,7 +60,7 @@ r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5
 | h3 | 2.4 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 0 | — | ⚠ |
 | Be2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 680 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 680 k games. Masters: 2.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -101,7 +101,7 @@ r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1 b kq - 7 5
 | Qe7 | 941 (0.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/4/35 | 0 | — | ⚠ |
 | Kf8 | 242 (0.1%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 60/5/35 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 285 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1_b_kq_-_7_5#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 285 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1_b_kq_-_7_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **5... O-O** is masters' near-unanimous reply (95.4%), completing the full symmetry.
@@ -128,7 +128,7 @@ r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1 w - - 8 6
 | Qe2 | 308 (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Nxe5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 158 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1_w_-_-_8_6#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 158 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2N2N2/PPPP1PPP/R1BQ1RK1_w_-_-_8_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 * [**6. d3**](#_d3_) (+0.1, 83.3% masters): keeps the position closed and flexible — masters' clear main try, and the line this card follows.
@@ -167,7 +167,7 @@ r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 b - - 0 6
 | Qe7 | 272 (0.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/40 | 0 | — | ⚠ |
 | Ne7 | 0 | — | 4 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 107 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1_b_-_-_0_6#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 107 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppp1ppp/2n2n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1_b_-_-_0_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 * [**6... d6**](#_d6_) (+0.2, 67.4% masters): the *Symmetrical Variation* — matches White's own setup, and the line this card follows.
@@ -209,7 +209,7 @@ r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1 w - - 0 7
 | Re1 | 0 | — | 1 (0.1%) | — |  |
 | Ba4 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 80 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1_w_-_-_0_7#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 80 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2ppp/2np1n2/1B2p3/1b2P3/2NP1N2/PPP2PPP/R1BQ1RK1_w_-_-_0_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **7. Bg5** is masters' clear main try (68.8%), pinning the f6-knight in return; **7. Ne2** (23.6%) is the *Maroczy System*, regrouping the knight toward g3 instead. Deeper theory branches into a whole family of named lines — the **Metger unpin** (7. Bg5 Bxc3 8. bxc3 Qe7), then the *Capablanca* (9. Re1 Nd8 10. d4 Bg4), *Pillsbury* (7... Ne7), *Blake* (8. Nh4 c6 9. Bc4 d5 10. Bb3 Qd6), and *Tarrasch* (7... Be6) Variations — each its own body of work, not covered further here (backlog).

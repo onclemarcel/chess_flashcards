@@ -29,7 +29,7 @@ rnbqkb1r/1p3ppp/p2ppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R w KQkq - 0 7
 | Qe2 | 0 | — | 253 (1.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/33/34 |  |
 | Qd3 | 0 | — | 240 (1.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 35/26/39 |  |
 
-*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p2ppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_w_KQkq_-_0_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p2ppn2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_w_KQkq_-_0_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **7. f4** is masters' overwhelming main try (88.6%), already live-tagged **B96** — see [`B96_Sicilian_Najdorf_f4.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B96_Sicilian_Najdorf_f4.md), not built out further here. This card closes out at exactly the root of the whole B96-B99 Poisoned-Pawn-adjacent complex.

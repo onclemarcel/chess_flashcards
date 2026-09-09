@@ -25,7 +25,7 @@ rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R b KQkq - 1 6
 | e5 | 384 k (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 35 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/37/20 |  |
 | Nc6 | 50 k (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 561 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/42/31 |  |
 
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/6B1/3NP3/2N5/PPP2PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **6... e6** is masters' clear main try (78.2%), already live-tagged **B95** — see [`B95_Sicilian_Najdorf_e6.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B95_Sicilian_Najdorf_e6.md), not built out further here. **6... Nbd7** (19.3%) stays B94, the *Ivkov Variation* — see below.

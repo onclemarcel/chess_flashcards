@@ -26,7 +26,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 | c5 | 1.2 M (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 1.6 k (2.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 71 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 71 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork, both already live-tagged their own codes:
@@ -66,7 +66,7 @@ rnbqkbnr/ppp2ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4
 | Bd7 | 765 k (9.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/46 | 3.0 k (31.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/45/17 |  |
 | Be7 | 739 k (9.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/5/45 | 263 (2.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 46/40/14 |  |
 
-*Online: bullet/blitz, 1800+ — 7.9 M games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 7.9 M games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... Nd7** is masters' main try (59.7%), the Rubinstein proper. **4... Bd7** (31.5%) leads to the *Fort Knox Variation* after 5. Nf3 Bc6.

@@ -45,7 +45,7 @@ rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | Nf6 | 118 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 1 (0.0%) | — | ⚠ |
 | c5 | 56 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **3... exd5** is close to automatic (99.5% of masters games) — Black keeps the position symmetrical rather than trying **3... Qxd5** (0.5%), which loses time to a future Nc3 tempo-gain on the queen. With the d-pawn exchange, Black frees his light-squares bishop, resolving its main difficulty in the French Defence. It is important to note that Black can hardly play for a win in this variation in masters games. That said, White has played timidely and is trying to achieve a draw : overly safe play often results in minor concessions and disappointment may lay ahead.
@@ -70,7 +70,7 @@ rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4
 | Nc3 | 2.2 M (10.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 | Bf4 | 0 | — | 200 (2.4%) | ⬜🟫🟫🟫🟫🟫🟫⬛⬛⬛ 12/63/24 |  |
 
-*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4. Nf3** is masters' main try (56.0%), developing naturally toward the symmetrical structure. **4. Nc3 Nf6 5. Bg5** reaches the *Svenonius Variation*, a further-named sideline.
@@ -133,7 +133,7 @@ rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4
 | Nc6 | 1.3 M (5.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 941 (19.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 20/49/31 |  |
 | Bg4 | 0 | — | 351 (7.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/43/30 |  |
 
-*Online: bullet/blitz, 1800+ — 23.2 M games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 23.2 M games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3p4/3P4/5N2/PPP2PPP/RNBQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Here Black can easily play for draw with 4... Nf6 to get a very common position learned by many players. Noting that this resulting position is also a drawing one, Black may also play for more surprising moves - same as White later on - in order to get out of the main known lines, but Black should avoid inaccuracies as well.

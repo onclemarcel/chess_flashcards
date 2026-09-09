@@ -28,7 +28,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3
 | c6 | 182 k (1.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/4/42 | 0 | — | ⚠ |
 | a6 | 0 | — | 2.2 k (5.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/43/25 |  |
 
-*Online: bullet/blitz, 1800+ — 9.8 M games. Masters: 44 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 9.8 M games. Masters: 44 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Black has a genuine multi-way fork, no single dominant try:
@@ -92,7 +92,7 @@ r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4
 | Bb5 | 18 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 16 (0.5%) | — |  |
 | e5 | 0 | — | 3 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 468 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 468 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4. Ngf3** is close to automatic (90.5% masters) — the g1-knight develops toward e5/d4 control, and Black's own most testing reply reaches its own further-named code.

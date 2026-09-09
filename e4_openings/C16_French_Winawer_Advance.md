@@ -25,7 +25,7 @@ rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4
 | Qd7 | 93 k (3.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/50 | 1.1 k (4.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/30/24 |  |
 | b6 | 85 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/48 | 1.8 k (7.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/30/26 |  |
 
-*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 25 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3pP3/1b1P4/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... c5** is masters' clear main try (68.9%), immediately attacking the base of White's own pawn chain — heads for the whole C17-C19 complex, already live-tagged its own further codes.

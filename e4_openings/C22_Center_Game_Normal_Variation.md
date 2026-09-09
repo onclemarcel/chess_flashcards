@@ -26,7 +26,7 @@ r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR w KQkq - 1 4
 | Qd3 | 127 k (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 29 (2.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 34/14/52 |  |
 | Qc4 | 0 | — | 73 (7.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/32/33 |  |
 
-*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR_w_KQkq_-_1_4#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 2.8 M games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3QP3/8/PPP2PPP/RNB1KBNR_w_KQkq_-_1_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4. Qe3** is masters' overwhelming main try (86.6%), tucking the queen away from further tempo-gaining attacks while eyeing the a7-g1 diagonal — the *Paulsen Attack Variation*. **4. Qc4** (7.0%) is the *Hall Variation* — a real, if secondary, alternative.
@@ -64,7 +64,7 @@ r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR b KQkq - 2 4
 | Bb4+ | 150 k (9.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 67 (7.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/25/30 |  |
 | g6 | 0 | — | 154 (17.1%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 29/32/39 |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 901 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR_b_KQkq_-_2_4#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 901 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/4P3/4Q3/PPP2PPP/RNB1KBNR_b_KQkq_-_2_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' clear main try (69.8%), the *Berger Variation* — developing with tempo against e4. **4... Bb4+ 5. c3 Be7** is the *Charousek Variation* (a real database rarity at that exact depth). **4... f5** is the *l'Hermet Variation*, a sharp, committal try Stockfish already rates as a real White edge (+0.9). **4... g6** (17.1% masters) stays C22, not built out further here.

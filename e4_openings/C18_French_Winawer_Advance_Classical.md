@@ -25,7 +25,7 @@ rnbqk1nr/pp3ppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR b KQkq - 0 6
 | Qa5 | 177 k (14.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 2.3 k (17.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/42/21 |  |
 | Nc6 | 148 k (12.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 708 (5.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/27 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR_b_KQkq_-_0_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **6... Ne7** is masters' clear main try (63.0%), heading for the deepest, most theoretically dense tabiya in the whole Winawer — already live-tagged its own further code.

@@ -25,7 +25,7 @@ rnbqk2r/ppp1bppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR w KQkq - 4 5
 | exd5 | 59 k (2.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 54 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/43/30 |  |
 | Nf3 | 26 k (1.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/3PP3/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **5. e5** is close to automatic (96.2% of masters games), gaining space and forcing Black's knight to move. **5. Bxf6**, the *Anderssen Variation* (2.5%), simplifies at once — Stockfish already rates it a slight edge for Black (−0.1), and **5. Bxf6 Bxf6 6. e5 Be7 7. Qg4** (the *Anderssen-Richter Variation*) rates a real Black edge still (−0.6). Neither built out further here.
@@ -71,7 +71,7 @@ rnbqk2r/pppnbppp/4p3/3pP1B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 1 6
 | Be3 | 26 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/52 | 2 (0.1%) | — | ⚠ |
 | Bf4 | 5.6 k (0.3%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 43/3/54 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppnbppp/4p3/3pP1B1/3P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pppnbppp/4p3/3pP1B1/3P4/2N5/PPP2PPP/R2QKBNR_w_KQkq_-_1_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork: **6. Bxe7** (61.9% masters) trades off the dark-squared bishops and heads for its own further-named code, while **6. h4** (38.0%) is the *Chatard-Alekhine Attack* — a real, near-even second choice, keeping the bishops on and gaining a further tempo for the kingside attack.

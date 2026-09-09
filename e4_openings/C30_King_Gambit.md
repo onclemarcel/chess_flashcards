@@ -51,7 +51,7 @@ rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2
 | f5 | 221 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 0 | — | ⚠ |
 | Qf6 | 0 | — | 9 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 4.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -96,7 +96,7 @@ rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR w KQkq - 0 3
 | Qf3 | 18 k (0.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/44 | 12 (0.4%) | — |  |
 | Be2 | 0 | — | 20 (0.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/30/40 |  |
 
-*Online: bullet/blitz, 1800+ — 10.4 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 10.4 M games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/8/PPPP2PP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 * [**3. Nf3**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C34_Kings_Gambit_Knights_Gambit.md) (71.8% masters): the *King's Knight's Gambit* — already live-tagged its own code, **C34** — see `C34_Kings_Gambit_Knights_Gambit.md`, not built out further here.
@@ -146,7 +146,7 @@ rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/5N2/PPPP2PP/RNBQKB1R w KQkq - 0 4
 | fxe5 | 79 k (9.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/4/52 | 0 | — | ⚠ |
 | b4 | 0 | — | 11 (2.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 800 k games. Masters: 461 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 800 k games. Masters: 461 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Genuine near-even fork: **4. c3** (44.3% masters) and **4. Nc3** (40.3%). This exact position isn't independently ECO-tagged (`opening=None`) — the nearest live-tagged ancestor is this card's own root.
@@ -246,7 +246,7 @@ rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/2P2N2/PP1P2PP/RNBQKB1R b KQkq - 0 4
 | Bb6 | 16 k (5.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/5/52 | 54 (26.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/28/41 |  |
 | Qe7 | 0 | — | 14 (6.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 275 k games. Masters: 204 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/2P2N2/PP1P2PP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-05*
+*Online: bullet/blitz, 1800+ — 275 k games. Masters: 204 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/3p4/2b1p3/4PP2/2P2N2/PP1P2PP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' clear main try (50.5%), stays C30, not built out further here. **4... Bg4** (10.3%) reaches the *Euwe Attack* (a real name divergence from `eco.md`'s own "Marshall Attack" label) after **5. fxe5 dxe5 6. Qa4+** — Stockfish rates it dead level (+0.1), not built out further here. **4... f5** reaches the *Rubinstein Countergambit* (another divergence from `eco.md`'s own "Classical Counter-Gambit" label) — and after **5. fxe5 dxe5 6. d4 exd4 7. Bc4**, the *Réti Variation* (a real database rarity, Stockfish rating a modest Black edge, −0.4). Neither built out further here.

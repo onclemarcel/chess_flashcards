@@ -28,7 +28,7 @@ rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6
 | Nbd7 | 33 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 357 (2.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/35/34 |  |
 | h5 | 0 | — | 19 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **6... e5** (69.8% masters) is the clear main try, the same central break seen against the English Attack, with **6... e6** (24.9%) a real second choice. Deeper Opocensky theory is its own extensive body of work, not covered further here.

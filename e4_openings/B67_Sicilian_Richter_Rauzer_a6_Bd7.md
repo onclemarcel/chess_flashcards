@@ -26,7 +26,7 @@ r2qkb1r/1p1b1ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/2KR1B1R w kq - 2 9
 | h4 | 2.3 k (2.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 0 | — | ⚠ |
 | Nxc6 | 0 | — | 140 (1.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/38/24 |  |
 
-*Online: bullet/blitz, 1800+ — 108 k games. Masters: 8.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/1p1b1ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/2KR1B1R_w_kq_-_2_9#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 108 k games. Masters: 8.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/1p1b1ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/2KR1B1R_w_kq_-_2_9#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 White has a genuine two-way fork, both real: **9. f4** (59.0% masters), pushing the pawn storm forward at once — already live-tagged **B68**, see [`B68_Sicilian_Richter_Rauzer_a6_f4.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B68_Sicilian_Richter_Rauzer_a6_f4.md), not built out further here — and **9. f3** (30.9%), a slower, more solid version of the same plan, stays B67 and is not built out further here.

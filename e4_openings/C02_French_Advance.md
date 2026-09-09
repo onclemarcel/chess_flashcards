@@ -27,7 +27,7 @@ rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3
 | b6 | 0 | — | 357 (2.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/29/26 |  |
 | Bd7 | 0 | — | 127 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/33/31 |  |
 
-*Online: bullet/blitz, 1800+ — 17.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 17.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **3... c5** is close to automatic (95.8% of masters games), striking at the base of White's own d4 pawn at once.
@@ -78,7 +78,7 @@ rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4
 | Bd7 | 343 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 567 (3.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/30 |  |
 | Ne7 | 0 | — | 276 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/35/28 |  |
 
-*Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 13.1 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... Nc6** is masters' clear main try (72.7%), heading for the *Paulsen Attack* after 5. Nf3. **4... Qb6** (21.1%) heads for the *Wade Variation*.
@@ -116,7 +116,7 @@ r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5
 | Nge7 | 1.0 M (11.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 855 (7.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/39/24 |  |
 | Nh6 | 0 | — | 436 (3.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 34/34/32 |  |
 
-*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 8.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork: **5... Bd7** (46.1% masters, the *Euwe Variation*) and **5... Qb6** (40.7%, heading for the *Milner-Barry Gambit*).

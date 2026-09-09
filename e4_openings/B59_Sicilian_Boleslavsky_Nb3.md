@@ -28,7 +28,7 @@ r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/1NN5/PPP1BPPP/R1BQK2R b KQkq - 1 7
 | g6 | 526 (0.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/6/37 | 0 | — | ⚠ |
 | b6 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 140 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/1NN5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 140 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2np1n2/4p3/4P3/1NN5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Keeping the knight out of reach of a future ... d5 or ... Nd4 hop that would harass it on f3. Black usually continues **7... Be7** or **7... Be6**, completing development before deciding on a plan against White's own eventual O-O/Be3 set-up. Deeper theory not covered further here.

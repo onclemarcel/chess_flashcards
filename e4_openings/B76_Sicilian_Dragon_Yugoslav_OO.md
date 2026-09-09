@@ -47,7 +47,7 @@ rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R w KQ - 1 8
 | Be2 | 26 k (1.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R_w_KQ_-_1_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/8/3NP3/2N1BP2/PPP3PP/R2QKB1R_w_KQ_-_1_8#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 <a name="_Qd2_"></a>

@@ -45,7 +45,7 @@ r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R w KQkq - 1 5
 | Be3 | 536 k (6.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 216 (0.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 26/28/45 |  |
 | Nb5 | 0 | — | 3.4 k (9.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/40/30 |  |
 
-*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 8.4 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/8/PPP2PPP/RNBQKB1R_w_KQkq_-_1_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -81,7 +81,7 @@ r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R b KQkq - 2 5
 | d5 | 39 k (9.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/4/36 | 0 | — | ⚠ |
 | Bc5 | 0 | — | 17 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 434 k games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 434 k games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/1N6/4P3/8/PPP2PPP/RNBQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **5... d6** is masters' overwhelming reply (96.0%), immediately kicking the knight back before it can settle on d6.

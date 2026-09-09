@@ -28,7 +28,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 3
 | d4 | 267 k (2.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 274 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/32/28 |  |
 | a3 | 0 | — | 45 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/42/20 |  |
 
-*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 9.9 M games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_w_KQkq_-_2_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 No White try dominates the masters statistics the way Nf6 itself did for Black: **3. g3** (35.1% masters), **3. Bc4** (24.1%), **3. f4** (18.4%, the sharp *Vienna Gambit*), and **3. Nf3** (17.0%, transposing back toward C40) are all seen regularly, and Stockfish rates all four within a few hundredths of a pawn of each other. Online, **3. Nf3** is the most reached-for (34.8%).
@@ -91,7 +91,7 @@ rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3
 | Bb4 | 64 k (11.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 0 | — | ⚠ |
 | c6 | 0 | — | 89 (3.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/34/31 |  |
 
-*Online: bullet/blitz, 1800+ — 545 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 545 k games. Masters: 2.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **3... d5** is masters' clear main try (47.8%), striking in the centre while White's own kingside development is only half-finished. Deeper theory not covered further here.
@@ -125,7 +125,7 @@ Live-tagged the *Stanley Variation* — a name `eco.md`'s own bare "Vienna Game"
 | Nxe4 | 466 k (13.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 466 (22.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/43/27 |  |
 | Bb4 | 377 k (11.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 124 (6.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/39/35 |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR_b_KQkq_-_3_3#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/4p3/2B1P3/2N5/PPPP1PPP/R1BQK1NR_b_KQkq_-_3_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Genuine three-way fork: **3... Nc6** (47.1% masters) reaches its own further code, and **3... Nxe4** (22.8%) also reaches its own further code — both already live-tagged separately.

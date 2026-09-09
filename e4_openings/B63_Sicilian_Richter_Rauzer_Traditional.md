@@ -46,7 +46,7 @@ r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R b KQkq - 1 7
 | Qb6 | 4.4 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 686 (3.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/39/25 |  |
 | Nxd4 | 1.8 k (0.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 77 (0.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 40/47/13 |  |
 
-*Online: bullet/blitz, 1800+ — 322 k games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_b_KQkq_-_1_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 322 k games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_b_KQkq_-_1_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -82,7 +82,7 @@ r1bqk2r/pp2bppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 2 8
 | h4 | 2.0 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | Nb3 | 0 | — | 22 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/36/23 |  |
 
-*Online: bullet/blitz, 1800+ — 143 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_w_KQkq_-_2_8#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 143 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_w_KQkq_-_2_8#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **8. O-O-O** is close to automatic (98.1% of masters games), castling long into the standard opposite-side-castling attacking race. Black usually replies **8... O-O**, and White's own 9th move — already live-tagged **B64** — is not covered further here.

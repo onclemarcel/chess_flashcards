@@ -27,7 +27,7 @@ r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3
 | Nf6 | 161 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 62 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/32/29 |  |
 | Rb8 | 0 | — | 81 (1.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/26/44 |  |
 
-*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 2.9 M games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **3... g6** is masters' overwhelming reply (93.5%), completing the mirror fianchetto immediately.

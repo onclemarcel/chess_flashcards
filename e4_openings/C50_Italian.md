@@ -64,7 +64,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 3 3
 | g6 | 195 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 129 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/34/30 |  |
 | a6 | 0 | — | 7 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 50.6 M games. Masters: 49 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_3_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -162,7 +162,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Nc3 | 1.7 M (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 397 (1.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/53/21 |  |
 | d4 | 777 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 99 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 17/66/17 |  |
 
-*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 20.7 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -204,7 +204,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4
 | Qe7 | 0 | — | 266 (1.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 48/28/24 |  |
 | Bb6 | 0 | — | 97 (0.7%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/26/27 |  |
 
-*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 6.9 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **4... Nf6** is masters' near-unanimous reply (96.0%) — develops with tempo on e4, reaching the *Classical Variation*.
@@ -240,7 +240,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5
 | Qb3 | 22 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Ng5 | 0 | — | 4 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 4.1 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Another sharp online/masters inversion: masters strongly prefer **5. d3** (75.7%) — the quiet *Giuoco Pianissimo* setup, keeping the centre closed and playing for a slow manoeuvring game — over **5. d4** (21.1%, the sharper central break, sometimes called the *Möller Attack* after 5... exd4 6. cxd4). Online it flips: d4 leads (54.3%) over d3 (32.1%), the more forcing try being the online favourite as usual. Not built out further here (backlog).
@@ -319,7 +319,7 @@ r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R b KQkq - 0 4
 | Qf6 | 44 k (1.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 1 (0.0%) | — | ⚠ |
 | a6 | 19 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 4.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pppp1ppp/2n5/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 The quietest, slowest-burning try on this whole card — White forgoes both c3/d4 and Nc3, simply developing and castling before deciding on a plan.
@@ -361,7 +361,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R w KQkq - 1 5
 | a4 | 0 | — | 238 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 | Bb3 | 0 | — | 225 (1.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 5.4 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/3P1N2/PPP2PPP/RNBQK2R_w_KQkq_-_1_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5. c3** (42.0%), transposing back toward the main Giuoco Piano tabiya a move later; **5. O-O** (34.3%) also common.
@@ -400,7 +400,7 @@ r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R b KQkq - 2 5
 | Nd4 | 11 k (0.4%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | a5 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R_b_KQkq_-_2_5#explorer) — updated 2026-09-06*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/2b1p3/2B1P3/2NP1N2/PPP2PPP/R1BQK2R_b_KQkq_-_2_5#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 Masters split between **5... d6** (45.0%) and **5... h6** (32.1%). Deeper, **5... d6 6. Bg5!?**, the *Canal Variation* (0.00, a real secondary try), pins the f6-knight before Black castles — masters' clear reply is **6... h6** (80.3%). Neither built out further here (backlog).

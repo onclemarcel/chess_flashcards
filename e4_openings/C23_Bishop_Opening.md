@@ -54,7 +54,7 @@ rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2
 | Be7 | 0 | — | 6 (0.1%) | — |  |
 | c5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 20.4 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 20.4 M games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/2B1P3/8/PPPP1PPP/RNBQK1NR_b_KQkq_-_1_2#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -138,7 +138,7 @@ rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR w KQkq - 2 3
 | Qh5 | 193 k (9.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/5/38 | 0 | — | ⚠ |
 | c3 | 0 | — | 5 (2.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 175 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR_w_KQkq_-_2_3#explorer) — updated 2026-09-03*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 175 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1ppp/8/2b1p3/2B1P3/8/PPPP1PPP/RNBQK1NR_w_KQkq_-_2_3#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **3. Nf3** is masters' clear main try (52.6%), transposing toward Italian-style structures. `eco.md` names nine further tries here, all real if narrow-sample, none built out further here:

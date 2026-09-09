@@ -28,7 +28,7 @@ r2qkb1r/pp1bpppp/2np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R b KQkq - 6 7
 | Qa5 | 1.8 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 6 (0.3%) | — |  |
 | Qb6 | 0 | — | 5 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 54 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/pp1bpppp/2np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_b_KQkq_-_6_7#explorer) — updated 2026-09-02*
+*Online: bullet/blitz, 1800+ — 54 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/pp1bpppp/2np1n2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_b_KQkq_-_6_7#explorer) — updated 2026-09-07*
 <!-- lichess-stats:end -->
 
 **7... Rc8** is masters' clear main try (67.5%), preparing to meet White's own long castling with immediate queenside pressure down the c-file. Deeper theory (8. O-O-O, the resulting opposite-side-castling race) is its own extensive body of work, not covered further here.
