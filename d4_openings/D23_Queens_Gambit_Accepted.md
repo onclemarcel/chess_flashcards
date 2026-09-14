@@ -48,7 +48,7 @@ rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 | Bg5 | 40 k (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | Na3 | 0 | — | 33 (0.2%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/36/39 |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4. e3** (+0.18, 79.7%), keeping the structure flexible — its own code, [D25](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D25_Queens_Gambit_Accepted_Normal_Variation.md). **4. Nc3** (+0.00, 13.8%) develops naturally instead — its own code, [D24](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D24_Queens_Gambit_Accepted_Showalter_Variation.md). **4. Qa4+** stays D23, a real secondary try (5.1%).
@@ -85,7 +85,7 @@ rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R b KQkq - 3 4
 | Nbd7 | 7.4 k (13.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 201 (26.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/38/21 |  |
 | Qd7 | 0 | — | 23 (3.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫🟫 48/48/4 |  |
 
-*Online: bullet/blitz, 1800+ — 55 k games. Masters: 766 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 55 k games. Masters: 766 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Regains the c4 pawn immediately with a check rather than developing first. Masters' clear main try is **4... c6** (41.9%), blocking the check while preparing ... b5. Not built out further here (backlog).

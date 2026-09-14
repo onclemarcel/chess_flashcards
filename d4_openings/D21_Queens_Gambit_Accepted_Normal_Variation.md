@@ -50,7 +50,7 @@ rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | c6 | 134 k (6.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 305 (2.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/38/31 |  |
 | a6 | 113 k (5.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 2.1 k (16.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/51/21 |  |
 
-*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 2.0 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear favourite is **3... Nf6** (+0.2, 69.5%) — its own code, [D23](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D23_Queens_Gambit_Accepted.md). **3... a6** (+0.16, 16.5%), the *Alekhine Defense*, is a real second choice — its own code, [D22](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D22_Queens_Gambit_Accepted_Alekhine_Defense.md). **3... b5** stays D21, a genuine database rarity live-tagged the *Slav Gambit*.

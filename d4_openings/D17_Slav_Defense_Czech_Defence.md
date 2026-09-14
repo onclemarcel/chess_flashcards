@@ -51,7 +51,7 @@ rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6
 | Nh4 | 0 | — | 1.3 k (8.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/38/20 |  |
 | g3 | 0 | — | 33 (0.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/30/42 |  |
 
-*Online: bullet/blitz, 1800+ — 736 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 736 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters split almost evenly between **6. Ne5** (47.0%), grabbing the c4 pawn back immediately and heading for the *Krause Attack*, and **6. e3** (+0.12, 43.8%), the quieter developing move that escalates to its own code, the *Classical System*, [D18](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D18_Slav_Defense_Dutch_Variation.md).
@@ -86,7 +86,7 @@ rn1qkb1r/pp2pppp/2p2n2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R b KQkq - 2 6
 | Na6 | 13 k (6.6%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 38/6/57 | 351 (5.3%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
 | c5 | 1.3 k (0.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 40/7/53 | 19 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 202 k games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R_b_KQkq_-_2_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 202 k games. Masters: 6.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R_b_KQkq_-_2_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Recovers the c4 pawn at once rather than developing further first. Masters' clear main try is **6... Nbd7** (+0.32, 68.9%), challenging the e5 knight directly — the exact continuation escalating to the *Carlsbad Variation* below.

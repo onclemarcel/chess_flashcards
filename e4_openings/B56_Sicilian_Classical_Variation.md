@@ -58,7 +58,7 @@ rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 | Bg4 | 20 k (0.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | h6 | 0 | — | 51 (0.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/43/24 |  |
 
-*Online: bullet/blitz, 1800+ — 24.4 M games. Masters: 177 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 24.4 M games. Masters: 177 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/3p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -122,7 +122,7 @@ r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
 | f3 | 350 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 2.0 k (4.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/35/29 |  |
 | g3 | 0 | — | 1.3 k (2.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/40/31 |  |
 
-*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 43 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp2pppp/2np1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **6. Bg5** is masters' clear main try (57.4%) — already live-tagged **B60**, the whole *Richter-Rauzer Variation* complex, see [`B60_Sicilian_Richter_Rauzer.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B60_Sicilian_Richter_Rauzer.md), not built out further here — with **6. Bc4** (19.1%, already live-tagged **B57** — the *Sozin Attack*, see [`B57_Sicilian_Sozin_Attack.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B57_Sicilian_Sozin_Attack.md), not built out further here) a real second choice aiming at f7. If Black meets either with a later ... e5 rather than ... e6, the game transposes into the same Sveshnikov-family theory reached via 2... Nc6 — see the [dedicated Sveshnikov section](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B30_Sicilian_Nc6_Open.md#_Bb5_). Deeper Classical Variation theory (the non-transposing ... e6 lines) is its own extensive body of work, not covered further here.
@@ -163,7 +163,7 @@ rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 | Be2 | 559 k (9.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 2.4 k (11.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/38/29 |  |
 | g3 | 0 | — | 969 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/37/24 |  |
 
-*Online: bullet/blitz, 1800+ — 5.9 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 5.9 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pp1p/3p1np1/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **6. Be3** is masters' overwhelming choice (73.3%) — heading for the *Yugoslav Attack*, White's own opposite-side-castling pawn-storm answer to Black's fianchetto. This whole "5... g6" position is now properly re-rooted and built out at [`B70_Sicilian_Dragon.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B70_Sicilian_Dragon.md) onward (B70-B79) — not duplicated here.
@@ -197,7 +197,7 @@ rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 | g4 | 155 k (8.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 4.6 k (30.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/34/23 |  |
 | f4 | 0 | — | 1.3 k (8.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 > [!NOTE]

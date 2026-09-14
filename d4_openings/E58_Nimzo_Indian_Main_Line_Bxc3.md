@@ -46,7 +46,7 @@ r1bq1rk1/pp3ppp/2n1pn2/2pp4/2PP4/P1PBPN2/5PPP/R1BQ1RK1 b - - 0 9
 | Na5 | 0 | — | 18 (0.7%) | — |  |
 | Qe7 | 0 | — | 6 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 30 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/2PP4/P1PBPN2/5PPP/R1BQ1RK1_b_-_-_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 30 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/2pp4/2PP4/P1PBPN2/5PPP/R1BQ1RK1_b_-_-_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **9... Qc7** is actually masters' single most popular reply here (51.6%) — well ahead of the E59-coded **9... dxc4** (40.0%, only second). This is a clean instance of the "coded line trails a top uncoded rival" pattern already seen repeatedly in this repo's D-series QGD sweep (D60, D64, D68): `eco.md` codes the second-most-popular masters try, not the first.

@@ -26,7 +26,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N5/PP2BPPP/R2QK1NR w KQ c6 0 7
 | e5 | 472 (0.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/6/53 | 0 | — | ⚠ |
 | Qd2 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 117 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N5/PP2BPPP/R2QK1NR_w_KQ_c6_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 117 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p3B1/2PPP3/2N5/PP2BPPP/R2QK1NR_w_KQ_c6_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -66,7 +66,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR b KQ - 0 7
 | Qa5 | 8.9 k (7.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 111 (5.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/34/17 |  |
 | Na6 | 0 | — | 20 (1.0%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 60/25/15 |  |
 
-*Online: bullet/blitz, 1800+ — 123 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR_b_KQ_-_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 123 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR_b_KQ_-_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation** — a further qualifier past `eco.md`'s own naming, still the same E74 code. Black's own reply scatters widely, with online and masters play disagreeing on the order: masters favour **7... h6** (45.2%) well ahead of **7... e6** (22.5%), while online play flips the two (29.4% e6 vs 20.1% h6) — a real, if modest, inversion. **7... e6** is the move that reaches this batch's own further code, [E75](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E75_Kings_Indian_Averbakh_Main_Line.md).

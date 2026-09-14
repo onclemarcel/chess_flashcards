@@ -29,7 +29,7 @@ rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R b KQkq - 1 3
 | h6 | 402 k (4.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/3/50 | 133 (5.6%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 38/22/40 |  |
 | Ne7 | 0 | — | 200 (8.4%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 24/36/40 |  |
 
-*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 9.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/4Pp2/5N2/PPPP2PP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **3... g5** (36.8%), holding the extra pawn and hunting for a further one on e4/h2 — the start of the huge C37-C39 romantic-gambit complex. **3... d6** (18.4%, the *Fischer Defence*), **3... d5** (14.1%, the *Abbazia Defence*, already its own code C36), and **3... Be7** (7.1%, the *Cunningham Defence*, already its own code C35) are all real tries.

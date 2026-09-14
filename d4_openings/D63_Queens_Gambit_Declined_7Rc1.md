@@ -64,7 +64,7 @@ r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R b K - 4 7
 | Ne4 | 1.5 k (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 55/6/39 | 0 | — | ⚠ |
 | g6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 174 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_b_K_-_4_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 174 k games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_b_K_-_4_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Simply develops the rook, keeping every option open. Masters' clear main try is **7... c6** (46.7%), reinforcing d5 — covered below, and the deepest sub-tree of this whole batch (it alone feeds D64 through D69). **7... a6** (27.5%) heads for the named *Swiss (Henneberger) Variation*, covered below. **7... dxc4** (10.8%), **7... h6** (7.5%) and **7... Re8** (2.7%) are all real, secondary tries with no code of their own in this range. **7... b6** (4.1%) is a comparatively minor try at this fork despite feeding two of `eco.md`'s own named lines below (Pillsbury Attack, Capablanca Variation). **7... c5**, at only 0.6% masters but 10.8% online (an 18× gap), clears the numeric blitz-trap bar cleanly — a genuine finding, though it's too thin to build out here.
@@ -107,7 +107,7 @@ r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 0 8
 | Qb3 | 3.2 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/41 | 2 (0.1%) | — | ⚠ |
 | a4 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 357 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 357 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged the same generic "Main Line" name as this card's own root, a second unrelated occurrence one ply deeper. Masters' overwhelming reply is **8. Bd3** (74.2%), by far the actual main trunk of this entire batch — deeper and more heavily played than the Rubinstein Attack complex it sits alongside. **8. Qc2** (11.8%) heads for the *Rubinstein Attack* — its own code, D64 — but despite carrying `eco.md`'s own code, it's only the *second* choice here, well behind Bd3's D66-D69 tree; worth stating plainly. **8. a3** (10.3%) is a real, secondary try with no code of its own in this range.
@@ -147,7 +147,7 @@ r1bq1rk1/p1pnbppp/1p3n2/3p2B1/3P4/2N1PN2/PP3PPP/2RQKB1R w K - 0 9
 | Nb5 | 288 (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/47 | 0 | — | ⚠ |
 | Bxf6 | 0 | — | 1 (1.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 14 k games. Masters: 86 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/p1pnbppp/1p3n2/3p2B1/3P4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 14 k games. Masters: 86 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/p1pnbppp/1p3n2/3p2B1/3P4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 A compressed multi-ply span: `eco.md` itself names the *Pillsbury Attack* and *Capablanca Variation* three plies past this card's own root, differing only in White's 9th move. Left completely untagged live (`opening=None`) at this exact node, on a small sample (86 masters games — say so plainly). Masters' actual plurality here is **9. Bd3** (37.2%), heading for the *Pillsbury Attack* below. A genuine finding worth flagging on its own: the uncoded **9. Qa4** (26.7%) actually *outranks* the named *Capablanca Variation* (9. Bb5, only 19.8%) at this fork — another instance of the same "coded line loses to an uncoded rival" shape recurring across this batch. **9. Be2** (11.6%) is a further real, secondary try with no code of its own in this range.
@@ -232,7 +232,7 @@ r1bq1rk1/1ppnbppp/p3pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R w K - 0 8
 | a4 | 2.0 k (4.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 38 (6.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 42/45/13 |  |
 | b3 | 0 | — | 10 (1.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 49 k games. Masters: 603 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1ppnbppp/p3pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 49 k games. Masters: 603 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1ppnbppp/p3pn2/3p2B1/2PP4/2N1PN2/PP3PPP/2RQKB1R_w_K_-_0_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` names this "Swiss (Henneberger) Variation"; the live explorer independently confirms the same identity, tagging it plain ***Henneberger Variation*** — named for Swiss master Walter Henneberger. Prepares ...b5 queenside expansion before committing the c-pawn. Masters' clear main reply is **8. cxd5** (51.7%), heading for the named *Karlsbad Variation* below. **8. c5** (27.4%) is a real, secondary try with no code of its own in this range.

@@ -51,7 +51,7 @@ rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4
 | Bf5 | 33 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | g6 | 0 | — | 287 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/39/21 |  |
 
-*Online: bullet/blitz, 1800+ — 865 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 865 k games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... e6** (70.0%) — its own code, [D26](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D26_Queens_Gambit_Accepted_Traditional_System.md). **4... Bg4** (15.0%) is a real second choice and stays D25; **4... g6** (2.4%) and **4... Be6** (1.4%) are both genuine minority tries.

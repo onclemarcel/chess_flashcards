@@ -46,7 +46,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ e6 0 7
 | dxe5 | 19 k (3.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/9/42 | 24 (1.1%) | ⬜🟫🟫🟫🟫🟫⬛⬛⬛⬛ 4/54/42 |  |
 | Be2 | 861 (0.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/51 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 603 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_e6_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 603 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_e6_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Both real tries are true siblings directly off this node, not one nested under the other: **7. d5** is masters' clear main try (59.7%, closing the centre at once and gaining space), narrowly ahead of **7. Nge2** (39.1%, developing first and keeping the tension). Neither is a rare curiosity — both carry their own ECO code.

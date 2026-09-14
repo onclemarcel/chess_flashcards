@@ -45,7 +45,7 @@ r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ - 1 8
 | Qc2 | 0 | — | 18 (3.5%) | — |  |
 | Nd2 | 0 | — | 12 (2.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 123 k games. Masters: 513 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_-_1_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 123 k games. Masters: 513 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_-_1_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -85,7 +85,7 @@ r1bq1rk1/pppn1pb1/3p3p/3Pp1pn/2P1P2P/2N2NB1/PP2BPP1/R2QK2R b KQ h3 0 11
 | Nf4 | 508 (15.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 12 (10.8%) | — |  |
 | f6 | 3 (0.1%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.3 k games. Masters: 111 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pb1/3p3p/3Pp1pn/2P1P2P/2N2NB1/PP2BPP1/R2QK2R_b_KQ_h3_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.3 k games. Masters: 111 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pb1/3p3p/3Pp1pn/2P1P2P/2N2NB1/PP2BPP1/R2QK2R_b_KQ_h3_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Petrosian Variation, Keres Defense** — another Variation/Defense drift on top of Petrosian's own recurring System/Variation one, matching `eco.md`'s own "Keres Variation" only loosely. `eco.md`'s own named sequence stops exactly here, at White's 11th move, without picking a specific reply for Black — the database itself confirms it's still a genuine fork at this final tabiya too, with masters actually preferring **11... g4** (73.9%) over the knight-grabbing **11... Nxg3** (only 15.3%, though it's online's own favourite at 53.0%, a real familiarity gap rather than a trap since Stockfish doesn't punish it either way).

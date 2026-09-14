@@ -25,7 +25,7 @@ r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 b - - 2 9
 | c6 | 7.8 k (1.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/40 | 24 (0.3%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 67/17/17 |  |
 | c5 | 0 | — | 47 (0.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/49/17 |  |
 
-*Online: bullet/blitz, 1800+ — 477 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1_b_-_-_2_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 477 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1_b_-_-_2_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **9... Nd7** (86.3% masters) rerouts Black's own knight from f6, clearing the way for ... f5 without allowing White's own knight to hop into an awkward square along the way, and is the clear masters' favourite — well ahead of the online-competitive but comparatively rare **9... Ne8** (37.1% online, only 12.1% masters), the same rerouting idea via the back rank instead. Both aim at the same eventual ... f5 break; Nd7 is simply considered more accurate today.

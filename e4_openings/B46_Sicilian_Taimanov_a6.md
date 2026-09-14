@@ -29,7 +29,7 @@ r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6
 | f4 | 0 | — | 231 (3.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/33/28 |  |
 | Bf4 | 0 | — | 200 (3.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 6.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1p1p1ppp/p1n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 White has a genuine wide choice here, none overwhelmingly dominant: **6. Be2** (29.0% masters), **6. Nxc6** (25.8%, trading immediately), **6. Be3** (21.3%), and **6. g3** (14.9%, fianchettoing) are all real, independently played tries. Deeper theory for each is its own extensive body of work, not covered further here.

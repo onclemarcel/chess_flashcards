@@ -56,7 +56,7 @@ r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R b K - 1 8
 | Nh5 | 0 | — | 4 (1.9%) | — |  |
 | Ne8 | 0 | — | 2 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 60 k games. Masters: 206 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R_b_K_-_1_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 60 k games. Masters: 206 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R_b_K_-_1_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Keeps the queen flexible on c2 rather than developing the bishop at once. A small masters sample at this exact node (206 games — say so plainly). **A genuine finding worth stating clearly**: both of this node's own `eco.md`-named children — the *Wolf Variation* (8...Ne4, only 9.7% masters) and the *Karlsbad Variation* (8...a6, 22.8%) — are actually beaten by two *uncoded* tries: **8... Re8** (27.2% masters) and **8... h6** (26.7%). Because 8...a6 is nonetheless the highest-frequency *named* try, it's the branch this card dives into deeper below, consistent with this project's standing convention of prioritising coded content — but Re8/h6 genuinely outrank it among real replies here. **8... b6** (6.3%) and **8... dxc4** (3.9%) are further real, secondary tries with no code of their own in this range.
@@ -116,7 +116,7 @@ r1bq1rk1/1p1nbppp/p1p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R w K - 0 9
 | c5 | 1.5 k (12.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 5 (8.6%) | — |  |
 | a4 | 639 (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 3 (5.2%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 12 k games. Masters: 58 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1p1nbppp/p1p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R_w_K_-_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 12 k games. Masters: 58 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1p1nbppp/p1p1pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/2R1KB1R_w_K_-_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. A small masters sample at this exact node (58 games — say so plainly). Prepares ...b5 before White resolves the centre. Masters' clear main reply is **9. a3** (44.8%), heading for the named *Gruenfeld Variation* below. **9. cxd5** (27.6%) heads for the named *Main line* — its own code, D65. **9. Bd3** (13.8%) is a real, secondary try with no code of its own in this range.

@@ -56,7 +56,7 @@ r1bqkb1r/3n1ppp/p3pn2/1N2P3/3p4/3B1N2/PP3PPP/R1BQK2R b KQkq - 0 11
 | Nxe5 | 1.1 k (15.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/8/48 | 224 (26.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/49/19 |  |
 | Ng4 | 305 (4.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/9/46 | 123 (14.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/44/23 |  |
 
-*Online: bullet/blitz, 1800+ — 6.8 k games. Masters: 851 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/3n1ppp/p3pn2/1N2P3/3p4/3B1N2/PP3PPP/R1BQK2R_b_KQkq_-_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 6.8 k games. Masters: 851 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/3n1ppp/p3pn2/1N2P3/3p4/3B1N2/PP3PPP/R1BQK2R_b_KQkq_-_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — named for Soviet theoretician Benjamin Blumenfeld, unrelated to the Blumenfeld Countergambit found elsewhere in this repo's A-series. Grabs the pawn back at once with the knight, exploiting the pin on the d4-pawn's own defender. Masters' clear main try is **11... axb5** (58.6%), simply recapturing; **11... Nxe5** (26.3%) counterattacks instead, the *Sozin Variation*; **11... Ng4** is a real, secondary *Rabinovich Variation*.

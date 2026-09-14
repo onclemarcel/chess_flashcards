@@ -31,7 +31,7 @@ r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/4B3/PP3PPP/RN1QKB1R b KQkq - 2 6
 | Nh6 | 0 | — | 123 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
 | b6 | 0 | — | 18 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/4B3/PP3PPP/RN1QKB1R_b_KQkq_-_2_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 6.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp1pppbp/2n3p1/8/2PNP3/4B3/PP3PPP/RN1QKB1R_b_KQkq_-_2_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **6... Nf6** is masters' clear main try (84.8%), attacking e4 and preparing to castle. **7. Nc3** follows almost automatically (99.7%), reaching a genuine fork at Black's own 7th move — **7... O-O** (48.2%, the calm main line) or **7... Ng4** (30.2%, the sharper *Breyer Variation*, its own code — see below).

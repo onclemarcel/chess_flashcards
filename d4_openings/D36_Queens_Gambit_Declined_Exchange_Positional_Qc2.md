@@ -26,7 +26,7 @@ rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR b KQkq - 1 6
 | Nbd7 | 24 k (6.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/41 | 136 (7.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/38/26 |  |
 | Na6 | 0 | — | 225 (12.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/44/21 |  |
 
-*Online: bullet/blitz, 1800+ — 363 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR_b_KQkq_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 363 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR_b_KQkq_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Eyes a future O-O-O and a kingside pawn storm — the sharper of White's two main plans in this Exchange Carlsbad structure, versus the calmer 6. e3 (78.3% masters at the parent node) that leads toward a slower minority-attack plan on the queenside instead. Not built out further here (backlog) — a genuinely vast body of theory of its own (the Botvinnik/Anti-Meran ideas one side associates with this structure).

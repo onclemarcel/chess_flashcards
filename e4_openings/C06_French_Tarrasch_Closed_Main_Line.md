@@ -27,7 +27,7 @@ r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R b KQkq - 0 8
 | Nb6 | 0 | — | 240 (3.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/30/24 |  |
 | a5 | 0 | — | 63 (1.0%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/33/21 |  |
 
-*Online: bullet/blitz, 1800+ — 565 k games. Masters: 6.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R_b_KQkq_-_0_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 565 k games. Masters: 6.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R_b_KQkq_-_0_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8... f6** is masters' overwhelming main try (86.9%), immediately challenging White's own e5 pawn — the central tension the whole Closed Variation has been building toward since move 4. Deeper theory past this point is its own extensive body of work, one of the most heavily analysed structures in the entire French, not covered further here.

@@ -51,7 +51,7 @@ rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR w KQkq - 0 6
 | Nc3 | 12 k (20.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 63 (2.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 22/44/33 |  |
 | e3 | 1.2 k (2.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/48 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 56 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 56 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/3n4/3P4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters split almost evenly between **6. e4** (49.9%, claiming the centre immediately, kicking the knight) and **6. Nf3** (47.5%, developing first and keeping the e-pawn flexible) — a genuine near-even fork with no dominant try. Sample sizes stay reasonable here (2.5k masters games), but the fork itself is real, not noise.
@@ -88,7 +88,7 @@ rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R b KQkq - 2 7
 | Bg4 | 756 (4.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | e5 | 0 | — | 88 (8.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 47/41/12 |  |
 
-*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Both intermediate plies are close to forced, so this node compresses them into one, mirroring the established convention for near-automatic sequences (D63's own "7...b6 8.cxd5 exd5", D66's "8...dxc4 9.Bxc4"): **6... Nb6** (84.4% masters) retreats the knight to safety rather than the more committal 6... Nb4 (15.5%), and **7. Ne2** (99.4% masters, essentially forced) develops the knight off the awkward g1-square without blocking the f-pawn. Left untagged live (`opening=None`) at both intermediate nodes — the D72 code doesn't attach until 7. Ne2 is actually on the board.

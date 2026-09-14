@@ -73,7 +73,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | e3 | 2.3 M (5.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/45 | 131 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/28 |  |
 | g3 | 613 k (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 815 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/52/20 |  |
 
-*Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 43.0 M games. Masters: 77 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **3. Nc3** (+0.2, 58.9%) — its own code, [D31](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D31_Queens_Gambit_Declined_Queens_Knight_Variation.md). **3. Nf3** (38.9%) is masters' real second choice, keeping similar flexibility while ruling out an early Nc3-... Bb4 pin — and stays this card's own subject.
@@ -132,7 +132,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 | Bg5 | 1.3 M (8.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 4.2 k (4.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/47/22 |  |
 | e3 | 1.1 M (7.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 4.2 k (4.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/51/22 |  |
 
-*Online: bullet/blitz, 1800+ — 16.2 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 16.2 M games. Masters: 106 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' actual main tries here transpose elsewhere: **4. Nc3** (61.7%) merges into the 3.Nc3-first move order (D35/D37's own territory), and **4. g3** (28.6%) heads for the Catalan Opening — neither carries its own code in this D30-D39 range. `eco.md`'s own two D30 entries are both real, if statistically minor, ties: **4. e3** (4.0%) keeps the structure flexible, while **4. Bg5** (4.0%) pins the knight immediately — `eco.md` reuses the card's own bare "Queen's Gambit, Declined" name here, one ply deeper; the live explorer instead tags it the ***Traditional Variation***.
@@ -197,7 +197,7 @@ rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R b KQkq - 1 5
 | c5 | 0 | — | 580 (22.2%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/57/19 |  |
 | b6 | 0 | — | 41 (1.6%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 7/85/7 |  |
 
-*Online: bullet/blitz, 1800+ — 253 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 253 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` names this exact tabiya the *Slav Defence*, reusing the D10-D19 complex's own family name for a transposed structure reached via 2... e6 instead; the live explorer independently tags it the ***Semi-Slav Defense: Quiet Variation*** instead — technically correct, since e6 has already been played, but a real, substantial name divergence from `eco.md`'s own choice. Masters' clear main try is **5... Nbd7** (62.3%) — the exact same `eco.md` name is reused a second time here. **5... Ne4** (0.8%) heads for the historic *Stonewall Variation*; **5... g6** is the rarer *Spielmann Variation*.
@@ -326,7 +326,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 3 4
 | dxc4 | 81 k (5.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 757 (17.7%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/52/25 |  |
 | h6 | 54 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 694 (16.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/44/28 |  |
 
-*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 4.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 4.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` leaves this bare tabiya named only "Queen's Gambit, Declined", the card's own root name reused; the live explorer independently names it the ***Traditional Variation***. Masters' clear main try is **4... Be7** (37.3%), the Orthodox tabiya, not covered further here — its own vast body of theory. **4... Nbd7** (8.8%) heads for the *Capablanca Variation*, **4... Bb4** (12.4%) for the *Vienna Variation*, and **4... h6** (16.3%) transposes into the same *Capablanca Variation* one ply later.
@@ -407,7 +407,7 @@ rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 5
 | Bxf6 | 16 k (29.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/7/43 | 554 (79.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/47/24 |  |
 | Bf4 | 1.6 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/47 | 4 (0.6%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 54 k games. Masters: 694 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 54 k games. Masters: 694 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Capablanca-Duras Variation* — a distinct name from the 4...Nbd7 node above; the live explorer tags both positions identically, just the *Capablanca Variation* — a real name divergence. Masters' clear main try is **5. Bxf6** (+0.08, 79.8%), trading immediately rather than retreating to h4 — the exact continuation escalating to the *Hastings Variation*.

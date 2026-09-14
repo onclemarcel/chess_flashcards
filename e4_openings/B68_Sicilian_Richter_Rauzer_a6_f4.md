@@ -26,7 +26,7 @@ r2qk2r/1p1bbppp/p1nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R w kq - 1 10
 | Bxf6 | 2.2 k (6.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/9/48 | 0 | — | ⚠ |
 | Nb3 | 0 | — | 34 (1.9%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 21/38/41 |  |
 
-*Online: bullet/blitz, 1800+ — 35 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/1p1bbppp/p1nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R_w_kq_-_1_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 35 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/1p1bbppp/p1nppn2/6B1/3NPP2/2N5/PPPQ2PP/2KR1B1R_w_kq_-_1_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **10. Nf3** is masters' clear main try (82.5%), retreating the knight to a flexible square rather than committing further. **10... b5** follows almost automatically (94.7%), grabbing queenside space — White's own 11th move, already live-tagged **B69**, is not covered further here.

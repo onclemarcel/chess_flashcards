@@ -53,7 +53,7 @@ r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQ - 3 7
 | h3 | 12 k (1.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 0 | — | ⚠ |
 | Qb3 | 0 | — | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 799 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_3_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 799 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_3_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Develops the other knight rather than the bishop, the classical treatment against the Bg5 pin. Masters' clear main try is **7. Rc1** (50.7%), simply developing — covered below, its own code D63, and the trunk feeding the entire rest of this batch (D63 through D69). **7. Qc2** (28.0%) is D61's own root. **7. cxd5** (11.5%) is a real, secondary try with no code of its own in this range — and, on the actual numbers, it outranks *both* of this card's own named children below (Botvinnik 8.1%, Rauzer only 0.4%), the first instance in this batch of an `eco.md`-coded line trailing an uncoded rival at its own fork. **7. Bd3** (8.1% masters) is a genuinely large online outlier (33.7% online, over 4× its masters share) — worth a clear sentence, though the gap doesn't clear the numeric blitz-trap bar (masters must sit under 2%, and 8.1% doesn't). **7. Qb3** (only 0.4% masters, 0.6% online) is a database rarity despite carrying its own code — mirrors the Been-Koomen/Rochlin pattern already seen in the D50-D59 batch.

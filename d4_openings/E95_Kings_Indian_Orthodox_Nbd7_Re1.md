@@ -50,7 +50,7 @@ r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 b - - 3 8
 | h6 | 3.7 k (4.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 116 (6.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 | Qe7 | 3.2 k (3.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 18 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 81 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1_b_-_-_3_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 81 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1_b_-_-_3_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -89,7 +89,7 @@ r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1 w - - 0 9
 | Bg5 | 1.5 k (4.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | b3 | 0 | — | 6 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 36 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1_w_-_-_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 36 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQR1K1_w_-_-_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **9. Bf1** is masters' overwhelming reply (84.4%) — retreating the bishop to its most flexible square before deciding between b4, d5, or a kingside build-up. This still stays E95's own code; `eco.md`'s next named entry doesn't begin until Black's own reply to it.
@@ -119,7 +119,7 @@ r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 b - - 1 9
 | a5 | 0 | — | 342 (29.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 | a6 | 0 | — | 86 (7.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/37/29 |  |
 
-*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1_b_-_-_1_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 21 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1_b_-_-_1_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Black's own reply here is close to a coin flip between two real tries: **9... a5** (29.9% masters) — `eco.md`'s own compressed "9.Bf1 a5" bullet, which becomes [E96](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E96_Kings_Indian_Orthodox_Nbd7_Main_Line.md)'s own "Main Line" root — and the simplifying **9... exd4** (29.2%), essentially tied for first and carrying no code of its own here.

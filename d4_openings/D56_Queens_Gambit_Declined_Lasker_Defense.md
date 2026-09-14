@@ -50,7 +50,7 @@ rnbq1rk1/ppp1bpp1/4p2p/3p4/2PPn2B/2N1PN2/PP3PPP/R2QKB1R w KQ - 2 8
 | Nxe4 | 2.7 k (2.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 0 | — | ⚠ |
 | Rc1 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 133 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4p2p/3p4/2PPn2B/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_2_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 133 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bpp1/4p2p/3p4/2PPn2B/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_2_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Challenges the bishop pair immediately, offering simplification in exchange for easy equality — Lasker's own pragmatic solution to the pin. Masters' overwhelming, near-forced reply is **8. Bxe7** (97.2%), covered below. **8. Bg3** (2.7%) is a real, secondary try with no code of its own in this range.
@@ -85,7 +85,7 @@ rnb2rk1/ppp1qpp1/4p2p/3p4/2PPn3/2N1PN2/PP3PPP/R2QKB1R w KQ - 0 9
 | Rc1 | 18 k (15.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/11/41 | 1.0 k (58.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 24/65/11 |  |
 | Qc2 | 0 | — | 338 (19.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 20/72/8 |  |
 
-*Online: bullet/blitz, 1800+ — 118 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1qpp1/4p2p/3p4/2PPn3/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 118 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1qpp1/4p2p/3p4/2PPn3/2N1PN2/PP3PPP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node. **A genuine finding worth stating plainly**: neither of the two named continuations `eco.md` gives its own codes to here is actually masters' most common choice. Masters' real main try is **9. Rc1** (58.9%), simply developing the rook — a real, secondary try with no code of its own in this range. **9. Qc2** (19.4%) heads for the named *Teichmann Variation* below, this card's own deeper line. **9. cxd5** (14.6%) heads for the named *Main line* — its own code, D57. **9. Bd3** (3.8%), **9. Qb3** (1.9%) and **9. Nxe4** (1.1%) are all real, secondary tries with no code of their own in this range.

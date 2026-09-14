@@ -26,7 +26,7 @@ Live-tagged the *Traditional Variation* — a real name divergence from `eco.md`
 | d4 | 117 k (29.0%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/3/54 | 27 (33.3%) | ⬜⬜🟫🟫⬛⬛⬛⬛⬛⬛ 19/22/59 |  |
 | h4 | 40 k (10.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/49 | 14 (17.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 405 k games. Masters: 81 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_2_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 405 k games. Masters: 81 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1pbp/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_2_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters split almost evenly between **5. O-O** (48.1%, the *Hanstein Gambit*) and **5. d4** (33.3%, untagged). All three tries draw an unusually high share of games (42-64%), a recurring pattern once material stays roughly balanced on both sides.
@@ -104,7 +104,7 @@ Undermines the g5-pawn immediately rather than developing further. Masters' over
 | h6 | 26 k (61.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 13 (92.9%) | — |  |
 | g4 | 14 k (33.9%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 54/3/43 | 1 (7.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 41 k games. Masters: 14 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1pbp/8/6p1/2B1Pp1P/5N2/PPPP2P1/RNBQK2R_b_KQkq_h3_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 41 k games. Masters: 14 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pppp1pbp/8/6p1/2B1Pp1P/5N2/PPPP2P1/RNBQK2R_b_KQkq_h3_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves

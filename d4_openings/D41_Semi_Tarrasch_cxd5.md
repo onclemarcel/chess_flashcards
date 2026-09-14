@@ -53,7 +53,7 @@ rnbqkb1r/pp3ppp/4pn2/2pP4/3P4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 0 5
 | Nc6 | 2.9 k (0.4%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 70/3/26 | 0 | — | ⚠ |
 | c4 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 692 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pP4/3P4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 692 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pP4/3P4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5... Nxd5** (+0.09, 58.8%), recapturing with the knight to keep the position dynamic and central.

@@ -64,7 +64,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
 | e3 | 2.3 M (8.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 126 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 21/52/28 |  |
 | Bf4 | 1.5 M (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 166 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 37/46/16 |  |
 
-*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 27.6 M games. Masters: 34 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4. cxd5** (53.7%), resolving the central tension immediately. **4. Bg5** (23.0%) pins the knight instead — its own code, [D50](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D50_Queens_Gambit_Declined_Bg5.md), covered there. *Correction to a claim this card carried before this batch*: 4. Bg5 was previously described here as transposing toward D30's own Traditional Variation tree; `apply_san.py` confirms that's wrong — D30's own 4.Bg5 arrives via 3.Nf3 (the knight on f3), while this position arrives via 3.Nc3 (the knight on c3) — a genuinely distinct position, not a transposition, and now built out as its own card, D50. **4. Nf3** (22.4%) develops naturally — its own code, [D37](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D37_Queens_Gambit_Declined_Three_Knights_Variation.md). **4. Bf4** is a genuine rarity, the *Harrwitz Attack*.
@@ -123,7 +123,7 @@ rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4
 | Be7 | 101 k (1.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | a6 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. Masters' overwhelming reply is **4... exd5** (92.3%), keeping the pawn structure symmetrical and the position free of immediate tension.
@@ -205,7 +205,7 @@ rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 5
 | Bb4 | 296 k (7.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 881 (5.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/42/23 |  |
 | Nbd7 | 228 k (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 850 (5.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 45/39/17 |  |
 
-*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 4.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *positional line*; the live explorer independently spells it the ***Positional Variation*** — essentially the same name, no real divergence. Masters split between **5... c6** (47.8%), the card's own D36-forking continuation, and **5... Be7** (−0.16, 40.8%), which reaches the named *Chameleon Variation*.
@@ -262,7 +262,7 @@ rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6
 | Qc2 | 294 k (19.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 1.7 k (21.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/48/19 |  |
 | Nf3 | 113 k (7.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 24 (0.3%) | ⬜🟫🟫🟫🟫🟫🟫⬛⬛⬛ 12/58/29 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **6. e3** (78.3%), transposing toward the main Carlsbad structure — no code of its own in this range. **6. Qc2** (21.4%) heads for its own code, [D36](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D36_Queens_Gambit_Declined_Exchange_Positional_Qc2.md).

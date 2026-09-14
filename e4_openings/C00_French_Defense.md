@@ -56,7 +56,7 @@ rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2
 | Qe2 | 0 | — | 2.1 k (1.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/32/29 |  |
 | b3 | 0 | — | 721 (0.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/35/31 |  |
 
-*Online: bullet/blitz, 1800+ — 159.0 M games. Masters: 153 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 159.0 M games. Masters: 153 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR_w_KQkq_-_0_2#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -104,7 +104,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3
 | c4 | 496 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 0 | — | ⚠ |
 | Be3 | 0 | — | 30 (0.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/40/33 |  |
 
-*Online: bullet/blitz, 1800+ — 67.4 M games. Masters: 140 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 67.4 M games. Masters: 140 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR_w_KQkq_d6_0_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Black's second move of the French Defence attacks the e-pawn and puts the question to White, who has to decide how to resolve the central tension: exchange the pawn, advancing it, or protecting it.
@@ -145,7 +145,7 @@ rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3
 | c5 | 1.2 M (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 1.6 k (2.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/25 |  |
 
-*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 71 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 21.9 M games. Masters: 71 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork — neither try is presented as dominant:

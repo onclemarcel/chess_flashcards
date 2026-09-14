@@ -31,7 +31,7 @@ r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R b KQ - 2 9
 | Bg4 | 0 | — | 20 (19.2%) | ⬜🟫🟫🟫🟫🟫🟫🟫⬛⬛ 10/70/20 |  |
 | Nd7 | 0 | — | 8 (7.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 22 k games. Masters: 104 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R_b_KQ_-_2_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 22 k games. Masters: 104 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N1B3/PP2B1PP/R2QK2R_b_KQ_-_2_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Black's own 9th move is a genuine multi-way split, no single try dominant: **9... Bd7** is masters' plurality (28.8%), followed by **9... Bg4** (19.2%), **9... Ng4** (13.5%), and **9... Qb6** (12.5%) — none of these carries a code of its own this deep in the tree, and this card closes out the whole E70-E79 batch here rather than following any of them further.

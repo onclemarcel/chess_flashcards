@@ -26,7 +26,7 @@ r2qkbnr/1ppb1ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 6
 | h3 | 2.8 k (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 0 | — | ⚠ |
 | Bc2 | 0 | — | 2 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 63 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkbnr/1ppb1ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 63 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkbnr/1ppb1ppp/p1np4/4p3/B3P3/2P2N2/PP1P1PPP/RNBQK2R_w_KQkq_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters split between **6. d4** (56.9%) and **6. O-O** (41.6%). **6. d4 Nge7** reaches the named ***Rubinstein Variation***:

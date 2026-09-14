@@ -54,7 +54,7 @@ rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | Bf5 | 872 k (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 66 (0.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/33/17 |  |
 | dxc4 | 615 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 1.1 k (1.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/41/24 |  |
 
-*Online: bullet/blitz, 1800+ — 12.6 M games. Masters: 75 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 12.6 M games. Masters: 75 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/2p5/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear favourite is **3... Nf6** (91.7%) — completing development before deciding on a structure, the same logical order as 2... c6 itself.
@@ -90,7 +90,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4
 | Qc2 | 428 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/7/39 | 5.1 k (5.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 | Qb3 | 0 | — | 2.8 k (3.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/45/18 |  |
 
-*Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 11.4 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 White's 4th move splits the whole rest of Slav theory: **4. Nc3** (+0.2) develops naturally toward the *Three Knights Variation* — its own code, [D15](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md) — while **4. e3** (the *Quiet Variation*) and **4. Nbd2** (the *Breyer Variation*) both stay D11, and **4. cxd5** (+0.12) heads for its own *Exchange Variation* — a different code, [D13](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D13_Slav_Defense_Exchange_Variation.md), from the one reached via 4.e3 Bf5 5.cxd5 (D12).
@@ -129,7 +129,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP1NPPPP/R1BQKB1R b KQkq - 3 4
 | g6 | 23 k (11.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 215 (19.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/41/18 |  |
 | a6 | 13 k (6.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/8/42 | 31 (2.8%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 45/23/32 |  |
 
-*Online: bullet/blitz, 1800+ — 205 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 205 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/5N2/PP1NPPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer exactly here. An unusual square for the queen's knight, keeping options flexible before deciding between e3/Bd3 or a quick cxd5. Masters' clear main try is **4... Bf5** (61.0%), developing the light-squared bishop before it can be shut in. Not built out further here (backlog).
@@ -163,7 +163,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4
 | g6 | 345 k (10.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/45 | 1.9 k (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 37/48/16 |  |
 | a6 | 177 k (5.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 3.2 k (10.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/47/19 |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 29 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/4PN2/PP3PPP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md`'s bare "4.e3" and the live explorer's *Quiet Variation* refer to the same move — no divergence here. Keeps the position flexible, delaying Nc3 so a later cxd5/Nc3 or a Stonewall-style c5 push both stay available, at the cost of blocking in the c1-bishop for now. Masters' clear main try is **4... Bf5** (+0.14, 36.0%) — one ply deeper this becomes its own named code, the *Quiet Variation, Schallopp Defense*, [D12](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D12_Slav_Defense_Schallopp_Defense.md).

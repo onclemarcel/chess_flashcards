@@ -45,7 +45,7 @@ r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Nc3 | 385 k (6.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 656 (2.0%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/59/17 |  |
 | Qe2 | 0 | — | 835 (2.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/38/28 |  |
 
-*Online: bullet/blitz, 1800+ — 6.0 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 6.0 M games. Masters: 33 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 * **4. O-O** (+0.11, 56.1% masters): masters' clear main try — leads to the famous Berlin Wall complex, its own card, [C67](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C67_Ruy_Lopez_Berlin_Open.md) (after 4...Nxe4, live-tagged the *Rio Gambit Accepted*), or the quieter [C66](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C66_Ruy_Lopez_Berlin_Closed.md) (after 4...d6, the *Improved Steinitz Defense*) — both covered on their own cards.

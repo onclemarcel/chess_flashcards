@@ -24,7 +24,7 @@ r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 0 4
 | bxc6 | 108 k (3.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/39 | 82 (0.8%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 49/26/26 |  |
 | Nf6 | 5.9 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 71/4/26 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1ppp1ppp/p1B5/4p3/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... dxc6** is masters' overwhelming choice (99.2%), keeping the bishop pair and a healthy pawn majority on the kingside rather than doubling the a/c-pawns with 4...bxc6. White's own 5th move genuinely forks:

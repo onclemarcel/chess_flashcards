@@ -26,7 +26,7 @@ rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR w KQkq - 1 7
 | f4 | 58 k (7.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/49 | 0 | — | ⚠ |
 | a4 | 0 | — | 771 (6.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/37/26 |  |
 
-*Online: bullet/blitz, 1800+ — 758 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR_w_KQkq_-_1_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 758 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2nppp/4p3/2ppP3/3P4/P1P5/2P2PPP/R1BQKBNR_w_KQkq_-_1_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **7. Qg4** is masters' clear main try (63.0%), the *Poisoned Pawn Variation* — see below. **7. Nf3** (18.4%) is the *positional Main Line*, sidestepping the sharp queen sortie for calmer development (+0.2 Stockfish). **7. a4** (6.9%) is the *Smyslov Variation* (+0.2). **7. h4** (11.1%) stays C19, not built out further here.
@@ -54,7 +54,7 @@ rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR b KQkq - 2 7
 | cxd4 | 45 k (11.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 944 (13.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/54/15 |  |
 | Kf8 | 29 k (7.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 684 (9.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/36/26 |  |
 
-*Online: bullet/blitz, 1800+ — 402 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR_b_KQkq_-_2_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 402 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/pp2nppp/4p3/2ppP3/3P2Q1/P1P5/2P2PPP/R1B1KBNR_b_KQkq_-_2_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Black has a genuine near-even fork: **7... Qc7** (32.2% masters, the line that actually leads toward the "poisoned pawn" ideas below) and **7... O-O** (42.1%, a real practical alternative avoiding the whole complex).

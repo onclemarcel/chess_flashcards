@@ -57,7 +57,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4
 | c6 | 70 k (3.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 22 (0.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/55/18 |  |
 | e6 | 10 k (0.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_1_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... Bg7** is close to automatic (99.8% masters) — the natural fianchetto, keeping every one of this card's own further code lines reachable. **4... c6** is a genuine database rarity here (0.2% masters, 22 games) but a real, verified transposition worth flagging plainly: `apply_san.py` confirms this exact position — same piece placement, side to move, castling rights, halfmove and fullmove clocks — is character-for-character identical to the Slav Defense's own tabiya at [D15's "Schlechter Variation"](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D15_Slav_Defense_Three_Knights.md#_Schlechter_) (reached there via `1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 g6`). `eco.md` borrows the very same "Schlechter Variation" name for this Grünfeld move order — not a coincidence or a naming error, but the same tabiya reached by transposition, and this card defers to D15's own existing build-out rather than duplicating it.
@@ -120,7 +120,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 2 5
 | h4 | 0 | — | 739 (3.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/46/21 |  |
 | Qa4+ | 0 | — | 380 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/39/26 |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_2_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.2 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_2_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 This is the real, wide fork this whole batch hangs off: five genuine tries, four of which carry their own code. **5. Qb3** is masters' narrow plurality (27.8%) — the Russian Variation, its own code, [D96](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D96_Grunfeld_Russian_Variation.md), and the deepest, most important sub-tree in this whole batch. **5. cxd5** (25.6% masters) is a real, significant secondary — a different-flavoured Exchange trade with the knight already committed to f3 rather than e4 — but is never asserted to transpose into D85's own Exchange tree (unverified, and structurally a different pawn/piece configuration); it carries no code of its own in this range. **5. Bg5** (19.8% masters, just under this repo's own 20% subroutine threshold) is [D91](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D91_Grunfeld_5Bg5.md)'s own code, live-tagged the **Petrosian System** — a real name `eco.md` itself leaves bare as "5.Bg5". **5. e3** (+0.08, 10.7% masters) is [D94](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D94_Grunfeld_5e3.md)'s own code, live-tagged the **Burille Variation** — again a real name `eco.md` doesn't carry. **5. Bf4** (9.1% masters) is [D92](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D92_Grunfeld_5Bf4.md)'s own code, live-tagged the **Hungarian Attack**. **5. Qa4+** (2.0% masters) is the Flohr Variation, staying on this card — see below.
@@ -159,7 +159,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/Q1PP4/2N2N2/PP2PPPP/R1B1KB1R b KQkq - 3 5
 | Bd7 | 4.2 k (40.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 286 (75.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 | Nc6 | 624 (5.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 17 (4.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 11 k games. Masters: 380 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/Q1PP4/2N2N2/PP2PPPP/R1B1KB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 11 k games. Masters: 380 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/Q1PP4/2N2N2/PP2PPPP/R1B1KB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Flohr Variation**, confirming the name — the second of two unrelated "Flohr" names in this D90-D99 batch (D94's own Flohr Defence, deeper in the e3 tree below, is the other; both are themselves the third and fourth independent "Flohr"-named reuses across this D-series sweep, after D25's Flohr Variation and D28's own Classical, Flohr Variation, per `eco.md`'s own note there). Masters' clear main try is **5... Bd7** (75.3%), simply blocking the check and preparing ...dxc4 or ...c6; **5... c6** (20.3%) declines the tempo instead.

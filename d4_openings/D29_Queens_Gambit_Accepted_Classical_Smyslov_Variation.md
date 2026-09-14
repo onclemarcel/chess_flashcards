@@ -42,7 +42,7 @@ rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1 w kq - 2 9
 | a4 | 1.3 k (9.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 229 (35.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/45/25 |  |
 | Nc3 | 940 (6.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/48 | 56 (8.7%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 23/39/38 |  |
 
-*Online: bullet/blitz, 1800+ — 14 k games. Masters: 647 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1_w_kq_-_2_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 14 k games. Masters: 647 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1_w_kq_-_2_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **9. Rd1** (+0.00, 53.8%), adding pressure down the d-file before deciding on the centre.

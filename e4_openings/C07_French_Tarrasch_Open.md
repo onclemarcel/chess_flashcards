@@ -25,7 +25,7 @@ rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq c6 0 4
 | c3 | 492 k (23.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 174 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/38/36 |  |
 | dxc5 | 107 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 145 (0.9%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/36/34 |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/8/PPPN1PPP/R1BQKBNR_w_KQkq_c6_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork: **4. exd5** (55.3% masters) and **4. Ngf3** (42.6%, stays C07, not built out further here).
@@ -50,7 +50,7 @@ rnbqkbnr/pp3ppp/4p3/2pP4/3P4/8/PPPN1PPP/R1BQKBNR b KQkq - 0 4
 | Nc6 | 3.4 k (0.4%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 72/4/24 | 0 | — | ⚠ |
 | Qd7 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 896 k games. Masters: 8.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pP4/3P4/8/PPPN1PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 896 k games. Masters: 8.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp3ppp/4p3/2pP4/3P4/8/PPPN1PPP/R1BQKBNR_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... Qxd5** is masters' own main try here (58.7%, stays C07 — see below), while **4... exd5** (41.2%) leaves the Open System's own queen-recapture idea for its own further-named code.
