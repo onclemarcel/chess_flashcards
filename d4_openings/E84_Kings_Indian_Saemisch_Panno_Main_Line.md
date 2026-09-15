@@ -31,7 +31,7 @@ Continues from [E83's own "7... a6" node](https://github.com/onclemarcel/chess_f
 | a3 | 0 | — | 75 (4.0%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 47/25/28 |  |
 | Bh6 | 0 | — | 50 (2.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/44/30 |  |
 
-*Online: bullet/blitz, 1800+ — 56 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R_w_KQ_-_2_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 56 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/1rbq1rk1/1pp1ppbp/p1np1np1/8/2PPP3/2N1BP2/PP1QN1PP/R3KB1R_w_KQ_-_2_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's own 9th move genuinely scatters three ways, with no dominant try: **9. Rc1** (28.3% masters), **9. h4** (25.0%), and **9. Nc1** (24.7%, rerouting the knight to d3) are all close together, each aiming at a different plan (queenside play, an immediate kingside pawn storm, and repositioning the c3-knight, respectively). None is built further here — this is the deepest node reached in this whole Sämisch batch.

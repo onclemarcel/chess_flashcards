@@ -27,7 +27,7 @@ rnbqkb1r/pp3ppp/3ppn2/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R b KQkq g3 0 6
 | e5 | 12 k (7.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 319 (7.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/37/24 |  |
 | d5 | 1.4 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 13 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 155 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R_b_KQkq_g3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 155 k games. Masters: 4.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP1P1/2N5/PPP2P1P/R1BQKB1R_b_KQkq_g3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6... h6** is masters' clear main try (64.4%), rejecting the offer to open the h-file with ... h5 and instead simply preventing g5. Deeper Keres Attack theory (7. h4, the resulting kingside pawn race) is its own extensive body of work, not covered further here.

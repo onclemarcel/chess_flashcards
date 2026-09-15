@@ -50,7 +50,7 @@ rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq c6 0 5
 | a3 | 6.1 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | Be3 | 0 | — | 3 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_c6_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.1 M games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_c6_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5. cxd5** (+0.16, 85.1%) — its own code, [D41](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D41_Semi_Tarrasch_cxd5.md). **5. e3** (+0.16, 13.5%) declines the trade a move longer and stays D40; **5. Bg5** (−0.17) is a genuine rarity, the *Pillsbury Variation*.

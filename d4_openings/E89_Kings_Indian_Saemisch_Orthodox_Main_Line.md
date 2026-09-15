@@ -25,7 +25,7 @@ rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R w KQ - 0 9
 | exd5 | 136 (1.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 44/1/54 | 0 | — | ⚠ |
 | c5 | 13 (0.1%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 12 k games. Masters: 88 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 12 k games. Masters: 88 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3p1np1/3pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R_w_KQ_-_0_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **9. cxd5** is close to automatic (98.9% masters) — White simply recaptures, reaching a structure much like a reversed Benoni, with a protected passed d-pawn against Black's own space on the kingside. This closes out the whole Sämisch Variation spine, E80 through E89, without a single gap in the chain. Not explored further here.

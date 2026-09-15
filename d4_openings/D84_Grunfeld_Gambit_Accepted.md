@@ -60,7 +60,7 @@ rnb2rk1/ppp1ppbp/6p1/3q4/3P1B2/4P3/PP3PPP/R2QKBNR w KQ - 0 8
 | Nf3 | 3.6 k (18.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 38/7/55 | 0 | — | ⚠ |
 | Ne2 | 389 (1.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 1 (0.3%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 20 k games. Masters: 303 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1ppbp/6p1/3q4/3P1B2/4P3/PP3PPP/R2QKBNR_w_KQ_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 20 k games. Masters: 303 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/ppp1ppbp/6p1/3q4/3P1B2/4P3/PP3PPP/R2QKBNR_w_KQ_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 <a name="_Bxc7_"></a>

@@ -44,7 +44,7 @@ rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 6
 | Na6 | 4.5 k (1.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/50 | 24 (0.4%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 62/4/33 |  |
 | Bd3 | 3.5 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/44 | 51 (0.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 29/59/12 |  |
 
-*Online: bullet/blitz, 1800+ — 376 k games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 376 k games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R_b_KQkq_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' near-unanimous reply is **6... e6** (+0.07 a few moves later, 98.0%), reaching the deep, heavily analysed *Dutch Variation* tabiya one ply further — its own code, [D19](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D19_Slav_Defense_Dutch_Variation_Main_Line.md). The rare **6... Na6** stays D18 as the *Lasker Variation*.

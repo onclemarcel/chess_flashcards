@@ -56,7 +56,7 @@ rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5
 | Nbd2 | 7.9 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 1 (0.0%) | — | ⚠ |
 | Qa4+ | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 870 k games. Masters: 9.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 870 k games. Masters: 9.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' near-forced reply is **5. Bxc4** (99.8%), finally regaining the pawn.
@@ -115,7 +115,7 @@ rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R w KQkq c6 0 6
 | Bd3 | 5.0 k (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 660 (7.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 41/45/14 |  |
 
-*Online: bullet/blitz, 1800+ — 370 k games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R_w_KQkq_c6_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 370 k games. Masters: 9.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R_w_KQkq_c6_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Classical Variation*; the live explorer spells it the ***Classical Defense*** (a minor naming difference, not substantive). Masters' overwhelming reply is **6. O-O** (90.4%), castling before deciding on the centre. **6. Qe2** (+0.10, 7.1%) is a real, if secondary, immediate try that this card follows down to the *Furman Variation*.
@@ -173,7 +173,7 @@ rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 b kq - 1 6
 | cxd4 | 57 k (20.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 190 (2.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 44/43/13 |  |
 | Be7 | 14 k (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/44 | 50 (0.6%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 60/32/8 |  |
 
-*Online: bullet/blitz, 1800+ — 284 k games. Masters: 8.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1_b_kq_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 284 k games. Masters: 8.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1_b_kq_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **6... a6** (+0.22 a move later, 84.0%) — its own code, [D27](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D27_Queens_Gambit_Accepted_Classical_Main_Line.md). **6... cxd4** stays D26, a genuine minority try (2.2%).

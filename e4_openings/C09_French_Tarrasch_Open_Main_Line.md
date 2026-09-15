@@ -25,7 +25,7 @@ r1bqkbnr/pp3ppp/2n5/2pp4/3P4/5N2/PPPN1PPP/R1BQKB1R w KQkq - 2 6
 | c3 | 12 k (5.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 5 (0.2%) | — |  |
 | Be2 | 8.6 k (4.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 115 (4.7%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/49/23 |  |
 
-*Online: bullet/blitz, 1800+ — 213 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/5N2/PPPN1PPP/R1BQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 213 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp3ppp/2n5/2pp4/3P4/5N2/PPPN1PPP/R1BQKB1R_w_KQkq_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6. Bb5** is close to automatic (90.8% of masters games), pinning the newly-developed knight against the coming ... a6/... Bd6 development. Deeper theory past this point — one of the Tarrasch's own most concretely analysed structures — is its own extensive body of work, not covered further here.

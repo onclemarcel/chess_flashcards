@@ -45,7 +45,7 @@ rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1 b kq - 1 7
 | cxd4 | 2.1 k (6.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/45 | 54 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/43/17 |  |
 | Nbd7 | 1.2 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/45 | 20 (1.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 45/40/15 |  |
 
-*Online: bullet/blitz, 1800+ — 32 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1_b_kq_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 32 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1_b_kq_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Prepares Rd1 without committing the bishop yet. Masters' clear main try is **7... b5** (79.2%), grabbing queenside space at once.
@@ -77,7 +77,7 @@ rnbqkb1r/5ppp/p3pn2/1pp5/2BP4/4PN2/PP2QPPP/RNB2RK1 w kq b6 0 8
 | Bb3 | 12 k (60.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/47 | 618 (61.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/43/29 |  |
 | Bd3 | 8.1 k (39.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 393 (38.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/50/22 |  |
 
-*Online: bullet/blitz, 1800+ — 20 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/5ppp/p3pn2/1pp5/2BP4/4PN2/PP2QPPP/RNB2RK1_w_kq_b6_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 20 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/5ppp/p3pn2/1pp5/2BP4/4PN2/PP2QPPP/RNB2RK1_w_kq_b6_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters split between **8. Bb3** (+0.00, 61.1%), tucking the bishop away from a future ... c4 or ... b4 tempo, and **8. Bd3** (38.9%) — a genuinely scattered choice. The Bb3 branch leads to the deeply analysed *Flohr Variation*.

@@ -25,7 +25,7 @@ r1bq1rk1/pp3ppp/2n1pn2/8/1bBp4/P1N1PN2/1P3PPP/R1BQ1RK1 w - - 0 10
 | Nxd4 | 185 (6.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/4/53 | 0 | — | ⚠ |
 | Nb5 | 10 (0.3%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.9 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/8/1bBp4/P1N1PN2/1P3PPP/R1BQ1RK1_w_-_-_0_10#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.9 k games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp3ppp/2n1pn2/8/1bBp4/P1N1PN2/1P3PPP/R1BQ1RK1_w_-_-_0_10#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **10. exd4** is masters' clear main try (81.8%), recapturing toward the centre. **10. axb4** (18.2%) instead wins the bishop back a different way.

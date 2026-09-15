@@ -29,7 +29,7 @@ r1b2rk1/2q1bppp/p2p1n2/np2p3/3PP3/5N1P/PPBN1PP1/R1BQR1K1 b - - 0 13
 | Re8 | 0 | — | 97 (2.8%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 23/64/13 |  |
 | Be6 | 0 | — | 32 (0.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/47/16 |  |
 
-*Online: bullet/blitz, 1800+ — 36 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p2p1n2/np2p3/3PP3/5N1P/PPBN1PP1/R1BQR1K1_b_-_-_0_13#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 36 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p2p1n2/np2p3/3PP3/5N1P/PPBN1PP1/R1BQR1K1_b_-_-_0_13#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **13... Nc6** (56.4%), simply recentralising the knight now that the queenside space no longer matters — **13... Bb7** (19.0%) and **13... Bd7** (12.0%) are both real, secondary tries. Not built out further here (backlog).

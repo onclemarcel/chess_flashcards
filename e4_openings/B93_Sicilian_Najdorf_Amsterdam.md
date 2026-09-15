@@ -28,7 +28,7 @@ rnbqkb1r/1p2pppp/p2p1n2/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq f3 0 6
 | b5 | 17 k (4.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/45 | 0 | — | ⚠ |
 | Nbd7 | 0 | — | 430 (9.6%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/34/36 |  |
 
-*Online: bullet/blitz, 1800+ — 384 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 384 k games. Masters: 4.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p2pppp/p2p1n2/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black has a genuine spread of replies, no dominant try: **6... e5** (47.5%), **6... Qc7** (19.3%), **6... e6** (17.8%), **6... Nbd7** (9.6%). Deeper theory not covered further here.

@@ -26,7 +26,7 @@ rnbqkb1r/pp3ppp/3ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R b KQkq f3 0 6
 | Nbd7 | 2.1 k (2.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 0 | — | ⚠ |
 | e5 | 0 | — | 3 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 78 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 78 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NPP2/2N5/PPP3PP/R1BQKB1R_b_KQkq_f3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black has a genuine three-way fork, no dominant try: **6... a6** (46.6%), **6... Nc6** (30.7%, see below), and **6... Be7** (22.1%).

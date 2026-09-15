@@ -25,7 +25,7 @@ r1bqkbnr/2p2ppp/p1pp4/4p3/3PP3/5N2/PPP2PPP/RNBQK2R b KQkq d3 0 6
 | Bg4 | 1.9 k (10.3%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 60/6/35 | 35 (4.2%) | ⬜⬜⬜⬜⬜⬜⬜🟫⬛⬛ 69/11/20 |  |
 | Nf6 | 304 (1.7%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 58/6/36 | 27 (3.2%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/30/41 |  |
 
-*Online: bullet/blitz, 1800+ — 18 k games. Masters: 839 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/2p2ppp/p1pp4/4p3/3PP3/5N2/PPP2PPP/RNBQK2R_b_KQkq_d3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 18 k games. Masters: 839 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/2p2ppp/p1pp4/4p3/3PP3/5N2/PPP2PPP/RNBQK2R_b_KQkq_d3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' reply forks two ways: **6... f6** (51.6%, its own named line below) and **6... exd4** (40.9%, simplifying at once).

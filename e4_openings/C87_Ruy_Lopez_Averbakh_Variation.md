@@ -25,7 +25,7 @@ r1bqk2r/1pp1bppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1 w kq - 0 7
 | d4 | 11 k (8.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 8 (1.1%) | — |  |
 | Bxc6+ | 2.7 k (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/8/38 | 188 (26.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 31/55/13 |  |
 
-*Online: bullet/blitz, 1800+ — 129 k games. Masters: 707 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pp1bppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_w_kq_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 129 k games. Masters: 707 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/1pp1bppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQR1K1_w_kq_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **7. c3** (70.6%), preparing d4 while keeping the option of a later ... b5/Bb3; **7. Bxc6+** (26.6%) trades off the bishop pair outright, transposing toward Exchange-flavoured structures a tempo later than usual. Not built out further here (backlog).

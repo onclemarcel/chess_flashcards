@@ -52,7 +52,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/1QN2N2/PP2PPPP/R1B1KB1R b KQkq - 3 5
 | O-O | 9.6 k (4.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/40 | 0 | — | ⚠ |
 | c5 | 0 | — | 8 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 226 k games. Masters: 5.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/1QN2N2/PP2PPPP/R1B1KB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 226 k games. Masters: 5.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/1QN2N2/PP2PPPP/R1B1KB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5... dxc4** is close to automatic (97.8% masters) — simply grabbing the pawn while it's on offer, banking on White needing an extra tempo (Qxc4) to regain it. **5... c6** (1.9% masters, 102 games) is a real, uncoded database rarity.
@@ -90,7 +90,7 @@ rnbq1rk1/ppp1ppbp/5np1/8/2QP4/2N2N2/PP2PPPP/R1B1KB1R w KQ - 1 7
 | Bg5 | 2.7 k (1.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/43 | 0 | — | ⚠ |
 | g3 | 0 | — | 10 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 152 k games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/8/2QP4/2N2N2/PP2PPPP/R1B1KB1R_w_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 152 k games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/8/2QP4/2N2N2/PP2PPPP/R1B1KB1R_w_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7. e4** is masters' overwhelming main try (94.9%) — grabbing the full centre now that Black has spent time on ...dxc4/...O-O; it heads straight into this whole batch's own deepest and most important sub-tree, its own code, [D97](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D97_Grunfeld_Russian_Variation_e4.md). **7. Bf4** (4.8% masters) is a real, uncoded secondary.

@@ -52,7 +52,7 @@ rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 w kq - 0 7
 | b3 | 12 k (5.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/11/40 | 1.1 k (10.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫🟫⬛ 22/69/9 |  |
 | Bb3 | 0 | — | 2.2 k (21.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 33/54/14 |  |
 
-*Online: bullet/blitz, 1800+ — 211 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1_w_kq_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 211 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1_w_kq_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 A genuinely scattered choice for White at this famous tabiya, matching the "system opening" character of the whole Classical Defense: **7. dxc5** (+0.22, 22.9%) simplifies at once, **7. Bb3** (+0.22, 21.6%) tucks the bishop away first, **7. a4** (+0.11, 14.8%) is the *Rubinstein Variation*, **7. Qe2** (+0.00, 11.6%) is its own code, and **7. e4** (2.4%) is the real minority *Geller Variation*. None of the top three clears even a quarter of masters games.

@@ -29,7 +29,7 @@ r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1 b - - 0 9
 | Qa5 | 0 | — | 446 (12.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/34/27 |  |
 | a6 | 0 | — | 160 (4.6%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 44/34/21 |  |
 
-*Online: bullet/blitz, 1800+ — 179 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1_b_-_-_0_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 179 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1pbp/2pp1np1/4p3/2PPP3/2N2NPP/PP3PB1/R1BQ1RK1_b_-_-_0_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Classical Main Line** — matching `eco.md`'s own name almost verbatim, a nice confirmation at the deepest node of the batch. Black's own reply here is genuinely scattered, with the biggest single share going to an uncoded try: **9... Qb6** (41.3% masters) is actually masters' plurality, well clear of **9... Re8** (18.6%), **9... Qa5** (12.7%), and **9... exd4** (11.9%) — none of these carry a code of their own this deep in the tree, and this card closes out the whole E60-E69 batch here rather than following any of them further.

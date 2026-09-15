@@ -26,7 +26,7 @@ r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1 w - - 1 10
 | a4 | 141 (0.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 0 | — | ⚠ |
 | Qc2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 345 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 345 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/1BP2N1P/PP1P1PP1/RNBQR1K1_w_-_-_1_10#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **10. Bc2** is the only real square — near-forced (99.9% of masters games). Keeping the bishop on the a2-g8 diagonal (b3) would let ... c5-c4 trap it; c2 tucks it away safely while still eyeing h7 later. Continued on [C96](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C96_Ruy_Lopez_Chigorin_Bc2.md).
@@ -61,7 +61,7 @@ r1b2rk1/2q1bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1 w - - 1 12
 | a4 | 6.5 k (3.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
 | b4 | 0 | — | 26 (0.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/54/23 |  |
 
-*Online: bullet/blitz, 1800+ — 178 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_w_-_-_1_12#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 178 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_w_-_-_1_12#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 * [**12. Nbd2**](#_Nbd2c_): masters' clear main try — see below.

@@ -26,7 +26,7 @@ r1bqkb1r/1pp2ppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 6
 | h3 | 30 k (9.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 0 | — | ⚠ |
 | Bxc6+ | 0 | — | 209 (16.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/43/22 |  |
 
-*Online: bullet/blitz, 1800+ — 309 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1pp2ppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 309 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1pp2ppp/p1np1n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **6. Re1** (52.0%), preparing to meet ...b5/...Bg4 ideas flexibly; **6. Bxc6+ bxc6 7. d4** (16.1% masters) is where the three named lines below all branch from.

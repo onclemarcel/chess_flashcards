@@ -50,7 +50,7 @@ r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R b K - 1 8
 | Nb6 | 2.2 k (1.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/39 | 0 | — | ⚠ |
 | Ne8 | 0 | — | 3 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 208 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R_b_K_-_1_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 208 k games. Masters: 1.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/3p2B1/2PP4/2NBPN2/PP3PPP/2RQK2R_b_K_-_1_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Develops the bishop straight to its most active diagonal instead of the queen. Masters' clear main try is **8... dxc4** (69.7%), releasing the central tension — covered below, and the trunk feeding the deepest sub-tree of this whole batch. **8... h6** (12.5%), **8... a6** (8.1%), **8... Re8** (5.1%) and **8... b6** (4.3%) are all real, secondary tries with no code of their own in this range.
@@ -86,7 +86,7 @@ r1bq1rk1/pp1nbppp/2p1pn2/6B1/2BP4/2N1PN2/PP3PPP/2RQK2R b K - 0 9
 | c5 | 1.9 k (2.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/7/45 | 10 (1.4%) | — |  |
 | h6 | 0 | — | 21 (2.9%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 24/62/14 |  |
 
-*Online: bullet/blitz, 1800+ — 85 k games. Masters: 724 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/6B1/2BP4/2N1PN2/PP3PPP/2RQK2R_b_K_-_0_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 85 k games. Masters: 724 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1pn2/6B1/2BP4/2N1PN2/PP3PPP/2RQK2R_b_K_-_0_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's recapture is essentially forced (100% masters, 99.5% online — confirmed live), so this node compresses the two plies into one, mirroring D63's own "7...b6 8.cxd5 exd5" compression and the D49 Rellstab Attack precedent. Left completely untagged live (`opening=None`) at this exact node. **A genuine, large online/masters inversion, worth flagging plainly**: masters overwhelmingly continue **9... Nd5** (84.4%), heading straight for the *Capablanca freeing manoeuvre* — its own code, D67 — while online play instead strongly favours the quieter **9... b5** (only 27.5% online for Nd5, against 54.6% online for b5). **9... h6** (2.9% masters) is a real, secondary try with no code of its own in this range.

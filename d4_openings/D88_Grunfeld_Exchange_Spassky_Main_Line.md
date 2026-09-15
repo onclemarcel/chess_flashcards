@@ -59,7 +59,7 @@ r1bq1rk1/pp2ppbp/2n3p1/8/2BPP3/4B3/P3NPPP/R2Q1RK1 b - - 0 11
 | a6 | 16 k (12.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/7/42 | 0 | — | ⚠ |
 | b6 | 0 | — | 29 (7.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 38/48/14 |  |
 
-*Online: bullet/blitz, 1800+ — 135 k games. Masters: 409 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/8/2BPP3/4B3/P3NPPP/R2Q1RK1_b_-_-_0_11#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 135 k games. Masters: 409 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2n3p1/8/2BPP3/4B3/P3NPPP/R2Q1RK1_b_-_-_0_11#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **11... Bg4** is masters' clear main try (52.8%) — pinning the knight before deciding on ... Na5, and this card's own trunk into [D89](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D89_Grunfeld_Exchange_Spassky_13Bd3.md). **11... Na5** (35.7% masters) is a real, significant secondary — jumping the knight to attack the bishop immediately, skipping the ... Bg4 pin entirely — with no code of its own in this range. **11... b6** (7.1% masters) is a real, secondary try, likewise uncoded.

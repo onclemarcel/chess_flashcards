@@ -56,7 +56,7 @@ rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5
 | a6 | 98 k (2.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 1.8 k (4.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/51/22 |  |
 | Ne4 | 0 | — | 64 (0.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 47/36/17 |  |
 
-*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 37 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 37 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming reply is **5... Nbd7** (91.9%), preparing to meet either 6.Bd3 or 6.Qc2 flexibly. **5... a6** (4.8%) is the real, secondary *Accelerated Meran*; **5... Ne4** is a genuine rarity, the *Stonewall Defence*.
@@ -135,7 +135,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQkq - 1 6
 | Qc2 | 273 k (18.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/42 | 21 k (60.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 25/59/17 |  |
 | Be2 | 193 k (13.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 1.4 k (4.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/51/21 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` leaves this bare tabiya named only "5...Nd7"; the live explorer independently names it the ***Normal Variation***. Masters split between **6. Qc2** (60.4%), heading for the *Stoltz Variation*, and **6. Bd3** (32.6%), escalating to its own deeper code, [D46](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D46_Semi_Slav_Bogoljubow.md). **6. Ne5** is a genuine rarity, the *Rubinstein (Anti-Meran) System*.

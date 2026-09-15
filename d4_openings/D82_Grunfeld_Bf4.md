@@ -50,7 +50,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 1 4
 | a6 | 5.3 k (1.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | c5 | 0 | — | 5 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 357 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 357 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **4... Bg7** is close to automatic (99.2% of masters games) — the natural fianchetto, pressuring d4 down the long diagonal exactly as the whole opening intends.
@@ -86,7 +86,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR w KQkq - 2 5
 | Rc1 | 0 | — | 262 (8.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/44/25 |  |
 | Qa4+ | 0 | — | 34 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/38/35 |  |
 
-*Online: bullet/blitz, 1800+ — 337 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_2_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 337 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_2_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5. e3** is masters' clear main try (83.7%) — solidifying the centre and preparing to castle before Black can pile up on d4; it heads into the Grünfeld Gambit tabiya, its own code, [D83](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D83_Grunfeld_Gambit.md). **5. Rc1** (8.6% masters) — an immediate rook lift, skipping e3 entirely — and **5. Nf3** (6.3% masters) are both real, secondary tries with no code of their own at this exact depth in this range.

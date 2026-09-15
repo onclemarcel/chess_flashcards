@@ -29,7 +29,7 @@ rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR w KQ - 0 8
 | Qc1 | 0 | — | 18 (3.9%) | — |  |
 | f3 | 0 | — | 5 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 37 k games. Masters: 459 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR_w_KQ_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 37 k games. Masters: 459 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP2BPPP/R2QK1NR_w_KQ_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Averbakh Variation, Main Line**, matching `eco.md`'s own name closely. White's own 8th move here is masters' clear main try, **8. Qd2** (71.7%), well ahead of **8. Nf3** (20.9%) and **8. dxe6** (2.0%).
@@ -71,7 +71,7 @@ rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR b KQ - 1 8
 | e5 | 232 (1.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/3/41 | 1 (0.3%) | — | ⚠ |
 | Nbd7 | 169 (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 20 k games. Masters: 338 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR_b_KQ_-_1_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 20 k games. Masters: 338 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/3ppnp1/2pP2B1/2P1P3/2N5/PP1QBPPP/R3K1NR_b_KQ_-_1_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **8... exd5** is close to forced (95.9% masters) — trading in the centre before White's space advantage grows further.

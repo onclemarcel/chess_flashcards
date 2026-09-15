@@ -49,7 +49,7 @@ rnbqkb1r/pp2pppp/5n2/3p4/3P4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 5
 | Bg5 | 69 k (3.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 0 | — | ⚠ |
 | Qb3 | 0 | — | 4 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/3p4/3P4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/5n2/3p4/3P4/5N2/PP2PPPP/RNBQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. A symmetrical pawn structure with no central tension left — historically considered one of the drier ways to meet the Slav, though modern theory has found real resources for both sides. Masters' overwhelming reply is **5. Nc3** (97.8%), developing naturally.

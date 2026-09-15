@@ -61,7 +61,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR w KQ - 1 6
 | Kf2 | 0 | — | 1 (0.0%) | — |  |
 | Be2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 3.0 M games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2P2/PP4PP/R1BQKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -101,7 +101,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR b KQ - 2 6
 | a6 | 82 k (3.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 1.1 k (10.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
 | b6 | 74 k (2.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 507 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/35/24 |  |
 
-*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_b_KQ_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.6 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_b_KQ_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly**: masters' *actual* plurality reply here is **6... c5** (29.0%) — an uncoded try, ahead of every one of the four moves that carry their own code in this range: **6... Nc6** (21.9%, → [E83](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E83_Kings_Indian_Saemisch_Nc6.md)), **6... e5** (21.0%, → [E85](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E85_Kings_Indian_Saemisch_Orthodox.md)), **6... b6** (4.9%, → [E82](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E82_Kings_Indian_Saemisch_Double_Fianchetto.md)), and **6... c6** (only 3.7%, the Byrne Variation's own first move, built out below). A confirmed cross-check of the whole rest of `eco.md`: this exact "6... c5" reply carries no ECO code of its own anywhere in the Sämisch family — a real, significant secondary with no code of its own in this range, not a gap in this batch's own coverage.
@@ -146,7 +146,7 @@ rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 7
 | Qc2 | 0 | — | 1 (0.2%) | — |  |
 | d5 | 0 | — | 1 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 321 k games. Masters: 465 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 321 k games. Masters: 465 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **Another real, uncoded-preference finding**: at this fork, masters' own actual plurality is **7. Qd2** (48.0%), edging out **7. Bd3** (38.3%) — the move that defines the Byrne Variation itself — with **7. Nge2** (13.3%) further behind. Bd3 remains a real, significant secondary and this card's own named trunk.
@@ -189,7 +189,7 @@ rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR b KQ - 1 7
 | Na6 | 0 | — | 1 (0.6%) | — |  |
 | Nfd7 | 0 | — | 1 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 103 k games. Masters: 178 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR_b_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 103 k games. Masters: 178 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2pp1np1/8/2PPP3/2NBBP2/PP4PP/R2QK1NR_b_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7... a6** is masters' clear main try here (52.2%), the move that gives the Byrne Variation its name; **7... e5** stays a real, significant secondary (39.3% masters).

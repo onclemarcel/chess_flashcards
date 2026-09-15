@@ -27,7 +27,7 @@ rnbq1rk1/ppp1ppbp/1n4p1/8/3P4/5NP1/PP2PPBP/RNBQ1RK1 w - - 2 8
 | a4 | 0 | — | 13 (0.7%) | — |  |
 | Qc2 | 0 | — | 9 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 28 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/1n4p1/8/3P4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/1n4p1/8/3P4/5NP1/PP2PPBP/RNBQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's own 8th move is close to a formality: **8. Nc3** (96.1% masters), developing the last minor piece and eyeing d5, dwarfs every alternative. Online play agrees in direction if not in margin (75.9%). A large, well-populated sample (1,925 masters games) for this deep into the tree. Not built out further here (backlog) — the deepest node this batch built on the D74-D76 side of the tree.

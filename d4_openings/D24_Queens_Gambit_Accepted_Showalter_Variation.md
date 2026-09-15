@@ -44,7 +44,7 @@ rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 | c5 | 130 k (8.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 256 (12.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/38/20 |  |
 | c6 | 0 | — | 383 (18.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/46/22 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 2.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... a6** (+0.00, 48.4%), heading for the *Bogolyubov Variation*.

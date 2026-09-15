@@ -28,7 +28,7 @@ rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3
 | Bd3 | 112 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
 | Ne2 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 15.1 M games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 15.1 M games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -92,7 +92,7 @@ rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR b KQkq - 0 3
 | d3 | 367 k (5.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 15 (7.5%) | — |  |
 | Qe7 | 0 | — | 25 (12.5%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 16/52/32 |  |
 
-*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 200 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 6.5 M games. Masters: 200 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/3pP3/2P5/PP3PPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine online/masters inversion**: online, accepting with **3... dxc3** is by far the most common reply (58.9%). Masters instead mostly *decline* the gambit with **3... d5** (48.0%, the *Sørensen Defence* — dead level per Stockfish, +0.0) — accepting (28.5%) is only their second choice, and **3... Qe7** (the *Danish Gambit Declined*, 12.5%) is a real third try.

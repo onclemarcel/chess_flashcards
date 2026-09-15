@@ -29,7 +29,7 @@ r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/2KR3R b - - 6 10
 | Qb8 | 0 | — | 82 (2.3%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 55/21/24 |  |
 | Qc7 | 0 | — | 27 (0.7%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 33/30/37 |  |
 
-*Online: bullet/blitz, 1800+ — 480 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/2KR3R_b_-_-_6_10#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 480 k games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/2KR3R_b_-_-_6_10#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black has a genuine wide spread of replies, no single dominant try: **10... Rc8** (51.9%, preparing ... Ne5/... Nxd4 with tempo down the c-file), **10... Rb8** (17.2%, the same queenside-pawn-storm idea one file over), and **10... Ne5** (15.9%, immediate central pressure). **10... Qa5** (10.3%) is the eco.md-named continuation toward the deepest tabiya in the whole B60-B79 Sicilian range — already live-tagged **B79**, see [`B79_Sicilian_Dragon_Yugoslav_h4.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B79_Sicilian_Dragon_Yugoslav_h4.md), not built out further here — but it's a real minority pick next to Rc8, not masters' actual preference.

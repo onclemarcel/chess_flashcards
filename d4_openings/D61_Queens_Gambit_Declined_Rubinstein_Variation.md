@@ -50,7 +50,7 @@ r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R b KQ - 4 7
 | Nb6 | 165 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 64/3/33 | 0 | — | ⚠ |
 | Ne4 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 117 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R_b_KQ_-_4_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 117 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnbppp/4pn2/3p2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R_b_KQ_-_4_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Keeps the queen flexible on c2 rather than committing to Rc1 at once. Masters' clear main try is **7... c5** (36.2%), striking the centre immediately — covered below, and, notably, the exact move `eco.md`'s own D62 entry is built around. Online play instead favours the quieter **7... c6** (21.8% online, only 25.7% masters — the two databases are close here, unlike the sharper gaps found elsewhere in this batch) fractionally ahead of c5 (15.2% online). **7... h6**, **7... a6**, **7... b6** and **7... Re8** are all real, secondary tries with no code of their own in this range.
@@ -86,7 +86,7 @@ r1bq1rk1/pp1nbppp/4pn2/2pp2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R w KQ c6 0 8
 | Rd1 | 2.4 k (12.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/42 | 88 (20.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/44/15 |  |
 | O-O-O | 1.8 k (9.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/47 | 62 (14.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/44/16 |  |
 
-*Online: bullet/blitz, 1800+ — 18 k games. Masters: 441 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/4pn2/2pp2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R_w_KQ_c6_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 18 k games. Masters: 441 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/4pn2/2pp2B1/2PP4/2N1PN2/PPQ2PPP/R3KB1R_w_KQ_c6_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Left tagged with the same "Rubinstein Variation" name at this exact node (the live explorer doesn't distinguish it from its own parent). Masters' clear main reply is **8. cxd5** (57.4%), resolving the centre — covered below, the exact continuation `eco.md` names D62 for. **8. Rd1** (20.0%) and **8. O-O-O** (14.1%) are both real, secondary tries with no code of their own in this range, and **8. dxc5** (7.9%) likewise.

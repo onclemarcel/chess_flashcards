@@ -47,7 +47,7 @@ r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ - 3 7
 | h3 | 6.4 k (1.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 20 (0.4%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 45/45/10 |  |
 | d5 | 0 | — | 36 (0.7%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 61/22/17 |  |
 
-*Online: bullet/blitz, 1800+ — 651 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R_w_KQ_-_3_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 651 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQK2R_w_KQ_-_3_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Debrecen Defense** — a specific name `eco.md`'s own bare "With ...Nd7" doesn't carry.
@@ -78,7 +78,7 @@ r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 4 7
 | a6 | 33 k (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 131 (1.2%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/33/18 |  |
 | a5 | 0 | — | 3 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_4_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnppbp/3p1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_4_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black's own 7th move is close to automatic too: **7... e5** (94.0% masters) — the defining central break, reaching this card's own second `eco.md` entry.
@@ -109,7 +109,7 @@ r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - e6 0 8
 | b3 | 49 k (5.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 480 (4.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 37/32/31 |  |
 | Qc2 | 0 | — | 638 (5.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/36/24 |  |
 
-*Online: bullet/blitz, 1800+ — 959 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_e6_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 959 k games. Masters: 11 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppn1pbp/3p1np1/4p3/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_e6_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Classical Fianchetto** — the "Fianchetto" qualifier is a real, deliberate distinguisher from the *other* King's Indian "Classical Variation," the e4-based main line covered on [E70](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md) — the same "Classical" name genuinely reused twice within the whole King's Indian complex, at two structurally different trees. White's own 8th move here is masters' clear main try, **8. e4** (65.8%), reaching this card's own further code, [E68](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E68_Kings_Indian_Fianchetto_Classical_8e4.md).

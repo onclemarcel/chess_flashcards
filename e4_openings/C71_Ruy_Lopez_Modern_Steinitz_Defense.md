@@ -29,7 +29,7 @@ r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5
 | c4 | 0 | — | 280 (4.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/40/26 |  |
 | Nc3 | 0 | — | 34 (0.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 44/32/24 |  |
 
-*Online: bullet/blitz, 1800+ — 700 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 700 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' reply forks five ways: **O-O** 41.3% (→ C72), **c3** 35.2% (→ C74/C75/C76), **Bxc6+** 13.3% (→ C73), **d4** 4.6% (stays C71, the Noah's Ark Trap tabiya), **c4** 4.4% (stays C71, Duras/Keres Variation), **Nc3** 0.5% (stays C71, Three Knights Variation).

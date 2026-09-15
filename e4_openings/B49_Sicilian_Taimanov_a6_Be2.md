@@ -26,7 +26,7 @@ r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R b KQkq - 1 7
 | d6 | 4.9 k (1.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/48 | 0 | — | ⚠ |
 | Nxd4 | 0 | — | 4 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 314 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_b_KQkq_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 314 k games. Masters: 1.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kbnr/1pqp1ppp/p1n1p3/8/3NP3/2N1B3/PPP1BPPP/R2QK2R_b_KQkq_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7... Nf6** is masters' clear main try (83.1%), developing naturally and preparing to castle. **7... b5** (15.9%) is a real second choice, grabbing queenside space immediately. Deeper theory for both is not covered further here. This is the deepest, most heavily analysed tabiya in the whole B40-B49 Taimanov complex.

@@ -27,7 +27,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 1 7
 | a6 | 0 | — | 11 (1.2%) | — |  |
 | Nfd7 | 0 | — | 7 (0.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 220 k games. Masters: 925 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 220 k games. Masters: 925 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A real online/masters gap**: masters overwhelmingly play **7... c6** (71.8%), the move this code is named for, while online play skews sharply toward **7... Nc6** (40.6% online vs only 8.6% masters) and an immediate **7... exd4** (27.6% online vs 6.8% masters). Neither online favourite dips low enough at masters level to clear this repository's own blitz-trap bar, so this stays a familiarity gap rather than a trap.

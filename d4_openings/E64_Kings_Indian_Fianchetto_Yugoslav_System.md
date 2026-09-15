@@ -45,7 +45,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQK2R w KQ c6 0 7
 | h3 | 2.3 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 9 (0.7%) | — |  |
 | b3 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 295 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQK2R_w_KQ_c6_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 295 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PP4/2N2NP1/PP2PPBP/R1BQK2R_w_KQ_c6_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Rare Line** — the "Rare Line" qualifier refers to this specific move order (...c5 played before castling), not to the Yugoslav System itself, which is very much a mainstream try one node later. White's own 7th move here is a genuine, if lopsided, fork: **7. O-O** is masters' clear main try (61.2%), continuing this card's own trunk; **7. d5** (27.8%) is a real, significant secondary closing the centre at once instead, uncoded in this range; **7. dxc5** (10.2%) is a further real minority.

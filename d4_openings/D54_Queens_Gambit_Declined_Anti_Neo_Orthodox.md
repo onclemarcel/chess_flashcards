@@ -25,7 +25,7 @@ rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/2RQKBNR b K - 2 6
 | b6 | 5.2 k (16.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/43 | 16 (6.4%) | — |  |
 | Nbd7 | 4.9 k (15.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 86 (34.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 40/49/12 |  |
 
-*Online: bullet/blitz, 1800+ — 31 k games. Masters: 250 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/2RQKBNR_b_K_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 31 k games. Masters: 250 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/2RQKBNR_b_K_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Develops the rook to its natural file before deciding how to meet ...h6 — the point being to keep the bishop's options (Bxf6 vs Bh4) open a move longer than the immediate 6. Nf3 does. Black's reply is a genuine multi-way spread rather than one clear main try: masters split **h6** (42.4%), **Nbd7** (34.4%), **c6** (11.6%), and **b6** (6.4%), with **a6**, **c5**, **Ne4**, and **dxc4** all real minor tries below 2%. None of these carry a code of their own here — `eco.md` gives this whole entry just this one node, with no further D54-coded forks. **6... h6** is masters' nominal plurality choice and likely converges with D55's own 6...h6 Neo-orthodox tree by a different move order (Rc1 played before h6 rather than after) — not independently verified here via `apply_san.py`, so stated as a likely convergence rather than a confirmed transposition. **6... Nbd7** heads toward the Orthodox Defence proper, D60 — a real `eco.md` code that simply hasn't been built in this repo yet (not "no code," just not-yet-covered).

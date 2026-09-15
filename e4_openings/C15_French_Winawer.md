@@ -28,7 +28,7 @@ rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4
 | Bd2 | 201 k (3.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 0 | — | ⚠ |
 | Qd3 | 0 | — | 314 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/32/29 |  |
 
-*Online: bullet/blitz, 1800+ — 5.3 M games. Masters: 32 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 5.3 M games. Masters: 32 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **4. e5** is masters' overwhelming main try (77.4%), heading for the enormous C16-C19 complex — see below. Every other try is its own named line, none built out further here:
@@ -69,7 +69,7 @@ rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP1NPPP/R1BQKB1R b KQkq - 3 4
 | Nc6 | 29 k (8.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 386 (16.0%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 30/34/36 |  |
 | Ne7 | 0 | — | 90 (3.7%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 37/21/42 |  |
 
-*Online: bullet/blitz, 1800+ — 345 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP1NPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 345 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/ppp2ppp/4p3/3p4/1b1PP3/2N5/PPP1NPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **4... dxe4** is masters' clear main try (65.0%), grabbing the offered pawn — Stockfish rates the resulting position as roughly level (+0.1), consistent with a real, sound gambit rather than a refuted one.

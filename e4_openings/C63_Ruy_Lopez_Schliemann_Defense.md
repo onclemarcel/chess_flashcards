@@ -28,7 +28,7 @@ r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq f6 0 4
 | O-O | 64 k (4.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Qe2 | 0 | — | 38 (0.9%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 58/21/21 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_f6_0_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 4.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp2pp/2n5/1B2pp2/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_f6_0_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters split between **4. Nc3** (50.6%) and **4. d3** (39.0%). The `eco.md`-named line follows the former.

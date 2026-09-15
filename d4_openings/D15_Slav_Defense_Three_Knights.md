@@ -59,7 +59,7 @@ rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 | a6 | 1.0 M (7.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/46 | 10 k (16.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 | Qb6 | 0 | — | 195 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 45/41/15 |  |
 
-*Online: bullet/blitz, 1800+ — 13.9 M games. Masters: 63 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 13.9 M games. Masters: 63 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/3p4/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... e6** (51.7%), the **Semi-Slav**, combining the Slav's ... c6 with the QGD's ... e6 for one of the most solid, heavily analysed structures in all of chess — its own extensive body of theory, an entirely different ECO range (D43-D49), not covered further here. **4... dxc4** (29.2%) is the real second choice, the *Slav Accepted*; **4... Qb6** (the *Suechting Variation*) and **4... g6** (the *Schlechter Variation*) are both genuine minority tries.
@@ -142,7 +142,7 @@ rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5
 | g3 | 99 k (4.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/43 | 158 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/32/27 |  |
 | Ne5 | 0 | — | 114 (0.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/32/32 |  |
 
-*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.4 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` leaves this bare tabiya named only "Slav Defence Accepted"; the live explorer independently names it the ***Two Knights Attack*** — a real name divergence. Black grabs the c4 pawn, banking on regaining it or holding it with ... b5. Masters' overwhelming reply is **5. a4** (90.7%), preventing ... b5 outright — its own code, [D16](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D16_Slav_Defense_Alapin_Variation.md). Two real secondary tries stay D15: **5. e3** (the *Alekhine Variation*) and **5. e4** (the *Slav Gambit*, live-tagged the *Geller Gambit*).
@@ -202,7 +202,7 @@ rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq e3 0 5
 | g6 | 21 k (3.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/40 | 0 | — | ⚠ |
 | c5 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 565 k games. Masters: 888 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_e3_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 565 k games. Masters: 888 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp2pppp/2p2n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R_b_KQkq_e3_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Slav Gambit*; the live explorer independently names it the ***Geller Gambit*** — a real name divergence, and a name-reuse besides: `eco.md`'s own one-ply-deeper entry (6.e5) is separately named the *Tolush-Geller Gambit*, reusing "Geller" for a second time at an adjacent node. Sacrifices a further tempo/structure for open lines rather than simply regaining the c4 pawn quietly. Masters' overwhelming reply is **5... b5** (97.6%), holding onto both extra pawns.

@@ -27,7 +27,7 @@ r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP2PBP/R1BQK1NR w KQkq - 0 6
 | h3 | 18 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | Nf3 | 0 | — | 90 (1.4%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 16/44/40 |  |
 
-*Online: bullet/blitz, 1800+ — 880 k games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP2PBP/R1BQK1NR_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 880 k games. Masters: 6.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4P3/2NP2P1/PPP2PBP/R1BQK1NR_w_KQkq_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's own 6th move is a genuine near-even fork between the two main plans:
@@ -88,7 +88,7 @@ r1bqk1nr/pp2ppbp/2np2p1/2p5/4PP2/2NP2P1/PPP3BP/R1BQK1NR b KQkq f3 0 6
 | e5 | 30 k (10.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 327 (12.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/39/33 |  |
 | Rb8 | 13 k (4.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/49 | 143 (5.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 26/33/41 |  |
 
-*Online: bullet/blitz, 1800+ — 281 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4PP2/2NP2P1/PPP3BP/R1BQK1NR_b_KQkq_f3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 281 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk1nr/pp2ppbp/2np2p1/2p5/4PP2/2NP2P1/PPP3BP/R1BQK1NR_b_KQkq_f3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6... e6** is masters' clear main try (66.0%), preparing ... Nge7 and keeping the centre flexible.

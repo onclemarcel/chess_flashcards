@@ -47,7 +47,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1 b - - 5 6
 | e6 | 50 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 55/6/38 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 376 (7.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/45/24 |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_5_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 5.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/5NP1/PP2PPBP/RNBQ1RK1_b_-_-_5_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine, near-even fork worth flagging plainly**: masters split almost exactly evenly between **6... dxc4** (46.9%, simply taking the pawn) and **6... c6** (43.7%, the Slav-like bolster that heads into D78) — the uncoded dxc4 narrowly outranks the coded c6 here, the same "coded line trails an uncoded rival" meta-pattern already flagged repeatedly across the D60-D69 batch (D60's own root, D64's own root, D68's own root), just by a much smaller margin than any of those. A large sample backs this split (4,955 masters games). Online play flips the ranking (c6 46.9% vs dxc4 25.5%), a genuine database inversion layered on top of the masters-side near-tie.

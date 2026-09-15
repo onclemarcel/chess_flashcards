@@ -26,7 +26,7 @@ r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 3 5
 | Bc5 | 254 k (5.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 2.2 k (2.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/50/22 |  |
 | d6 | 239 k (5.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 1.1 k (1.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 34/39/27 |  |
 
-*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 4.6 M games. Masters: 82 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_3_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' reply: **Be7** 72.4% (→ [C84](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C84_Ruy_Lopez_Morphy_Closed.md)), **b5** 14.3% (stays here), **Nxe4** 9.4% (→ C80, the Open Variation), **Bc5** 2.6% (stays here, Moeller Defence), **d6** 1.3% (stays here, Steinitz Defense Deferred).

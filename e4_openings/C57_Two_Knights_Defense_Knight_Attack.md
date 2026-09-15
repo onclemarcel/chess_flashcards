@@ -46,7 +46,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq - 5 4
 | Na5 | 0 | — | 1 (0.0%) | — |  |
 | b5 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 5.3 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R_b_KQkq_-_5_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 5.3 M games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p1N1/2B1P3/8/PPPP1PPP/RNBQK2R_b_KQkq_-_5_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **4. Ng5** attacks f7 twice — the point of the whole line — and it works precisely because Black hasn't castled or developed the f8-bishop.

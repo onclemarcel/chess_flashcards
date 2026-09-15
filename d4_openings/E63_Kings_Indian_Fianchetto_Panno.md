@@ -29,7 +29,7 @@ r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8
 | Bf4 | 0 | — | 764 (10.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/43/14 |  |
 | Qd3 | 0 | — | 740 (10.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 32/51/17 |  |
 
-*Online: bullet/blitz, 1800+ — 402 k games. Masters: 7.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 402 k games. Masters: 7.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1pp1ppbp/p1np1np1/8/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Panno Variation**, matching `eco.md`'s own name exactly. Black's idea is to meet a future d5 with ...Na5, redeploying the knight rather than being pushed back, while keeping ...b5 or ...Rb8 in reserve. White's own 8th move here is a genuinely flat, five-way scatter with no clear leader: **h3** (21.9%), **b3** (21.7%), **d5** (20.0%), **Bf4** (10.3%), and **Qd3** (10.0%) are all real tries within a narrow band — the flattest distribution found anywhere in this whole batch. None carries a code of its own in this range; not covered further here.

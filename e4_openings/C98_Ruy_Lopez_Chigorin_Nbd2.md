@@ -26,7 +26,7 @@ r1b2rk1/2q1bppp/p1np1n2/1pp1p3/3PP3/2P2N1P/PPBN1PP1/R1BQR1K1 w - - 3 13
 | Nb3 | 392 (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/8/40 | 0 | — | ⚠ |
 | a3 | 0 | — | 6 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 19 k games. Masters: 561 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p1np1n2/1pp1p3/3PP3/2P2N1P/PPBN1PP1/R1BQR1K1_w_-_-_3_13#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 19 k games. Masters: 561 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/2q1bppp/p1np1n2/1pp1p3/3PP3/2P2N1P/PPBN1PP1/R1BQR1K1_w_-_-_3_13#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **13. d5** (85.0%), closing the centre now that the knight blocks its own c-pawn's queenside plans — the same structural idea seen on C96's own Borisenko Variation. The rare alternative, **13. dxc5**, carries its own name.

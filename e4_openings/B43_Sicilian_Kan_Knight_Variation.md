@@ -29,7 +29,7 @@ rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 1 5
 | Ne7 | 0 | — | 103 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/33/27 |  |
 | Bc5 | 0 | — | 31 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/26/32 |  |
 
-*Online: bullet/blitz, 1800+ — 5.2 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 5.2 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/1p1p1ppp/p3p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5... Qc7** is masters' clear main try (61.2%), preparing ... Nf6 and ... b5 without allowing Nb5 tricks. **5... b5** (26.1%) is a real second choice, grabbing queenside space immediately. Deeper theory for both is its own extensive body of work, not covered further here.

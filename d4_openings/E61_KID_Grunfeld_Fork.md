@@ -60,7 +60,7 @@ rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 3
 | e6 | 18 k (0.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/4/39 | 0 | — | ⚠ |
 | e5 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 21.8 M games. Masters: 122 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 21.8 M games. Masters: 122 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -97,7 +97,7 @@ rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4
 | Bf4 | 520 k (3.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 63 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | g3 | 352 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/46 | 1.6 k (2.0%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/40/25 |  |
 
-*Online: bullet/blitz, 1800+ — 16.7 M games. Masters: 80 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 16.7 M games. Masters: 80 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N5/PP2PPPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 This exact position is **[E70](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md)'s own title tabiya** — but E70's own candidate list only ever covers **4. e4** (91.7% masters) onward; a genuine, small omission left over from before this batch existed, since **4. Nf3** already sat in E70's own stats table at 5.3% masters without ever being surfaced as a candidate or a link. Completed here rather than there, since 4.Nf3 is this whole E60-E69 batch's own trunk:
@@ -135,7 +135,7 @@ rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4
 | c6 | 91 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 7 (0.0%) | — |  |
 | e6 | 62 k (0.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 56/5/39 | 1 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 8.6 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 8.6 M games. Masters: 26 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_b_KQkq_-_3_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black's own 4th move is genuinely split three ways here: **4... O-O** is actually masters' plurality (61.2%, simply castling and keeping every follow-up flexible), ahead of **4... d5** (24.2%, transposing toward Grünfeld-flavoured structures) and the coded **4... d6** (13.7%) this card follows onward — none of these are asserted to transpose into any other specific coded tree without checking each concrete move order.
@@ -165,7 +165,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 0 5
 | Bf4 | 560 k (7.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 256 (3.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 41/34/24 |  |
 | h3 | 185 k (2.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 174 (2.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
 
-*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 7.1 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's own 5th move here forks the whole rest of this batch — plus a genuine, `apply_san.py`-**verified transposition**: masters' actual main try, **5. e4** (65.8%), simply reorders the classical Nc3/e4/Nf3 trio and lands on the exact same tabiya as [E70](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E70_Kings_Indian.md#_Nf3_)'s own "5. Nf3" node (identical piece placement, side to move, and castling rights — the two positions differ only in the en-passant flag and halfmove clock, which is exactly the harmless drift already logged for several transpositions elsewhere in this ECO sweep, not a real difference).
@@ -206,7 +206,7 @@ rnbqk2r/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 1 5
 | Bf5 | 0 | — | 9 (0.8%) | — |  |
 | c5 | 0 | — | 7 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.9 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/6B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_1_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Smyslov Variation**, confirming `eco.md`'s own name. Pins the f6-knight before Black castles — a quieter try than the main Fianchetto/Classical systems. Masters' actual plurality reply is **5... h6** (48.0%), immediately questioning the bishop, narrowly ahead of the simple **5... O-O** (37.6%); Stockfish rates the whole line essentially level (+0.06). Not covered further here.

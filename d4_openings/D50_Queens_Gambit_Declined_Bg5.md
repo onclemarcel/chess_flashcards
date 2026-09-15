@@ -63,7 +63,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4
 | h6 | 108 k (1.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 9 (0.1%) | — |  |
 | a6 | 38 k (0.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 2 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 6.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 6.8 M games. Masters: 7.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_3_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Pins the knight against the queen at once, the classical treatment of the Queen's Gambit Declined. Masters' clear main try is **4... Be7** (66.2%), heading straight for the Classical/Orthodox complex. **4... Nbd7** (17.2%) develops the other knight first. **4... c6** (8.0%), **4... dxc4** (3.7%) and **4... Bb4** (2.9%) are all real, secondary tries with no code of their own in this D50-D59 range. **4... c5**, the *Been-Koomen Variation*, is a database rarity at masters level (2.0%) yet still carries its own code — a pattern worth remembering for the rest of this batch (D58/D59's own Tartakower complex shows the mirror image, a heavily-coded line masters barely reach for).
@@ -102,7 +102,7 @@ rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq c6 0 5
 | Nf3 | 25 k (13.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 2 (1.3%) | — | ⚠ |
 | dxc5 | 16 k (8.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/4/52 | 2 (1.3%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 184 k games. Masters: 158 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 184 k games. Masters: 158 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pp2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here. A rare-at-masters-level (2.0%) but still independently named try, striking straight at the centre before completing development. Masters' clear main reply is **5. cxd5** (77.2%), resolving the tension at once — covered below. **5. e3** (20.3% masters) is a real, secondary try with no code of its own in this range. **5. Nf3** is a genuine blitz trap: barely seen at masters level (1.3%) but a real online choice (13.5%, roughly 10× its masters share) — covered below via the forced-looking 5...cxd4.
@@ -138,7 +138,7 @@ rnbqkb1r/pp3ppp/4pn2/2pP2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 0 5
 | cxd4 | 13 k (23.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 104 (85.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/40/27 |  |
 | Qb6 | 1.6 k (2.9%) | ⬜⬜⬜🟫⬛⬛⬛⬛⬛⬛ 36/7/57 | 17 (13.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 56 k games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pP2B1/3P4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 56 k games. Masters: 122 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/2pP2B1/3P4/2N5/PP2PPPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this bare "Semi-Tarrasch"; the live explorer independently names it the ***Pseudo-Tarrasch Variation*** — a real, notable divergence worth flagging plainly. Masters' overwhelming reply is **5... cxd4** (85.2%) — but this is a *different* position from D40's own Semi-Tarrasch Defense tree (a different move order, with the bishop already committed to g5 instead of the knight to f3), and it carries no code of its own anywhere in this D50-D59 range; not verified to transpose into D40 and not claimed to. **5... Qb6** (13.9% masters, only 2.9% online — masters favour it far more than online play does, the inverse of the usual blitz-trap gap) heads for the named *Canal Variation* below.
@@ -196,7 +196,7 @@ rnbqkb1r/pp3ppp/4pn2/3p2B1/2Pp4/2N2N2/PP2PPPP/R2QKB1R w KQkq - 0 6
 | Qxd4 | 60 k (21.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 10 (31.2%) | — |  |
 | Bxf6 | 15 k (5.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/7/42 | 1 (3.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 284 k games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/3p2B1/2Pp4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 284 k games. Masters: 32 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/4pn2/3p2B1/2Pp4/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node. White's simple developing **5. Nf3** (−0.17, one ply above) invites **5... cxd4** as `eco.md`'s own line assumes. Masters' clear main reply here is **6. Nxd4** (65.6%), heading for the named *Krause Variation* below via 6...e5 7.Ndb5 a6 8.Qa4. **6. Qxd4** (31.2%) reaches the *Primitive Pillsbury Variation* directly. **6. Bxf6** (3.1%) is a real, secondary try with no code of its own in this range.

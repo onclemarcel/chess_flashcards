@@ -61,7 +61,7 @@ rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | h4 | 0 | — | 577 (0.4%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 29/55/15 |  |
 | d5 | 0 | — | 133 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/28 |  |
 
-*Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 26.1 M games. Masters: 151 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged, curiously, **Indian Defense: West Indian Defense** — a name `eco.md` doesn't carry at all for this bare tabiya. **3. Nc3** is masters' overwhelming choice (80.0%), covered from E61 onward. Every other try shares this one card.
@@ -101,7 +101,7 @@ rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3
 | d6 | 332 k (4.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 329 (0.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/35/29 |  |
 | c5 | 225 k (2.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/46 | 1.1 k (2.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/36/22 |  |
 
-*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 7.8 M games. Masters: 38 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/5N2/PP2PPPP/RNBQKB1R_b_KQkq_-_1_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Normal Variation, King's Knight Variation** — a real name `eco.md`'s bare "3.Nf3" doesn't carry. Black replies **3... Bg7** almost automatically (95.7% masters), and the game typically transposes back toward the main 3.Nc3 tree once White plays Nc3 next — a plausible-looking transposition this card does not assert without checking each concrete move order; not covered further here.
@@ -135,7 +135,7 @@ rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3
 | d6 | 24 k (3.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | c5 | 0 | — | 677 (5.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/44/27 |  |
 
-*Online: bullet/blitz, 1800+ — 721 k games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 721 k games. Masters: 13 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/6P1/PP2PP1P/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Immediate Fianchetto** — a genuine, deliberate pairing worth stating plainly rather than flagging as a collision: this whole batch's own main trunk (E62 onward) reaches an almost identical setup two moves later via 3.Nc3 Bg7 4.Nf3 d6 5.g3, and the live explorer tags *that* node **Delayed Fianchetto** (see [E62](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E62_Kings_Indian_Fianchetto_Variation.md)) — the "Immediate"/"Delayed" qualifiers are a matched pair naming the same strategic idea reached at two different tempos, not a naming error.
@@ -164,7 +164,7 @@ rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR b KQkq - 2 4
 | c6 | 43 k (6.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/6/43 | 0 | — | ⚠ |
 | c5 | 0 | — | 363 (3.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 30/44/26 |  |
 
-*Online: bullet/blitz, 1800+ — 710 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_2_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 710 k games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppppppbp/5np1/8/2PP4/6P1/PP2PPBP/RNBQK1NR_b_KQkq_-_2_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black's own 4th move is a genuine fork: **4... O-O** is actually masters' *majority* choice (65.9%), ahead of the coded **4... d5** (23.6%) — the same "coded line trails an uncoded rival" pattern seen repeatedly elsewhere in this ECO sweep.
@@ -203,7 +203,7 @@ Black's own 4th move is a genuine fork: **4... O-O** is actually masters' *major
 > | Nc3 | 18 k (19.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 32 (1.3%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 25/34/41 |  |
 > | e3 | 1.4 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 2 (0.1%) | — | ⚠ |
 > 
-> *Online: bullet/blitz, 1800+ — 94 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_d6_0_5#explorer) — updated 2026-09-14*
+> *Online: bullet/blitz, 1800+ — 94 k games. Masters: 2.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/6P1/PP2PPBP/RNBQK1NR_w_KQkq_d6_0_5#explorer) — updated 2026-09-15*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged, tellingly, **Grünfeld Defense: Counterthrust Variation** rather than any King's Indian name — the explorer classifies this exact hybrid structure (fianchetto-vs-fianchetto with an early ...d5) as belonging to the Grünfeld family, even though `eco.md` files it under the King's Indian's own E60. White's main try is **5. cxd5** (89.7% masters), simplifying the centre at once; **5. Nf3** (8.9%) and **5. Nc3** (1.3%) are real, much rarer secondaries. Not covered further here.
@@ -239,7 +239,7 @@ Black's own 4th move is a genuine fork: **4... O-O** is actually masters' *major
 > | d6 | 241 (5.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/54 | 0 | — | ⚠ |
 > | c5 | 90 (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 0 | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 4.8 k games. Masters: 3 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PPQ1PPPP/RNB1KBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
+> *Online: bullet/blitz, 1800+ — 4.8 k games. Masters: 3 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/8/2PP4/8/PPQ1PPPP/RNB1KBNR_b_KQkq_-_1_3#explorer) — updated 2026-09-15*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **Queen's Pawn, Mengarini Attack** (matching `eco.md`'s own name closely). This is the thinnest coded line in the whole E60-E69 batch: only 3 masters games have ever reached it, and it accounts for barely 0.02% of online play at the root — an "understudied everywhere" (stadium) shape by a wide margin. Black replies **3... Bg7** most often (76.7% of the still-thin online sample); not covered further here.
@@ -278,7 +278,7 @@ Black's own 4th move is a genuine fork: **4... O-O** is actually masters' *major
 > | b5 | 317 (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/2/53 | 11 (8.3%) | — |  |
 > | e5 | 0 | — | 2 (1.5%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 109 k games. Masters: 133 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/3P4/2P5/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-14*
+> *Online: bullet/blitz, 1800+ — 109 k games. Masters: 133 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppppp1p/5np1/3P4/2P5/8/PP2PPPP/RNBQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-15*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **Indian Defense: Anti-Grünfeld, Advance Variation** — the "Advance Variation" qualifier is a real name `eco.md`'s own bare "Anti-Gruenfeld" doesn't carry. Despite `eco.md` coding it prominently, this whole branch is a genuine database rarity at the parent root (0.1% masters, 0.2% online) — both clearing the "understudied everywhere" bar. Black's main replies here are **3... Bg7** (46.6%) and **3... c6** (34.6%), neither with a code of its own in this range; **3... b5**, the Danube Gambit, is masters' third choice (8.3%) — see below.
@@ -321,7 +321,7 @@ Black's own 4th move is a genuine fork: **4... O-O** is actually masters' *major
 > | Nf3 | 8 (2.5%) | — | 0 | — |  |
 > | a4 | 0 | — | 1 (9.1%) | — |  |
 > 
-> *Online: bullet/blitz, 1800+ — 318 games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppp1p/5np1/1p1P4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_b6_0_4#explorer) — updated 2026-09-14*
+> *Online: bullet/blitz, 1800+ — 318 games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p1pppp1p/5np1/1p1P4/2P5/8/PP2PPPP/RNBQKBNR_w_KQkq_b6_0_4#explorer) — updated 2026-09-15*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged, tellingly, **Indian Defense: Anti-Grünfeld, Adorjan Gambit** — a real name divergence from `eco.md`'s own "Danube Gambit" (named instead for Andras Adorjan, a leading practitioner). An extreme rarity (11 masters games total) that shows an unusual *inverted* online/masters ratio for this repository: masters actually accept the pawn (**4. cxb5**, 90.9% of that thin sample) more often, proportionally, than online play does (27.4%) — where 4. Nc3, simply developing and ignoring the offer, is instead the top online try (38.7%). Not covered further here.

@@ -46,7 +46,7 @@ rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 5
 | d3 | 24 k (2.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/6/49 | 7 (0.1%) | — |  |
 | c3 | 23 k (2.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 10 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 8.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 8.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn2kbnr/pp1qpppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -105,7 +105,7 @@ rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R b KQkq c3 0 5
 | e6 | 6.6 k (2.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/8/42 | 7 (0.2%) | — |  |
 | Qg4 | 3.1 k (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 55/5/40 | 52 (1.3%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 58/23/19 |  |
 
-*Online: bullet/blitz, 1800+ — 233 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R_b_KQkq_c3_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 233 k games. Masters: 4.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn2kbnr/pp1qpppp/3p4/2p5/2P1P3/5N2/PP1P1PPP/RNBQK2R_b_KQkq_c3_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Grabs central space at once, echoing the Maróczy Bind's own logic — clamping down on d5 before Black can contest it. Deeper theory not covered further here.

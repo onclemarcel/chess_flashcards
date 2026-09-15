@@ -26,7 +26,7 @@ rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R w KQkq g6 0 4
 | h3 | 88 k (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 44/3/53 | 0 | — | ⚠ |
 | Nc3 | 0 | — | 160 (18.3%) | ⬜🟫🟫🟫🟫🟫🟫🟫⬛⬛ 16/68/16 |  |
 
-*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 876 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_g6_0_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 876 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/6p1/4Pp2/5N2/PPPP2PP/RNBQKB1R_w_KQkq_g6_0_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 A genuine online/masters inversion: masters actually prefer **4. h4** (51.9%, already its own code, **C39**), while online play defaults to **4. Bc4** (57.6%, only 17.0% masters). **4. Nc3** (18.3% masters, the *Quaade Gambit*) draws an unusually high share of its games (68%).
@@ -116,7 +116,7 @@ Live-tagged the same generic "King's Knight's Gambit" name reused across this wh
 | d6 | 261 k (17.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 13 (8.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 149 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 149 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/6p1/2B1Pp2/5N2/PPPP2PP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **4... Bg7** (54.4%) — declining the coming complications and reaching its own further code, **C38**. **4... g4** (32.2%) is the move that actually gives this whole complex its many named gambit-sacrifice tries.
@@ -171,7 +171,7 @@ Black attacks the knight, forcing White to choose between five distinctly-named 
 | d4 | 12 k (2.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/3/40 | 0 | — | ⚠ |
 | Nd4 | 4.4 k (0.8%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/3/61 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 531 k games. Masters: 48 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 531 k games. Masters: 48 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/2B1Ppp1/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **5. O-O** (91.7%, the *Muzio Gambit* proper — see below), sacrificing the knight outright for a huge lead in development. **5. Ne5** (8.3%, the *Salvio Gambit* — see below) is the only other reply with any real masters sample.
@@ -231,7 +231,7 @@ rnbqkbnr/pppp1p1p/8/8/2B1Pp2/5Q2/PPPP2PP/RNB2RK1 b kq - 0 6
 | Bc5+ | 11 k (4.2%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/3/36 | 0 | — | ⚠ |
 | Qe7 | 0 | — | 2 (4.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 250 k games. Masters: 41 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/2B1Pp2/5Q2/PPPP2PP/RNB2RK1_b_kq_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 250 k games. Masters: 41 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1p1p/8/8/2B1Pp2/5Q2/PPPP2PP/RNB2RK1_b_kq_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **6... Qf6** (92.7%), pinning the f-file back and offering a queen trade White must decline.
@@ -395,7 +395,7 @@ rnb1kbnr/pppp1p1p/8/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R b kq - 3 6
 | Nc6 | 19 k (16.0%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 31/2/66 | 2 (50.0%) | — | ⚠ |
 | f3 | 8.7 k (7.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 36/2/62 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 121 k games. Masters: 4 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/pppp1p1p/8/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R_b_kq_-_3_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 121 k games. Masters: 4 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kbnr/pppp1p1p/8/4N3/2B1Pppq/8/PPPP2PP/RNBQ1K1R_b_kq_-_3_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 A genuine database rarity even by this card's standards (4 masters games total) — a coin-flip between **6... Nh6** and **6... Nc6** here.
@@ -426,7 +426,7 @@ rnb1kb1r/pppp1p1p/7n/4N3/2BPPppq/8/PPP3PP/RNBQ1K1R b kq d3 0 7
 | d6 | 48 k (82.7%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/2/57 | 2 (100.0%) | — | ⚠ |
 | f3 | 3.9 k (6.6%) | ⬜⬜⬜⬛⬛⬛⬛⬛⬛⬛ 32/2/66 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 59 k games. Masters: 2 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/pppp1p1p/7n/4N3/2BPPppq/8/PPP3PP/RNBQ1K1R_b_kq_d3_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 59 k games. Masters: 2 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb1kb1r/pppp1p1p/7n/4N3/2BPPppq/8/PPP3PP/RNBQ1K1R_b_kq_d3_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7... d6 — Anderssen Counter-attack:**

@@ -61,7 +61,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 1 6
 | Bd6 | 102 k (6.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 0 | — | ⚠ |
 | h6 | 0 | — | 204 (5.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 34/43/23 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_b_KQkq_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Completes kingside development. Masters' clear main try is **6... Qa5** (77.8%), pinning the c3-knight and preparing to meet cxd5 with ...Nxd5 — the *Cambridge Springs Defence*, covered below. **6... Be7** (14.2%), **6... h6** (5.3%) and **6... Bb4** (1.5%) are all real, secondary tries with no code of their own in this range.
@@ -97,7 +97,7 @@ r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R w KQkq - 2 7
 | Nd2 | 138 k (22.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/7/42 | 1.6 k (52.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 29/54/17 |  |
 | cxd5 | 79 k (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 1.2 k (41.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 36/49/15 |  |
 
-*Online: bullet/blitz, 1800+ — 622 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQkq_-_2_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 622 k games. Masters: 3.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1PN2/PP3PPP/R2QKB1R_w_KQkq_-_2_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — named for the 1904 Cambridge Springs tournament where the line first attracted attention. Masters' clear main try is **7. Nd2** (52.6%), sidestepping the pin — covered below. **7. cxd5** (41.7%), the "7.cd" node `eco.md` gives its own entry, is covered below too. **7. Bxf6** (3.8%), the *Capablanca Variation*, is covered further down. A genuine masters/online gap runs through this whole fork: **Bxf6** is far more popular online (30.5%) than at masters level (3.8%), while **Nd2** is masters' clear favourite (52.6%) but only online's second choice (22.2%, behind online's own preference for Bxf6) — worth a one-line remark rather than assuming either database's ranking transfers to the other.
@@ -134,7 +134,7 @@ r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1P3/PP1N1PPP/R2QKB1R b KQkq - 3 7
 | Ne4 | 9.1 k (6.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 20 (1.3%) | ⬜⬜⬜⬜⬜⬜🟫🟫🟫⬛ 60/30/10 |  |
 | Be7 | 4.1 k (3.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/41 | 14 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 138 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1P3/PP1N1PPP/R2QKB1R_b_KQkq_-_3_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 138 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2p2B1/2PP4/2N1P3/PP1N1PPP/R2QKB1R_b_KQkq_-_3_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Retreats the knight, breaking the pin on the c3-knight without allowing ...Ne4. Masters' clear main try is **7... Bb4** (65.7%), pinning the newly-arrived knight in turn — heading, after 8. Qc2, for the named *Bogoljubow Variation* below. **7... dxc4** (31.8%) heads directly for the named *Rubinstein Variation*.
@@ -260,7 +260,7 @@ r1b1kb1r/pp1n1ppp/2p1pn2/q2P2B1/3P4/2N1PN2/PP3PPP/R2QKB1R b KQkq - 0 7
 | cxd5 | 2.3 k (2.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 9 (0.7%) | — |  |
 | Ne4 | 1.9 k (2.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 9 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 79 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2P2B1/3P4/2N1PN2/PP3PPP/R2QKB1R_b_KQkq_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 79 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1kb1r/pp1n1ppp/2p1pn2/q2P2B1/3P4/2N1PN2/PP3PPP/R2QKB1R_b_KQkq_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this "7.cd"; the live explorer independently tags it plain *Cambridge Springs Defense*, same generic label as the parent node. Resolves the central tension at once. Masters' overwhelming main reply is **7... Nxd5** (83.5%), the exact justification for 6...Qa5's whole pin-first idea — heading for the named *Yugoslav Variation* below. **7... exd5** (15.0%) is a real, secondary try with no code of its own in this range.

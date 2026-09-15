@@ -46,7 +46,7 @@ rnbq1rk1/pp3ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 b - - 0 8
 | Bd7 | 0 | — | 103 (3.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/54/22 |  |
 | Qe7 | 0 | — | 60 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/45/30 |  |
 
-*Online: bullet/blitz, 1800+ — 63 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 63 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **8... cxd4** is masters' clear main try (40.2%), resolving the last central tension.

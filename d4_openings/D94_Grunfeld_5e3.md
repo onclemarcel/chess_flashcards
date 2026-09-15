@@ -70,7 +70,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R b KQkq - 0 5
 | c5 | 52 k (4.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 19 (0.8%) | — |  |
 | e6 | 0 | — | 5 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_b_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5... O-O** is close to automatic (97.8% masters).
@@ -108,7 +108,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R w KQ - 1 6
 | Bd2 | 44 k (4.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 375 (15.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 25/53/23 |  |
 | b4 | 0 | — | 402 (16.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/45/25 |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine, striking finding worth flagging plainly**: this is a genuine six-way near-even split, and the two moves masters actually prefer most — **6. cxd5** (23.5%) and **6. Be2** (21.6%) — carry no code of their own anywhere in this range. The *named* tries all sit behind them: **6. Qb3** (+0.00, 18.9%) is the Vienna Variation, its own code, [D95](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D95_Grunfeld_e3_Qb3.md); **6. b4** (16.9%) is the Makogonov Variation; **6. Bd2** (15.8%) is the Opocensky Variation (note the spelling: `eco.md` writes "Opovcensky", the live explorer "Opocensky" — a genuine spelling divergence, not a typo introduced here); and **6. Bd3** — this card's own further trunk, live-tagged the **Paris Variation**, a real name `eco.md`'s own bare "With e3 & Bd3" label doesn't carry — is the rarest of all six, a mere 1.7% of masters games.
@@ -150,7 +150,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/1PPP4/2N1PN2/P4PPP/R1BQKB1R b KQ b3 0 6
 | Bg4 | 724 (4.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/10/43 | 19 (4.6%) | — |  |
 | Be6 | 0 | — | 31 (7.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/55/19 |  |
 
-*Online: bullet/blitz, 1800+ — 15 k games. Masters: 409 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/1PPP4/2N1PN2/P4PPP/R1BQKB1R_b_KQ_b3_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 15 k games. Masters: 409 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/1PPP4/2N1PN2/P4PPP/R1BQKB1R_b_KQ_b3_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Makogonov Variation**, confirming the name — the queenside space grab, gaining room before Black can strike with ...c5. Masters' own top reply is **6... b6** (44.0%), just ahead of **6... c6** (29.1%).
@@ -185,7 +185,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP1B1PPP/R2QKB1R b KQ - 2 6
 | b6 | 3.4 k (6.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/7/50 | 30 (7.9%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 30/57/13 |  |
 | e6 | 0 | — | 70 (18.5%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 20/56/24 |  |
 
-*Online: bullet/blitz, 1800+ — 52 k games. Masters: 378 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP1B1PPP/R2QKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 52 k games. Masters: 378 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2N1PN2/PP1B1PPP/R2QKB1R_b_KQ_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the **Opovcensky Variation**; the live explorer spells it **Opocensky Variation** — a genuine, verified spelling divergence, likely tracing back to two different historical transliterations of the same Czech surname (Karel Opočenský). Masters' own top reply is **6... c5** (45.0%), just ahead of **6... c6** (22.0%) and **6... e6** (18.5%).
@@ -217,7 +217,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R b KQ - 2 6
 | dxc4 | 67 k (27.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/51 | 5 (11.6%) | — |  |
 | c6 | 33 k (13.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 2 (4.7%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 239 k games. Masters: 43 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 239 k games. Masters: 43 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s own bare label for this tabiya is just "With e3 & Bd3" — no name at all; the live explorer independently supplies a real one, the **Paris Variation**. **A second genuine, striking finding, compounding the one at the parent fork**: `eco.md`'s own two named children from here — the Smyslov and Flohr Defences, both reached via 6...c6 — sit behind masters' actual main try at this exact fork: **6... c5** is masters' overwhelming preference (83.7%), while **6... c6**, the move that actually leads to both of this card's own named continuations, is a mere 4.7%.
@@ -253,7 +253,7 @@ rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R w KQ - 0 7
 | cxd5 | 20 k (8.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/50 | 8 (0.6%) | — |  |
 | h3 | 14 k (5.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 117 (8.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/44/20 |  |
 
-*Online: bullet/blitz, 1800+ — 245 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 245 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7. O-O** is masters' overwhelming main try (88.9%).
@@ -281,7 +281,7 @@ rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 1 7
 | a6 | 10 k (5.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/47 | 113 (8.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/43/14 |  |
 | Bf5 | 0 | — | 81 (6.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/43/15 |  |
 
-*Online: bullet/blitz, 1800+ — 197 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 197 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/2NBPN2/PP3PPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 This is the real Smyslov/Flohr Defence fork: **7... Bg4** is masters' clear main try (50.8%), heading into the Smyslov Defence. **7... Bf5** (6.4%) heads into the Flohr Defence instead — the second of two unrelated "Flohr" names in this D90-D99 batch (D90's own Flohr Variation, at 5. Qa4+, is the other).
@@ -317,7 +317,7 @@ rn1q1rk1/pp2ppbp/2p2np1/3p4/2PP2b1/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8
 | cxd5 | 4.8 k (6.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 19 (2.9%) | — |  |
 | Qb3 | 0 | — | 7 (1.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 74 k games. Masters: 654 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp2ppbp/2p2np1/3p4/2PP2b1/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 74 k games. Masters: 654 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp2ppbp/2p2np1/3p4/2PP2b1/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Smyslov Defense**, confirming the name — the first of a small "Smyslov" cluster this batch keeps hitting (D98's own Smyslov Variation and D99's own Smyslov Main Line/Yugoslav Variation, all four unrelated to this one, are the other three). Masters' own follow-up is close to universal: **8. h3** (95.4%).
@@ -350,7 +350,7 @@ rn1q1rk1/pp2ppbp/2p2np1/3p1b2/2PP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 2 8
 | Re1 | 627 (8.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/52 | 3 (3.7%) | — | ⚠ |
 | cxd5 | 478 (6.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 3 (3.7%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 7.5 k games. Masters: 82 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp2ppbp/2p2np1/3p1b2/2PP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 7.5 k games. Masters: 82 games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp2ppbp/2p2np1/3p1b2/2PP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Flohr Defense**, confirming the name and, at +0.57, the least comfortable of this fork's two branches for Black per Stockfish. Masters' own follow-up is **8. Bxf5** (82.9%), simply removing the bishop.

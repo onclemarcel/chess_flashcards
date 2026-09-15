@@ -27,7 +27,7 @@ r1bq1rk1/pp1n1ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1 w - - 1 9
 | Qb3 | 0 | — | 64 (5.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 28/50/22 |  |
 | Bd3 | 0 | — | 35 (3.1%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 23/57/20 |  |
 
-*Online: bullet/blitz, 1800+ — 7.0 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1_w_-_-_1_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 7.0 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1n1ppp/4pn2/2p5/1bBP4/2N1PN2/PP3PPP/R1BQ1RK1_w_-_-_1_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **9. Qe2** is masters' clear main try (50.7%), while online play strongly prefers **9. a3** instead (58.0% online vs 35.8% masters) — a genuine online/masters inversion (not a trap by the numeric bar: a3's masters share, 35.8%, is far above the 2% ceiling that rule requires).

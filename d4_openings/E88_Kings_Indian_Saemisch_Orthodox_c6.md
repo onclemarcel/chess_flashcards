@@ -45,7 +45,7 @@ rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 8
 | b4 | 558 (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/3/48 | 0 | — | ⚠ |
 | h4 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 106 k games. Masters: 684 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 106 k games. Masters: 684 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine, striking finding**: `eco.md`'s own named continuation from this exact position — **8. Nge2**, the move that leads into [E89](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E89_Kings_Indian_Saemisch_Orthodox_Main_Line.md)'s own **Orthodox Main line** — is actually masters' *least* popular of the three real tries here, a mere **3.4%**. **8. Bd3** (53.7%) and **8. Qd2** (42.1%) are both far more common in practice, and neither carries a code of its own in this range. This is the same "coded line trails uncoded/less-popular rivals" pattern this project has flagged repeatedly elsewhere: the historically-named main line is not the same thing as the practically-most-played one.
@@ -88,7 +88,7 @@ rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R b KQ - 1 8
 | Na6 | 0 | — | 3 (2.9%) | — |  |
 | Ne8 | 0 | — | 1 (1.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 17 k games. Masters: 104 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_1_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 17 k games. Masters: 104 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3pbp/2pp1np1/3Pp3/2P1P3/2N1BP2/PP2N1PP/R2QKB1R_b_KQ_-_1_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Once **8. Nge2** is actually played, **8... cxd5** is close to forced (84.6% masters) — the move that reaches [E89](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E89_Kings_Indian_Saemisch_Orthodox_Main_Line.md)'s own **Orthodox Main line**, the deepest node in this whole batch.

@@ -53,7 +53,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR b KQkq - 1 5
 | e5 | 19 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 83 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/41/23 |  |
 | Na6 | 0 | — | 55 (0.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/38/31 |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR_b_KQkq_-_1_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR_b_KQkq_-_1_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -90,7 +90,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQ - 2 6
 | g4 | 129 k (7.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 119 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 39/26/35 |  |
 | f4 | 53 k (2.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/42 | 113 (0.6%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 25/45/30 |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR_w_KQ_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR_w_KQ_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **A genuine finding, worth stating plainly**: White's own 6th move here is a real three-way split, and masters' *actual* plurality reply is **6. Nf3** (46.7%) — an uncoded try, more common than *either* of the two named E73 sub-lines that follow it: **6. Bg5** (35.3%, the Averbakh System, this card's own trunk) and **6. Be3** (14.8%, the Semi-Averbakh System). **6. Nf3 is a verified transposition**, not an assumption: `tools/apply_san.py` confirms the resulting FEN (`rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6`) is *exactly* [E91's own root](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E91_Kings_Indian_6Be2.md#_initial_move_) reached via 5. Nf3 O-O 6. Be2 instead — the same tabiya, two different move orders, continuing into the whole Classical/Mar del Plata complex (E91 onward).
@@ -134,7 +134,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N5/PP2BPPP/R1BQK1NR w KQ - 2 6
 > | c6 | 27 k (5.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/4/43 | 147 (5.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
 > | Na6 | 21 k (4.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 410 (15.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/37/29 |  |
 > 
-> *Online: bullet/blitz, 1800+ — 464 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B3/PP2BPPP/R2QK1NR_b_KQ_-_3_6#explorer) — updated 2026-09-14*
+> *Online: bullet/blitz, 1800+ — 464 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N1B3/PP2BPPP/R2QK1NR_b_KQ_-_3_6#explorer) — updated 2026-09-15*
 > <!-- lichess-stats:end -->
 >
 > Live-tagged **King's Indian Defense: Semi-Averbakh System**, matching `eco.md`'s own name exactly. Black's reply scatters widely: **6... e5** is masters' plurality (37.2%), ahead of **6... c5** (19.6%) and **6... Na6** (15.6%) — none built further here.
@@ -173,7 +173,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR b KQ - 3 6
 | Na6 | 0 | — | 1.9 k (30.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 36/38/27 |  |
 | a6 | 0 | — | 162 (2.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/33/31 |  |
 
-*Online: bullet/blitz, 1800+ — 476 k games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR_b_KQ_-_3_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 476 k games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/6B1/2PPP3/2N5/PP2BPPP/R2QK1NR_b_KQ_-_3_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Averbakh Variation**, matching `eco.md`'s own name closely. Black's own reply here is a genuine multi-way split: **6... c5** is masters' actual plurality (33.1%) — the move that reaches this batch's own [E74](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E74_Kings_Indian_Averbakh_c5.md) — narrowly ahead of the uncoded **6... Na6** (30.8%), with **6... h6** (16.5%) and **6... Nbd7** (10.7%) further behind.

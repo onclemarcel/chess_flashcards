@@ -27,7 +27,7 @@ rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/5P2/PPP3PP/RNBQK2R b KQkq - 1 6
 | Ke7 | 21 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜🟫⬛⬛ 67/14/19 | 0 | — |  |
 | Qd7 | 9 (0.0%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 26 k games. Masters: 378 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/5P2/PPP3PP/RNBQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 26 k games. Masters: 378 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3p1n2/1B2p3/3NP3/5P2/PPP3PP/RNBQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black usually blocks with **6... Nbd7** or **6... Bd7**, both keeping the position roughly level per Stockfish. A genuine database rarity — deeper theory not covered further here.

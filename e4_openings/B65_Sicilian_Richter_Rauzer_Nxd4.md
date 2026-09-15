@@ -40,7 +40,7 @@ r1bq1rk1/pp2bppp/3ppn2/6B1/3QPP2/2N5/PPP3PP/2KR1B1R b - - 0 10
 | Qc7 | 186 (1.0%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/4/36 | 4 (0.2%) | — | ⚠ |
 | Qb6 | 175 (0.9%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 63/7/29 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/3ppn2/6B1/3QPP2/2N5/PPP3PP/2KR1B1R_b_-_-_0_10#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/3ppn2/6B1/3QPP2/2N5/PPP3PP/2KR1B1R_b_-_-_0_10#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **10... Qa5** is masters' overwhelming main try (87.2%), immediately eyeing the a5-e1 diagonal and preparing ... Rfc8/... Rac8 counterplay. Deeper theory past this point is its own extensive body of work — one of the sharpest tabiyas in the whole Sicilian — not covered further here.

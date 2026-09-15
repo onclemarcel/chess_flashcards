@@ -54,7 +54,7 @@ r1bqkb1r/pp1n1ppp/2p1pn2/8/2BP4/2N1PN2/PP3PPP/R1BQK2R b KQkq - 0 7
 | a6 | 0 | — | 26 (0.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/38/23 |  |
 | c5 | 0 | — | 10 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 371 k games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/8/2BP4/2N1PN2/PP3PPP/R1BQK2R_b_KQkq_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 371 k games. Masters: 9.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1n1ppp/2p1pn2/8/2BP4/2N1PN2/PP3PPP/R1BQK2R_b_KQkq_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' near-forced reply is **7... b5** (99.1%), grabbing queenside space and holding onto tempo.
@@ -87,7 +87,7 @@ r1bqkb1r/p2n1ppp/2p1pn2/1p6/2BP4/2N1PN2/PP3PPP/R1BQK2R w KQkq b6 0 8
 | Bb3 | 51 k (14.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 267 (2.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 33/37/30 |  |
 | Be2 | 42 k (12.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/8/45 | 1.3 k (13.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 26/55/19 |  |
 
-*Online: bullet/blitz, 1800+ — 341 k games. Masters: 9.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/p2n1ppp/2p1pn2/1p6/2BP4/2N1PN2/PP3PPP/R1BQK2R_w_KQkq_b6_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 341 k games. Masters: 9.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/p2n1ppp/2p1pn2/1p6/2BP4/2N1PN2/PP3PPP/R1BQK2R_w_KQkq_b6_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here — the classical bishop-attacking counter, named for the 1924 Meran tournament, the single most heavily analysed structure to arise anywhere in the whole D-series. Masters' clear main try is **8. Bd3** (83.4%), retreating the bishop to keep it aimed at the h7 diagonal.
@@ -122,7 +122,7 @@ r1bqkb1r/p2n1ppp/2p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R b KQkq - 1 8
 | Bd6 | 28 k (11.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 1.1 k (13.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/48/25 |  |
 | b4 | 9.1 k (3.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 578 (7.1%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/53/16 |  |
 
-*Online: bullet/blitz, 1800+ — 248 k games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/p2n1ppp/2p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_1_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 248 k games. Masters: 8.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/p2n1ppp/2p1pn2/1p6/3P4/2NBPN2/PP3PPP/R1BQK2R_b_KQkq_-_1_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node, the true crossroads of the whole Meran complex. Masters split between **8... Bb7** (49.8%), the classical *Wade Variation*, and **8... a6** (29.9%), escalating to its own deeper code, [D48](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D48_Semi_Slav_Meran_Old_Variation.md). **8... b4** (7.1%) is the real, secondary *neo-Meran (Lundin Variation)*.

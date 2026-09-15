@@ -27,7 +27,7 @@ r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1 b - - 0 8
 | Nd4 | 4.4 k (2.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/5/45 | 0 | — | ⚠ |
 | Bg4 | 160 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬛⬛⬛ 69/4/27 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 190 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 190 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/2pP4/2P5/2N2NP1/PP2PPBP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line** — a real name divergence from `eco.md`'s own "Yugoslav Panno." The "Panno" in this card's own name is a genuine, unrelated collision with the Panno Variation covered on [E63](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E63_Kings_Indian_Fianchetto_Panno.md) — both are named for Oscar Panno, but they sit at two entirely different, disconnected nodes of the tree (E63's own is 7... a6 off the "6... Nc6 7. O-O" fork; this one is 8. d5 off the Yugoslav System's own separate "6... c5" branch). The knight is attacked and Black's reply is close to forced: **8... Na5** (98.9% masters), redeploying to the rim rather than retreating passively. Not covered further here.

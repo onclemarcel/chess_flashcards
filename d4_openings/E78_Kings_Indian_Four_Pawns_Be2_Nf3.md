@@ -29,7 +29,7 @@ rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP2B1PP/R1BQK2R b KQ - 1 7
 | Qa5 | 374 (1.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/44 | 1 (0.7%) | — | ⚠ |
 | a6 | 288 (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 26 k games. Masters: 151 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP2B1PP/R1BQK2R_b_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 26 k games. Masters: 151 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/3p1np1/2p5/2PPPP2/2N2N2/PP2B1PP/R1BQK2R_b_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -68,7 +68,7 @@ r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R w KQ - 1 9
 | Nf3 | 775 (3.6%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/5/52 | 0 | — | ⚠ |
 | Nb3 | 199 (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/6/46 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 21 k games. Masters: 110 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R_w_KQ_-_1_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 21 k games. Masters: 110 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2PNPP2/2N5/PP2B1PP/R1BQK2R_w_KQ_-_1_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White's own 9th move is masters' clear main try, **9. Be3** (91.8%), reaching [E79](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E79_Kings_Indian_Four_Pawns_Main_Line.md).

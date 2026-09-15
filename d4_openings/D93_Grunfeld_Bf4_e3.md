@@ -47,7 +47,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1PN2/PP3PPP/R2QKB1R b KQ - 0 6
 | Bg4 | 24 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/41 | 0 | — | ⚠ |
 | Be6 | 0 | — | 18 (1.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 476 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 476 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1PN2/PP3PPP/R2QKB1R_b_KQ_-_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6... c5** is masters' overwhelming main try (89.6%) — the thematic central strike this whole opening is built around. **6... c6** (7.8% masters) is a real, uncoded secondary. **6... dxc4** is a genuine blitz-trap-shaped gap: a bare 0.6% of masters games (6 of 1,058) against a real 6.3% online share — over 10× the masters rate, clearing this repo's own ratio bar for the rhombus shape even on a thin masters sample.

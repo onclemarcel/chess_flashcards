@@ -26,7 +26,7 @@ r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5
 | Qf6 | 59 k (3.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/7/47 | 739 (8.9%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 20/55/26 |  |
 | Qd6 | 0 | — | 1.4 k (17.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 28/45/27 |  |
 
-*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 8.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_1_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.5 M games. Masters: 8.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1p5/4p3/4P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_1_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 * [**5... f6**](#_Gligoric_) (36.5% masters): masters' clear main try — the *Gligoric Variation* — covered below.

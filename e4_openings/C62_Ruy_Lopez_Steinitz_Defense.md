@@ -26,7 +26,7 @@ r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 0 4
 | c3 | 639 k (12.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/40 | 44 (6.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 45/25/30 |  |
 | Nc3 | 0 | — | 13 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 5.0 M games. Masters: 668 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 5.0 M games. Masters: 668 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/ppp2ppp/2np4/1B2p3/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_0_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **4. d4** is masters' clear main try (71.7%), building a broad centre while Black's own last move did little to contest it. **4... Bd7** defends e5 a second time and unpins in advance of ...Nf6, reaching a further tabiya where White's own 5th move genuinely forks:

@@ -53,7 +53,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Bxf7+ | 72 k (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
 | Ke2 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 19.9 M games. Masters: 21 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White has several options to defend the e4 pawn:

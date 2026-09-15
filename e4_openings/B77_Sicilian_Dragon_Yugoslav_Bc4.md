@@ -49,7 +49,7 @@ r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R b KQ - 4 9
 | Nd7 | 0 | — | 257 (4.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 50/28/22 |  |
 | Qa5 | 0 | — | 66 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/39/18 |  |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 6.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R_b_KQ_-_4_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 6.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2ppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R_b_KQ_-_4_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -84,7 +84,7 @@ r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R w KQ - 5 10
 | h4 | 79 k (11.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 1.2 k (21.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/29/27 |  |
 | g4 | 27 k (3.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 35 (0.6%) | ⬜⬜⬜⬜⬜⬜🟫🟫⬛⬛ 57/26/17 |  |
 
-*Online: bullet/blitz, 1800+ — 681 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R_w_KQ_-_5_10#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 681 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2q1rk1/pp1bppbp/2np1np1/8/2BNP3/2N1BP2/PPPQ2PP/R3K2R_w_KQ_-_5_10#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **10. O-O-O** is masters' clear main try (66.4%), already live-tagged **B78** — see [`B78_Sicilian_Dragon_Yugoslav_OOO.md`](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/B78_Sicilian_Dragon_Yugoslav_OOO.md), not built out further here. **10. h4** (21.9%) is a real second choice, launching the pawn storm even before castling.

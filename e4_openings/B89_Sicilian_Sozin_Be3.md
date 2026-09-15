@@ -25,7 +25,7 @@ r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R b KQkq - 3 7
 | Bd7 | 6.2 k (5.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 114 (3.3%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 33/23/44 |  |
 | Qc7 | 1.3 k (1.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/46 | 32 (0.9%) | ⬜⬜⬜🟫🟫⬛⬛⬛⬛⬛ 34/19/47 |  |
 
-*Online: bullet/blitz, 1800+ — 116 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R_b_KQkq_-_3_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 116 k games. Masters: 3.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/2BNP3/2N1B3/PPP2PPP/R2QK2R_b_KQkq_-_3_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **7... Be7** is masters' narrow main try (49.8%, ahead of **7... a6** at 45.5%). **8. Qe2** is the *Velimirovic Attack* — one of the sharpest, most feared attacking systems in the whole Sicilian, closing out the whole B80-B89 range.
@@ -54,7 +54,7 @@ r1bqk2r/pp2bppp/2nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R b KQkq - 5 8
 | Ne5 | 227 (0.8%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 63/3/34 | 0 | — | ⚠ |
 | Na5 | 0 | — | 11 (0.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 28 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R_b_KQkq_-_5_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 28 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2nppn2/8/2BNP3/2N1B3/PPP1QPPP/R3K2R_b_KQkq_-_5_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 White prepares long castling with the queen already eyeing the kingside, a direct attacking set-up that has produced some of the most famous attacking games in Sicilian history. **8... a6** is masters' clear main try (50.0%), with **8... O-O** (37.7%) a real second choice. Deeper Velimirovic Attack theory is its own extensive, highly tactical body of work, not covered further here.

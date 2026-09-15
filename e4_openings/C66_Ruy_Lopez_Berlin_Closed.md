@@ -27,7 +27,7 @@ r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQ1RK1 w kq - 0 5
 | Nc3 | 0 | — | 10 (2.3%) | — |  |
 | Bxc6+ | 0 | — | 8 (1.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 427 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 427 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/ppp2ppp/2np1n2/1B2p3/4P3/5N2/PPPP1PPP/RNBQ1RK1_w_kq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5. d4** is masters' clear main try (70.7%), striking the centre. **5... Bd7 6. Nc3**, and Black's own 6th move genuinely forks:

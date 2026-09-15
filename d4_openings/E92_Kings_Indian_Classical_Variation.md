@@ -55,7 +55,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ e6 0 7
 | Bg5 | 16 k (0.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/6/46 | 69 (0.2%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/35/30 |  |
 | h3 | 15 k (0.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/5/50 | 6 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_e6_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 42 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_e6_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 The four coded tries genuinely rank in a different order than their names might suggest: masters' actual plurality is **7. O-O** (68.4%), which carries no name of its own here at all — it advances straight to E94 ("orthodox Variation"), and from there mostly onward again to the Aronin-Taimanov/Mar del Plata complex (E97-E99). The three tries that *do* have their own named E92 entries — **Gligoric-Taimanov** (Be3, 14.5%), **Petrosian System** (d5, 11.3%), and **Andersson Variation** (dxe5, 5.6%) — are all comparatively minor by comparison, a real "coded lines trail an uncoded main road" pattern running through this whole card.
@@ -94,7 +94,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7
 | Nc6 | 396 (0.2%) | ⬜⬜⬜⬜⬜⬜⬜🟫⬛⬛ 74/4/22 | 0 | — | ⚠ |
 | d5 | 151 (0.1%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛ 84/3/13 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 256 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 256 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4P3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Exchange Variation**, a genuine name divergence from `eco.md`'s own "Andersson Variation" — the trade on e5 immediately simplifies the centre and heads for a symmetrical, often drawish structure, exactly the plan Ulf Andersson's own name suggests. **7... dxe5** is essentially forced (100.0% masters), reaching a position Stockfish rates as barely better than equal (+0.12 after the recapture, down from +0.12 before it too) — the flattest evaluation found anywhere on this whole card. Not built further here.
@@ -130,7 +130,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R b KQ - 1 7
 | c6 | 4.7 k (1.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/7/46 | 538 (8.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/22 |  |
 | h6 | 3.5 k (1.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 384 (6.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/35/21 |  |
 
-*Online: bullet/blitz, 1800+ — 267 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R_b_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 267 k games. Masters: 6.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N1BN2/PP2BPPP/R2QK2R_b_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System**, matching `eco.md` closely. Named for Svetozar Gligorić and Mark Taimanov, this quiet developing move eyes d4 and prepares Qd2. Masters' own actual plurality reply, **7... Ng4** (40.1%), harasses the newly-posted bishop at once — a real online/masters inversion sits right alongside it: online play instead favours **7... Nc6** (39.5% online, a mere 5.6% at masters level, and a genuine ⚠ gap past this repo's own rhombus-style threshold in spirit, though the move itself isn't rare enough in absolute terms to qualify formally). Not built further here.
@@ -167,7 +167,7 @@ rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R b KQ - 0 7
 | c5 | 0 | — | 41 (0.9%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/32/22 |  |
 | h6 | 0 | — | 27 (0.6%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 59/15/26 |  |
 
-*Online: bullet/blitz, 1800+ — 488 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 488 k games. Masters: 4.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Petrosian Variation** — a minor divergence from `eco.md`'s own "System", the same System/Variation drift seen elsewhere across this project (Kramer, Averbakh). Named for Tigran Petrosian, White locks the centre at once, gaining space and steering toward a more manoeuvring middlegame than the sharper 7. O-O lines. A genuinely striking naming irony shows up right here: `eco.md`'s own **"Main line"** name belongs to **7... Nbd7** (only 9.4% masters), while the actually overwhelming masters choice is **7... a5** (75.9%) — the **Stein Variation**, built out below — meaning the "Main line" isn't the main line by any practical measure. This card still follows Nbd7 onward into [E93](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E93_Kings_Indian_Petrosian_Main_Line.md), since that's where `eco.md`'s own chain of named codes continues, but the frequency gap is worth keeping in mind.
@@ -208,7 +208,7 @@ rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R w KQ a6 0 8
 | a4 | 5.8 k (2.3%) | ⬜⬜⬜🟫⬛⬛⬛⬛⬛⬛ 33/4/63 | 0 | — | ⚠ |
 | Nd2 | 0 | — | 90 (2.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/28/28 |  |
 
-*Online: bullet/blitz, 1800+ — 252 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_a6_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 252 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/1pp2pbp/3p1np1/p2Pp3/2P1P3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_a6_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Petrosian Variation, Stein Defense** — a double naming divergence from `eco.md`'s own "Stein Variation" (Petrosian's System/Variation drift, plus a Variation/Defense drift on Stein's own name too). Named for Leonid Stein, Black grabs queenside space at once, gaining ... a4 ideas before White can play a3/b4. **8. Bg5** is masters' clear main try (63.8%). Not built further here.

@@ -28,7 +28,7 @@ rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3P1P/R1BQKBNR b KQkq - 0 5
 | Bg4 | 1.2 k (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/3/48 | 0 | — | ⚠ |
 | e5 | 0 | — | 1 (0.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 86 k games. Masters: 125 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3P1P/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 86 k games. Masters: 125 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3P1P/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -68,7 +68,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR b KQ - 2 6
 | Bg4 | 6.5 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 0 | — | ⚠ |
 | a6 | 0 | — | 4 (1.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 330 k games. Masters: 339 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR_b_KQ_-_2_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 330 k games. Masters: 339 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N3P1/PP3PBP/R1BQK1NR_b_KQ_-_2_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Black's own 6th move genuinely scatters four ways here, none dominant: **6... e5** is masters' actual plurality (35.4%), narrowly ahead of **6... Nc6** (22.4%), **6... c5** (19.8%), and **6... Nbd7** (14.2%) — none of the three smaller tries carries a code of its own in this range.
@@ -96,7 +96,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP3PBP/R1BQK1NR w KQ e6 0 7
 | dxe5 | 5.1 k (8.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/7/49 | 3 (2.5%) | — | ⚠ |
 | Nf3 | 4.5 k (7.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 10 (8.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 60 k games. Masters: 120 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP3PBP/R1BQK1NR_w_KQ_e6_0_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 60 k games. Masters: 120 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP3PBP/R1BQK1NR_w_KQ_e6_0_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -134,7 +134,7 @@ rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP2NPBP/R1BQK2R b KQ - 1 7
 | Nbd7 | 2.4 k (8.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 14 (16.3%) | — |  |
 | c6 | 1.5 k (5.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/6/42 | 9 (10.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 31 k games. Masters: 86 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP2NPBP/R1BQK2R_b_KQ_-_1_7#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 31 k games. Masters: 86 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2pbp/3p1np1/4p3/2PPP3/2N3P1/PP2NPBP/R1BQK2R_b_KQ_-_1_7#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Pomar System**, matching `eco.md`'s own name exactly — the deepest, most specific node reached on this card. Masters' own reply here splits between **7... Nc6** (40.7%) and **7... exd4** (29.1%), neither built further here.

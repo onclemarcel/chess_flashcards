@@ -51,7 +51,7 @@ rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR w KQkq - 4 5
 | Nf3 | 1.1 M (25.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/6/46 | 975 (18.6%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/53/16 |  |
 | cxd5 | 309 k (7.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/45 | 392 (7.5%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 31/48/21 |  |
 
-*Online: bullet/blitz, 1800+ — 4.3 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 4.3 M games. Masters: 5.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N5/PP2PPPP/R2QKBNR_w_KQkq_-_4_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 The classical reply, breaking the pin's threat by preparing to meet Bxf6 with a recapture that keeps the structure sound. Masters' clear main try is **5. e3** (73.7%), the quiet classical treatment — covered below, the trunk this whole rest of the batch (D54 through D59) grows from. **5. Nf3** (18.6%) and **5. cxd5** (7.5%) are both real, secondary tries with no code of their own in this range.
@@ -89,7 +89,7 @@ rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR b KQkq - 0 5
 | a6 | 110 k (4.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/6/45 | 0 | — | ⚠ |
 | b6 | 0 | — | 15 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 2.5 M games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 A real fork worth stating plainly rather than treating **5... O-O** as forced: masters actually split it **55.4%** O-O against a genuinely substantial **30.5%** for **5... h6**, with **5... Nbd7** (10.4%) and **5... c6** (2.8%) both real, secondary tries with no code of their own in this range, and **5... Ne4** a real database rarity (0.3% masters, 2.1% online) heading for the named *Lasker Variation*.
@@ -150,7 +150,7 @@ rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR w KQ - 1 6
 | cxd5 | 76 k (6.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 137 (6.3%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 34/46/20 |  |
 | Rc1 | 0 | — | 249 (11.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 41/47/12 |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1bppp/4pn2/3p2B1/2PP4/2N1P3/PP3PPP/R2QKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Left completely untagged live (`opening=None`) at this exact node — a clean finding worth stating plainly: both this node's own parent (D53's own "5. e3" fork above) and both of its real children (D55's own 6.Nf3 root and D54's own 6.Rc1) are separately live-tagged, but the node in between them carries no name at all. Masters' clear main try is **6. Nf3** (76.0%), its own code, D55, covered there — the trunk the rest of this batch (D55 through D59) grows from. **6. Rc1** (11.5%) is its own code too, D54, covered there. **6. cxd5** (6.3%), **6. Qc2** (4.9%) and **6. Bd3** (0.9%) are all real, secondary tries with no code of their own in this range.

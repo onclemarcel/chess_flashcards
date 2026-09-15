@@ -50,7 +50,7 @@ rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3
 | e4 | 1.8 M (15.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 6.2 k (25.6%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 35/45/20 |  |
 | Qa4+ | 110 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 82 (0.3%) | ⬜⬜🟫🟫🟫🟫⬛⬛⬛⬛ 26/37/38 |  |
 
-*Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 11.8 M games. Masters: 24 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR_w_KQkq_-_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' clear favourite is **3. Nf3** (+0.2, 51.7%) — its own code, [D21](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D21_Queens_Gambit_Accepted_Normal_Variation.md). **3. e4** (+0.22, 25.6%) grabs the centre at once and stays D20. **3. e3** (20.7% masters) is a real secondary try too, but carries no code of its own anywhere in this D20-D29 range and is not covered further here.
@@ -88,7 +88,7 @@ rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3
 | Nc6 | 171 k (9.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 914 (14.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/34/26 |  |
 | c5 | 129 k (7.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 541 (8.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/35/20 |  |
 
-*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 1.8 M games. Masters: 6.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR_b_KQkq_e3_0_3#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md` leaves this bare tabiya named only "3.e4"; the live explorer independently names it the ***Saduleto Variation*** — a real name divergence. Grabs the full centre immediately, banking on development speed to justify it. Masters' clear main try is **3... e5** (41.3%), striking back at once — not covered further here (backlog). Two real minority tries carry their own `eco.md` names: **3... c5** (8.7%) and **3... f5** (a genuine database rarity, 0 masters games).

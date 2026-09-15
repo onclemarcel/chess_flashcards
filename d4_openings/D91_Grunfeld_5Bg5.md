@@ -49,7 +49,7 @@ rnbqk2r/ppp1ppbp/5np1/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 5
 | dxc4 | 109 k (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 472 (12.2%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 29/36/35 |  |
 | c5 | 11 k (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 65 (1.7%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 35/35/29 |  |
 
-*Online: bullet/blitz, 1800+ — 859 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 859 k games. Masters: 3.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p2B1/2PP4/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **5... Ne4** is masters' overwhelming main try (83.6%) — kicking the bishop immediately, the same idea that drives D80's own Stockholm Variation one code-family over. **5... dxc4** (12.2% masters) grabs the pawn instead, banking on ...Ne4/...c5 ideas to justify the tempo loss later. **5... c6** (2.0% masters) and **5... c5** (1.7% masters) are both real database rarities with no code of their own in this range.

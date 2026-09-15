@@ -49,7 +49,7 @@ rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8
 | Nbd7 | 69 k (28.4%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/7/48 | 2.6 k (48.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 30/50/19 |  |
 | a5 | 5.0 k (2.0%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/45 | 12 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 244 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1_b_kq_-_2_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 244 k games. Masters: 5.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1_b_kq_-_2_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 A genuinely scattered choice, matching the "system opening" flavour this whole tabiya has by now: masters split almost exactly between **8... O-O** (+0.17, 50.6%) and **8... Nbd7** (+0.07, 48.8%). Only the castling reply escalates one ply further into its own named code.
@@ -86,7 +86,7 @@ rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1 b - - 4 9
 | a5 | 1.9 k (2.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | h6 | 0 | — | 30 (1.8%) | ⬜⬜⬜🟫🟫🟫🟫🟫🟫⬛ 27/60/13 |  |
 
-*Online: bullet/blitz, 1800+ — 66 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1_b_-_-_4_9#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 66 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1_b_-_-_4_9#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 `eco.md`'s name matches the live explorer here (compounded with its own "Classical System" ancestor tag). Prepares Rd1/e4 without committing the rook yet. Masters split between **9... Nbd7** (40.3%), **9... Bg6** (37.0%), **9... Bg4** (10.1%), and **9... Ne4** (10.1%) — a genuinely scattered choice at this depth. Only the last escalates to its own named line.

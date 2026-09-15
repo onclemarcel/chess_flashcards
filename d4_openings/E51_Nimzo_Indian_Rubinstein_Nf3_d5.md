@@ -52,7 +52,7 @@ rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R w KQ d6 0 6
 | Qc2 | 38 k (7.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/44 | 52 (2.1%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/50/27 |  |
 | Qb3 | 14 k (2.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 6 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 507 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_d6_0_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 507 k games. Masters: 2.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2N1PN2/PP3PPP/R1BQKB1R_w_KQ_d6_0_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6. Bd3** is masters' clear main try (56.8%), developing before deciding how to meet Black's own centre.
@@ -119,7 +119,7 @@ rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R b KQ - 1 6
 | a6 | 10.0 k (3.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/5/45 | 12 (0.2%) | — |  |
 | Nc6 | 0 | — | 159 (2.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/40/26 |  |
 
-*Online: bullet/blitz, 1800+ — 293 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_1_6#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 293 k games. Masters: 7.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp2ppp/4pn2/3p4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_b_KQ_-_1_6#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **6... c5** is masters' clear main try (65.4%), striking at the centre before White finishes developing.
@@ -176,7 +176,7 @@ r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1 w - - 0 8
 | Re1 | 1 (0.0%) | — | 0 | — |  |
 | Qd2 | 1 (0.0%) | — | 0 | — |  |
 
-*Online: bullet/blitz, 1800+ — 4.8 k games. Masters: 51 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 4.8 k games. Masters: 51 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2ppp/2n1pn2/8/1bpP4/2NBPN2/PP3PPP/R1BQ1RK1_w_-_-_0_8#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 **8. Bxc4** is masters' near-universal recapture (100%), simply regaining the pawn. Not built out further here (backlog) — deeper Ragozin theory from this exact node is its own extensive body of work.

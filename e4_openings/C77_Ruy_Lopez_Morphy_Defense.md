@@ -27,7 +27,7 @@ r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 5
 | Nc3 | 158 k (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 994 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/44/18 |  |
 | Bxc6 | 62 k (0.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 624 (0.7%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 27/44/29 |  |
 
-*Online: bullet/blitz, 1800+ — 6.6 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_2_5#explorer) — updated 2026-09-14*
+*Online: bullet/blitz, 1800+ — 6.6 M games. Masters: 94 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1ppp1ppp/p1n2n2/4p3/B3P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_2_5#explorer) — updated 2026-09-15*
 <!-- lichess-stats:end -->
 
 Masters' reply: **O-O** 87.5% (→ C78), **d3** 6.8% (stays C77, Anderssen Variation), **Qe2** 2.3% (stays C77, Wormald Attack), **d4** 1.7%, **Nc3** 1.1% (stays C77, Four Knights/Tarrasch Variation), **Bxc6** 0.7% (stays C77, Treybal/Bayreuth Variation).
