@@ -47,7 +47,7 @@ rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/1QN5/PP2PPPP/R1B1KBNR b KQkq - 1 4
 | e6 | 874 (1.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 55/5/40 | 0 | — | ⚠ |
 | c5 | 0 | — | 5 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 53 k games. Masters: 539 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/1QN5/PP2PPPP/R1B1KBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 53 k games. Masters: 539 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/1QN5/PP2PPPP/R1B1KBNR_b_KQkq_-_1_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... dxc4** is close to automatic (97.0% of masters games) — grabbing the pawn at once, since White's queen sortie hasn't actually defended it yet. **4... c6** (1.5% masters) and **4... Bg7** (0.6% masters) are real, secondary tries with no code of their own in this range, both essentially database rarities at this node.

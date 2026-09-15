@@ -50,7 +50,7 @@ rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R b KQkq - 1 6
 | Nbd7 | 1.7 k (0.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 0 | — | ⚠ |
 | e5 | 0 | — | 9 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 209 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 209 k games. Masters: 4.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp3ppp/3ppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_b_KQkq_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -87,7 +87,7 @@ r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R w KQkq - 2 7
 | Bg5 | 5.0 k (4.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | f4 | 0 | — | 13 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 117 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_-_2_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 117 k games. Masters: 1.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp3ppp/2nppn2/8/3NP3/2N5/PPP1BPPP/R1BQK2R_w_KQkq_-_2_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **7. O-O** is masters' clear main try (68.8%, +0.3). **7... Be7 8. Be3 O-O 9. f4** reaches the Modern Scheveningen's own real main line.
@@ -116,7 +116,7 @@ r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1 b - f3 0 9
 | d5 | 1.5 k (3.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/47 | 0 | — | ⚠ |
 | Re8 | 0 | — | 10 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 49 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1_b_-_f3_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 49 k games. Masters: 2.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2nppn2/8/3NPP2/2N1B3/PPP1B1PP/R2Q1RK1_b_-_f3_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Black has a genuine wide spread, no dominant try: **9... e5** (29.8%), **9... Bd7** (29.3%, see below), **9... a6** (25.6%), **9... Qc7** (13.2%).

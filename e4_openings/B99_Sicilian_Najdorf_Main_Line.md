@@ -28,7 +28,7 @@ r1b1k2r/1pqnbppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/2KR1B1R w kq - 5 10
 | Qg3 | 4.1 k (1.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/3/36 | 68 (2.5%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 37/40/24 |  |
 | Bxf6 | 0 | — | 15 (0.6%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 387 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1k2r/1pqnbppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/2KR1B1R_w_kq_-_5_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 387 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1b1k2r/1pqnbppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/2KR1B1R_w_kq_-_5_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **10. g4** is masters' clear main try (73.2%), launching the kingside pawn storm at once, with **10. Bd3** (19.5%) a real second choice. Deeper theory past this point — the resulting opposite-side-castling race, one of the most concretely analysed structures in the entire Sicilian Defense — is its own vast body of work, not covered further here.

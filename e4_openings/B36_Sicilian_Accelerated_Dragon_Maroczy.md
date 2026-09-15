@@ -51,7 +51,7 @@ r1bqkbnr/pp1ppp1p/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R b KQkq c3 0 5
 | Bh6 | 0 | — | 8 (0.1%) | — |  |
 | Qa5+ | 0 | — | 3 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.4 M games. Masters: 10 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1ppp1p/2n3p1/8/2PNP3/8/PP3PPP/RNBQKB1R_b_KQkq_c3_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -88,7 +88,7 @@ r1bqkb1r/pp1ppp1p/2n2np1/8/2PNP3/8/PP3PPP/RNBQKB1R w KQkq - 1 6
 | Nc2 | 2.7 k (0.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/5/53 | 0 | — | ⚠ |
 | Be2 | 198 (0.1%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 40/7/53 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 302 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppp1p/2n2np1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 302 k games. Masters: 5.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1ppp1p/2n2np1/8/2PNP3/8/PP3PPP/RNBQKB1R_w_KQkq_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Attacking the d4-knight before completing the fianchetto — White's most natural reply is **6. Nc3**, and after **6... Nxd4 7. Qxd4**, Black plays **7... d6** (+0.5), reaching the *Gurgenidze Variation*.

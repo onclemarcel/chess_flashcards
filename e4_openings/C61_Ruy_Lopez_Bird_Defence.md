@@ -26,7 +26,7 @@ r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R w KQkq - 4 4
 | Nc3 | 14 k (1.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/43 | 0 | — | ⚠ |
 | Be2 | 0 | — | 1 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/8/1B2p3/3nP3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_4_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4. Nxd4** is masters' overwhelming choice (91.5%), simply capturing the offered knight. **4... exd4 5. O-O**, and Black's own reply is a genuine wide spread: masters' actual main try is **5... Bc5** (69.2%), developing actively rather than the `eco.md`-named ***Paulsen Variation*** (5... Ne7, a real minority at only 2.0%).

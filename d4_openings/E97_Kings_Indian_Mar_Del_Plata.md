@@ -53,7 +53,7 @@ r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 2 8
 | Re1 | 2.8 k (0.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 43/6/51 | 4 (0.0%) | — | ⚠ |
 | Ne1 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.2 M games. Masters: 20 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2pbp/2np1np1/4p3/2PPP3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_2_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8. d5** is essentially automatic (93.2% masters) — closing the centre is the whole point of allowing ... Nc6 in the first place, gaining space and forcing the knight to move again. This is the move that gives the Mar del Plata its whole character: with the centre locked, neither side can easily break through in the middle, so both sides commit to attacking on the flank where they already have more space.
@@ -90,7 +90,7 @@ r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 b - - 0 8
 | Nb8 | 14 k (1.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/5/46 | 14 (0.1%) | — |  |
 | Nb4 | 2.5 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/46 | 3 (0.0%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp2pbp/2np1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1_b_-_-_0_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8... Ne7** is played in essentially every masters game (99.9%) — the knight relocates toward f5, g6, or eventually g8-covering duty, freeing the c8-bishop's diagonal and keeping the c6-pawn lever available. This is the single most forced moment anywhere on this whole card.
@@ -118,7 +118,7 @@ r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1 w - - 1 9
 | Nd2 | 56 k (5.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 2.4 k (12.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 40/34/26 |  |
 | Bg5 | 54 k (5.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/49 | 443 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/30/28 |  |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_1_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 19 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/2P1P3/2N2N2/PP2BPPP/R1BQ1RK1_w_-_-_1_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 This is the Mar del Plata's own defining crossroads, and it's a genuine near-even split between the two moves that give the whole structure its opposite-wing-race reputation: **9. b4** (41.8% masters, narrowly ahead) is the **bayonet Attack**, throwing the queenside pawns forward at once, while **9. Ne1** (37.8%) rerouts the knight toward d3 or f3 first, preparing f3/g4 more slowly and carrying its own further chain of codes ([E98](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/E98_Kings_Indian_Mar_Del_Plata_Ne1.md) onward). Unlike almost every other fork in this whole batch, both real tries here carry their own name and code — there's no uncoded majority lurking behind either of them.
@@ -159,7 +159,7 @@ r1bq1rk1/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1 b - b3 0 9
 | h6 | 8.7 k (2.6%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/4/47 | 0 | — | ⚠ |
 | c6 | 0 | — | 187 (2.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 45/27/27 |  |
 
-*Online: bullet/blitz, 1800+ — 330 k games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1_b_-_b3_0_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 330 k games. Masters: 7.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1npbp/3p1np1/3Pp3/1PP1P3/2N2N2/P3BPPP/R1BQ1RK1_b_-_b3_0_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Bayonet Attack**, matching `eco.md`'s own name almost exactly. Named for the direct, thrusting pawn advance rather than a piece manoeuvre, White races to c5 before Black's own kingside pawns can arrive — the sharpest, most concretely forcing of the Mar del Plata's own main plans. Masters overwhelmingly answer with **9... Nh5** (59.9%), preparing ... f5 while eyeing the standard ... Nh5-f4 or ... f5-f4-g4 storm; the online-favoured **9... a5** (29.8% online, only 25.5% masters) strikes back on the queenside instead, undermining b4 before it can be supported by a3/Bb2. Not built further here.

@@ -28,7 +28,7 @@ rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2
 | e5 | 212 k (1.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/3/51 | 0 | — | ⚠ |
 | Nf6 | 0 | — | 41 (1.5%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 32/27/41 |  |
 
-*Online: bullet/blitz, 1800+ — 14.0 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 14.0 M games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/4PP2/8/PPPP2PP/RNBQKBNR_b_KQkq_f3_0_2#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **2... d5!** is masters' top try (37.4%), hitting back in the centre before White's kingside plan gets moving: after **3. exd5 Nf6**, Black regains the pawn with a comfortable game, since the knight both attacks d5 and prepares to meet **4. Nc3** with ... Nxd5. This is why the McDonnell Attack scores much better online (4.4% of tries) than in masters practice (0.4%) — it rewards an opponent who doesn't know the simple central answer. Not built out further here (backlog).
@@ -61,7 +61,7 @@ rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2
 | d6 | 1.6 M (5.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 13 (0.4%) | — |  |
 | d5 | 0 | — | 13 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 28.6 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 28.6 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp1ppppp/8/2p5/3PP3/8/PPP2PPP/RNBQKBNR_b_KQkq_d3_0_2#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **2... cxd4** is masters' overwhelming reply (97.3%), accepting the tension since declining costs Black very little compensation-free structure. **3. c3** is the real gambit — offering the pawn back for rapid development.

@@ -26,7 +26,7 @@ rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 5
 | Nf3 | 91 k (4.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
 | dxc5 | 0 | — | 172 (1.0%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/32/30 |  |
 
-*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/2N5/PPP2PPP/R1BQKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 2.2 M games. Masters: 17 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/2N5/PPP2PPP/R1BQKBNR_w_KQkq_c6_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **5. a3** is close to automatic (88.0% of masters games), forcing the immediate resolution of the pin. **5. Bd2**, the *Bogolyubov Variation* (8.9%), is a real second try (+0.3 Stockfish). **5. Qg4**, the *Russian Variation* (1.8%), is dead level per Stockfish (+0.0). Neither built out further here.
@@ -53,7 +53,7 @@ rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR b KQkq - 0 5
 | Qa5 | 4.4 k (0.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 59/3/38 | 0 | — | ⚠ |
 | Bxa3 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 15 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk1nr/pp3ppp/4p3/2ppP3/1b1P4/P1N5/1PP2PPP/R1BQKBNR_b_KQkq_-_0_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **5... Bxc3+** is masters' overwhelming main try (87.5%), forcing the recapture and reaching the whole C18-C19 complex. **5... cxd4 6. axb4 dxc3 7. Nf3** is the *Rauzer Variation* — a real database rarity at this exact move order (0.7% masters), Stockfish rating it a modest White edge (+0.5), not built out further here.

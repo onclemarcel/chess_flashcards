@@ -49,7 +49,7 @@ r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1 w - - 3 10
 | f4 | 1.9 k (0.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 41/5/53 | 0 | — | ⚠ |
 | Bd2 | 0 | — | 34 (0.6%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 44/26/29 |  |
 
-*Online: bullet/blitz, 1800+ — 247 k games. Masters: 6.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1_w_-_-_3_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 247 k games. Masters: 6.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N5/PP2BPPP/R1BQNRK1_w_-_-_3_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Another genuine "coded trails uncoded rivals" finding to close out this batch: `eco.md`'s own "Main line" begins with **10. f3** — but that's actually masters' *third* choice at this fork (19.4%), well behind both **10. Be3** (44.3%) and **10. Nd3** (35.1%), neither of which carries a code of its own here. This card still follows f3 onward, matching `eco.md`'s own chain, but the frequency gap is worth stating plainly.
@@ -87,7 +87,7 @@ r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2P2/PP2B1PP/R1BQNRK1 b - - 0 10
 | Nc5 | 156 (0.4%) | ⬜⬜⬜⬜⬜⬜🟫⬛⬛⬛ 62/5/33 | 0 | — | ⚠ |
 | Kh8 | 0 | — | 3 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 40 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2P2/PP2B1PP/R1BQNRK1_b_-_-_0_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 40 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnnpbp/3p2p1/3Pp3/2P1P3/2N2P2/PP2B1PP/R1BQNRK1_b_-_-_0_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **10... f5** is essentially forced once White has actually played f3 (99.6% masters) — the whole point of the move order, striking at the kingside before White's own knight can settle on d3 or f3 for good. This reaches `eco.md`'s own true named tabiya.
@@ -117,7 +117,7 @@ r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N2P2/PP2B1PP/R1BQNRK1 w - f6 0 11
 | b4 | 140 (0.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/4/51 | 0 | — | ⚠ |
 | Bg5 | 0 | — | 21 (1.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/38/19 |  |
 
-*Online: bullet/blitz, 1800+ — 38 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N2P2/PP2B1PP/R1BQNRK1_w_-_f6_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 38 k games. Masters: 1.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P3/2N2P2/PP2B1PP/R1BQNRK1_w_-_f6_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Classical System, Traditional Line** — a full name divergence from `eco.md`'s own "Main line", the biggest single naming gap found anywhere in this whole batch. White's own three real tries here rank closely: **11. g4** (45.3% masters, the plurality) meets the kingside pawn storm head-on with a counter-thrust of its own, **11. Be3** (34.2%) develops calmly first, and **11. Nd3** (18.4%) finally completes the knight's rerouting from move 9.
@@ -157,7 +157,7 @@ r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1 b - g3 0 11
 | Kh8 | 3.4 k (15.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 294 (53.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 34/44/23 |  |
 | h5 | 0 | — | 10 (1.8%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 22 k games. Masters: 546 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1_b_-_g3_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 22 k games. Masters: 546 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pppnn1bp/3p2p1/3Ppp2/2P1P1P1/2N2P2/PP2B2P/R1BQNRK1_b_-_g3_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Orthodox Variation, Classical System, Benko Attack** — matching `eco.md`'s own name well, and named for Pal Benko, whose own name is attached to at least three genuinely unrelated entries across this whole repository (the Benko Gambit at A57-A59, "Benko's Opening" as an alias for the Hungarian Opening at A00, and now this Benko Attack). Rather than capturing at once, masters overwhelmingly tuck the king away first with **11... Kh8** (53.8%), getting off the long diagonal and the coming g-file before committing to a plan — well ahead of the immediate **11... Nf6** (29.1%, retreating the rerouted knight to challenge g4 directly) or **11... f4** (10.3%, closing the kingside immediately instead of trading on g4). Stockfish's eval here (+0.13) is the flattest of any node reached anywhere in this whole batch — after eleven moves of mutual, fully committed flank play, the position is close to balanced chances on both sides, exactly the sharp, roughly-even race the Mar del Plata is famous for. This is the deepest node built anywhere in the E90-E99 batch; not explored further.

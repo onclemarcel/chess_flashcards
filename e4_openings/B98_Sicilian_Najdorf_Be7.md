@@ -26,7 +26,7 @@ rnbqk2r/1p2bppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R w KQkq - 1 8
 | Bd3 | 24 k (2.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 0 | — | ⚠ |
 | Qd3 | 0 | — | 9 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 999 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/1p2bppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R_w_KQkq_-_1_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 999 k games. Masters: 3.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/1p2bppp/p2ppn2/6B1/3NPP2/2N5/PPP3PP/R2QKB1R_w_KQkq_-_1_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8. Qf3** is close to automatic (97.4% of masters games). Black's own reply is a genuine fork.

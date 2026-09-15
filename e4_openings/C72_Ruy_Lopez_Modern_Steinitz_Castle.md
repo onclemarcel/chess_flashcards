@@ -26,7 +26,7 @@ r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1 b kq - 1 5
 | b5 | 54 k (15.3%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/5/41 | 0 | — | ⚠ |
 | Ne7 | 0 | — | 66 (2.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 33/33/33 |  |
 
-*Online: bullet/blitz, 1800+ — 352 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_1_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 352 k games. Masters: 2.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/1pp2ppp/p1np4/4p3/B3P3/5N2/PPPP1PPP/RNBQ1RK1_b_kq_-_1_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters split between **5... Bd7** (69.9%, quietly finishing development while keeping options flexible) and **5... Bg4** (15.6%, pinning the f3-knight at once). Not built out further here (backlog).

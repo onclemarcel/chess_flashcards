@@ -51,7 +51,7 @@ r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R w KQkq - 3 8
 | dxc5 | 10 k (6.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 47/7/46 | 28 (0.8%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/50/11 |  |
 | Bg5 | 4.5 k (2.7%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/8/47 | 16 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 168 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R_w_KQkq_-_3_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 168 k games. Masters: 3.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQK2R_w_KQkq_-_3_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' near-unanimous reply is **8. O-O** (98.7%), and Black castles right back.
@@ -86,7 +86,7 @@ r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 5 9
 | b3 | 35 k (8.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/8/41 | 573 (9.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/43/17 |  |
 | Be3 | 14 k (3.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/7/40 | 219 (3.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/37/20 |  |
 
-*Online: bullet/blitz, 1800+ — 412 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_5_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 412 k games. Masters: 6.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2n2n2/2pp4/3P4/2N2NP1/PP2PPBP/R1BQ1RK1_w_-_-_5_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` calls this the *Prague Variation, Normal position*; the live explorer independently names it the ***Classical Variation*** instead — a real, substantial name divergence. This is the true Tarrasch middlegame tabiya, both sides' development complete. Masters split between **9. Bg5** (53.4%) and **9. dxc5** (30.5%) — both real, named tries.
@@ -144,7 +144,7 @@ r1bq1rk1/pp2bppp/2n2n2/2pp2B1/3P4/2N2NP1/PP2PPBP/R2Q1RK1 b - - 6 9
 | Be6 | 29 k (18.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 49/8/43 | 213 (6.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫⬛ 39/50/11 |  |
 | h6 | 17 k (10.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/7/41 | 18 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 160 k games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2n2n2/2pp2B1/3P4/2N2NP1/PP2PPBP/R2Q1RK1_b_-_-_6_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 160 k games. Masters: 3.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp2bppp/2n2n2/2pp2B1/3P4/2N2NP1/PP2PPBP/R2Q1RK1_b_-_-_6_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 `eco.md` names this "Prague Variation, 9.Bg5", still reusing the Prague family name a third time; the live explorer instead tags it the ***Classical Variation, Carlsbad Variation*** — a real, substantial name divergence, and unrelated to D17's own Slav Carlsbad Variation. Masters' actual main tries are **9... cxd4** (57.5%) and **9... c4** (34.8%); `eco.md`'s own **9... Be6** is a real but statistically minor pick (6.2%) that forks the *Bogolyubov*/*Stoltz Variations*.

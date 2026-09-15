@@ -54,7 +54,7 @@ rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2
 | g6 | 0 | — | 6 (0.1%) | — |  |
 | Be7 | 0 | — | 6 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 27.8 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 27.8 M games. Masters: 8.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/4p3/4P3/2N5/PPPP1PPP/R1BQKBNR_b_KQkq_-_1_2#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -127,7 +127,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR b KQkq - 0 3
 | g6 | 0 | — | 82 (13.3%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 44/35/21 |  |
 | h5 | 0 | — | 30 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 33/33/33 |  |
 
-*Online: bullet/blitz, 1800+ — 786 k games. Masters: 615 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 786 k games. Masters: 615 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2N3P1/PPPP1P1P/R1BQKBNR_b_KQkq_-_0_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **3... Bc5** is masters' clear main try (55.8%), developing actively toward the same Boi/Anderssen-style diagonal seen elsewhere on this card. Deeper theory not covered further here.
@@ -195,7 +195,7 @@ r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N5/PPPP2PP/R1BQKBNR w KQkq - 0 4
 | Bc4 | 18 k (1.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 50/3/47 | 4 (1.7%) | — | ⚠ |
 | d3 | 9.3 k (0.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/4/49 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 239 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N5/PPPP2PP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.0 M games. Masters: 239 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/4Pp2/2N5/PPPP2PP/R1BQKBNR_w_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves

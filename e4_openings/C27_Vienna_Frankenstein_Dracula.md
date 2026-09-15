@@ -26,7 +26,7 @@ rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR w KQkq - 0 4
 | d3 | 16 k (3.4%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/4/56 | 0 | — | ⚠ |
 | Nf3 | 0 | — | 6 (1.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 466 k games. Masters: 466 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 466 k games. Masters: 466 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/8/4p3/2B1n3/2N5/PPPP1PPP/R1BQK1NR_w_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4. Qh5** is close to automatic (94.4% of masters games), attacking both the e5 pawn and (once the knight moves) f7. **4. Nf3** is a genuine curiosity: it transposes straight into Petrov's Defense territory move-order-wise (matching `eco.md`'s own "Petrov's Defence" label here), yet the live explorer still tags it **C27** — just under a completely different name, *Boden-Kieseritzky Gambit* (borrowed from the Bishop's Opening family) rather than anything Petrov-flavoured. Stockfish rates it a real Black edge (−0.5). **4. Nf3 d5** is the further-named *Lichtenhein Defense* (+0.2). Neither built out further here.

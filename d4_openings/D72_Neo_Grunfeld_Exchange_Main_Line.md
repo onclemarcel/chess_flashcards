@@ -28,7 +28,7 @@ rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R b KQkq - 2 7
 | e5 | 252 (1.4%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/5/46 | 88 (8.3%) | ⬜⬜⬜⬜⬜🟫🟫🟫🟫⬛ 47/41/12 |  |
 | h5 | 0 | — | 4 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 19 k games. Masters: 1.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/1n4p1/8/3PP3/6P1/PP2NPBP/RNBQK2R_b_KQkq_-_2_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **7... c5** (56.9%), striking at the centre at once — well ahead of **7... O-O** (30.2%), the quieter developing choice. A genuine online/masters gap sits underneath, worth flagging plainly: online play favours O-O even more (69.9%) while pushing c5 down to a distant second (12.3%) — the reverse ranking of the masters table. **7... e5** (8.3% masters) is a real, secondary central try. None of these carry a further code within this batch's range — 1,054 masters games total, a reasonable sample for a line this deep into a minority-of-a-minority tree, but this is the deepest node built on this card; further theory here is backlog.

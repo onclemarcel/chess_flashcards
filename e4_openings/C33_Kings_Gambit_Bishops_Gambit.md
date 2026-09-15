@@ -32,7 +32,7 @@ Stockfish rates the whole gambit a real, stable Black edge from here — a remin
 | Ne7 | 0 | — | 55 (6.8%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 31/33/36 |  |
 | c6 | 0 | — | 30 (3.7%) | ⬜⬜🟫🟫🟫⬛⬛⬛⬛⬛ 23/30/47 |  |
 
-*Online: bullet/blitz, 1800+ — 937 k games. Masters: 803 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 937 k games. Masters: 803 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pppp1ppp/8/8/2B1Pp2/8/PPPP2PP/RNBQK1NR_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' actual main try is **3... Nf6** (42.0%) — a real online/masters inversion, since online play instead defaults to **3... Qh4+** (20.5%, only 12.2% masters). **3... d5** (19.3% masters) is the second most common try. **3... d6** (3.5% masters, not shown in the trimmed table above) carries no name of its own in `eco.md`.
@@ -100,7 +100,7 @@ Live-tagged the *Cozio Defense* — matching `eco.md`'s own name here. Masters' 
 | d3 | 0 | — | 11 (3.3%) | — |  |
 | Qe2 | 0 | — | 3 (0.9%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 129 k games. Masters: 337 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/8/PPPP2PP/RNBQK1NR_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 129 k games. Masters: 337 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/8/PPPP2PP/RNBQK1NR_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 <a name="_Nc3_"></a>
@@ -126,7 +126,7 @@ Live-tagged the *Bogoljubow Variation* (matching `eco.md`'s own "Bogolyubov Vari
 | d6 | 11 k (13.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 58/4/38 | 0 | — | ⚠ |
 | Nc6 | 0 | — | 20 (6.2%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 35/25/40 |  |
 
-*Online: bullet/blitz, 1800+ — 86 k games. Masters: 321 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR_b_KQkq_-_3_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 86 k games. Masters: 321 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppp1ppp/5n2/8/2B1Pp2/2N5/PPPP2PP/R1BQK1NR_b_KQkq_-_3_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... c6 — Jaenisch Variation:**
@@ -183,7 +183,7 @@ Masters' overwhelming main try from here is **4... Nf6** (83.8%).
 | c6 | 7.4 k (16.1%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 57/4/40 | 0 | — | ⚠ |
 | Qh4+ | 7.0 k (15.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/3/43 | 16 (16.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 46 k games. Masters: 99 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3B4/4Pp2/8/PPPP2PP/RNBQK1NR_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 46 k games. Masters: 99 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3B4/4Pp2/8/PPPP2PP/RNBQK1NR_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4... Nf6 — Morphy Variation:**

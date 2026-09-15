@@ -59,7 +59,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/R2QKBNR w KQ - 1 6
 | h3 | 21 k (10.2%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 45/5/49 | 0 | — | ⚠ |
 | Qb3 | 0 | — | 95 (7.4%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/42/18 |  |
 
-*Online: bullet/blitz, 1800+ — 203 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/R2QKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 203 k games. Masters: 1.3 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/R2QKBNR_w_KQ_-_1_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **6. Rc1** is masters' clear main try (52.6%) — the *Capablanca Variation*, quietly getting the rook off the c-file's future pin before deciding anything else. **6. cxd5** (23.2% masters) resolves the tension at once and heads straight into the *Gambit Accepted* line, its own code, [D84](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D84_Grunfeld_Gambit_Accepted.md). Both are real, well-populated trunks (1,289 sampled masters games combined). **6. Nf3** (16.3% masters, but actually online's *own* main try at 48.6% — a genuine database inversion) and **6. Qb3** (7.4% masters) are real, secondary tries with no code of their own in this range.
@@ -96,7 +96,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/2RQKBNR b K - 2 6
 | Be6 | 2.4 k (7.5%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/10/46 | 271 (33.3%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 23/50/27 |  |
 | dxc4 | 2.1 k (6.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/8/40 | 73 (9.0%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 27/55/18 |  |
 
-*Online: bullet/blitz, 1800+ — 32 k games. Masters: 815 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/2RQKBNR_b_K_-_2_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 32 k games. Masters: 815 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N1P3/PP3PPP/2RQKBNR_b_K_-_2_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **A genuine, near-even three-way fork worth flagging plainly**: masters' top three replies sit within a few points of each other — **6... c5** (33.9%, heading into the Botvinnik Variation below), **6... Be6** (33.3%, real but uncoded further in this range), and **6... c6** (23.3%, likewise uncoded) — with **6... dxc4** (9.0%) a clear fourth. This is one of the flattest distributions found anywhere in this batch; no single reply dominates.
@@ -134,7 +134,7 @@ rnbq1rk1/pp2ppbp/5np1/2pp4/2PP1B2/2N1P3/PP3PPP/2RQKBNR w K c6 0 7
 | cxd5 | 507 (3.0%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 38/7/55 | 0 | — | ⚠ |
 | Bd3 | 0 | — | 1 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 17 k games. Masters: 276 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/5np1/2pp4/2PP1B2/2N1P3/PP3PPP/2RQKBNR_w_K_c6_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 17 k games. Masters: 276 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp2ppbp/5np1/2pp4/2PP1B2/2N1P3/PP3PPP/2RQKBNR_w_K_c6_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **7. dxc5** is close to automatic (98.6% of masters games) — taking the pawn, since declining hands Black an easy game against the isolated d-pawn instead.

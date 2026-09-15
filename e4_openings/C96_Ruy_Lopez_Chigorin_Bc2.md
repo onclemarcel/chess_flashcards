@@ -54,7 +54,7 @@ r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1 b - - 2 10
 | Nc4 | 1.6 k (0.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 60/3/37 | 0 | — | ⚠ |
 | c6 | 0 | — | 8 (0.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 346 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1_b_-_-_2_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 346 k games. Masters: 9.9 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/2p1bppp/p2p1n2/np2p3/4P3/2P2N1P/PPBP1PP1/RNBQR1K1_b_-_-_2_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **10... c5** is close to automatic (96.8% of masters games) — the whole point of ... Na5, gaining queenside space and preparing ... Qc7/... Nc6 or ... Bb7 setups. The rare alternative, **10... c6**, is a genuine database rarity (8 masters games) that stays at this same code.
@@ -150,7 +150,7 @@ r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1 b - d3 0 11
 | exd4 | 9.9 k (3.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/4/42 | 0 | — | ⚠ |
 | Bb7 | 0 | — | 249 (2.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/39/26 |  |
 
-*Online: bullet/blitz, 1800+ — 291 k games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 291 k games. Masters: 9.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/4bppp/p2p1n2/npp1p3/3PP3/2P2N1P/PPB2PP1/RNBQR1K1_b_-_d3_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **11... Qc7** (+0.4) is masters' clear main try (67.8%), connecting the rooks and eyeing a later ... Rd8 or ... Bd7/... Rfe8 regrouping while the tension on d4/e5 stays unresolved — this exact reply escalates to its own code, [C97](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C97_Ruy_Lopez_Chigorin.md), the true Chigorin Defense tabiya. **11... Nd7** (20.3%) and **11... Nc6** (masters count too small to register at this exact node, but a real secondary try online) both stay at this parent code instead.

@@ -49,7 +49,7 @@ rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R w KQ c6 0 7
 | a3 | 12 k (8.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 84 (1.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/43/32 |  |
 | dxc5 | 5.2 k (3.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 4 (0.1%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 149 k games. Masters: 7.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_c6_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 149 k games. Masters: 7.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQK2R_w_KQ_c6_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **7. O-O** is masters' overwhelming main try (94.2%), simply castling.
@@ -87,7 +87,7 @@ rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1 b - - 1 7
 | a6 | 1.9 k (1.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 0 | — | ⚠ |
 | Nbd7 | 0 | — | 51 (0.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/41/20 |  |
 
-*Online: bullet/blitz, 1800+ — 106 k games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 106 k games. Masters: 7.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/pp3ppp/4pn2/2pp4/1bPP4/2NBPN2/PP3PPP/R1BQ1RK1_b_-_-_1_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **7... Nc6** is masters' clear main try (42.7%), developing the last minor piece before committing the centre pawn.

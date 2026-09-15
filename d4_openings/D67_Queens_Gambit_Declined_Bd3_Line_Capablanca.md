@@ -51,7 +51,7 @@ r1bq1rk1/pp1nbppp/2p1p3/3n2B1/2BP4/2N1PN2/PP3PPP/2RQK2R w K - 1 10
 | h4 | 490 (2.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/45 | 11 (1.8%) | — |  |
 | Bf4 | 192 (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/8/43 | 2 (0.3%) | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 23 k games. Masters: 611 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1p3/3n2B1/2BP4/2N1PN2/PP3PPP/2RQK2R_w_K_-_1_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 23 k games. Masters: 611 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/pp1nbppp/2p1p3/3n2B1/2BP4/2N1PN2/PP3PPP/2RQK2R_w_K_-_1_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Frees the knight from f6 while sidestepping the bishop pin's own pressure — Capablanca's own practical solution. Masters' near-forced reply is **10. Bxe7** (97.9%), trading off immediately — covered below, and the launch point for the whole remaining spine of this batch. **10. h4** (only 1.8% masters, 2.1% online) is genuinely understudied everywhere, under both the masters and online floor of the shape key — covered below.
@@ -108,7 +108,7 @@ r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQK2R w K - 0 11
 | Ne4 | 1.2 k (5.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/10/37 | 213 (35.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫🟫🟫 38/57/6 |  |
 | Qd2 | 0 | — | 3 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 22 k games. Masters: 607 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQK2R_w_K_-_0_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 22 k games. Masters: 607 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQK2R_w_K_-_0_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged plain "Bd3 Line" — the same generic name D66's own root carries, an *expected*, consistent recurrence of `eco.md`'s own hierarchical "Bd3 line, X" sub-naming (the same shape already seen at D52's own Cambridge Springs Defence sub-entries in the prior batch), not a surprising collision the way the Capablanca System's own name divergence above is. Masters' clear main try is **11. O-O** (62.6%), simply castling — covered below, feeding D68. **11. Ne4** (35.1%) heads for the named *Alekhine Variation* below.
@@ -167,7 +167,7 @@ r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQ1RK1 b - - 1 11
 | Rd8 | 0 | — | 16 (3.8%) | — |  |
 | b6 | 0 | — | 13 (3.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 31 k games. Masters: 425 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQ1RK1_b_-_-_1_11#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 31 k games. Masters: 425 games. [Open in the explorer](https://lichess.org/analysis/standard/r1b2rk1/pp1nqppp/2p1p3/3n4/2BP4/2N1PN2/PP3PPP/2RQ1RK1_b_-_-_1_11#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged plain "Main Line" — the *third*, unrelated recurrence of this exact generic label in this batch (after D63's own root and D63's own "7...c6" node, two completely different positions), worth stating plainly. Masters' near-forced reply is **11... Nxc3** (88.2%), trading off the strong knight — covered on its own card, D68's *Classical Variation*.

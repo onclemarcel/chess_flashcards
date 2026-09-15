@@ -26,7 +26,7 @@ r1bqkb1r/1p3ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R w KQkq - 0 8
 | Nxc6 | 4.9 k (2.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/6/42 | 233 (1.7%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 36/40/24 |  |
 | Be2 | 0 | — | 80 (0.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 32/36/31 |  |
 
-*Online: bullet/blitz, 1800+ — 177 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1p3ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_w_KQkq_-_0_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 177 k games. Masters: 14 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/1p3ppp/p1nppn2/6B1/3NP3/2N5/PPPQ1PPP/R3KB1R_w_KQkq_-_0_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8. O-O-O** is close to automatic (96.5% of masters games), castling long into the standard race. Black's own 8th move — already live-tagged **B67** — is not covered further here.

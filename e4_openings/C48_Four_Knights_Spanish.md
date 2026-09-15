@@ -53,7 +53,7 @@ r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 5 4
 | d5 | 28 k (0.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/44 | 0 | — | ⚠ |
 | Qe7 | 0 | — | 1 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R_b_KQkq_-_5_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.4 M games. Masters: 7.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/1B2p3/4P3/2N2N2/PPPP1PPP/R1BQK2R_b_KQkq_-_5_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -98,7 +98,7 @@ r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5
 | Be2 | 17 k (3.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 48/6/45 | 16 (0.6%) | — |  |
 | Bd3 | 11 k (2.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/6/48 | 42 (1.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/43/31 |  |
 
-*Online: bullet/blitz, 1800+ — 516 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 516 k games. Masters: 2.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/5n2/1B2p3/3nP3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters are genuinely split four ways here — no single reply dominates:
@@ -143,7 +143,7 @@ r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 6 5
 | Qe2 | 2.3 k (0.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 42/4/54 | 0 | — | ⚠ |
 | Bc4 | 0 | — | 2 (0.3%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.1 M games. Masters: 574 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqk2r/pppp1ppp/2n2n2/1Bb1p3/4P3/2N2N2/PPPP1PPP/R1BQK2R_w_KQkq_-_6_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **5. O-O** is masters' clear main try (62.2%), simply completing development; **5. Nxe5** (19.7%) trades into an ending after **5... Nxe5 6. d4**, and **5. d3** (12.5%) keeps things quiet. After **5. O-O O-O**, White's **6. Nxe5** fork produces two named deeper lines — the *Bardeleben Variation* (6... Nxe5 7. d4 Bd6 8. f4 Nc6 9. e5 Bb4) and the *Marshall Variation* (6... Nd4 instead) — both their own body of work, not covered further here (backlog).

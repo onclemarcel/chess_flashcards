@@ -51,7 +51,7 @@ rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 5
 | c5 | 31 k (6.3%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 46/6/48 | 157 (8.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/40/21 |  |
 | dxc4 | 18 k (3.8%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 40 (2.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 40/38/22 |  |
 
-*Online: bullet/blitz, 1800+ — 486 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 486 k games. Masters: 2.0 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R_b_KQkq_-_3_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **5... O-O** is masters' overwhelming main try (85.5%) — simple development, ahead of any immediate central strike. **5... c5** (8.0% masters) and **5... c6** (4.4% masters) are both real, uncoded secondaries.
@@ -88,7 +88,7 @@ rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R w KQ - 4 6
 | h3 | 24 k (5.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 0 | — | ⚠ |
 | cxd5 | 0 | — | 12 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 404 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R_w_KQ_-_4_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 404 k games. Masters: 1.7 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/5np1/3p4/2PP1B2/2N2N2/PP2PPPP/R2QKB1R_w_KQ_-_4_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **A genuine, well-verified finding worth flagging plainly**: masters' actual plurality here is **6. Rc1** (51.4%), an immediate rook lift with no code of its own in this range — narrowly ahead of **6. e3** (47.0%), the move that actually heads into this card's own further code, [D93](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D93_Grunfeld_Bf4_e3.md). Unlike several similar splits documented elsewhere in this repo, this one is close to a coin flip rather than a lopsided majority for the uncoded try.

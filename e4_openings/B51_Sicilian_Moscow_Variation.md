@@ -46,7 +46,7 @@ rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3
 | Nc6 | 561 k (12.7%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/5/43 | 3.2 k (11.3%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/39/31 |  |
 | Qd7 | 8.1 k (0.2%) | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛ 91/2/7 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_1_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 4.4 M games. Masters: 28 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/pp2pppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_b_KQkq_-_1_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -85,7 +85,7 @@ r1bqkbnr/pp1npppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4
 | c4 | 50 k (4.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 421 (3.5%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 25/41/34 |  |
 | Ba4 | 0 | — | 802 (6.6%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/42/27 |  |
 
-*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1npppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.3 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1npppp/3p4/1Bp5/4P3/5N2/PPPP1PPP/RNBQK2R_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Keeps the bishop's own diagonal to g4/h3 free at the cost of blocking the queen's own development for a while. White usually continues **4. d4** or **4. O-O**, with deeper theory not covered further here.

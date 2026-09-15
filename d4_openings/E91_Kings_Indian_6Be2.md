@@ -47,7 +47,7 @@ rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R b KQ - 3 6
 | Na6 | 239 k (4.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 3.2 k (5.8%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 35/36/30 |  |
 | c6 | 226 k (3.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 597 (1.1%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 41/34/26 |  |
 
-*Online: bullet/blitz, 1800+ — 5.8 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_3_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 5.8 M games. Masters: 55 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/3p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_b_KQ_-_3_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -86,7 +86,7 @@ r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R w KQ - 4 7
 | Bf4 | 1.6 k (0.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/8/38 | 103 (3.2%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/36/25 |  |
 | Qc2 | 0 | — | 16 (0.5%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 245 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_-_4_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 245 k games. Masters: 3.2 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/ppp1ppbp/n2p1np1/8/2PPP3/2N2N2/PP2BPPP/R1BQK2R_w_KQ_-_4_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **King's Indian Defense: Kazakh Variation**, matching `eco.md` exactly. Black routes the queen's knight to a6 before committing the centre — a flexible waiting move, often preparing ... c5 with the knight already clear of the c-file. **7. O-O** (86.2% masters) is by far White's overwhelming reply, simply castling into safety while Black's plan is still unclear. Not built further here.

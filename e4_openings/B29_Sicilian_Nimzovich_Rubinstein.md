@@ -25,7 +25,7 @@ rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | d4 | 399 k (24.2%) | ⬜⬜⬜⬜⬛⬛⬛⬛⬛⬛ 41/4/55 | 10 (0.3%) | — |  |
 | d3 | 101 k (6.1%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/5/50 | 104 (2.9%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/29/36 |  |
 
-*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.6 M games. Masters: 3.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pp1ppppp/5n2/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **3. e5** is masters' clear main try (57.0%), kicking the knight immediately. **3. Nc3** (39.3%) develops naturally instead, often transposing toward other Sicilian structures once the knight retreats or Black plays ... d6.

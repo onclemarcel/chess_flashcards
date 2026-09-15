@@ -25,7 +25,7 @@ r2qk2r/2p1bppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1 w kq - 1 10
 | Re1 | 1.6 k (7.1%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/8/41 | 0 | — | ⚠ |
 | Bc2 | 0 | — | 81 (10.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 35/49/16 |  |
 
-*Online: bullet/blitz, 1800+ — 23 k games. Masters: 798 games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/2p1bppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_w_kq_-_1_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 23 k games. Masters: 798 games. [Open in the explorer](https://lichess.org/analysis/standard/r2qk2r/2p1bppp/p1n1b3/1p1pP3/4n3/1BP2N2/PP3PPP/RNBQ1RK1_w_kq_-_1_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 White's 10th move is a genuine choice: **10. Nbd2** (63.0% masters, heading for the *Malkin Variation* below) and **10. Re1** (only 3.5% masters, yet independently live-tagged its own named ***Main Line***) are both real.

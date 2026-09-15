@@ -28,7 +28,7 @@ rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR w KQ - 0 7
 | h4 | 300 (0.4%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/5/41 | 0 | — | ⚠ |
 | Be2 | 0 | — | 2 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 77 k games. Masters: 515 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 77 k games. Masters: 515 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/p1p1ppbp/1p1p1np1/8/2PPP3/2N1BP2/PP4PP/R2QKBNR_w_KQ_-_0_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged with the same "double Fianchetto Variation" name `eco.md` uses. **7. Bd3** is masters' actual clear main try (63.3%) — a genuine online/masters gap, since **7. Qd2** is instead the more common choice online (56.4% online vs only 25.8% masters). Neither is built further here.

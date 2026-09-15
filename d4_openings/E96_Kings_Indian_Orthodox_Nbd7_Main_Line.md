@@ -26,7 +26,7 @@ r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1 w - a6 0 10
 | Be3 | 230 (7.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/4/47 | 10 (2.8%) | — |  |
 | dxe5 | 0 | — | 85 (24.0%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 42/44/14 |  |
 
-*Online: bullet/blitz, 1800+ — 3.2 k games. Masters: 354 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1_w_-_a6_0_10#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.2 k games. Masters: 354 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bq1rk1/1p1n1pbp/2pp1np1/p3p3/2PPP3/2N2N2/PP3PPP/R1BQRBK1_w_-_a6_0_10#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 White's own reply, **10. Rb1**, is a clear masters' majority (54.2%) — a prophylactic rook lift preparing b4 without walking into ... a4 tricks, well ahead of the immediate central resolution **10. dxe5** (24.0%). This is also the deepest and rarest node found anywhere in the `7... Nbd7` spine (only 354 masters games in total), one order of magnitude thinner than the sibling Aronin-Taimanov/Mar del Plata spine covered from E97 onward. No further code exists in this range; not built further here.

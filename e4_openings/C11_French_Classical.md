@@ -25,7 +25,7 @@ rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4
 | exd5 | 642 k (6.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 49/6/46 | 430 (1.4%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 26/45/29 |  |
 | Bd3 | 331 k (3.5%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 51/5/44 | 169 (0.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/34/28 |  |
 
-*Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 9.3 M games. Masters: 31 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_2_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 A genuine near-even fork: **4. e5** (52.3% masters, the *Steinitz Variation* — see below) is masters' slight preference over **4. Bg5** (45.7%, heading for [MacCutcheon](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C12_French_MacCutcheon.md)/[Classical](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C13_French_Classical.md) proper, both already live-tagged their own codes).
@@ -66,7 +66,7 @@ rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq - 1 5
 | Bd3 | 144 k (3.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 45/3/52 | 0 | — | ⚠ |
 | Qg4 | 0 | — | 25 (0.2%) | ⬜⬜⬜⬜🟫🟫⬛⬛⬛⬛ 40/24/36 |  |
 
-*Online: bullet/blitz, 1800+ — 4.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 4.8 M games. Masters: 16 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/pppn1ppp/4p3/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR_w_KQkq_-_1_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **5. f4** is close to automatic (90.1% of masters games), reinforcing e5 before Black can undermine it. **5. Qg4**, the *Gledhill Attack*, is a real minority (0.2% masters) — Stockfish actually rates it slightly better for Black (−0.5), an aggressive try that isn't objectively rewarded.

@@ -60,7 +60,7 @@ rnbqk2r/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR b KQkq - 2 7
 | O-O | 253 k (36.0%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 1.5 k (21.2%) | ⬜⬜⬜🟫🟫🟫🟫🟫⬛⬛ 33/46/21 |  |
 | Nc6 | 1.2 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/4/44 | 30 (0.4%) | ⬜⬜⬜🟫🟫🟫⬛⬛⬛⬛ 27/30/43 |  |
 
-*Online: bullet/blitz, 1800+ — 704 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR_b_KQkq_-_2_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 704 k games. Masters: 7.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR_b_KQkq_-_2_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **A genuine, well-verified finding worth flagging plainly**: masters' actual most popular reply here, **7... c5** (77.7%!), delays castling entirely — a different move order from every one of `eco.md`'s own D86-D89 lines below, all of which castle first (7... O-O). Verified via `apply_san.py`: playing 8. Ne2 O-O 9. O-O from this immediate-c5 order reaches the exact same FEN (piece placement, side to move, and castling rights all identical — differing only in the en-passant flag and halfmove clock, the same harmless kind of drift already documented at D70's own transposition note) as [D87's own root position](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D87_Grunfeld_Exchange_Spassky_Variation.md#_initial_move_) reached via `eco.md`'s coded order. So masters' real preference isn't a rival, uncoded system at all — it's simply reaching D87's own tabiya by a different, and actually more popular, move order. **7... O-O** (21.2% masters) is `eco.md`'s own listed order and this card's own followed line, since it's the one that keeps the Larsen/Simagin sub-lines (all D86's own further entries) reachable before Black commits to ... c5.
@@ -96,7 +96,7 @@ rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR w KQ - 3 8
 | Nf3 | 15 k (5.9%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 42/6/51 | 0 | — | ⚠ |
 | Ba3 | 0 | — | 3 (0.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 253 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR_w_KQ_-_3_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 253 k games. Masters: 1.5 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P4PPP/R1BQK1NR_w_KQ_-_3_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **8. Ne2** is masters' overwhelming main try (92.4%) — developing the knight off d-file crossfire and keeping f2-f4 ideas open, well ahead of the uncoded secondary **8. Be3** (7.0%).
@@ -132,7 +132,7 @@ rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R b KQ - 4 8
 | c6 | 2.6 k (1.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 53/5/42 | 0 | — | ⚠ |
 | Qd7 | 0 | — | 85 (6.1%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 46/32/22 |  |
 
-*Online: bullet/blitz, 1800+ — 202 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R_b_KQ_-_4_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 202 k games. Masters: 1.4 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbq1rk1/ppp1ppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R_b_KQ_-_4_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 This is the real D86/D87 fork: **8... c5** is masters' clear main try (57.9%) and heads into the Spassky Variation, its own code, [D87](https://github.com/onclemarcel/chess_flashcards/blob/main/d4_openings/D87_Grunfeld_Exchange_Spassky_Variation.md). The three remaining tries all stay coded D86 itself: **8... Nc6** (26.6%, the *Simagin's Improved Variation*), **8... b6** (8.9%, the *Simagin's Lesser Variation*), and **8... Qd7** (6.1%, heading into the *Larsen Variation*).
@@ -213,7 +213,7 @@ rnb2rk1/pppqppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R w KQ - 5 9
 | Be3 | 147 (17.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/6/47 | 4 (4.7%) | — | ⚠ |
 | h4 | 35 (4.2%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 54/9/37 | 6 (7.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 829 games. Masters: 85 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/pppqppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R_w_KQ_-_5_9#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 829 games. Masters: 85 games. [Open in the explorer](https://lichess.org/analysis/standard/rnb2rk1/pppqppbp/6p1/8/2BPP3/2P5/P3NPPP/R1BQK2R_w_KQ_-_5_9#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Live-tagged **Grünfeld Defense: Exchange Variation, Larsen Variation** already at this exact node, confirming the name. **9. O-O** is masters' clear main try (84.7%).

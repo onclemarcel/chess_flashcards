@@ -47,7 +47,7 @@ r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R w KQkq - 4 7
 | Bg3 | 8.3 k (1.9%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/6/44 | 0 | — | ⚠ |
 | Ne5 | 0 | — | 11 (0.4%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 446 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_4_7#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 446 k games. Masters: 3.1 k games. [Open in the explorer](https://lichess.org/analysis/standard/r2qkb1r/pp2pppp/2n2n2/3p1b2/3P1B2/2N2N2/PP2PPPP/R2QKB1R_w_KQkq_-_4_7#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **7. e3** (89.2%), preparing Bd3/Qb3 or a quick Rc1 without further delay.

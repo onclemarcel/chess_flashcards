@@ -56,7 +56,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3
 | Be2 | 365 k (0.3%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 47/5/48 | 278 (0.1%) | ⬜⬜⬜🟫🟫🟫🟫⬛⬛⬛ 31/39/30 |  |
 | g3 | 216 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/5/49 | 331 (0.1%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/39/23 |  |
 
-*Online: bullet/blitz, 1800+ — 121.5 M games. Masters: 249 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 121.5 M games. Masters: 249 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R_w_KQkq_-_2_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -106,7 +106,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R b KQkq - 0 3
 | d6 | 446 k (11.6%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 52/4/43 | 62 (3.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 39/42/19 |  |
 | f5 | 0 | — | 57 (3.6%) | ⬜⬜⬜⬜⬜🟫🟫⬛⬛⬛ 49/19/32 |  |
 
-*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.8 M games. Masters: 1.6 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_b_KQkq_-_0_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 > [!NOTE]
@@ -146,7 +146,7 @@ r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R w KQkq - 1 4
 | d3 | 319 k (18.8%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 158 (17.4%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 38/35/27 |  |
 | Qc2 | 122 k (7.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 46/4/50 | 6 (0.7%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 909 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 909 games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/2P2N2/PP1P1PPP/RNBQKB1R_w_KQkq_-_1_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **4. d4** is masters' clear main try (81.1%) — the whole point of 3. c3, claiming the centre now that it's supported. Black typically continues **4... Nxe4**, grabbing the pawn back before White can consolidate; deeper theory past this point is its own body of work, not covered further here. One named deeper line: **4... Nxe4 5. d5 Bc5**, the *Fraser Defence* — the extra tempo White spent on d5 is roughly balanced by Black's active bishop (−0.4).
@@ -255,7 +255,7 @@ r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3
 | d5 | 0 | — | 6 (0.0%) | — |  |
 | Qf6 | 0 | — | 2 (0.0%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 26.0 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 26.0 M games. Masters: 22 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R_b_KQkq_d3_0_3#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -295,7 +295,7 @@ r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 4
 | Bb5 | 134 k (0.5%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 51/4/45 | 33 (0.1%) | ⬜⬜🟫🟫🟫🟫🟫⬛⬛⬛ 24/45/30 |  |
 | Bd3 | 59 k (0.2%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 52/3/45 | 0 | — | ⚠ |
 
-*Online: bullet/blitz, 1800+ — 24.5 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 24.5 M games. Masters: 23 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/3pP3/5N2/PPP2PPP/RNBQKB1R_w_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 * [**4. Nxd4**](https://github.com/onclemarcel/chess_flashcards/blob/main/e4_openings/C45_Scotch_Main_Line.md) (0.0): the principled recapture, centralising the knight — masters' clear main line (84.1%), and its own card since it's already live-tagged **C45 · Scotch Game**, not C44.
@@ -379,7 +379,7 @@ r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R b KQkq - 1 4
 | Be7 | 583 k (7.7%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 44 (1.5%) | ⬜⬜⬜⬜⬜🟫🟫🟫⬛⬛ 52/32/16 |  |
 | Bb4+ | 506 k (6.7%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 53/3/44 | 130 (4.6%) | ⬜🟫🟫🟫🟫🟫🟫🟫🟫⬛ 7/78/15 |  |
 
-*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 7.5 M games. Masters: 2.8 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pppp1ppp/2n5/8/2BpP3/5N2/PPP2PPP/RNBQK2R_b_KQkq_-_1_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **4... Nf6** (67.5%), attacking e4 in return rather than accepting a second pawn — after **5. e5 d5** the gambit pawn usually comes back with interest for White's development. **4... Bc5** (22.7%) instead heads straight for Italian Game/Giuoco Piano-style structures a tempo down for Black. Either way, White develops actively and often follows up with **5. O-O** or **5. e5**, betting on faster piece activity to compensate for the pawn — very similar in spirit to the Danish Gambit reached from the Center Game.

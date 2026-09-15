@@ -46,7 +46,7 @@ rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R w KQkq - 4 5
 | Bd2 | 245 k (6.3%) | ⬜⬜⬜⬜⬜🟫⬛⬛⬛⬛ 50/5/44 | 0 | — | ⚠ |
 | Qa4+ | 0 | — | 3.5 k (19.4%) | ⬜⬜🟫🟫🟫🟫🟫🟫⬛⬛ 25/56/19 |  |
 
-*Online: bullet/blitz, 1800+ — 3.9 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_4_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 3.9 M games. Masters: 18 k games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqk2r/ppp2ppp/4pn2/3p4/1bPP4/2N2N2/PP2PPPP/R1BQKB1R_w_KQkq_-_4_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' clear main try is **5. Bg5** (37.0%), pinning right back rather than resolving the central tension first.

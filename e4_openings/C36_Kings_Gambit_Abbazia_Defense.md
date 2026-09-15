@@ -50,7 +50,7 @@ Still tagged the *Modern Defense* at this depth, one ply before `eco.md`'s own f
 | Bd6 | 121 k (6.9%) | ⬜⬜⬜⬜⬜⬛⬛⬛⬛⬛ 48/4/48 | 40 (5.5%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 42/28/30 |  |
 | c6 | 0 | — | 16 (2.2%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 731 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 1.7 M games. Masters: 731 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkbnr/ppp2ppp/8/3P4/5p2/5N2/PPPP2PP/RNBQKB1R_b_KQkq_-_0_4#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Masters' overwhelming main try is **4... Nf6** (87.4%, the *Modern Variation* per `eco.md`'s own name).
@@ -102,7 +102,7 @@ Live-tagged the *Abbazia Defense, Main Line* — `eco.md`'s own "Botvinnik Varia
 | d4 | 64 (15.8%) | ⬜⬜⬜⬜🟫⬛⬛⬛⬛⬛ 44/6/50 | 2 (18.2%) | — |  |
 | Nc3 | 59 (14.6%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 61/3/36 | 1 (9.1%) | — |  |
 
-*Online: bullet/blitz, 1800+ — 405 games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p4ppp/2p5/3n4/2B2p2/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_2_8#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 405 games. Masters: 11 games. [Open in the explorer](https://lichess.org/analysis/standard/rnbqkb1r/p4ppp/2p5/3n4/2B2p2/5N2/PPPP2PP/RNBQK2R_w_KQkq_-_2_8#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 Not built out further here. This closes out the whole C36 range.

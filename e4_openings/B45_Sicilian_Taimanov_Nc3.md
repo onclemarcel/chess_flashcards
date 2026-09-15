@@ -51,7 +51,7 @@ r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R b KQkq - 2 5
 | Nxd4 | 299 k (4.5%) | ⬜⬜⬜⬜⬜⬜⬛⬛⬛⬛ 55/4/41 | 0 | — | ⚠ |
 | d6 | 0 | — | 3.1 k (8.8%) | ⬜⬜⬜⬜🟫🟫🟫⬛⬛⬛ 36/35/28 |  |
 
-*Online: bullet/blitz, 1800+ — 6.6 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 6.6 M games. Masters: 35 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkbnr/pp1p1ppp/2n1p3/8/3NP3/2N5/PPP2PPP/R1BQKB1R_b_KQkq_-_2_5#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 ### Candidate moves
@@ -90,7 +90,7 @@ r1bqkb1r/pp1p1ppp/2n1pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 3 6
 | a3 | 0 | — | 797 (6.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 43/38/19 |  |
 | Be2 | 0 | — | 567 (4.9%) | ⬜⬜⬜⬜🟫🟫🟫🟫⬛⬛ 38/40/23 |  |
 
-*Online: bullet/blitz, 1800+ — 4.3 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n1pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-09*
+*Online: bullet/blitz, 1800+ — 4.3 M games. Masters: 12 k games. [Open in the explorer](https://lichess.org/analysis/standard/r1bqkb1r/pp1p1ppp/2n1pn2/8/3NP3/2N5/PPP2PPP/R1BQKB1R_w_KQkq_-_3_6#explorer) — updated 2026-09-14*
 <!-- lichess-stats:end -->
 
 **6. Ndb5 Bb4 7. Nd6+** — the *American Attack* — is a sharp, forcing try: the knight jumps to d6 with check, and **7... Ke7** is forced (the checking knight is untouchable — nothing can capture or block it). Traced move-by-move rather than assumed: this doesn't objectively win material (Stockfish has the position dead level, 0.00, after the forced king move), but it drags Black's king to an awkward square and forces very concrete, well-memorized play rather than natural development.
